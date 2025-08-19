@@ -1,0 +1,1796 @@
+sample_id,Instances,Company,Quarter,Year,filename,type,LLM_Stance_o3_pro,LLM_Reason_o3_pro
+61ab26adf18d156cecd34e3ec48ba069,Foreign currency exchange rates and fluctuations in those rates may affect the Company s ability to realize projected growth rates in its salesand earnings.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   1. The sentence identifies a potential risk—foreign-exchange fluctuations.  
+   2. It states these fluctuations “may affect the Company’s ability to realize projected growth rates in its sales.”  
+   3. An impediment to achieving projected growth implies a threat to sales performance and hence profitability.  
+   4. No positive or neutral balancing statement is included.  
+   5. According to Guideline 4 (changes or risks affecting sales outlook) and Guideline 5 (dominant context = risk), this is a Negative stance.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that exchange-rate volatility could hinder the company’s ability to achieve its projected sales growth, signaling an unfavorable impact on sales.
+
+Context Usefulness: Not necessary—the negative implication is clear from the sentence alone."
+1c76e8c88c33829af1c97e3cce7e84e7,"Because the Company s financial statements are denominated in U.S. dollars and approximately 60 percent of the Company s revenues arederived from outside the United States, the Company s results of operations and its ability to realize projected growth rates in sales and earningscould be adversely affected if the U.S. dollar strengthens significantly against foreign currencies.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “projected growth rates in sales.”  
+   • It states these growth rates “could be adversely affected” if the U.S. dollar strengthens, i.e., a potential negative impact.  
+   • According to Guideline 4 (projections and forward guidance) and Guideline 5 (dominant context), a statement that sales growth may be hurt constitutes a Negative stance.  
+   • The broader 10-K context is not required to interpret this specific risk statement.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence warns that a stronger U.S. dollar “could adversely affect” the company’s ability to achieve projected sales growth, indicating a negative outlook for sales.  
+   Context usage: Not necessary."
+2c1b8b7a2045db123e4389e7bd1f4963,"The Company s growth objectives are largely dependent on the timing and market acceptance of its new product offerings, including its abilityto continually renew its pipeline of new products and to bring those products to market.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence concerns “growth objectives,” which are generally tied to future sales.  
+   • It says those objectives “are largely dependent on” successful new-product timing and market acceptance.  
+   • This is a conditional statement describing what must occur for growth; it does not claim that sales are currently rising (Positive) or falling/at risk due to a specific problem (Negative).  
+   • It therefore provides no clear favorable or unfavorable stance—only a dependency—so under guideline 6 it is Neutral.  
+   • The broader 10-K context is not needed to interpret this single, self-contained statement.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence merely states that sales growth will depend on successful new-product launches, without indicating current success or failure, so it conveys no positive or negative outlook on sales.  
+
+Context use: Not necessary."
+1423b0209a77769d4821532fde5a198a,3M s total sales increased 0.1% for the full year 2020 when compared to 2019.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses a year-over-year change in sales (“increased 0.1%”).  
+   • Guideline #4 says that upward movements in sales are favorable for profitability.  
+   • No conflicting cues are present, so the dominant signal is the slight growth.  
+   • Therefore, the stance toward sales is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that total sales “increased 0.1%” year-over-year, indicating a positive (albeit modest) improvement in sales.  
+
+Context use: Not necessary—the sentence alone provides sufficient information to classify the stance."
+2ca8086ffb266f82f755085de09ac1c3,"3Mexperienced strong sales growth in personal safety, as well as in other areas such as home improvement, general cleaning, semiconductor, datacenter, and biopharma filtration.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “strong sales growth,” a clear positive change over time (Guideline 4: changes over time).  
+   • Growth is listed across multiple product categories, implying broad‐based momentum that should support profitability (Guideline 2: indirect cues that link to sales).  
+   • No conflicting or mitigating language appears, so the dominant signal is favorable (Guideline 5).  
+   • The context section is not required to understand this statement, as the sentence itself conveys sufficient information.
+
+   Context helpful/necessary? Not necessary.
+
+2. Stance: Positive
+
+3. Brief Justification: The phrase “experienced strong sales growth” directly signals an increase in sales across several business areas, indicating a favorable impact on profitability."
+2f1d69c791a3b14bdd2b22a457edef3c,"COVID-related respirator sales are estimated to have impacted year-on-year organic local-currency sales growthby approximately 3 percent for the year ending December 31, 2020.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses a specific driver (“COVID-related respirator sales”) and its effect on “year-on-year organic local-currency sales growth.”  
+   • “Impacted … by approximately 3 percent” could in isolation be ambiguous, but the MD&A context (Overview paragraph: “COVID-related respirator revenue added roughly 3 percentage points to organic growth”) clarifies that the direction of the impact is upward.  
+   • An additional 3 pp to organic growth is a favourable outcome for sales and, by extension, profitability.  
+   • Therefore, the stance toward sales is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification  
+Respirator demand added about three percentage points to organic sales growth, signalling a favourable boost to sales. Context helpful/necessary: Helpful (needed to confirm that the impact was an increase)."
+fc573b48f56c082b316eb7c5ff051278,"In 2019, charges included $282 million as the Company committed to actions in light of slowerthan expected 2019 sales and associated with realigning its organizational structure and operating model.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “slower than expected 2019 sales,” indicating that the company’s sales performance lagged expectations (Guideline 4: changes over time / unfavorable trend).  
+   • Taking a $282 million charge because of this shortfall further signals a negative financial consequence linked to sales (Guideline 1 & 2: direct link to sales and profitability).  
+   • No offsetting positive language is provided, so the dominant context is unfavorable.  
+   • The surrounding 10-K context is not required; the sentence alone conveys the stance.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that sales were “slower than expected,” leading the company to record a $282 million charge, indicating an unfavorable impact on profitability. (Context not necessary)"
+345677be268b23ee74234817f3dba879,"Year 2019 EPS: Organic growth/productivity and other: Negative organic local-currency sales growth as a result of softness in certain end markets and channel inventory adjustments, along withactions taken by 3M in response to lower sales volumes and high inventory levels, which resulted in lower manufacturing and inventoryabsorption, reduced earnings per diluted share.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “Negative organic local-currency sales growth” and “lower sales volumes,” both clear indicators of declining sales (Guideline 1 & 2).  
+   • It connects these declines to “reduced earnings per diluted share,” showing an adverse impact on profitability (Guideline 4).  
+   • No offsetting or mixed cues are provided; the dominant message is that weaker sales hurt EPS (Guideline 5).  
+   • Therefore the stance toward sales is negative.  
+   • The broader 10-K context was not needed to interpret this specific sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports negative organic sales growth and lower sales volumes that reduced EPS, signalling an unfavorable impact on profitability."
+0931cdfde10c65c057c57fe804fb8466,"Non divestiture-related restructuring actions: During the second quarter of 2019, in light of slower than expected 2019 sales, and additionally in the fourth quarter to realign 3M sorganizational structure and operating model, management approved and committed to undertake certain restructuring actions.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “slower than expected 2019 sales,” signaling sales underperformance versus expectations.  
+   • Under-performance of sales is an unfavorable condition for profitability per Guideline 1 and 4 (changes over time and negative trends).  
+   • The decision to launch restructuring actions because of this slowdown reinforces that the sales situation is viewed as a headwind.  
+   • No offsetting positive cues are present. The dominant context is negative.  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence notes “slower than expected 2019 sales,” indicating sales weakness that prompted restructuring, which is unfavorable for profitability.  
+
+Context necessity: Not necessary—the sentence alone provides the negative signal."
+35fdada3652b17de3ae7780276e07317,Total sales inMexico decreased 14 percent while organic local-currency sales decreased 12 percent.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 2: The sentence explicitly discusses “Total sales” and “organic local-currency sales,” so it directly targets sales.  
+   • Guideline 4: It provides concrete year-over-year change figures (-14 % and -12 %).  
+   • A decline in sales is an unfavorable indicator for profitability (Guideline 1).  
+   • No conflicting cues are present, so the dominant (and only) context is negative.  
+   • The “Performance by Geographic Area” table in the 10-K shows the same Mexico decline, but the sentence alone is sufficient to draw the conclusion.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+Sales in Mexico fell sharply (total sales –14 %, organic sales –12 %), signaling a detrimental impact on profitability.  
+
+Context helpful/necessary: Not necessary—classification can be made from the sentence itself."
+4d5ea0f6311707b28c00d4212e837e5b,"In Canada, total sales decreased 1 percent asorganic local-currency sales decreases of 4 percent were partially offset by acquisition-related sales growth.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   1. The sentence explicitly reports that “total sales decreased 1 percent” in Canada.  
+   2. It further notes a larger 4 % decline in organic local-currency sales, with only partial offset from acquisitions.  
+   3. A decrease in sales directly signals an unfavorable impact on revenue and thus on profitability (Guideline 4: changes over time → decline).  
+   4. No conflicting positive cues outweigh the decline; therefore the dominant context is negative.  
+   5. The broader 10-K context is not required to interpret this specific sentence, because the sentence itself contains the needed sales information.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that Canadian total sales fell 1 % (organic –4 %), indicating a decline in revenue that is adverse for profitability.  
+
+Context usefulness: Not necessary."
+073a161f11382d81316a85e1acce9158,"In Brazil, total salesdecreased 17 percent while organic local-currency sales increased 7 percent, as organic sales growth was more than offset by foreigncurrency translation impacts.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly quantifies sales performance in Brazil.  
+   • It reports a 17 % decrease in total (reported) sales – a clear negative indicator for revenue and thus profitability (Guideline 4: changes over time).  
+   • Although it also notes a 7 % rise in organic local-currency sales, the sentence states that this growth “was more than offset” by FX effects, leading to the net decline.  
+   • Conflicting cues exist (organic up vs. total down); per Guideline 5, the dominant outcome is the 17 % fall in reported sales, which is unfavorable.  
+   • Therefore, the stance toward sales is Negative.  
+   • The broader 10-K context reiterates the same figures but is not required to interpret the sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that foreign-currency translation more than outweighed growth, resulting in a 17 % drop in total sales, signaling an unfavorable sales outcome.  
+
+Context use: Not necessary – the sentence alone provides sufficient information."
+dbe715b7c5758ed0c5a6cde37913bcda,"Foreign currency translation decreased year-on-year sales by 0.3 percent, while selling prices increased by 0.6 percent year-on-year for 2020, withprice growth in EMEA and Americas, while Asia Pacific decreased.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence gives two explicit sales drivers: FX translation (–0.3 %) and selling-price increases (+0.6 %).  
+   • These factors work in opposite directions; we compare magnitudes (Guideline 5).  
+   • The positive impact (+0.6 %) is greater than the negative (–0.3 %), implying a net year-on-year boost to sales.  
+   • Price‐led sales growth generally supports profitability, so the dominant signal is favorable (Guideline 4).  
+   • Therefore the stance toward sales is Positive.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+Selling-price increases of 0.6 % more than offset the 0.3 % FX drag, indicating a net sales increase and thus a favorable impact on profitability.  
+
+Context use: Not necessary – the sentence alone provides sufficient information for classification."
+543c110ffc4af1a3a89cb7c3e874ad4c,"In the Americas geographic area, U.S. total sales increased 2 percent and organic-local currency decreased 1 percent.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • Target is “sales,” so look for direction of sales movement (Guideline 4).  
+   • Sentence reports two measurements:  
+     – Total sales increased 2 % (positive cue).  
+     – Organic-local-currency sales decreased 1 % (negative cue).  
+   • Cues conflict; no clear dominant tilt toward benefit or harm to profitability (Guideline 5).  
+   • Therefore treat as balanced → Neutral.  
+   • Context from Item 7 was not required to interpret this single sentence.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence simultaneously notes a 2 % rise in total sales (positive) and a 1 % decline in organic sales (negative), giving a mixed signal that is neither clearly favorable nor unfavorable.  
+
+Context usage: Not necessary."
+27e3f85d4383a34aad9b1285523337a4,"Total salesremained flat in Mexico, as organic local-currency sales increases of 1 percent were partially offset by lost sales from divestedbusinesses and foreign currency translation impacts.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that “Total sales remained flat in Mexico.”  
+   • While it notes a modest 1 % organic increase, this was “partially offset by lost sales … and foreign currency translation,” leading to zero net growth.  
+   • According to the guidelines, growth would be Positive and decline Negative, but stability (no meaningful change) is Neutral.  
+   • Therefore the dominant signal is neither improvement nor deterioration, but flat performance.  
+   • The wider 10-K context is not needed to interpret this sentence; the sales outcome is fully described within the sentence itself.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence indicates that overall sales were flat—with organic growth fully offset by divestiture and FX effects—so it neither improves nor hurts profitability.  
+
+Context use: Not necessary."
+3af7d738787321f22e860e6c91c962c3,"In Canada, total sales and organic local currency increased 3 percent.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “total sales” and “organic local currency” sales—direct sales metrics (Guideline 2).  
+   • The verb “increased” denotes growth, and the quantitative detail “3 percent” confirms a positive change over time (Guideline 4: changes over time).  
+   • No contrasting or mitigating language is present, so the dominant signal is favorable (Guideline 5).  
+   • Therefore, the stance toward sales is Positive.  
+   • Context from the broader 10-K is not required to interpret this sentence; the increase is self-contained and clear.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that total and organic sales in Canada “increased 3 percent,” indicating growth and thus a favorable sales outlook."
+917cc9f5e4418cba8da79a795ad63ad1,"In Brazil, totalsales decreased 4 percent, as organic local-currency sales growth of 3 percent was more than offset by foreign currency translationimpacts.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly quantifies sales performance: “total sales decreased 4 percent.”  
+   • A decrease in total sales is an unfavorable outcome for profitability (Guideline 4: changes over time).  
+   • Although it notes a 3 % organic local-currency increase, the dominant effect is the larger decline after FX, so the overall stance is negative (Guideline 5: if cues conflict, judge dominant context).  
+   • No additional information from the broader 10-K context is required to interpret this sentence.
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence states that total sales in Brazil fell 4 %, indicating a decline in sales despite organic growth, which is unfavorable for profitability.  
+
+Context usage: Not necessary."
+7646507c369b8492319b4a3b21fab64c,"In the Asia Pacific geographic area, China total sales decreased 7 percent and organic local-currency sales decreased 4 percent.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly quantifies a decline in sales: “total sales decreased 7 percent” and “organic local-currency sales decreased 4 percent.”  
+   • According to the guidelines, any noted drop in sales constitutes an unfavorable situation for profitability.  
+   • No offsetting positive or neutral language is present, so the dominant signal is negative.  
+   • The broader MD&A context is not required to interpret this direct statement of declining sales.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that China’s total sales fell 7 % and organic sales fell 4 %, clearly indicating a sales decline that is negative for profitability; context not necessary."
+9f32a2f908343feb71f846ba170f7f6b,"In Japan,total sales decreased 2 percent and organic local currency sales decreased 3 percent.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses sales performance (“total sales decreased 2 percent and organic local currency sales decreased 3 percent”).  
+   • A decrease in sales directly signals an unfavorable trend for profitability (Guideline 4: changes over time – decline).  
+   • No mitigating or offsetting positive information is provided in the sentence.  
+   • Therefore, the dominant stance toward sales is negative.  
+   • The broader 10-K context was not required to interpret this sentence because the decline is clearly stated.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that both total and organic sales in Japan fell (–2 % and –3 %), indicating a negative outlook for sales.  
+
+Context use: Not necessary."
+eb61ee28183f2ade350470c93d8b753d,"Foreign currency translation decreased year-on-year sales by 1.7 percent, while selling prices increased by 0.6 percent year-on-year for 2019, withprice growth in EMEA and Americas, while Asia Pacific was flat.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence quantifies two opposing impacts on sales:  
+     – Foreign-currency translation cut sales by 1.7 % year-on-year → negative signal for sales.  
+     – Selling-price increases added 0.6 % → positive signal, but smaller in magnitude.  
+   • Net effect is still a decline (−1.7 % + 0.6 % = −1.1 %), so the dominant message is that sales were lower.  
+   • Per Guideline 5 (if cues conflict, judge the dominant context), the larger negative impact governs the stance.  
+   • The broader 10-K context merely repeats these figures; the sentence itself contains all needed information, so context is not necessary.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that foreign-currency translation reduced sales by 1.7 %, only partly offset by a 0.6 % price increase, implying an overall decline in sales. (Context not necessary)"
+9cc919232c8ceeb283a38757f1662d4e,"In 2019, charges included actions in light of slower than expected 2019 sales and associated withrealigning its organizational structure and operating model.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “slower than expected 2019 sales,” signalling that sales under-performed expectations (Guideline 4: changes over time / comparisons).  
+   • Under-performance of sales is unfavorable for profitability because it implies lower revenue and triggered restructuring charges (Guideline 1 & 2: unfavorable outlook).  
+   • No offsetting positive cues are provided; the dominant context is negative.  
+   • The 10-K context was not needed to understand this negative cue; the sentence alone is sufficient.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that sales were “slower than expected,” a direct indication of weaker sales performance that negatively affects profitability."
+13fdef7c7830210b3b812869ecef8461,"Cost of sales, measured as a percent of sales, decreased during 2020 when compared to 2019.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence compares 2020 with 2019 and states that “Cost of sales … as a percent of sales, decreased.”  
+   • A lower cost-of-sales ratio means the company keeps a higher gross margin on each dollar of sales, directly improving profitability.  
+   • This is a favorable development linked to sales performance (Guideline 4: “financial indicators or trends”).  
+   • No conflicting cues are present, so the dominant signal is positive.  
+   • The broader 10-K context confirms margin expansion but is not needed to understand the sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The decline in cost of sales as a percentage of sales indicates higher gross margins, a positive sign for profitability tied to sales.  
+
+Context use: Not necessary (the sentence alone provides sufficient information)."
+7b6f9ad88d77bb7d598dfd9e4bfc1b07,"In addition, selling prices increased year-on-year by 0.6 percent for full year 2020, and lower raw material costs reduced cost of sales as apercentage of sales.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence states that “selling prices increased year-on-year by 0.6 percent,” which means the company is able to charge more for its products.  
+   • A higher selling price per unit directly raises sales revenue if volumes are unchanged, signaling a favorable development for sales.  
+   • The additional note that “lower raw material costs reduced cost of sales as a percentage of sales” further supports profitability, reinforcing the positive tone.  
+   • No wording indicates any downturn or risk to sales; therefore, the dominant cue is favorable.  
+   • Context confirms this (“price increases (+0.6 %) … supported margins”), but the sentence alone is sufficient; context is helpful but not strictly necessary.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports a 0.6 % year-over-year increase in selling prices, indicating higher revenue per unit and a positive outlook for sales."
+cf97462c2b49738fe87553cc29d4958b,"In terms of SG&A as a percent of sales, partially offsettingthese decreases was the overall effect of the COVID-19 pandemic on sales that resulted in higher costs as a percent of sales.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly links COVID-19’s impact on sales to “higher costs as a percent of sales.”  
+   • Higher SG&A relative to sales means margins are pressured and profitability worsens (Guideline 4: look for margin/ratio changes).  
+   • The wording “partially offsetting these decreases” indicates this is an unfavorable counter-effect.  
+   • No conflicting cues appear; thus the dominant signal is negative for sales-related profitability.  
+   • The surrounding 10-K context is not required to interpret this specific statement.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence says the pandemic’s effect on sales drove “higher costs as a percent of sales,” signalling a detrimental impact on margins and profitability.  
+
+Context use: Not necessary."
+59168e1177817b587afd01ec6d914515,as the Company committed to actions in light of slower than expected 2019 salesand associated with realigning its organizational structure and operating model.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The phrase “slower than expected 2019 sales” explicitly signals that sales performance lagged expectations, indicating an unfavorable situation.  
+   • According to Guideline 4, a decline or shortfall versus expectations is a negative cue for sales profitability.  
+   • No offsetting positive cues are present; the sentence only explains that the company is reacting to this weakness by realigning its structure.  
+   • Therefore, the dominant stance toward sales is negative.  
+   • The broader 10-K context was not required—the sentence itself provides the needed information.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence reports “slower than expected 2019 sales,” a clear indication of weaker-than-anticipated sales performance, which is negative for profitability.  
+
+Context usage: Not necessary."
+3de8690068f008b22311295f962aa920,"Organic volume/productivity and other: Negative organic local sales volume growth as a result of softness in certain end markets and channel inventory adjustments, along withactions taken by 3M in response to lower sales volumes and high inventory levels, which resulted in lower manufacturing and inventoryabsorption, reduced operating margins.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “Negative organic local sales volume growth,” which is a direct decline in sales (Guideline 1, 2).  
+   • It links this lower sales volume to “reduced operating margins,” showing a harmful impact on profitability (Guideline 4).  
+   • No offsetting positive cues appear; the overall message is unfavorable (Guideline 5).  
+   • Therefore, the stance toward sales is clearly negative.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports “negative organic local sales volume growth” that led to lower manufacturing absorption and reduced operating margins, indicating an adverse impact on sales and profitability.
+
+Context necessity: Not necessary—the sentence alone provides sufficient evidence."
+0e84db2f3d6a278f2c6b7c3856ff39a8,"On an organic local-currency sales basis: Sales increased in personal safety and roofing granules, while industrial adhesives and tapes, electrical markets, closure and maskingsystems, automotive aftermarket, and abrasives sales declined year-on-year.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “sales,” satisfying focus requirement (Guideline 1).  
+   • Two product areas (“personal safety,” “roofing granules”) show “sales increased.”  
+   • Five product areas (“industrial adhesives and tapes,” “electrical markets,” “closure and masking systems,” “automotive aftermarket,” “abrasives”) show “sales declined year-on-year.”  
+   • With more categories declining than increasing, the dominant signal is unfavorable (Guideline 5: weigh conflicting cues).  
+   • Therefore, overall stance toward sales is Negative.
+
+2. Stance: Negative
+
+3. Brief Justification: Although sales rose in personal safety and roofing granules, sales fell year-on-year in five other product categories, indicating a predominantly negative sales trend.  
+
+Context usage: Not necessary—the sentence alone provides sufficient information for classification."
+b092b99212dcbcfc158e333be2b530b0,"Organic local-currency salesdecreased 3.4 percent, divestitures decreased sales by 1.7 percent, and foreign currency translation decreased sales by 2.1 percent.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 4 says to watch for “changes over time (growth, decline).”  
+   • The sentence explicitly states three separate declines: organic sales –3.4 %, divestitures –1.7 %, FX –2.1 %.  
+   • All references point to lower sales, which adversely affects top-line revenue and therefore profitability → Negative stance.  
+   • No offsetting positive cues are present (Guideline 5).  
+   • The surrounding 10-K context simply echoes these figures; the sentence alone is sufficient, so the context is not necessary.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports multiple factors driving sales lower (organic –3.4 %, divestitures –1.7 %, FX –2.1 %), clearly signaling an unfavorable sales outcome.  
+
+Context usefulness: Not necessary."
+465a455f6ea8a804285ccce03be54e43,"On an organic local-currency sales basis: Sales increased in roofing granules and personal safety, while electrical markets, industrial adhesives and tapes, abrasives, automotiveaftermarket, and closure and masking systems declined year-on-year.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 2: The sentence explicitly discusses “organic local-currency sales,” so it directly addresses sales.  
+   • Guideline 4: It describes year-on-year changes—some categories “increased,” several others “declined.”  
+   • Guideline 5: When cues conflict, judge the dominant context. There are more (and broader) categories declining than increasing, signalling a net unfavourable picture.  
+   • Therefore, the prevailing stance toward sales is negative for profitability.
+
+2. Stance: Negative  
+
+3. Brief Justification: Although roofing granules and personal-safety sales rose, the sentence emphasizes year-on-year declines across numerous businesses (electrical markets, industrial adhesives and tapes, abrasives, automotive aftermarket, closure and masking systems), indicating an overall negative trend in sales.  
+Context necessity: Not necessary—the sentence alone provides sufficient evidence."
+5a512421d5e7ebc3ad1b0e63f53e79a6,"Business segment operating income: Operating income margins decreased 1.2 percentage points, primarily related to sales declines, particularly in Asia Pacific and the U.S, inaddition to inventory reductions and restructuring impacts.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly says “sales declines” in Asia-Pacific and the U.S.  
+   • Declining sales are unfavorable for profitability and are cited as the reason margins fell 1.2 pp.  
+   • According to Guideline 1 & 2, deteriorating sales outlook signals a Negative stance.  
+   • No conflicting cues are present.  
+   • The provided 10-K context is not needed because the sentence alone clearly states the negative impact.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence links “sales declines” to a 1.2-point drop in operating income margin, indicating an unfavorable sales situation.  
+
+Context usefulness: Not necessary"
+b32e4f0fdd14ffbcf8de3e3ede0682e9,"Organic local-currency sales decreased 7.1 percent,divestitures decreased sales by 1.1 percent, and foreign currency translation increased sales by 0.2 percent.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence quantifies sales drivers: organic sales –7.1 %, divestitures –1.1 %, FX +0.2 %.  
+   • Two sizable negative factors outweigh the small positive FX impact, resulting in a net decrease in sales.  
+   • A decline in sales is an unfavorable indicator for profitability (Guideline 4: look for changes over time).  
+   • No mitigating language or balancing positives are offered, so the dominant tone is negative.  
+   • The provided broader context was not needed to reach this conclusion.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that organic sales fell 7.1 % and divestitures cut another 1.1 %, signalling a net decline in sales and thus a negative outlook for profitability.
+
+Context use: Not necessary."
+3599b4422689211b8e2ce7d1eb15d703,"On an organic local-currency sales basis: Sales declined in transportation safety, advanced materials, commercial solutions, and automotive and aerospace.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 2 & 4: Look for explicit wording about changes in sales.  
+   • The sentence states “Sales declined …” which is a clear negative change in sales volumes.  
+   • Declines in multiple product areas typically hurt top-line revenue and hence profitability.  
+   • No offsetting positive information is provided, so the dominant cue is negative.  
+   • The filing context lists similar declines, but the sentence itself already gives the stance; thus context is not necessary for classification.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence explicitly reports that “Sales declined” across several categories, signaling an unfavorable impact on the company’s sales and profitability (context not necessary)."
+602075fa0d28f32c08f2f0e3a0255fd4,Sales increased in 3M s electronics-related businesses.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “Sales increased…,” which is a direct signal of top-line growth (Guideline 4: changes over time).  
+   • An increase in sales generally supports or improves profitability, so the sentiment toward sales is favorable (Guideline 1).  
+   • There are no offsetting negative qualifiers in the sentence itself.  
+   • Although the broader context notes an overall decline in the Transportation & Electronics segment, the sentence’s own stance is clearly positive and is the dominant cue for this classification (Guideline 5).  
+   • Context was consulted but not required to interpret the sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The phrase “Sales increased” signals growth in electronics-related sales, indicating a favorable impact on profitability. (Context not necessary)"
+f981256feaaed0e0fbf0694f007991aa,"Electronics-related growth was led by demand for semiconductor, data center, andfactory automation end-markets, and was partially offset by softness in the consumer electronics end-market.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “Electronics-related growth was led by demand for semiconductor, data center, and factory automation end-markets” – growth denotes increasing sales (Guideline 4: look for changes over time).  
+   • It adds that this growth “was partially offset by softness in the consumer electronics end-market.” The word “partially” signals that the negative impact did not fully negate the growth.  
+   • Conflicting cues (positive growth vs. softness) exist, but per Guideline 5 the dominant context (“growth was led by …”) prevails, indicating net positive sales momentum.  
+   • Therefore, outlook toward sales is Positive.  
+   • Context from the 10-K (Transportation & Electronics strength in semiconductors and data centers) aligns with the sentence but is not required to deduce the stance.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports electronics-related sales growth driven by strong semiconductor, data-center and factory-automation demand, with only partial offset from weaker consumer electronics, implying a net positive impact on sales.  
+
+Context use: Not necessary (helpful but the sentence alone suffices)."
+a8b2ba333949db2ad85e384379717486,"Year 2019 results: Sales in Transportation and Electronics totaled $9.6 billion, down 5.1 percent in U.S. dollars.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses sales (“Sales in Transportation and Electronics totaled $9.6 billion”).  
+   • It states these sales were “down 5.1 percent,” signaling a decline.  
+   • Per guideline #1 and #4, a decline in sales is an unfavorable indicator for profitability.  
+   • No offsetting positive information is provided, so the dominant context is negative.  
+   • The filing context was not needed to interpret this straightforward decline.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that Transportation and Electronics sales fell 5.1 %, indicating a decline that adversely impacts profitability. (Context not necessary)"
+7d057810751f04769b2bcfcc26d0020d,"Organic local-currency sales decreased 3.6 percent,and foreign currency translation decreased sales by 1.5 percent.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “organic local-currency sales” and “sales” overall.  
+   • Both are said to have “decreased” (–3.6 % organically; –1.5 % from FX).  
+   • Per Guideline 4 (changes over time) a decline in sales is an unfavorable indicator for profitability.  
+   • No offsetting positive cue is given, so the dominant context is clearly negative.  
+   • The 10-K context is not needed to interpret this straightforward decline.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+Sales are portrayed as falling—organic sales down 3.6 % and currency impacts reducing sales another 1.5 %—which is an unfavorable signal for profitability. (Context not necessary)"
+bdeb04c9ffbaae1cf11103b703e752c1,"On an organic local-currency sales basis: Sales increased in advanced materials and transportation safety, while commercial solutions and automotive and aerospace solutionsdeclined.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly talks about “organic local-currency sales,” so it squarely concerns sales (Guideline 2).  
+   • It reports two categories with “sales increased” (advanced materials, transportation safety) and two with “declined” (commercial solutions, automotive & aerospace) – a mix of positive and negative signals (Guideline 5).  
+   • Because gains and declines are presented without indicating which side dominates, the overall stance toward sales is balanced/unclear.  
+   • Therefore, the appropriate label is Neutral.  
+   • The broader 10-K context is not needed to judge this specific sentence.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence conveys both sales increases and declines across different business lines, giving no clear overall positive or negative direction for total sales."
+291cbabc8c6135c23f13d01c9d2268e3,"Automotive and aerospace was impacted by the decline in global car and light truck builds along with channel inventory reductionswithin its Automotive OEM business, particularly in China.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence states that “Automotive and aerospace was impacted by the decline in global car and light truck builds” and by “channel inventory reductions.”  
+   • A decline in end-market production volumes and inventory drawdowns both signal reduced demand for the company’s products in that sector.  
+   • Reduced demand directly implies lower sales for the Automotive OEM portion of the business.  
+   • Guideline 4 (“changes over time”) flags a decline as a negative indicator for sales and profitability.  
+   • Therefore, the stance toward sales in this sentence is Negative.  
+   • Context from Item 7 corroborates this (Transportation & Electronics organic sales –7.1 %, automotive & aerospace –16 %), but the sentence alone is sufficient; the context is helpful but not strictly necessary.
+
+2. Stance: Negative
+
+3. Brief Justification  
+The sentence links declines in global vehicle production and inventory reductions to the automotive and aerospace business, indicating lower demand and thus lower sales."
+535a5d54c80476dd2d939193e51c8043,"Sales decreased 6 percent in 3M s electronics-related businesses, with decreases in both display materials and systems and electronicsmaterials solutions.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 4: Look for changes over time—“decreased 6 percent” explicitly states a decline.  
+   • A fall in sales is an unfavorable indicator for profitability (Guideline 1 & 2).  
+   • No offsetting positive information is provided; the dominant cue is the decline (Guideline 5).  
+   • The context is not required because the sentence alone contains the decisive information.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports a 6 % drop in sales in electronics-related businesses, clearly signaling a negative outlook for sales. (Context not necessary)"
+00474a360c23c13d1c9eee0598ddceb1,"Sales decreased 4 percent in Asia Pacific, where 3M s electronics business is concentrated.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “Sales decreased 4 percent.”  
+   • A decrease in sales is a direct negative signal for the company’s top-line performance and profitability (Guideline 4: changes over time).  
+   • No offsetting or mitigating language is provided; therefore the dominant context is a decline.  
+   • The fact that the decline occurs in a region where the electronics business is concentrated underscores the unfavorable impact.  
+   • The 10-K context is not required to recognize this negative cue; the sentence alone is clear.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   Sales are said to have “decreased 4 percent” in a key region, indicating an unfavorable trend for profitability. (Context not necessary)"
+c4ce3540715e2e56ed6664569e8fdcd6,"On an organic local-currency sales basis: Sales increased in medical solutions, separation and purification sciences, and food safety, while sales decreased in health informationsystems and oral care.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “sales,” so it is relevant to the target variable.  
+   • It reports both increases (medical solutions, separation & purification sciences, food safety) and decreases (health information systems, oral care).  
+   • The mixed performance provides no clear overall direction—positive and negative indicators offset each other.  
+   • Guideline #5 states that when cues conflict, assess the dominant context; here neither side dominates.  
+   • Therefore, the stance toward sales is best classified as Neutral.  
+   • The broader 10-K context was not required to interpret this single sentence.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence presents offsetting movements—sales rose in some product areas and fell in others—yielding no clear net positive or negative implication for overall sales.  
+
+(Context: not necessary)"
+dd0548ade00453d2f65eade546ed4902,"Business segment operating income: Operating income margins decreased 3.1 percentage points year-on-year, driven by impacts related to the Acelity acquisition in additionto significant sales declines in oral care during the second quarter of 2020, partially offset by continued cost discipline and benefits from2019 restructuring and other costs.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 4 says to look for changes over time and their impact on sales.  
+   • The sentence explicitly reports “significant sales declines in oral care,” which is a negative change in sales.  
+   • It also links those declines to a deterioration in operating-income margins (“margins decreased 3.1 percentage points”), indicating a harmful effect on profitability.  
+   • No offsetting positive sales information is given; cost discipline only “partially” offsets the negative.  
+   • Therefore, the dominant stance toward sales is negative.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence cites “significant sales declines in oral care” that contributed to a 3.1-percentage-point drop in operating margins, signaling an unfavorable sales impact on profitability. (Context not necessary)"
+faab23dd03e17c89f71fc69c939557af,"Year 2019 results: Sales in Health Care totaled $7.4 billion, up 8.9 percent in U.S. dollars.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that Health Care sales “totaled $7.4 billion, up 8.9 percent.”  
+   • “Up 8.9 percent” is a clear positive change over time, signalling rising revenue.  
+   • Higher segment sales generally support higher profitability, satisfying guideline #4 (changes over time).  
+   • No conflicting cues are present, so the dominant (and only) signal is sales growth.  
+   • The broader 10-K context is not needed to interpret this standalone growth statement.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   Sales rose 8.9 %, indicating favorable growth that benefits profitability. (Context not necessary)"
+ff1873806c567455036b41c351eeba4b,"On an organic local-currency sales basis: Sales increased in health information systems, food safety, and medical solutions, while separation and purification sciences decreased,and oral care was flat.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses sales performance (“organic local-currency sales”).  
+   • It lists three areas with “Sales increased” (health information systems, food safety, medical solutions) – these are clear positive cues.  
+   • It then notes one area “decreased” and one area “was flat,” introducing negative/neutral cues.  
+   • Applying Guideline 5 (if cues conflict, judge the dominant context): the majority of cited categories show increases, so the overall message leans favorable for sales.  
+   • No additional information from the wider context is required to interpret this sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that sales rose in three key categories versus only one decline and one flat area, conveying an overall favorable sales trend.  
+
+Context use: Not necessary – the sentence alone contains sufficient information to classify the stance."
+dd129d10e3a048e745e9f08a9e792bcc,"Drug delivery declined year-on-year, as continued softness in the business negatively impacted overall Health Care organic growth.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that “Drug delivery declined year-on-year,” which is a decrease in sales for that business line (Guideline 4: changes over time).  
+   • It further says this softness “negatively impacted overall Health Care organic growth,” linking the decline to weaker segment-level sales performance (Guideline 2: indirect cues).  
+   • A decline that drags down organic growth is unfavorable for profitability; there are no offsetting positive cues (Guideline 5: no conflicting signals).  
+   • Therefore, the stance toward sales is Negative.  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence reports a year-on-year decline in drug-delivery sales that “negatively impacted” Health Care organic growth, signaling an unfavorable sales trend.  
+
+Context usage: Not necessary—the sentence alone provides clear evidence of a sales decline."
+707321c521c0a03048bb48a1fc71fdd7,"On an organic local-currency sales basis: Sales grew in home improvement and home care, while consumer health care and stationery and office declined.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly addresses sales performance (Guideline 2).  
+   • It contains mixed signals: “Sales grew” (positive) in two categories, but “declined” (negative) in two others (Guideline 5).  
+   • No information is given about the relative magnitude of the increases vs. declines, so the overall impact on sales profitability is indeterminate.  
+   • Therefore, the dominant stance toward sales is neither clearly favorable nor unfavorable, leading to a Neutral classification.  
+   • The broader 10-K context is not required; the sentence alone contains all necessary cues.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence reports growth in some product lines and declines in others, providing a balanced, mixed view of sales with no clear net positive or negative implication."
+e69e32cb9214ee96b152bcc99034022c,Business segment operating income: Operating income margins increased 1.6 percentage points year-on-year as a result of strong organic sales growth and continued costdiscipline.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “strong organic sales growth,” which directly signals rising sales (Guidelines #1, #2).  
+   • An increase in operating-income margin is attributed to that sales growth, linking the sales improvement to higher profitability (Guideline #4).  
+   • There are no conflicting cues; the overall message is clearly favorable.  
+   • The standalone sentence already provides this information; the broader 10-K context is not required to interpret its stance.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports “strong organic sales growth” that lifted operating-income margins, indicating a favorable impact on profitability. (Context not necessary)"
+7a766ed3fcb43baf438f6a9dcaf6e59d,"Year 2019 results: Sales in Consumer totaled $5.2 billion, an increase of 0.5 percent in U.S. dollars.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses sales performance for 2019 in the Consumer segment.  
+   • It states that sales “totaled $5.2 billion, an increase of 0.5 percent.”  
+   • Any increase, even modest, signals growth; per Guideline 4 (changes over time), growth in sales is a positive indicator for profitability.  
+   • No offsetting negative cues are present, so the dominant context is favorable.  
+   • The provided 10-K context is not needed to interpret this specific sentence.
+
+2. Stance: Positive
+
+3. Brief Justification  
+Sales rose by 0.5 %, indicating growth in the Consumer segment, which is favorable for profitability (context not necessary)."
+dfa89cac211a8af0c4860eafe076730e,Organic local-currency sales increased 1.7 percent and foreigncurrency translation decreased sales by 1.2 percent.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly quantifies changes in sales.  
+   • “Organic local-currency sales increased 1.7 percent” is a clear positive indicator for sales.  
+   • “Foreign-currency translation decreased sales by 1.2 percent” is a negative headwind.  
+   • Combining both, the net effect is still a modest increase (+0.5 percent), so the dominant message is that sales rose despite FX pressure.  
+   • According to guideline 5 (conflicting cues → judge dominant context), the overall stance is Positive.  
+   • The 10-K context is not needed, as the sentence itself provides sufficient detail.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence highlights that organic sales grew 1.7 %, and although currency lowered sales by 1.2 %, the net message is still one of sales growth, indicating a positive impact on profitability. (Context: not necessary)"
+b2031d5a7bb5ab936c364b7365a80773,"On an organic local-currency sales basis: Sales grew in home improvement, while home care and stationery and office were flat.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “organic local-currency sales,” a direct sales performance metric (Guideline 2).  
+   • “Sales grew in home improvement” is a clear positive indicator (Guideline 4: changes over time).  
+   • “Home care and stationery and office were flat” is neutral—neither growth nor decline.  
+   • There is no negative element (no declines mentioned); the dominant cue is the stated growth (Guideline 5).  
+   • Therefore, the overall stance toward sales in this sentence is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that sales in the home-improvement category “grew,” with no categories showing decline, conveying a favorable sales outcome.  
+
+Context use: Not necessary—the sentence alone provides sufficient information to classify the stance."
+ac5be87f50c557287dbe72c5847f61fc,"2019 Restructuring Actions: During the second quarter of 2019, in light of slower than expected 2019 sales, management approved and committed to undertake certainrestructuring actions.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The phrase “slower than expected 2019 sales” signals that sales performance lagged management’s expectations (Guideline 4: look for changes over time or versus expectations).  
+   • Sales underperformance is an unfavorable indicator for profitability (Guideline 1: focus on how sales is portrayed).  
+   • The restructuring action mentioned is a consequence of weak sales, reinforcing the negative context.  
+   • No conflicting cues are present, so the dominant stance is clearly negative.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that 2019 sales were “slower than expected,” indicating sales weakness that adversely affects profitability.
+
+Context usage: Not necessary—the sentence itself provides sufficient information to judge the stance."
+b951a487b4e0818b675118df586d48d8,"This changeresulted in a decrease of previously reported net sales and operating income for total year 2019 of $35 million and $11 million,respectively, in the Safety and Industrial business segment, offset by a corresponding increase in net sales and operating income withinthe Consumer business segment.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • Guideline 1: Focus on how sales is portrayed. The sentence reports a $35 m reduction in net sales for one segment and an equal increase for another.  
+   • Guideline 4 (changes over time): The “change” is a restatement/reclassification of 2019 numbers, not a real rise or fall in total company sales.  
+   • Guideline 5: Conflicting cues (decrease vs. increase) cancel out; the dominant context is that the overall effect is neutral (“offset by a corresponding increase”).  
+   • Guideline 6: Because the sentence only describes an accounting reallocation with no net impact on company-wide sales or outlook, it conveys no meaningful positive or negative stance toward profitability.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence describes an internal reclassification that lowers sales in one segment but raises them in another by the same amount, leaving total company sales unchanged, so it carries no positive or negative implication for profitability.  
+
+Context necessity: Not necessary—the neutrality is evident from the sentence itself."
+7db50913aff4d439066c5c0f683984b1,"Managementevaluates each of its four business segments based on net sales and operating income performance, including dual credit reporting to furtherincentivize sales growth.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence speaks about management’s practice of “dual credit reporting to further incentivize sales growth.”  
+   • “Incentivize sales growth” directly signals a desire and planned action to grow sales, which is a favorable outlook for sales and thus profitability (Guideline 4: strategic actions affecting sales).  
+   • No wording indicates any decline, risk, or uncertainty; cues are solely positive.  
+   • Therefore, the dominant context toward sales is positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that management employs dual-credit reporting “to further incentivize sales growth,” indicating a proactive, favorable stance toward increasing sales and profitability.
+
+Context necessity: Not necessary—the sentence alone provides sufficient information for classification."
+5d542b819954bcedf49624a3a05c18b3,"COVID-19 has also affected the ability of suppliers and vendors to provide products and services to 3M. Some of these COVID-related factors have increased demand for certain 3M products, while others have decreased demand from certain end markets or could make it more difficult for 3M to serve customers.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses demand for 3M products (a direct sales indicator).  
+   • It states two opposing effects:  
+     – “increased demand for certain 3M products” (positive for sales).  
+     – “decreased demand from certain end markets” and potential difficulty serving customers (negative for sales).  
+   • Because the sentence presents offsetting positive and negative cues without indicating which dominates, the overall stance toward sales is neither clearly favorable nor unfavorable.  
+   • Guideline 5 (“If cues conflict, judge the dominant context”) leads to a Neutral conclusion when no dominant direction is evident.  
+   • The broader MD&A context was not required to interpret this specific balanced statement.
+
+2. Stance: Neutral  
+
+3. Brief Justification: The sentence simultaneously notes COVID-related increases in demand for some products and decreases/difficulties in others, yielding no clear net effect on 3M’s sales outlook.  
+
+Context Use: Not necessary (the sentence alone provides sufficient information)."
+b1b54686920f25a2c10497a42a7f8ffb,"As the pandemic evolves, demand for personal protection products such as disposable respirators may decline from prior levels.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses “demand for personal protection products such as disposable respirators.”  
+   • In sales analysis, demand is a direct driver of sales revenue (Guideline 2).  
+   • The verb “may decline from prior levels” signals a future decrease (Guideline 4: projections).  
+   • A decrease in demand → lower unit sales → unfavorable for profitability (Guideline 1).  
+   • No offsetting positive cues are provided; the dominant context is negative (Guideline 5).  
+   • The 10-K context mentions similar dynamics but is not required to understand that falling demand hurts sales; thus the sentence alone suffices (Guideline 6).
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence forecasts a potential decline in demand for respirators, implying lower future sales for these products.  
+
+Context use: Not necessary (the sentence itself clearly indicates declining demand)."
+780b8dbe910294d639ce5e580b4a59c2,Foreign currency exchange rates and fluctuations in those rates may affect the Company s ability to realize projected growth rates in its sales and earnings.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses foreign-exchange fluctuations as a factor that “may affect the Company’s ability to realize projected growth rates in its sales.”  
+   • “May affect the ability to realize projected growth” signals a risk that the company could fail to achieve the expected increase in sales, implying a potential drag on profitability.  
+   • According to Guideline 4 (projections and forward guidance) and Guideline 5 (if cues conflict, judge dominant context), a risk to achieving sales growth is an unfavorable signal.  
+   • No conflict or offsetting positive language is present.  
+   • Therefore, the stance toward sales is Negative.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that exchange-rate fluctuations could hinder the company’s ability to achieve its projected sales growth, indicating a potential negative impact.  
+
+Context Usefulness: Not necessary—the sentence alone clearly conveys the risk to sales growth."
+8976df7da45083b06df14adcb1e5243f,"Because the Company s financial statements are denominated in U.S. dollars and approximately 60 percent of the Company s revenues are derived from outside the United States, the Company s results of operations and its ability to realize projected growth rates in sales and earnings could be adversely affected if the U.S. dollar strengthens significantly against foreign currencies.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly links foreign-exchange movements (a stronger U.S. dollar) to the company’s “ability to realize projected growth rates in sales.”  
+   • It states this ability “could be adversely affected,” clearly signaling a potential harm to future sales.  
+   • Per Guideline 4 (projections and forward guidance) and Guideline 5 (dominant context), a warning of adverse impact on sales is a Negative indicator for profitability.  
+   • No conflicting cues are present; the statement is straightforwardly cautionary.  
+   • The broader MD&A context is not needed to interpret this specific sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that a significantly stronger U.S. dollar could “adversely” affect the company’s ability to achieve projected sales growth, indicating a negative outlook for sales. (Context not necessary)"
+530e7472bf89e198bbd711203a0659cc,"Demand for the Company s products, which impacts revenue and profit margins, is affected by (i) the development and timing of the introduction of competitive products; (ii) the Company s response to downward pricing to stay competitive; (iii) changes in customer order patterns, such as changes in the levels of inventory maintained by customers and the timing of customer purchases which may be affected by announced price changes, changes in the Company s incentive programs, or the customer s 11",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence merely lists various factors (competitive products, pricing actions, customer ordering patterns) that can influence demand, revenue, and margins.  
+   • It does not state that any of these factors have actually occurred, nor quantify an increase or decrease in sales.  
+   • Because no explicit or implicit direction (growth vs. decline) for sales is provided, the sentence offers no clear positive or negative stance—only a generic description of potential influences.  
+   • Per Guideline 6, if sales implications are unclear or merely hypothetical, classify as Neutral.  
+   • The broader MD&A context is not needed to interpret this single, self-contained risk-factor sentence.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only outlines possible factors that could affect demand and revenue without indicating whether sales are rising or falling, providing no directional signal about profitability.  
+
+Context usefulness: Not necessary."
+4bb38cc951417957ff2efec573032c7c,"Given the diversity of 3M s businesses, some of the factors relative to COVID-19 have increased the demand for 3M products, while others have decreased demand or made it more difficult for 3M to serve customers.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses demand (a direct driver of sales) in relation to COVID-19.  
+   • It explicitly says some COVID-19 factors “have increased the demand” (positive cue) while “others have decreased demand or made it more difficult … to serve customers” (negative cue).  
+   • Because positive and negative cues are presented with equal weight and no dominant direction is implied, the overall signal about sales is balanced.  
+   • Guideline 5 states that when cues conflict, judge the dominant context; here, neither side dominates, so the stance is Neutral.  
+   • The broader 10-K context is not required to interpret this specific sentence.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence simultaneously notes COVID-19 factors that raise demand and factors that lower demand or hinder service, providing a balanced view with no clear positive or negative tilt for sales.
+
+Context use: Not necessary (the sentence alone suffices)."
+245ab9c74f5342a7f5be0e9102eb4cb2,"Overall, 3M experienced broad-based organic growth across business segments and all geographies in 2021 despite global supply challenges.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   1. The sentence explicitly states “broad-based organic growth across business segments and all geographies.”  
+   2. “Organic growth” is a direct indicator of higher top-line (sales) performance (Guideline 2).  
+   3. Growth occurring “across” segments and geographies suggests it is widespread and therefore favorable for profitability (Guideline 4).  
+   4. There are no conflicting or negative cues; the dominant context is positive (Guideline 5).  
+
+2. Stance: Positive  
+
+3. Brief Justification: The sentence reports broad-based organic growth in 2021, indicating higher sales that support profitability.  
+
+Context Usefulness: Not necessary—the sentence alone provides clear evidence of positive sales momentum."
+3beb89861a7c81ec97a096a69073c405,Organic sales increased 8.8% for the full year 2021 when compared to 2020.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly mentions “Organic sales increased 8.8% … compared to 2020,” which is an explicit indicator of higher sales.  
+   • Per Guideline #4 (changes over time), a year-over-year increase in sales signals a favorable condition for profitability.  
+   • No negative or conflicting cues are present, so the dominant context is clearly positive.  
+   • The surrounding MD&A context is not required to interpret this specific sentence; the sentence alone provides sufficient information.  
+
+2. Stance: Positive  
+
+3. Brief Justification: The sentence reports an 8.8% year-over-year rise in organic sales, a clear positive signal for the company’s sales performance and profitability. (Context not necessary)"
+305e148484228f0ad705ad9748b4682f,"In 2021, COVID- related respirator sales negatively impacted year-on-year organic sales growth by approximately 0.2% as they grew at a slower rate than the rest of the Company.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “organic sales growth,” so it squarely relates to sales (Guideline 2).  
+   • It states that respirator sales “negatively impacted” year-on-year organic sales growth by 0.2% because they lagged the rest of the Company.  
+   • A negative impact on growth is an unfavorable signal for profitability (Guideline 1, 4).  
+   • No offsetting positive cues are present, so the dominant context is negative (Guideline 5).
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence says respirator sales “negatively impacted year-on-year organic sales growth by approximately 0.2%,” indicating a drag on overall sales.  
+
+Context Usefulness: Not necessary – the sentence alone provides enough information to classify the stance."
+37488611a9baa916d8286ce94e8cc4d3,"In 2020, 3M experienced strong sales in personal safety, as well as in other areas such as home improvement, general cleaning, semiconductor, data center, and biopharma filtration while businesses aligned to general industrial applications with strength in abrasives and industrial adhesives and tapes.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses sales (“experienced strong sales”).  
+   • The adjective “strong” is a clear positive qualifier, indicating higher or robust sales levels (Guideline 2: look for explicit mentions and cues).  
+   • It lists multiple product areas enjoying this strength, implying breadth rather than isolated pockets, which further supports a favorable stance.  
+   • There are no contrary or negative signals in the sentence, so the dominant context is positive (Guideline 5).  
+   • Because the sentence itself contains the needed information, the broader 10-K context is not required to decide the stance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The phrase “experienced strong sales” across numerous product categories signals a favorable sales performance, indicating a positive impact on profitability. (Context: not necessary)"
+31bc1746669985d49f04e55381795797,"At the same time, weakness in several end markets, while improving, contributed in part to sales declines in a number of 3M's businesses such as oral care, automotive and aerospace, advanced materials, commercial solutions, stationery and office, 16",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “sales declines,” signalling a reduction in sales (Guideline 4: changes over time).  
+   • The declines are linked to “weakness in several end markets,” an unfavorable condition for profitability.  
+   • Although it notes those markets are “improving,” the dominant message is still that the weakness caused declines (Guideline 5: if cues conflict, judge dominant context).  
+   • Therefore, the stance toward sales is negative.  
+   • The broader 10-K context is not required; the sentence alone gives sufficient evidence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that weakness in key end markets “contributed in part to sales declines” across multiple 3M businesses, indicating an unfavorable impact on sales. (Context not necessary)"
+55a9720c8435e254101d2e9e39414964,Total sales in Mexico increased 18 percent which included increased organic sales of 16 percent.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “Total sales,” our target variable.  
+   • It states that total sales “increased 18 percent” and organic sales “increased 16 percent,” clearly indicating growth over the prior period (Guideline 4: changes over time).  
+   • Growth in sales is a favorable development for profitability (Guideline 1).  
+   • There are no offsetting negative qualifiers, so the dominant context is positive (Guideline 5).  
+   • The 10-K context is not required to interpret this standalone growth statement.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports an 18 % rise in total sales (with 16 % organic growth), signaling a favorable sales trend that supports profitability; context not necessary."
+f94f7fbeaa4e6ce90fe38de7f5d7e0f7,"In Canada, total sales increased 18 percent which included increased organic sales of 11 percent.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that “total sales increased 18 percent” and “organic sales” rose 11 percent.  
+   • Guideline 4 (changes over time) says rising sales is a favorable indicator for profitability.  
+   • No negative or offsetting information is provided, so the dominant signal is positive.  
+   • Context from the broader MD&A is not required to interpret this specific growth statement.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports an 18 % total sales increase (with 11 % organic growth), directly signaling improved sales performance.  
+Context use: Not necessary."
+be2bbaa3589f25f8e3b98c34fba39ae1,"In Brazil, total sales increased 18 percent which included increased organic sales of 22 percent.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 4: Look for changes over time. The sentence states “sales increased 18 percent” and “organic sales [increased] 22 percent.”  
+   • Rising sales are an explicit positive indicator for profitability (Guideline 1).  
+   • No conflicting or qualifying language that would offset the favorable view (Guideline 5).  
+   • Therefore, the stance toward sales is Positive.  
+   • The 10-K context was not required—the sentence alone provided clear evidence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that total sales in Brazil rose 18 % and organic sales rose 22 %, directly signaling strong, favorable sales growth that supports profitability (context not necessary)."
+2db07498046f7daba1baa4329f19807e,"In the Asia Pacific geographic area, China total sales increased 17 percent which included increased organic sales of 11 percent.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 2: We look for explicit sales cues—“total sales increased 17 percent…organic sales up 11 percent.”  
+   • Guideline 4 (changes over time): A double-digit increase signals growth relative to the prior period.  
+   • Growth in sales is a favorable indicator for profitability (Guideline 1), so the stance is Positive.  
+   • The surrounding MD&A context is not needed; the sentence itself provides clear evidence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that China sales rose 17 % (with 11 % organic growth), a clear positive signal for the company’s sales. (Context not necessary)"
+6d7ad8736c88dacce34997a518c89530,"In Japan, total sales were flat which included increased organic sales of 2 percent.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses sales performance (Guideline 2).  
+   • “Total sales were flat” = 0 % growth, implying neither improvement nor deterioration (Guideline 4).  
+   • It simultaneously notes “increased organic sales of 2 percent,” a modest positive cue.  
+   • Cues are mixed (Guideline 5); the headline result (“flat”) dominates, indicating no meaningful change in overall sales.  
+   • Therefore, the stance toward sales is neither clearly favorable nor unfavorable, leading to a Neutral assessment.
+
+2. Stance: Neutral
+
+3. Brief Justification: Although organic sales rose 2 %, overall sales were flat, so the sentence conveys no significant positive or negative impact on profitability.  
+
+Context usefulness: Not necessary—the sentence alone supplies all required information."
+b41fc8edc7b80db8e2fac1e0f8a7c62a,"In the Americas geographic area, U.S. total sales increased 6 percent which included increased organic sales of 1 percent.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that “U.S. total sales increased 6 percent,” a clear indicator of higher revenue.  
+   • It also notes “increased organic sales of 1 percent,” reinforcing that the growth is not solely from acquisitions or currency but from the existing business.  
+   • According to Guideline 4 (changes over time) and Label Definition (rising sales support profitability), an increase in sales represents a favorable situation for the company’s profitability.  
+   • There are no offsetting negative cues, so the dominant context is positive.  
+   • The surrounding 10-K context is not required to interpret this single sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that U.S. total sales rose 6 % (with organic sales up 1 %), signaling a favorable increase in revenue and thus a positive outlook for sales. (Context not necessary)"
+156a726133493f94a275290bc9f11f9e,Total sales decreased 14 percent in Mexico which included decreased organic sales of 12 percent.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly quantifies a decline: “sales decreased 14 percent … decreased organic sales of 12 percent.”  
+   • A decline in sales signifies an unfavorable trend for the company’s top line, which, per Guideline 4 (changes over time), is negative for profitability.  
+   • There are no offsetting positive cues; thus the dominant context is clearly negative.  
+   • The broader 10-K context is not required to interpret this isolated statement.  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence reports a 14 % drop in total sales (12 % organic), directly indicating a negative trend in sales performance.  
+
+Context usage: Not necessary – the sentence alone provides sufficient information."
+41aecf1f05c9254dd2a49bb793e0409d,"In Brazil, total sales decreased 17 percent which included increased organic sales of 7 percent.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence speaks directly about sales performance (Guideline 1).  
+   • It gives two cues:  
+     – “total sales decreased 17 percent” → clear negative signal for revenue/profitability (Guideline 4 – changes over time).  
+     – “increased organic sales of 7 percent” → positive signal.  
+   • When cues conflict, choose the dominant one (Guideline 5). A 17 % drop in total sales outweighs a 7 % organic gain because total reported sales drive profitability more directly.  
+   • Therefore, the overall stance toward sales is Negative.  
+   • The broader 10-K context is not required to interpret this single sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: Although organic sales rose 7 %, the sentence states total sales in Brazil fell 17 %, indicating an overall decline in revenue that is unfavorable for profitability.  
+
+Context usage: Not necessary."
+11aba4680348f64b4be0f822f114c6ce,Managing currency risks: The weaker U.S. dollar had a positive impact on sales in full year 2021 compared to the same period last year.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly references “sales” and states there was a “positive impact” on them in 2021.  
+   • This explicitly signals an increase (Guideline 2: consider explicit mentions).  
+   • No conflicting cues are present, so the dominant context is clearly favorable (Guideline 5).  
+   • Therefore, the stance toward sales—and by extension profitability—is Positive.  
+   • The broader 10-K context (weaker dollar adding 1.6 pp to growth) aligns but is not required to interpret the sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence explicitly states that a weaker U.S. dollar “had a positive impact on sales” in 2021 versus the prior year, indicating improved sales performance.  
+
+Context use: Not necessary (the sentence alone provides sufficient information)."
+a29e33cda0e5ac80b2113432a2449d35,"Selling, General and Administrative Expenses: SG&A, measured as a percent of sales, decreased in 2021 when compared to 2020.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses SG&A expenses and states that SG&A “measured as a percent of sales” declined.  
+   • It does not say whether sales themselves grew, fell, or stayed flat; only the cost ratio changed.  
+   • According to Guideline 6, if sales are absent or only tangentially referenced, the stance is Neutral.  
+   • Therefore, no directional signal (positive or negative) about sales performance is provided.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence comments on SG&A efficiency but gives no information about sales growth or decline, so it is neutral with respect to sales.  
+
+Context use: Not necessary."
+74c4a0d200dff20f52f479f056f33d33,"On an organic sales basis: Sales increased in abrasives, industrial adhesives and tapes, automotive aftermarket, electrical markets, roofing granules, and closure and masking systems and decreased in personal safety year-on-year.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly reports year-on-year organic sales changes.  
+   • It lists six product areas with “sales increased” and only one area (“personal safety”) with “sales decreased.”  
+   • Because a majority of the cited categories experienced growth, the overall signal for sales is favorable.  
+   • Guideline 5 (conflicting cues → judge the dominant context) applies; the dominant context is growth.  
+   • Therefore, the stance toward sales—and thus profitability—is Positive.  
+   • The broader 10-K context confirms the same pattern, but the sentence alone is sufficient, so context not necessary.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence highlights year-on-year organic sales increases in multiple product lines (abrasives, adhesives, automotive aftermarket, etc.) with only one declining category, conveying an overall positive sales trend.  
+
+Context use: Not necessary (sentence itself provides adequate evidence)."
+d5b284e6927d3a47ef4deb19f658073f,Growth was driven by improving general industrial manufacturing activity and other end-market demand partially offset by prior-year strong pandemic-related respirator mask demand.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly uses the word “Growth,” implying sales/revenue increased (Guideline 2).  
+   • It attributes that growth to “improving … manufacturing activity and other end-market demand,” clear positive drivers of sales (Guideline 4).  
+   • Although it notes growth was “partially offset” by lower respirator-mask demand, the dominant message remains that sales still grew (Guideline 5).  
+   • Therefore, the overall stance toward sales and, by extension, profitability is favorable.  
+   • The 10-K context confirms this relates to sales growth in the Safety & Industrial segment, but the single sentence already conveys the necessary information, so context is not strictly required.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that sales growth occurred, fueled by improving industrial and end-market demand, with only a partial offset from lower respirator demand—indicating a net positive effect on sales.  
+
+Context use: Not necessary (sentence alone conveys stance)."
+2465cace284c8503557f862bbaddb02a,Year 2020 results: Sales in Safety and Industrial were up 2.1 percent in U.S. dollars.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly addresses “Sales,” our target variable (Guideline 2).  
+   • It states sales “were up 2.1 percent,” i.e., an increase versus the prior period (Guideline 4: changes over time).  
+   • An increase in sales is generally favorable for profitability, meeting the definition of a Positive stance (Guideline 1 & 5).  
+   • No conflicting cues are present; therefore, the dominant context is growth.  
+   • The broader 10-K context was not needed to interpret this straightforward statement.
+
+2. Stance: Positive
+
+3. Brief Justification  
+Sales in the Safety and Industrial segment grew 2.1 % year-over-year, indicating a favorable sales trend that supports profitability. (Context not necessary)"
+270fbcf8c3bd20e375dd45105e745345,"On an organic sales basis: Sales increased in personal safety and roofing granules, while industrial adhesives and tapes, electrical markets, closure and masking systems, automotive aftermarket, and abrasives sales decreased year-on-year.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly addresses organic sales performance across several product lines (Guideline 2).  
+   • It states that only two areas (“personal safety” and “roofing granules”) experienced sales increases, while five areas (“industrial adhesives and tapes,” “electrical markets,” “closure and masking systems,” “automotive aftermarket,” and “abrasives”) experienced decreases (Guideline 4: changes over time).  
+   • Because the majority of named categories show year-on-year declines, the dominant signal is that organic sales overall are under pressure (Guideline 5: weigh conflicting cues).  
+   • Declining sales in multiple lines threaten profitability, so the stance is Negative (Guideline 1).
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence highlights more product lines with year-on-year sales declines than increases, indicating an overall unfavorable trend for sales.
+
+Context use: Not necessary—the sentence alone clearly conveys the sales outlook."
+63cf17b9addc8bfa786e441d48697388,Strong growth related to unprecedented demand for respirators as a result of the COVID-19 pandemic was partially offset by softness that impacted sales growth across most of the Company s general industrial-related portfolio.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “sales growth,” so it is squarely about sales (Guideline 2).  
+   • Positive cue: “Strong growth related to unprecedented demand for respirators” indicates a meaningful increase in sales (Guideline 4).  
+   • Negative cue: “softness that impacted sales growth across most of the … industrial-related portfolio” points to a drag on sales.  
+   • The phrase “partially offset” shows that the negative effect did not fully negate the strong growth; net sales growth is still implied to be up (Guideline 5: weigh dominant signal).  
+   • Therefore, the overall stance is favorable for sales, albeit tempered by some weaknesses.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that “strong growth” in respirator demand drove sales higher, and although softness in other areas “partially offset” this, the net implication remains an increase in sales.  
+
+Context Use: Not necessary—the sentence itself provides sufficient information to classify the stance."
+80b8a3507f28d71cf6a3c21a30ee6092,"On an organic sales basis: Sales increased in advanced materials, commercial solutions, automotive and aerospace, electronics and transportation safety.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Sentence directly discusses “Sales” (Guideline 1).  
+   • Phrase “Sales increased” signals a clear upward change (Guideline 4: changes over time).  
+   • Rising sales are favorable for profitability; no negative or offsetting comments are given (Guideline 5).  
+   • Therefore, the dominant—and only—cue is positive.  
+   • The surrounding 10-K context is not required to interpret this simple, self-contained statement.  
+
+2. Stance: Positive  
+
+3. Brief Justification: The sentence explicitly states that “Sales increased” across multiple product areas, indicating growth and a favorable impact on profitability; context not necessary for this conclusion."
+3fa7ca5620d4bd5058ee5e0756a979e2,"Sales increased in automotive and aerospace from improving automotive-end market activity and increases in car and light truck builds, partially offset by impacts from semiconductor supply chain constraints.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 2: Look for explicit mentions of change in sales. The sentence states “Sales increased…”.  
+   • Guideline 4: Note causes—improving end-market activity and higher vehicle builds are favorable drivers.  
+   • Guideline 5: Although it adds “partially offset by… semiconductor supply chain constraints,” the dominant message remains that sales are up.  
+   • More sales generally support profitability → Positive stance.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that sales increased in automotive and aerospace, with only a partial offset from supply-chain constraints, indicating a net positive impact on sales.
+
+Context usefulness: Not necessary (the single sentence contains sufficient information, though the broader MD&A echoes the same point)."
+1ce0a74ecfdc4cc773d53eaad9ed50af,"Sales increased in electronics due to strong demand in data center, semiconductor, interconnect and consumer electronics markets, partially offset by impacts from semiconductor supply chain constraints.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “Sales” in the electronics sub-segment.  
+   • Key phrase “Sales increased … due to strong demand” signals growth, a directly positive indicator for profitability (Guideline 4: changes over time).  
+   • Although “partially offset by … supply chain constraints” introduces a minor headwind, the dominant message is still net growth (Guideline 5: weigh conflicting cues).  
+   • Therefore, overall stance toward sales is favorable.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that sales in electronics “increased … due to strong demand,” indicating a net positive sales trend despite some supply-chain headwinds.
+
+Context usage: Not necessary – the sentence alone contained sufficient information to determine the stance."
+a624bd8153228883fcc57b40445c7b2c,"Sales increased in commercial solutions, advanced materials and transportation safety due to increased advertising spend and return to workplace trends.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “Sales increased …” which is a direct indicator of higher top-line performance (Guideline 2).  
+   • An increase in sales, all else equal, supports profitability by raising revenue (Guideline 4).  
+   • No competing negative cues (e.g., cost spikes, margin erosion) are mentioned, so the dominant signal is favorable (Guideline 5).  
+   • Therefore, the stance toward sales is Positive.  
+   • The broader 10-K context was not required to interpret this isolated statement (Guideline 6).
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that “Sales increased” in several business areas, clearly signaling a favorable sales trend for profitability; the 10-K context was not necessary for this determination."
+c709c897738cf034351dfe6e6633d449,"Business segment operating income margins increased year-on-year due to sales growth leverage, benefits from restructuring actions and lower related charges, and COVID impacts recognized on certain assets in 2020 that were partially offset by increases in raw materials and logistic costs, manufacturing productivity impacts, and increased compensation and benefit costs.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “operating income margins increased year-on-year due to sales growth leverage,” meaning higher sales volume/pricing contributed to better profitability.  
+   • An increase in margins driven by sales growth is a favorable indicator for the company’s profitability (Guideline 4: changes over time and financial indicators).  
+   • Although the sentence notes cost headwinds (“raw materials and logistic costs… increased compensation”), the dominant message concerning sales is that growth provided leverage and lifted margins (Guideline 5: weigh conflicting cues).  
+   • Therefore, the stance toward sales is positive.  
+   • The broader 10-K context was not required to interpret this single sentence.
+
+2. Stance: Positive
+
+3. Brief Justification  
+Sales growth provided leverage that increased operating income margins year-on-year, signaling a favorable impact on profitability.  (Context not necessary)"
+e5af49729b9f4c0a0e883cb8bffeb396,"On an organic sales basis: Sales increased in electronics, while sales decreased in transportation safety, advanced materials, commercial solutions and automotive and aerospace.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses organic sales performance across segments.  
+   • Only one segment (electronics) shows an increase, while four segments (transportation safety, advanced materials, commercial solutions, automotive & aerospace) show decreases.  
+   • A majority of segments are experiencing sales declines, which is unfavourable for overall sales and profitability.  
+   • Therefore, the dominant signal is negative for sales outlook.  
+   • The broader MD&A context was not needed to interpret this specific up/down wording.
+
+2. Stance: Negative
+
+3. Brief Justification: With sales decreasing in four segments and increasing in only one, the net message is that sales performance is generally deteriorating. 
+
+Context Use: Not necessary."
+9ed93deb9e840dc5991f519b1ddd1350,"Electronics-related growth was led by demand for semiconductor, data center, and factory automation end-markets, and was partially offset by softness in the consumer electronics end-market.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “Electronics-related growth,” signalling an increase in sales (Guideline 4 – changes over time).  
+   • It attributes the growth to strong demand in semiconductor, data-center and factory-automation markets, reinforcing the positive direction.  
+   • Although it mentions that the growth was “partially offset by softness” in consumer electronics, the qualifier “partially” implies net growth remains (Guideline 5 – weigh conflicting cues).  
+   • Net effect = higher sales; therefore the stance toward sales is favorable.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports overall electronics-related sales growth driven by several end-markets, with only a partial offset from weaker consumer electronics, indicating a net positive impact on sales.
+
+Context necessity: Not necessary—the sentence itself contains sufficient information to classify the stance."
+8d099538b1aaeaa8edc8d53a98177f68,"Commercial solutions and transportation safety were impacted by soft-end markets such as hospitality, advertising and highway infrastructure due to social distancing and work-from-home protocols as a result of COVID-19.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The phrase “impacted by soft-end markets” signals weakened demand (Guideline 4 – changes over time/market conditions).  
+   • Soft demand in hospitality, advertising and highway infrastructure implies lower purchasing activity, which generally translates into reduced sales for the company’s commercial solutions and transportation safety products (Guideline 2 – indirect cues).  
+   • The impact is tied to COVID-19 protocols, underscoring an unfavorable environment rather than a balanced or positive one.  
+   • No offsetting positive cues are present, so the dominant context is adverse (Guideline 5).  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence states that commercial solutions and transportation safety “were impacted by soft-end markets,” indicating weakened demand and therefore a negative outlook for sales. (Context not necessary)"
+21830623f74c1b7b38889a5cf4737295,"Business segment operating income margins decreased 1.6%, primarily related to lower sales and reduced productivity in key end-markets due to COVID-19 related impacts, partially offset by continued cost discipline and benefits from 2019 restructuring actions.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   1. The sentence explicitly states “lower sales,” which is a decline in sales volume or revenue.  
+   2. It links this decline to a negative financial consequence: “operating income margins decreased 1.6%.”  
+   3. A drop in operating margin caused by lower sales indicates an unfavorable impact on profitability (Guideline 4: changes over time).  
+   4. Although cost discipline and restructuring partially offset the effect, the dominant message is that lower sales hurt margins (Guideline 5: weigh dominant context).  
+   5. Therefore, the stance toward sales is Negative.  
+   6. The wider 10-K context is not required because the sentence alone provides clear evidence.
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence attributes a 1.6% decrease in operating income margin to “lower sales,” indicating that declining sales are hurting profitability.  
+
+Context Usefulness: Not necessary."
+93d4c56a6d906dd0b73b68a26b53859c,"On an organic sales basis: Sales increased in oral care, separation and purification, food safety, health information systems and medical solutions.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 4: Look for changes over time—“Sales increased” is a direct indicator of positive movement in sales.  
+   • Guideline 2: The phrase “on an organic sales basis” confirms it is referring to underlying sales growth, not currency or acquisition effects.  
+   • There are no conflicting cues; the entire sentence highlights higher sales across multiple product categories, which supports profitability.  
+   • Therefore, the dominant stance toward sales is favorable (Positive).
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence explicitly states that “Sales increased” across several business lines, signaling stronger sales and a favorable outlook.
+
+Context Usefulness: Not necessary—the sentence alone provides clear evidence of rising sales."
+1eedd675c7b7c3b12bcd22a1bde16c65,Sales increased in oral care driven by higher year-on-year dental procedures and in separation and purification from continued high demand for biopharma filtration solutions for COVID-related vaccine and therapeutic development and manufacturing.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Focus on sales (Guideline 1): the sentence directly states “Sales increased…”.  
+   • Direction of change (Guideline 4): “increased” is an explicit positive change.  
+   • No offsetting negatives are mentioned (Guideline 5), so the dominant cue is positive.  
+   • Therefore, the stance toward sales is favorable for profitability.  
+   • Context redundancy: the broader MD&A corroborates the same improvement in oral-care and purification, but the sentence alone already conveys the positive signal.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that sales “increased” in oral-care and separation & purification due to strong demand, which is a clear positive indicator for profitability.  
+
+Context use: Not necessary (helpful but not required)."
+c8559f8613fd9a3634b245d6848b245f,Sales increased in medical solutions from rising elective procedure volumes in the first six months of 2021 and strong respirator demand in the first quarter of 2021.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline #1: Focus on how sales is portrayed—here it is stated directly.  
+   • Guideline #2: “Sales increased” is an explicit indicator of top-line growth.  
+   • Guideline #4: Growth over a defined period (first six months / first quarter 2021) signals a favorable trend.  
+   • Guideline #5: No conflicting cues; only positive drivers (higher elective procedures, strong respirator demand).  
+   • Context usefulness: The broader MD&A confirms strong Health Care performance, but the sentence alone is sufficient for classification (context not necessary).
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that “Sales increased in medical solutions” due to higher elective procedures and respirator demand, clearly indicating a favorable impact on sales and profitability."
+866d54faabec59c4049f9fefe4821cf9,Sales increased in health information systems due to improving hospital information technology investments.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “Sales increased,” which is a direct indicator of sales performance (Guideline 1 & 2).  
+   • The direction of change is upward (“increased”), signaling growth (Guideline 4: changes over time).  
+   • Higher sales generally support profitability unless offsetting negatives are mentioned; none are present (Guideline 5).  
+   • Therefore, the dominant stance toward sales is favorable.  
+   • The broader 10-K context was not needed to interpret this standalone statement.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that sales in health information systems “increased,” indicating a favorable trend that benefits profitability.
+
+Context use: Not necessary."
+50e1f250eefbf28a646080bd7e6d8e35,"Business segment operating income margins increased year-on-year due to sales growth leverage and benefits from restructuring actions and lower related charges that were partially offset by supply chain disruptions, increases in raw materials 28",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “sales growth leverage,” indicating that sales increased.  
+   • It links this sales growth to a rise in “operating income margins,” a direct profitability measure.  
+   • Higher margins driven by sales growth are favorable for profitability (Guideline 4: changes over time and financial indicators).  
+   • Although some negatives are cited (“supply chain disruptions, increases in raw materials”), the dominant message is that the positives from sales growth outweighed them, resulting in an overall margin increase (Guideline 5: weigh conflicting cues).  
+   • Therefore, the stance toward sales and profitability is positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that operating income margins rose year-on-year because of sales growth leverage, signaling that higher sales positively impacted profitability despite some cost headwinds.
+
+Context Usefulness: Not necessary—the sentence alone contains sufficient information to classify the stance."
+c99f6796010f02655bbbce8eb333aa16,Year 2020 results: Sales in Health Care were up 12.3 percent in U.S. dollars.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “Sales” for the Health Care segment.  
+   • It states sales “were up 12.3 percent,” indicating a significant year-over-year increase.  
+   • Per Guideline 4 (changes over time), an increase in sales is a favorable signal for profitability.  
+   • No negative or conflicting information is presented, so the dominant context is positive.  
+   • The provided MD&A context is not required; the sentence alone suffices to determine stance.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports a 12.3 % increase in Health Care sales, indicating improved sales performance and thus a positive outlook for profitability (context not necessary)."
+ff2e9f2cedca5410bc5035b8bf69619c,"On an organic sales basis: Sales increased in medical solutions, separation and purification, and food safety, while sales decreased in health information systems and oral care.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses organic sales movements in several sub-categories.  
+   • Positive cue: “Sales increased in medical solutions, separation and purification, and food safety.”  
+   • Negative cue: “Sales decreased in health information systems and oral care.”  
+   • The increases and decreases offset each other; the sentence gives no net direction on overall sales or profitability.  
+   • Guideline #5 says that when cues conflict and no dominant trend is evident, the stance should be Neutral.  
+   • The wider 10-K context is not required to interpret this specific sentence.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence conveys both sales increases and decreases across different product areas, resulting in a balanced, indeterminate effect on overall sales.  
+
+Context usage: Not necessary for making this classification."
+506a602a2202fc2655385fa9597b7ec5,"Increases in healthcare volumes benefited both medical solutions and oral care after significant disruptions in the second quarter, with strong pandemic-related demand for disposable respirators resulting in increased sales for medical solutions, while oral care sales decreased year-on-year.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • Focus is on sales performance (Guideline 2 & 4).  
+   • Positive cue: “strong … demand for disposable respirators resulting in increased sales for medical solutions.”  
+   • Negative cue: “oral care sales decreased year-on-year.”  
+   • The sentence therefore presents a mixed picture—one business line up, the other down (Guideline 5 on conflicting cues).  
+   • With no clear overall upward or downward direction for total sales, the net stance is best judged as Neutral.  
+   • MD&A context was read but the sentence itself provided sufficient information; context not required for judgment.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence cites increased sales in medical solutions but a year-on-year decrease in oral-care sales, providing offsetting signals that leave the overall outlook for sales neither clearly positive nor negative.  
+
+Context usefulness: Not necessary."
+756d81282c9e1c045b30dfb57a6adf2e,"Business segment operating income margins decreased 2.7% year-on-year, driven by impacts related to the Acelity acquisition in addition to significant sales declines in oral care during the second quarter of 2020, partially offset by continued cost discipline and benefits from 2019 restructuring and other costs.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “significant sales declines in oral care,” which is a clear negative change in sales (Guideline 4: changes over time).  
+   • This sales decline is linked to a decrease in operating income margins, directly hurting profitability (Guideline 1: focus on how sales affects profitability).  
+   • Although some offsets (cost discipline, restructuring benefits) are mentioned, the dominant cue is the sales decline driving lower margins (Guideline 5: weigh conflicting cues).  
+   • Therefore, the stance toward sales is negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence reports “significant sales declines in oral care” that contributed to a 2.7 % drop in operating income margins, signaling an unfavorable sales impact on profitability.
+
+Context usage: Not necessary — the sentence alone provides sufficient information to classify the sales stance."
+011b425086f1b38360074c890d5c8a0d,"On an organic sales basis: Sales increased in stationery and office, home improvement, consumer health and safety, and home care.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “Sales increased…,” which is a direct indicator of higher top-line performance.  
+   • Guideline 4 (changes over time) says that rising sales is a positive cue for profitability.  
+   • No conflicting or mitigating language is present, so the dominant signal is favorable.  
+   • The extended 10-K context is not needed to interpret this isolated sentence.  
+
+2. Stance: Positive  
+
+3. Brief Justification: The sentence reports an increase in organic sales across several product categories, indicating a favorable development for profitability. (Context: not necessary)"
+dc39616d6f62ecdb43f726cd9f2eeec6,"Sales increased in home improvement driven by continued strength in the market with strong demand for Command adhesives, Filtrete air quality solutions, Meguiars auto care and Scotch Blue painter s tape.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 1: Focus on how sales is portrayed—here the verb “increased” gives a direct view.  
+   • Guideline 4 (changes over time): “Sales increased … driven by continued strength … strong demand” explicitly signals growth.  
+   • No conflicting cues appear, so the dominant context is clearly favorable.  
+   • The 10-K context (Consumer segment benefiting from home-improvement strength) confirms but is not required; the sentence alone suffices.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that “Sales increased … with strong demand,” directly indicating a favorable sales trend that supports profitability. (Context not necessary)"
+743763af26d037836456db17c5b34bb5,"Sales increased in stationery and office from ongoing strength in demand for packaging and shipping products, Post-it -solutions and Scotch brand office tapes as the business laps last year s COVID-related comparisons.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly says “Sales increased … from ongoing strength in demand…”.  
+   • An increase in sales represents top-line growth, which is favorable for profitability (Guideline 4: changes over time).  
+   • No negative or offsetting information is presented.  
+   • Therefore, the dominant signal toward sales is positive.  
+   • The broader MD&A context was not needed to interpret this simple growth statement.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence directly states that sales “increased” due to strong demand, indicating a favorable impact on profitability. (Context not necessary)"
+3dbe7e046481c3bd40ef15445e41ea99,"Business segment operating income margins decreased year-on-year as a result of increases in raw materials, logistics, and outsourced hardgoods manufacturing costs, manufacturing productivity impacts, and increased compensation and benefit costs that more than offset leverage from sales growth and benefits from restructuring actions and lower related charges.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   1. The sentence explicitly mentions “sales growth,” indicating that sales increased year-on-year.  
+   2. According to Guideline 4, an increase in sales is a favorable indicator for profitability.  
+   3. Although the sentence notes that higher costs “more than offset” this benefit, the negative outcome is tied to expenses, not to sales performance itself.  
+   4. Therefore the portrayal of sales is still positive (sales rose); the adverse margin impact does not negate the fact that sales grew.  
+   5. The surrounding 10-K context is not required to determine that the sentence reports sales growth.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states there was “sales growth,” which is inherently favorable even though cost inflation offset its benefit."
+4a81ec1ba595df223708147180349dc5,"On an organic sales basis: Sales increased in home improvement and home care, while consumer health and safety and stationery and office decreased.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses sales performance (Guideline 2).  
+   • It contains conflicting signals: “Sales increased in home improvement and home care” (positive cue) versus “consumer health and safety and stationery and office decreased” (negative cue).  
+   • With both positive and negative cues present and no indication that one outweighs the other, the overall message is mixed (Guideline 5: if cues conflict, judge dominant context; here none is dominant).  
+   • Therefore, the stance toward sales is best considered Neutral.  
+   • The broader 10-K context is not needed because the sentence alone gives sufficient, balanced information.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence reports increases in some product categories but decreases in others, providing a mixed view with no clear positive or negative dominance.  
+
+Context helpful/necessary: Not necessary."
+d4844a7e7334fddbf454bb75c4ed7939,Stationery and office declined year-on-year as a result of many business offices and schools remaining partially or fully closed due to the pandemic.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Target is sales.  
+   • The sentence explicitly says “declined year-on-year,” indicating a fall in sales for the stationery and office category.  
+   • A decline in sales hurts profitability → per Guideline 4 (changes over time) this is a negative indicator.  
+   • No conflicting cues are present; the dominant context is a sales decrease.  
+   • The broader 10-K context isn’t required to interpret this specific decline.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that stationery and office sales “declined year-on-year,” directly signaling a negative impact on sales and profitability; the external context is not necessary for this determination."
+b74a8ee691d60f1f65a0fff68dd94ccc,"Sales showed continued strength in the Company s Command , Filtrete , Scotch Blue , Scotch Brite , and Meguiars brands.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly references the target (“Sales”).  
+   • The wording “showed continued strength” is an explicit positive cue, indicating solid or improving sales performance (Guideline 2: explicit mentions; Guideline 4: changes over time—strength implies growth or resilience).  
+   • No negative or conflicting information appears in the sentence, so the dominant context is favorable.  
+   • Strong sales contribute positively to profitability (Guideline 1).  
+
+2. Stance: Positive  
+
+3. Brief Justification: The phrase “sales showed continued strength” signals ongoing robust sales in those brands, a favorable indicator for profitability.  
+
+Context usefulness: Not necessary—the positive stance is clear from the sentence alone."
+a92d639213bd19c10e79dbfc30d26d13,Business segment operating income margins increased 1.6% year-on-year as a result of strong organic sales growth and continued cost discipline.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “strong organic sales growth,” indicating that sales are increasing (Guideline 2: look for changes over time).  
+   • It links that sales growth to a higher operating income margin (+1.6 pp), which directly benefits profitability (Guideline 4: financial indicators/trends).  
+   • No adverse or conflicting information is present, so the dominant context is favorable (Guideline 5).  
+   • The standalone sentence provides enough information; the broader 10-K context is not required for this judgment.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports “strong organic sales growth” that drove a 1.6 % rise in operating income margin, signaling a favorable impact on profitability."
+19001f25776cbbdc11e0e51a60b20dbf,"2019 Restructuring Actions: During the second quarter of 2019, in light of slower than expected 2019 sales, management approved and committed to undertake certain restructuring actions.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “slower than expected 2019 sales,” which denotes a decline versus expectations.  
+   • According to Guideline 4 (changes over time/projections), a shortfall in sales is an unfavorable indicator for profitability.  
+   • The consequent decision to undertake restructuring further implies management is reacting to weak sales performance, reinforcing the negative stance.  
+   • No offsetting positive cues are present, so the dominant context is negative.  
+   • The broader MD&A context is not needed to interpret this specific sales statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that 2019 sales were slower than expected, prompting restructuring—direct evidence of an unfavorable sales situation. (Context not necessary)"
+3127b4d1c6527e03ae015db8f9a099d2,"Excluding potential impacts from raw material price movements, the Company generally projects margin expansion in the AMS segment as a result of expectedorganic sales growth.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence contains forward-looking language (“projects”) indicating management’s expectation.  
+   • It explicitly mentions “expected organic sales growth,” which is a direct reference to higher sales volumes/revenues.  
+   • Higher sales are linked to “margin expansion,” implying improved profitability.  
+   • There is no conflicting negative information in the sentence; the only caveat (“excluding potential impacts from raw material price movements”) does not negate the positive sales outlook.  
+   • Per Guideline 4 (projections and forward guidance) and Guideline 5 (dominant context), the positive projection dominates.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   Management forecasts organic sales growth in the AMS segment that will drive margin expansion, signaling a favorable impact on profitability.  
+
+Context Use: Not necessary—the sentence itself provides sufficient information for classification."
+5d8d56540fde24d4ae6932a6efc7721b,"However, the Company s medical sales demonstrated strong growth in 2020, and could continue to outpace the broader economy, due to increased demand for certain products related to COVID-19.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The target is “sales”; the sentence explicitly describes “medical sales.”  
+   • Language: “demonstrated strong growth in 2020” → indicates an historical increase in sales (Guideline 4: changes over time).  
+   • Forward-looking clause: “could continue to outpace the broader economy” → projects further above-trend growth (Guideline 4: projections and outlook).  
+   • Both present and future signals are favorable; no negative or offsetting cues appear (Guideline 5: resolve conflicts).  
+   • Therefore, the dominant stance toward sales is Positive.  
+   • Context support: AMS Segment Discussion and End-Market Commentary both note double-digit growth in medical and “stable to strong” demand, reinforcing the sentence’s message.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports “strong growth” in 2020 medical sales and anticipates they “could continue to outpace the broader economy,” signalling a favorable outlook for sales and profitability.
+
+Context usefulness: Helpful but not necessary—the positive stance is clear from the sentence alone; the AMS and End-Market sections merely corroborate it."
+462f780c33f0d44823d970f11b0b47c3,"Business trends that were key drivers of year-over-year financial performance included sales growth in AMS, positive price/mix benefits in EP, cost reduction activities in both segments, and an improved rawmaterials cost environment across the business.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “sales growth in AMS,” indicating an increase in sales (Guideline #4: changes over time).  
+   • An increase in sales is generally favorable for profitability, constituting a positive signal (Guideline #1: focus on how sales is portrayed).  
+   • No negative qualifiers or conflicting cues appear; the dominant context is improvement (Guideline #5).  
+   • Therefore, the stance toward sales is positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports “sales growth in AMS,” clearly signaling an increase in sales that supports profitability.  
+
+Context use: Not necessary—the sentence alone provides sufficient information to classify the stance."
+67fbe86eb4f08f73c823c6949c285f30,"Our future operating results will depend, in part, on the extent to which we can successfully implement our business strategies, including expansion and growth of our technical products (filtration and performance materials) and packaging businesses in a cost effective manner.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence is forward-looking and conditional (“will depend … on the extent to which we can successfully implement”).  
+   • It mentions “expansion and growth” of certain businesses, which, if achieved, would presumably raise sales, but this is expressed as a possibility rather than a fact or firm outlook.  
+   • There is no indication that sales are currently rising or falling, nor a clear commitment that they will rise; the statement simply notes that results hinge on execution.  
+   • Under Guideline 5 (conflicting or uncertain cues), the dominant context is conditional uncertainty, so no positive or negative stance is asserted.  
+
+2. Stance: Neutral  
+
+3. Brief Justification: The sentence only states that sales performance will depend on future successful execution of growth strategies, without asserting that sales will definitely increase or decrease.  
+
+Context Use: Not necessary – the neutrality can be determined from the sentence alone."
+93b09154b69775f804ccf58884a85d71,"In recent years, governmental entities around the world, particularly in the U.S., Brazil, Russia, Australia and Western Europe, have taken, or have proposed,actions that had, or are likely to have, the effect of reducing consumption of tobacco products which, in turn, reduces demand for our products.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly links governmental actions to “reducing consumption of tobacco products.”  
+   • It then states this reduction “in turn, reduces demand for our products,” i.e., lowers sales volume.  
+   • Lower demand and sales are detrimental to profitability (Guideline 1 & 4: decline in sales → Negative).  
+   • No conflicting cues are present; the dominant signal is unfavorable.  
+   • The surrounding 10-K context is not needed to interpret this explicit statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence says government measures are reducing tobacco consumption, “which, in turn, reduces demand for our products,” clearly indicating an adverse impact on sales."
+df5d584fe09850aa99c0bb3871e1e209,"Excluding unfavorable adjusting items discussed above and shown on the reconciliation table on page 35, adjusted operating income decreased $27.8 million (47%) from the prior year primarily as a result of lower sales and production volumes and related manufacturing cost inefficiencies.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that adjusted operating income “decreased $27.8 million (47%) … primarily as a result of lower sales.”  
+   • A fall in sales leading to a nearly 50 % drop in operating income is clearly unfavorable for profitability (Guideline 1: focus on sales impact; Guideline 4: change over time).  
+   • There are no offsetting positive cues; the dominant context is declining sales hurting earnings (Guideline 5).  
+   • Therefore, the stance toward sales is Negative. The broader 10-K context is not required to infer this.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence links a 47 % decline in adjusted operating income directly to lower sales, indicating an adverse impact on profitability.
+
+Context use: Not necessary (the sentence alone provides sufficient evidence)."
+2b10dca93f032aef972fcf0c392316d3,Industrial sales grew due to gains in packaging films and materials for wind turbine manufacturing.,SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “Industrial sales.”  
+   • Verb “grew” signals an increase—Guideline 4 (changes over time) → positive for sales.  
+   • The growth is attributed to gains in specific product areas, reinforcing that this is a favorable development.  
+   • No conflicting cues; dominant context is clearly favorable.  
+   • Therefore, stance toward sales is Positive.  
+   • The broader 10-K context was not needed; the sentence alone contains sufficient information.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that “Industrial sales grew,” indicating higher sales levels, which is favorable for profitability. (Context not necessary)"
+dd2dc6dfa15ceb2de57b338371dd1482,"While down versus prior year, third and fourth quarter 2020 consolidated net sales increased 18% and 8%, respectively, from each of the preceding quarters, as the global markets continued to recover.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   1. The sentence explicitly discusses consolidated net sales.  
+   2. It acknowledges a year-over-year decline (“down versus prior year”) – a negative cue.  
+   3. However, it highlights sequential quarter-over-quarter growth: Q3 sales +18% vs. Q2 and Q4 sales +8% vs. Q3.  
+   4. The main focus is the rebound (“as the global markets continued to recover”), indicating improving sales momentum that benefits profitability.  
+   5. Per Guideline 5, when cues conflict, weigh the dominant message; here the emphasis is on the sales increase and recovery, so the overall stance is Positive.  
+   6. The broader 10-K context is not required to interpret this specific sentence, as all necessary sales information is contained within the sentence itself.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence states that despite being below the prior year, consolidated net sales rose 18% and 8% in Q3 and Q4 versus the preceding quarters, signalling improving sales trends. (Context not necessary)"
+e50d69649a7f18458ff57dfa8e5a219d,"AMS gross profitincreased by $12.8 million, primarily due to lower input costs, particularly resin, higher organic sales and improved manufacturing efficiencies and expensesassociated with the closure of one site in 2018.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly says “higher organic sales” contributed to the $12.8 million rise in gross profit.  
+   • Higher sales are a direct positive indicator for profitability (Guideline 4: changes over time; higher sales → positive).  
+   • No conflicting cues are present; all factors cited (lower input costs, efficiencies) reinforce a favorable picture.  
+   • Therefore, the overall stance toward sales is Positive.  
+
+2. Stance: Positive  
+
+3. Brief Justification: The phrase “higher organic sales” signals that sales increased and helped boost gross profit, indicating a favorable impact on profitability.  
+
+Context necessity: Not necessary—the sentence alone provides sufficient information to classify the stance."
+c3ae7f1c8aae1f08e1a1090e43c32e9d,"OUTLOOK For the AMS segment, we expect our growth outlook to be driven by macro factors affecting our served end-markets, including filtration, transportation,infrastructure and construction, medical, and industrial, as well as industry demand for many of our key applications.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The phrase “growth outlook” directly signals an expectation of increasing business activity.  
+   • In MD&A language, “growth” of a segment normally refers to higher revenues/sales (Guideline 2: indirect cue).  
+   • No mitigating or adverse wording (e.g., “challenged,” “decline”) appears; the only verb is “expect,” which expresses positive anticipation (Guideline 3).  
+   • Therefore, the dominant context is a favorable view toward future sales for the AMS segment.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states the company “expect[s] our growth outlook to be driven” by demand in several end-markets, indicating an anticipated increase in sales. 
+
+Context necessity: Not necessary—the sentence itself conveys the positive growth expectation."
+8759da5059b8e56c877e5c8c74b2d7e1,"Such legislation or regulation may adversely impact the demand for traditional cigarettes and cigars, with corresponding impacts on our sales of cigarette papers, RTL and associated items, which could have a material adverse effect on our future financial condition, results of operations and cash flows.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence links possible new “legislation or regulation” to an “adversely impact” on demand for cigarettes and cigars.  
+   • It then states that this would have “corresponding impacts on our sales of cigarette papers, RTL and associated items.”  
+   • Words like “adversely” and “material adverse effect” explicitly signal a negative outcome for future sales and, by extension, profitability.  
+   • No balancing or positive offsets are mentioned, so the dominant cue is clearly negative (Guidelines #1, #4, #5).  
+   • The MD&A context is not required to interpret this sentence; the stance is self-contained.
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence warns that new regulation could “adversely impact” demand and thus hurt the company’s sales of cigarette papers, potentially causing a “material adverse effect” on financial results—clearly a negative outlook for sales.  
+
+Context usage: Not necessary."
+ba2c3e4914bdae9c286fa981d0b0d6c7,"The most significant working capital related cash outflow item was related to higher accounts receivable, as a result of strong Q4 organic sales.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The phrase “strong Q4 organic sales” explicitly reports robust sales performance.  
+   • Robust or “strong” sales generally support higher revenue and earnings, a favorable indicator for profitability (Guideline 4: changes over time).  
+   • Although the sentence notes a cash outflow from higher receivables, this is a working-capital timing issue and does not negate the positive signal about sales volume.  
+   • No wording suggests declining or problematic sales; the dominant cue is the strength of sales.  
+   • Therefore, the stance toward sales is Positive.  
+   • The MD&A context was not needed to infer this, as the sentence alone provides the sales cue.
+
+2. Stance: Positive  
+
+3. Brief Justification: The sentence cites “strong Q4 organic sales,” indicating robust sales growth that benefits profitability.  
+
+Context usefulness: Not necessary."
+1602d8d1a08e13b749f25ed34e14c4f4,"In addition, net selling prices were modestly lower in 2020 due both to selling price and mix.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The phrase “net selling prices were modestly lower in 2020” directly addresses the price component of sales revenue (Guideline 2).  
+   • Lower selling prices, all else equal, reduce the dollar value of each unit sold, thereby decreasing total sales and hurting profitability (Guideline 4: changes over time).  
+   • There are no offsetting positive statements; the only signal is a decline in price, so the dominant context is unfavorable (Guideline 5).  
+   • Therefore, the stance toward sales is Negative.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that net selling prices declined in 2020, which directly reduces sales revenue and negatively affects profitability.
+
+Context use: Not necessary—the sentence alone clearly conveys the negative impact on sales."
+bc5a4957f5e5e53d8e1c5e21b04fa64f,Net sales declined 6% in Technical Products and 29% in Fine Paper and Packaging.,NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline #4 stresses that changes over time are clear sales signals.  
+   • The sentence explicitly reports “Net sales declined …” with concrete percentages (-6 % and -29 %).  
+   • A decline in sales directly hurts top-line revenue and thus profitability, fitting the “Negative” definition.  
+   • No offsetting or conflicting cues are present, so the dominant context is unfavorable.  
+   • The broader 10-K context merely repeats the same figures; the sentence alone suffices (context not necessary).
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence states that sales fell by 6 % and 29 % in the two segments, signaling a clear decline that is adverse for profitability."
+b2993e622593d42257a5c905332f94a8,"The loss of one or more of these customers, or a significant reduction in their purchases, particularly those that impact our sales of LIP papers or Recon, could have a material adverse effect on our financial condition, results of operations and cash flows.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses the potential “loss of…customers” or a “significant reduction in their purchases.”  
+   • A reduction in customer purchases directly implies lower sales volumes. (Guideline 2: indirect cue linked to sales.)  
+   • It states this would have “a material adverse effect on our financial condition, results of operations and cash flows,” signalling harm to profitability. (Guideline 4: projections and forward guidance—negative outlook.)  
+   • No offsetting or positive elements are mentioned; the entire focus is on the negative consequence. (Guideline 5: dominant context is negative.)  
+   • Therefore, the stance toward sales is Negative.  
+   • Context from the broader MD&A is not required; the sentence alone provides the cue.  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence warns that losing major customers or reduced purchases would materially hurt sales and thereby adversely affect financial results.  
+
+Context necessity: Not necessary."
+a3305e51717d614da05db009b9f9ccba,This has enhanced our ability tosell products and to provide added functionality and other value to the products we sell allowing them to command higher margins.,SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence states that “This has enhanced our ability to sell products,” indicating an improvement in sales capability.  
+   • It further says the products now “command higher margins,” which directly signals better profitability per unit sold.  
+   • Higher margins and improved selling ability are clear positive indicators for sales and profitability (Guidelines 1, 2, 4).  
+   • No negative or offsetting clauses are present, so the dominant stance is favorable.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence explicitly says the company can sell products more effectively and at higher margins, signaling a positive outlook for sales profitability.
+
+Context Use: Not necessary – the sentence alone provides sufficient information to classify the stance."
+064f125dcde970c48c373e38ddc2d607,"We have enhanced our tobacco fiberreconstitution capabilities to produce materials suited for this new application, generated commercial sales in 2019, and continue to develop products to meetincreasing demand should global consumer adoption gain momentum and the technology gains support from appropriate regulatory authorities.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “generated commercial sales in 2019” → signals actual revenue already occurring (Guideline 2).  
+   • It also says the company is “developing products to meet increasing demand,” contingent on broader adoption and regulatory support → implies growth potential for future sales (Guideline 4: projections/forward guidance).  
+   • No negative qualifiers (e.g., declining volume, lower pricing) are present; overall tone is favorable toward future sales.  
+   • Therefore, the dominant context is a beneficial outlook for sales and profitability (Guideline 5).
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence notes that commercial sales have already been achieved and anticipates rising demand, indicating a favorable outlook for sales.
+
+Context Use: Not necessary – the sentence alone provides sufficient information for classification."
+eeabf351296d88ab58f8d9c648c11c7b,"We estimate that we have a direct share of more than 50% of cigarette paper sales in the E.U., and coupled with royalty payments from a key competitor to whom we have licensed our LIP technology, we believe we are able to monetize over 80% of the LIP-compliant E.U. cigarette market.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “cigarette paper sales in the E.U.,” so it directly concerns sales (Guideline 2).  
+   • A “direct share of more than 50%” signals dominant market share—an inherently favorable indicator for current and future sales and profitability (Guideline 4: changes over time / market position).  
+   • The added statement that through royalties the company can “monetize over 80%” of the compliant market further strengthens the positive outlook by expanding revenue beyond direct product sales.  
+   • No negative or balancing clauses appear, so the positive cue is dominant (Guideline 5).  
+   • The broader MD&A context is not required, as the sentence alone contains sufficient information.
+
+2. Stance: Positive  
+
+3. Brief Justification: The company reports holding over 50 % direct market share and, via royalties, monetizing more than 80 % of the EU LIP-compliant cigarette market, indicating a strong, profitable sales position.  
+
+Context usefulness: Not necessary."
+b0ba624390a97f028f80e2d50c796544,"While traditional tobacco products are well established and revenue from traditional cigarette sales represents a substantial majority of total industry revenue, new smoking technologies may become more widely adopted and the business, growth prospects and financial condition of our EP segment may be adversely affected.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “revenue from traditional cigarette sales,” so it is directly about sales (Guideline 2).  
+   • It states that “new smoking technologies may become more widely adopted,” and that this development “may adversely affect” the EP segment’s “business, growth prospects and financial condition.”  
+   • An adverse effect on business and growth prospects implies a future decline in sales (Guideline 4: projections and forward guidance).  
+   • No offsetting positive cues are given, so the dominant context is negative (Guideline 5).  
+   • The broader MD&A context was not needed to interpret this sentence; the negative implication is self-contained.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence warns that wider adoption of new smoking technologies could “adversely affect” the EP segment’s business and growth prospects, signaling a potential decline in sales.  
+
+Context usefulness: Not necessary."
+48077517e9a2a3e14868eccf05b75e6f,"AMS gross profit increased by $9.5 million, primarily due to the incremental gross profits from the acquired Tekra business and lower input costs partially offset by declines in transportation and infrastructure and construction sales.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 2: Focus on sales language—“declines in transportation and infrastructure and construction sales.”  
+   • The only direct comment on sales is that they declined; there is no offsetting positive sales statement.  
+   • Gross-profit growth is attributed to Tekra acquisition and lower input costs, not higher sales.  
+   • Therefore, the stance toward sales is unfavorable.  
+   • Context from the MD&A is not required to interpret this single-sentence decline.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence explicitly reports “declines in transportation and infrastructure and construction sales,” indicating a negative trend for sales.  
+
+Context Use: Not necessary — the sentence alone provides sufficient information."
+307f0f68070bf5b5a0abc52fea4e21a6,"In addition, sales results in 2020 have, and may continue to demonstrate, some volatility from potential inventory builds as customers manage inventories and safety stocks to protect against future potential supply chain disruptions.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “sales results” and characterises them as having shown, and potentially continuing to show, “some volatility.”  
+   • “Volatility” conveys variability or uncertainty, but it is not inherently an improvement or deterioration in sales; it could mean higher or lower sales in different periods.  
+   • No wording indicates a clear rise (positive) or decline (negative) in sales, nor does it link the volatility directly to a profitability drag.  
+   • Therefore, under the guidelines, the statement does not present a favourable or unfavourable stance—only an uncertain one—so the stance is Neutral.  
+
+2. Stance: Neutral  
+
+3. Brief Justification  
+   The sentence merely notes that sales have been and may continue to be “volatile” due to customers’ inventory management, without indicating an overall increase or decline.  
+
+Context Use: Not necessary—the sentence itself provides enough information to classify the stance."
+3cf7d807032c58af6b4030b123e26437,"Transportation filtration media are sold to filter manufacturers whoin turn supply automotive and other companies with filters used as original equipment on new cars and trucks as well as to the aftermarket, which is a recurringsale and represents the large majority of our sales.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses the company’s sales channel and characterizes most of those sales as “recurring,” implying a stable, repeat revenue stream.  
+   • A recurring and sizable revenue base is favorable for profitability because it reduces volatility and supports predictable cash flows (Guideline 4: strategic actions/trends affecting sales).  
+   • No negative or offsetting statements are present; therefore the dominant cue is favorable.  
+
+2. Stance: Positive  
+
+3. Brief Justification: The statement that aftermarket demand constitutes “a recurring sale and represents the large majority of our sales” signals a stable, dependable revenue source that benefits profitability.  
+
+Context usage: Not necessary – the sentence itself provides sufficient information to judge the stance."
+2237b5203bf6c5c94a0da214bfa019e7,"New smoking technologies such as e-cigarette and vaping technologies provide an alternative to and may decrease demand for traditional cigarettes andcigars, which could result in a decrease in demand for our products and adversely affect our consolidated results of operations, financial position and cashflows.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that e-cigarette and vaping technologies “may decrease demand for traditional cigarettes and cigars.”  
+   • It then links this reduced demand to “a decrease in demand for our products,” which directly implies lower sales.  
+   • The sentence further notes this would “adversely affect our consolidated results,” reinforcing the negative impact on profitability.  
+   • According to Guideline 4 (changes over time) and Guideline 1 (focus on sales portrayal), a projected decline in demand equals a negative stance toward sales.  
+   • The surrounding 10-K context is not needed to understand this statement; the sentence itself conveys the impact.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that vaping technologies could reduce demand for the company’s products, thereby lowering sales and harming financial results."
+524c100a78626b5b3bad37324da2655c,Future sales and any future profits from cigarette papers and reconstitutedtobacco products are substantially dependent upon the continued use of traditional cigarettes and cigars.,SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “Future sales and any future profits,” so it is directly about sales (Guideline 2).  
+   • It states those sales/profits are “substantially dependent” on an external factor—the continued use of traditional cigarettes and cigars.  
+   • Dependence on a factor that is outside the company’s control introduces risk: if cigarette consumption falls (as the MD&A later notes is a structural trend), sales and profits would suffer (Guideline 4: projections & forward guidance).  
+   • The wording therefore signals vulnerability and an unfavorable outlook for that revenue stream, making the stance Negative.  
+   • Context from the MD&A (“EP faces structural cigarette-consumption declines”) reinforces that this dependence is indeed a downside risk, confirming a Negative interpretation.  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence highlights that future sales/profits in these products hinge on continued cigarette use—an external factor expected to decline—indicating a potential negative impact on sales.  
+
+Context usefulness: Helpful/necessary (the MD&A’s note about structural declines in cigarette consumption clarifies why this dependence is unfavorable)."
+fd252ce06e7a58ecd7a0e77cfbb45a6b,"Consolidated net sales for the year ended December 31, 2018 were $55.0 million (6%) higher than the prior year.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “consolidated net sales,” so it directly addresses the sales target (Guideline 1).  
+   • It states sales were “$55.0 million (6%) higher than the prior year,” indicating a year-over-year increase (Guideline 4: changes over time).  
+   • An increase in sales is favorable for profitability, giving a clear positive signal (Guideline 2).  
+   • No conflicting cues are present, so the dominant context is unambiguously positive (Guideline 5).  
+   • The broader 10-K context confirms the same figure but is not required to interpret the sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence notes that consolidated net sales grew by $55 million (6 %) versus the prior year, signaling a favorable sales trend that supports profitability; context not necessary for this conclusion."
+5948577e5409959f3ee2482de427e845,The Company believes that these businesses advance SWM's goal of diversifying its revenue streamand offer long-term growth opportunities across a broad set of attractive end-markets.,SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “diversifying its revenue stream” and “long-term growth opportunities,” both of which imply an increase or strengthening of future sales (Guideline 2: indirect cues such as “top-line growth”).  
+   • These phrases are clearly favorable signals—diversification reduces dependence on any single source while growth opportunities suggest higher future revenues, supporting profitability (Guideline 4: projections and strategic actions).  
+   • No conflicting or negative information is present, so the dominant context is positive (Guideline 5).  
+
+2. Stance: Positive  
+
+3. Brief Justification: The sentence portrays revenue diversification and long-term growth opportunities, indicating an expected improvement in sales.  
+
+Context use: Not necessary—the sentence alone provides sufficient information to assess the stance toward sales."
+c7af3909ff730e4b65d1a9a4dc33d413,Net sales in our fine paper and packaging business decreased $113.2 million (29%) from the prior year.,NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses net sales, which is the target metric.  
+   • It states that sales “decreased … 29%,” indicating a significant decline.  
+   • A decline in sales hurts profitability; therefore, under guideline #1 and #4 this signals an unfavorable situation.  
+   • No conflicting cues are present, so the dominant (only) signal is negative.  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence reports a 29 % drop in net sales, a clear unfavorable change for profitability.  
+
+Context Usefulness: Not necessary – the sentence alone provides sufficient evidence."
+2a36a1d40b9bb98fc7f17c1b2c7f6829,"New smoking technologies, including e-liquids, vapable oils and other vaping products, provide an alternative to traditional cigarettes and cigars, which could result in a decrease in demand for our products, including cigarette papers, RTL and associated items.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 1: Focus on sales—sentence discusses possible “decrease in demand” for the company’s products.  
+   • Guideline 2: Declining demand is an explicit negative cue about future sales.  
+   • Guideline 4: The statement is forward-looking (“could result”), signalling an unfavorable outlook.  
+   • Guideline 5: No conflicting cues; the dominant message is reduced demand.  
+   • Context check: The MD&A provides broader cigarette-volume pressures, but this sentence alone is sufficient for classification.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that alternative vaping products “could result in a decrease in demand for our products,” directly indicating a negative outlook for sales. (Context not necessary.)"
+8c5616e11b7d827260dcf6c2dba8bc3b,Volume declines in commercial print products were partlyoffset by higher selling prices and volume increases in premium packaging.,NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly describes “volume declines” in one product category—an unfavorable signal for sales (Guideline 4: changes over time).  
+   • It notes this decline was “partly offset” by two positives: higher selling prices and volume increases elsewhere.  
+   • “Partly offset” indicates the positives did not fully neutralize the negative; the net effect on sales remains adverse (Guideline 5: weigh conflicting cues).  
+   • Section “Net Sales – Fine Paper & Packaging” in the context confirms that segment sales indeed fell despite these offsets, reinforcing the negative interpretation.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+   The sentence signals that sales were hurt by volume declines that were only partially compensated by better pricing and growth in premium packaging, implying an overall negative impact on sales.
+
+Context usefulness: Helpful – it corroborates that the offsets were insufficient to prevent a sales decline."
+5f1388d800b96e2c4b0350d30f767aeb,"Our solutions pioneered this cigarette paper category, and we remain a leader in this cigarette paper sub-segment through either direct sales or through licensing agreements.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “direct sales,” so it is relevant to the sales target (Guideline 2).  
+   • Phrases such as “pioneered this … category” and “we remain a leader” indicate a strong competitive position (Guideline 4: strategic actions and market position).  
+   • Being a market leader normally supports higher or sustained sales levels, which is favorable for profitability (Guideline 1 & 5).  
+   • No conflicting or negative cues are present, so the dominant stance is favorable.  
+   • The broader 10-K context is not required to infer this positivity; the sentence alone conveys the stance (Guideline 6).
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that the company pioneered and “remains a leader” in the cigarette paper sub-segment through its sales channels, implying a strong, favorable position that supports sales growth.  
+
+Context Usefulness: Not necessary."
+52b2b3fe8df05ee44235413e434d8cc4,Volume declines were more pronounced in commercial print as compared to premium packaging and consumer channel sales.,NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly mentions “Volume declines,” which signals a drop in units sold.  
+   • Lower volumes typically translate into lower revenue (sales) and therefore harm profitability (Guideline 1 & 4).  
+   • The comparison (“more pronounced in commercial print”) does not offset the fact that declines occurred; it merely specifies where they were worse, so the overall cue remains negative.  
+   • No conflicting or mitigating positive information is present, making the negative signal dominant (Guideline 5).  
+   • The context of the broader 10-K is not required to interpret this sentence (Guideline 6).
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states there were “volume declines,” indicating lower sales volumes and thus an unfavorable impact on sales. (Context not necessary)"
+512a075923802c08693900e142a7fe9f,"Such risks include: Decreased demand and volatility in sales due to operational disruptions faced by some of our customers, and the threat of a sustained economic downturn driven by the global reaction to the COVID-19 pandemic.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly forecasts “Decreased demand and volatility in sales,” which signals lower and less predictable revenue.  
+   • It ties these declines to operational disruptions and a possible prolonged economic downturn—both unfavorable for profitability.  
+   • According to Guideline 4 (changes over time and external factors affecting sales), a projected decline is a clear negative cue.  
+   • No counterbalancing positive information is provided, so the dominant context is negative.  
+   • The surrounding MD&A context is not needed to interpret this sentence; the negative stance is clear from the wording itself.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns of “decreased demand and volatility in sales” arising from COVID-19–related disruptions, indicating an unfavorable outlook for sales.  
+
+Context Usefulness: Not necessary"
+347b798b6e4b014280656c4d61251520,"ConcentrationsFor the year ended December 31, 2019, sales to the technical products business' largest customer represented approximately 8 percent of consolidated net sales,and approximately 14 percent of net sales for the technical products segment.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence merely discloses that one customer accounted for 8 % of consolidated sales and 14 % of the Technical Products segment’s sales in 2019.  
+   • It provides no indication of whether this concentration is improving or worsening, nor any effect on overall sales growth, profitability, or future outlook.  
+   • There are no positive cues (e.g., rising sales) or negative cues (e.g., declining sales or loss of the customer); it is purely descriptive.  
+   • Per guideline 6, when sales information is present but without evaluative context, the stance is Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence simply states the percentage of sales attributable to the largest customer without indicating any beneficial or adverse impact on sales or profitability. Context: not necessary."
+25d5838365bfce38f08ab5906f48ce4f,cost increasesand we may not be able to fully recover these incremental costs through selling price increases or our pricing actions may lag behind due to contractual quarterlyadjusters or annual renewals.,NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses rising costs and an inability or delay in passing those costs on through “selling price increases,” which are a direct component of sales revenue (price × volume).  
+   • If costs rise but prices (sales) cannot be raised in time or fully, gross margins and overall profitability will decline—an unfavorable outlook.  
+   • This is a clear negative cue under guideline #4 (strategic actions affecting sales and financial indicators).  
+   • No conflicting cues are present, so the dominant context is negative.  
+   • The broader MD&A context is not required to interpret this sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that cost increases may not be fully recovered through selling price increases, indicating potential margin compression and thus a negative impact on sales-driven profitability."
+93009f3046405c14358ce71b92974455,"Further, as a result of excess capacity in the tobacco-related papers industry and increased operating costs, competitive levels of selling prices for certain of the Company's products are not sufficient to cover those costs with a margin that the Company considers reasonable.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The phrase “competitive levels of selling prices” directly addresses the revenue (sales price) side.  
+   • It states these prices “are not sufficient to cover... costs with a margin that the Company considers reasonable,” implying unit sales generate inadequate profit.  
+   • Excess industry capacity and higher operating costs are pushing prices down, a clear negative indicator for sales profitability (Guideline 4: changes/trends that hurt sales).  
+   • No offsetting positive cues appear; the dominant context is unfavorable.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+   Selling prices for certain products are too low to cover costs at a reasonable margin, indicating adverse pressure on sales profitability. (Context not necessary)"
+be0d0b2c9a2ce512228ebe60c3d1a6c5,These were partially offset by increased sellingprices and a higher-value Technical Products sales mix.,NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence highlights “increased selling prices” and “a higher-value … sales mix.”  
+   • Higher prices and an improved mix directly raise revenue per unit and margins, signaling a favorable impact on sales and profitability (Guideline 4: strategic actions affecting sales; price/mix gains).  
+   • Although the phrase “partially offset” indicates there were negative factors elsewhere, the elements specifically tied to sales in this sentence are positive.  
+   • Therefore, the dominant signal regarding sales is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The mention of higher selling prices and a richer Technical Products sales mix denotes improvements that boost sales revenue and profitability, a positive indicator.  
+
+Context Use: Not necessary—the sentence alone contains enough information to assess the stance."
+d061afe1adb807df6334abd5b77079a9,Our business is subject to seasonal or cyclical market and industry fluctuations which may result in reduced net sales and operating profits during certainperiods.,SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses net sales, stating they can be “reduced” due to seasonal or cyclical fluctuations.  
+   • “Reduced net sales” is an explicit negative driver for profitability under Guideline 4 (changes over time).  
+   • No offsetting positive language is present, so the dominant signal is negative.  
+   • Context from Item 7 is not needed, as the sentence alone conveys the unfavorable sales impact.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that seasonal or cyclical fluctuations “may result in reduced net sales,” indicating a negative effect on profitability.
+
+Context Usefulness: Not necessary."
+20ccc70a467b4442ef81fdca293a69de,"Changes in the laws and regulations described above, adverse interpretations or applications of such laws and regulations, and the outcome of various court and regulatory proceedings, including in Europe and Brazil, could adversely impact the Company's business in a variety of ways, including increasing expenses, increasing liabilities, decreasing sales, limiting its ability to repatriate funds and generally conduct business, all of which could adversely affect our financial condition, results of operations and cash flows.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 2: Look for explicit mention of sales—sentence states “decreasing sales.”  
+   • Guideline 4: It frames this as a possible outcome of regulatory changes; “could adversely impact the Company’s business.”  
+   • Guideline 5: No conflicting cues; the dominant context is a risk of lower sales.  
+   • Lower sales hurt profitability ⇒ Negative stance.  
+   • The MD&A context is not required to interpret this specific sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that adverse regulatory actions “could… [lead to] decreasing sales,” directly signaling a negative impact on profitability.
+
+Context use: Not necessary."
+86ee53ea41488d9de5793d6c0538a426,"Compared to the prior year, net sales decreased $18.5 million , howeverexcluding negative currency impact, net sales would have increased $2.7 million due primarily to an increase in organic sales in the AMS segment.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   1. The sentence first states an objective decline: “net sales decreased $18.5 million,” a clear negative indicator for profitability.  
+   2. It then offsets that with a hypothetical: “excluding negative currency impact, net sales would have increased $2.7 million,” pointing to some underlying organic growth (positive cue).  
+   3. We have conflicting cues (Guideline #5). The actual, reported figure directly affects profitability, whereas the currency-adjusted number is a pro-forma scenario.  
+   4. Because real, reported sales drive earnings and cash flow, the dominant context remains the decline; the positive adjustment is secondary.  
+   5. Therefore, overall stance toward sales is Negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence reports an $18.5 million year-over-year drop in net sales, which outweighs the hypothetical currency-adjusted increase and signals an unfavorable impact on profitability.  
+
+Context usefulness: Not necessary – the sentence itself provides all information needed to judge the sales stance."
+860adf56d175d85f119e84d7a761ee61,"The increase resulted from higher TechnicalProducts volumes (including volumes from the November 2017 Coldenhove Acquisition), increased selling prices in both segments, and a higher value mix andfavorable currency effects in Technical Products.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The target is “sales”; we look for cues about changes in sales or factors that directly drive sales (Guideline 2).  
+   • The sentence states “The increase resulted from higher … volumes… increased selling prices… higher value mix and favorable currency effects.”  
+   • “Higher volumes” and “increased selling prices” are explicit drivers of greater revenue, signaling growth in sales (Guidelines 1 & 4).  
+   • No conflicting cues are present; the overall message is that sales have risen (Guideline 5).  
+   • Therefore, the stance toward sales is favorable.  
+   • The broader MD&A context was not necessary to interpret this single sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence attributes an “increase” in sales to higher volumes, higher selling prices, richer mix, and favorable currency—collectively signaling stronger sales performance. (Context not necessary)"
+39ee155443931d99ea3156306118e7d8,"Generally, over time, we have been able to increase our selling prices in response to increases in per ton wood pulp costs and have generally reduced our sellingprices when wood pulp costs have significantly declined.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The focus is on “selling prices,” a direct component of sales revenue (Guideline 2).  
+   • Claim: the company “has been able to increase … selling prices” when pulp costs rise ⇒ demonstrates pricing power and the ability to protect or lift sales dollars (Guideline 4: changes over time, cost pass-through).  
+   • Although it also “reduced … selling prices” when costs drop, this is framed as a normal, symmetric adjustment; no harm to profitability is implied.  
+   • Dominant message: management can successfully adjust prices to offset cost movements, which is favorable for maintaining or improving sales and margins (Guideline 5).  
+   • Therefore, the stance toward sales is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence highlights the company’s ability to raise selling prices when input costs rise, indicating pricing power that supports sales and profitability.  
+
+Context necessity: Not necessary—the sentence alone provides sufficient evidence."
+27e2ef4ce985839c66a6002d88610e20,"We expect our business to continue to be adversely impacted by governmental actions relating to tobacco products, as well as by decreased demand for tobaccoproducts due to declining social acceptance of smoking, new smoking technologies such as e-cigarette and vaping technologies, and litigation in the U.S. andother countries.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence provides forward-looking language (“We expect… to continue to be adversely impacted”), which is Guideline 4 (projections and forward guidance).  
+   • “Adversely impacted” clearly signals an unfavorable effect.  
+   • The cause is “decreased demand for tobacco products,” which directly means lower sales volumes (Guideline 2 & 4).  
+   • Lower demand and adverse impact equate to reduced sales, hurting profitability.  
+   • No conflicting cues are present, so the dominant stance is negative (Guideline 5).  
+   • The context is not required; the sentence alone contains explicit negative guidance.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that governmental actions, declining social acceptance, and other factors will “adversely” affect the business through decreased demand for tobacco products, indicating lower future sales.  
+
+(Context: not necessary)"
+9613d279b10696f2dffd308698758fb7,"Although a complete loss of these customers would cause a temporary decline in the respective business' sales volume, we believe the decline could be partially offset by expanding sales to existing customers, and further offset over a several month period with the addition of new customers.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “sales volume.”  
+   • Phrase “would cause a temporary decline” signals a drop in sales – a clear negative cue (Guideline 4: changes over time).  
+   • Mitigating language (“could be partially offset … further offset”) is conditional and does not assure full recovery; it merely lessens, not removes, the negative impact.  
+   • Applying Guideline 5 (conflicting cues), the dominant message remains the potential sales decline.  
+   • Therefore, the stance toward sales is Negative.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence foresees that losing customers “would cause a temporary decline in ... sales volume,” and although partial offsets are hoped for, the primary outlook presented is a drop in sales.  
+
+Context use: Not necessary – the sentence alone contains sufficient information to judge the sales outlook."
+374b38f951002f17a044f26e91aafbd4,We are dependent upon a small number of customers for a significant portion of our sales; the loss of one or more of these customers could have a material adverse effect on our business.,SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence highlights customer concentration (“small number of customers for a significant portion of our sales”).  
+   • It explicitly states a downside risk: losing any of these customers “could have a material adverse effect on our business,” implying a potential drop in sales and profitability.  
+   • Per Guideline 4 (strategic actions affecting sales / risk statements) and Guideline 5 (if cues conflict, judge dominant context), the dominant message is unfavorable for future sales.  
+   • No positive or balancing information is provided, so the stance is clearly Negative.  
+   • The broader MD&A context is not needed; the sentence itself contains all the necessary cues.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that losing any of a few major customers would materially harm sales, signaling a clear negative risk to profitability.  
+
+Context usage: Not necessary."
+4a8532bbc86d4fa7124cecc0f51d6540,"The increase of$14.8 million in the AMS segment's operating profit during the year ended December 31, 2019 compared to the prior-year period was positively impacted by salesgrowth, cost reductions, and lower raw material input costs.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that AMS operating profit rose by $14.8 million.  
+   • It attributes this improvement in profit in part to “sales growth.”  
+   • According to Guideline 4 (changes over time) and Guideline 2 (explicit mentions), rising sales that lift operating profit is a favorable signal for profitability.  
+   • No conflicting cues are present; the dominant message is that higher sales contributed positively.  
+   • Therefore, the stance toward sales is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence links “sales growth” to a $14.8 million increase in operating profit, indicating that higher sales favorably affected profitability.  
+
+Context usefulness: Not necessary (the sentence alone contains sufficient information)."
+3a4d9b7e34b8c42408730526cae3d0e3,We expect to create value by growing in specialized niche marketsthat value performance or image and where we have competitive advantages.,NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence is forward-looking (“We expect”) and speaks about “growing in specialized niche markets.”  
+   • In MD&A language, “growing” in markets is shorthand for increasing volumes/revenues (Guideline 2: indirect cue—“growth” → sales).  
+   • “Create value” and “competitive advantages” suggest this growth will enhance profitability (Guideline 4: projections and strategic actions).  
+   • No negative or cautionary wording appears, so the dominant context is favorable (Guideline 5).  
+   • The broader 10-K context was not required to interpret this sentence; the stance is clear without it (context not necessary).
+
+2. Stance: Positive
+
+3. Brief Justification  
+The sentence predicts growth in niche markets, implying higher future sales that should enhance profitability, which is a positive signal."
+f2817454ea7200b178a5735893d9b859,"The decrease in income resulted from lower sales andproduction volumes and associated manufacturing fixed cost inefficiencies, higher SG&A and unfavorable foreign currency impacts, partially offset byincreased selling prices, a higher-value mix and lower input and distribution costs.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Look for explicit mention of sales (Guideline 2).  
+   • The sentence states “lower sales … resulted” in a decrease in income – a direct, unfavorable linkage between declining sales and profitability (Guideline 4: change over time).  
+   • Although it notes some offsets (higher prices, richer mix), the dominant message is that lower sales hurt income (Guideline 5: weigh conflicting cues).  
+   • Therefore the stance toward sales is Negative.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence says a drop in income was driven by “lower sales,” indicating that declining sales negatively affected profitability.
+
+Context Use: Not necessary – the sentence alone clearly conveys the negative sales impact."
+a02fa3a35d575b24018997d259ea8879,Medical sales were driven by higher demand for facemask materials and specialty hospital products.,SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The focal variable is “sales” (Guideline 1).  
+   • The verb phrase “were driven by” links sales to a causal factor—“higher demand” (Guideline 2: indirect cue that sales rose).  
+   • Rising demand implies increased volumes/revenues, which favorably affects profitability (Guideline 4: change over time).  
+   • No conflicting cues are present (Guideline 5).  
+   • Therefore, the stance toward sales is Positive.  
+   • The MD&A context does mention strong medical demand, but the sentence alone already conveys the positive signal; the context is not strictly necessary.
+
+2. Stance: Positive
+
+3. Brief Justification  
+Higher demand for facemask materials and specialty hospital products indicates increasing medical sales, a clearly favorable development for profitability. (Context not necessary)"
+73ff1b21d9afea4bc0747b131edb18f8,We evaluated projected revenues and operating margins against historical results and management s rationale and support for expected improvementsover time.,NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “projected revenues,” i.e., future sales (Guideline 2).  
+   • It states that management has a “rationale and support for expected improvements over time,” indicating an anticipated increase in revenues and operating margins (Guideline 4: projections/forward guidance).  
+   • No opposing or cautions are presented, so the dominant signal is favorable (Guideline 5).  
+   • Hence the stance toward sales is Positive.  
+   • The surrounding 10-K context was not needed to infer this; the sentence itself supplies the cue.
+
+2. Stance: Positive
+
+3. Brief Justification: The phrase “expected improvements over time” for “projected revenues” conveys a favorable outlook for future sales growth.  
+
+Context usage: Not necessary."
+6e2d594b54e8b45fdd6584e5ca9db7cb,"If any of our customers were to change suppliers, in-source production of Recon or cigarette papers (including those used to produce LIP cigarettes), institute significant cost-cutting measures or experience financialdifficulty, then these customers may substantially reduce their purchases from us, which could adversely impact our financial condition, results of operations andcash flows.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   - The sentence presents a risk scenario: customers might change suppliers, in-source production, cut costs, or face financial trouble.  
+   - Each of these events would cause customers to “substantially reduce their purchases from us.”  
+   - Reduced customer purchases = lower company sales revenue.  
+   - The sentence explicitly states this would “adversely impact our financial condition, results of operations and cash flows,” clearly signaling a negative effect on profitability tied to sales.  
+   - Per guideline #4 (changes over time or projections affecting sales), such an adverse projection is classified as Negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence warns that customers could “substantially reduce their purchases from us,” which would “adversely impact” results—indicating a negative outlook for sales.  
+
+Context necessity: Not necessary (the sentence alone contains sufficient information)."
+f0776cf7200e0280ec02126a85bbd55b,"The decreased of $27.8 million , or 4.8%, was primarily the resultof the unfavorable net foreign currency impacts of $18.9 million, mainly from a weaker euro and the $8.7 million combined net unfavorable impact of changes involumes, mix of products sold and average selling prices, in each case compared to the prior year.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence states that an amount “decreased … $27.8 million, or 4.8%.”  
+   • Because the target is “sales,” this is an explicit year-over-year decline in sales revenue.  
+   • It attributes the decline to “unfavorable” currency and “unfavorable” volume/price factors—both negative drivers.  
+   • Guideline #4 says declining sales are a negative indicator for profitability; no offsetting positives are mentioned.  
+   • Therefore the dominant stance toward sales is Negative.  
+   • The surrounding 10-K context (“EP revenue declined 4.8% …”) confirms the interpretation but was not strictly required to reach it.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that sales fell by $27.8 million (4.8%) due to unfavorable currency and lower volume/price, signaling a negative impact on profitability.  
+
+Context use: Not necessary (sentence alone conveys the decline)."
+fb18745bc8f2a3780be76d05c90b5d55,"The revenue decrease resulted primarily from lower net selling prices partly as a result of declines in input costs as well as a lower value mix of products sold, and lower volumes reflecting adverse impacts of COVID-19.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that “revenue decrease” occurred.  
+   • It attributes the drop to “lower net selling prices,” “lower value mix,” and “lower volumes,” all of which directly diminish top-line sales and, by extension, profitability (Guideline 4: changes over time; declines are negative).  
+   • No element offsets or balances this decline, so the dominant context is unfavorable.  
+   • The broader 10-K context (Net Sales Analysis table showing −16 % sales) reinforces but is not needed; the sentence alone suffices.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence reports a decrease in revenue driven by lower prices, unfavorable product mix, and reduced volumes, signaling a negative impact on sales."
+91e051c2e9074693855e63ab4f95bd5a,"We expect water and other specialty filtration applications, surface protection products within transportation, and our products for infrastructure and construction end-markets to deliver growth exceeding GDP, or other global growth benchmarks, over the long-term due to the relative strong demand for the specific products we provide.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence states management “expect[s] … to deliver growth exceeding GDP … over the long-term,” which clearly signals an anticipated increase in revenue from those product lines.  
+   • “Growth exceeding GDP” implies sales will rise faster than the general economy, a favorable indicator for profitability (Guideline 4: projections and forward guidance).  
+   • The phrase “due to the relative strong demand” reinforces that higher future sales are expected.  
+   • There are no conflicting cues; the dominant message is a positive outlook for sales.  
+   • The provided MD&A context was not required to interpret this expectation; the sentence alone conveys the stance.
+
+2. Stance: Positive
+
+3. Brief Justification: The company expects sales in filtration, transportation surface-protection, and infrastructure products to grow faster than GDP because of strong demand, indicating a favorable sales outlook.
+
+Context usefulness: Not necessary."
+ba3d7a8f8d0a52efb72277d476cdbd53,"During the second and third quarters, the Company s results, primarily in the AMS segment, were impacted due to softer demand in several regions as a result of decreased customer ordering beginning in March 2020 when the pandemic 38",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “softer demand” and “decreased customer ordering.”  
+   • Softer demand → lower volumes sold → reduced sales revenue.  
+   • Reduced sales revenue hurts profitability; therefore, the stance toward sales is unfavorable.  
+   • No conflicting cues are present, so the dominant signal is negative.  
+   • The MD&A context confirms pandemic-related sales weakness but is not required to interpret the sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that sales were hurt because demand and customer orders fell during Q2–Q3, indicating a negative impact on sales. (Context: not necessary)"

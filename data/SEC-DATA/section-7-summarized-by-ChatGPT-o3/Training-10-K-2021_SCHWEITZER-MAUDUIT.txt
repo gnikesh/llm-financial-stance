@@ -1,0 +1,127 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Condensed Summary  
+
+The following narrative preserves the logical flow of the original MD&A while condensing non-essential prose.  All material figures, trends and qualitative explanations concerning sales, earnings, debt, cash flow, liquidity, capital commitments and outlook are retained.
+
+---
+
+## COVID-19 Pandemic  
+Management reports that all plants remain operational, customer interruptions have been “isolated and temporary,” and dialogue across the supply chain is continuous.  Demand rebounded strongly in 2021 (especially in transportation and construction), yet the ensuing global recovery drove sharp inflation in polypropylene, wood pulp, freight, energy and other inputs, pressuring margins.
+
+---
+
+## Liquidity & Debt Overview  
+At 31 December 2021 the Company carried **$1.270 billion** of total debt and **$74.7 million** of cash.  Net leverage, as defined in the $700 million Credit Agreement, stood at **4.8× EBITDA** versus a temporary covenant ceiling of 5.5×.  Undrawn capacity on the **$500 million Revolving Credit Facility** equalled **$102.2 million**; the Revolver is the nearest maturity (2023).  A new **$350 million Term Loan B** was added in February 2021 to fund the Scapa purchase.
+
+---
+
+## SUMMARY  
+
+• 2021 net sales were **$1.440 billion**, up **34 %** or **$365.6 million** versus 2020.  
+ – **$305.6 million** came from the April-2021 acquisition of **Scapa**;  
+ – Underlying AMS sales (ex-Scapa) rose >20 % in filtration, transportation and construction; healthcare sales fell against 2020’s pandemic-driven spike.  
+ – Engineered Papers (EP) sales declined **4 %** (**$21.6 million**) on lower tobacco-related volume and unfavourable mix, partly offset by **3 %** positive FX and growth in heat-not-burn (HnB) products.  
+
+• Net income increased to **$88.9 million** (2020: $83.8 million); diluted EPS rose to **$2.80** (2020: $2.66).  
+ – Earnings absorbed **$21.4 million** of Scapa transaction/integration expenses, **$17.5 million** of incremental purchase-accounting amortisation and **$6.9 million** of acquisition-related FX loss.  
+ – These were partly offset by a **$35.2 million** gain on sale of the closed Spotswood, NJ site.  
+ – Tax expense swung to a **$9.4 million benefit** from an $18.4 million provision, driving a (12.9 %) effective rate.  
+
+• Operating cash flow fell to **$58.1 million** (2020: $161.6 million) because of working-capital outflows, higher inventories (inflated resin/pulp costs) and transaction cash costs.  
+
+• Key 2021 cash uses/proceeds:  
+ – **$630.6 million** for Scapa acquisition (net consideration)  
+ – **$688.6 million** net debt issuances  
+ – **$55.3 million** dividends to shareholders  
+ – **$38.9 million** capital expenditures (incl. software)  
+ – **$35.3 million** proceeds from Spotswood property sale  
+
+---
+
+## CRITICAL ACCOUNTING ESTIMATES  
+Management’s significant estimates remain: income-tax valuation allowances; revenue variable-consideration estimates; loss contingencies; property-plant impairment; purchase-price allocations; and annual tests for goodwill and indefinite-lived intangibles.  No goodwill or indefinite-lived intangible impairments were recorded in the 2021 and 2020 annual reviews.
+
+---
+
+## RECENTLY ADOPTED ACCOUNTING PRONOUNCEMENTS  
+See Note 2; no adoptions materially altered 2021 results or liquidity.
+
+---
+
+## RESULTS OF OPERATIONS  
+
+### Consolidated Income Statement Highlights  
+
+| ($ millions, except EPS) | 2021 | 2020 | Δ % |
+|--------------------------|------|------|-----|
+| Net sales | 1,440.0 | 1,074.4 | +34 % |
+| Gross profit | 330.3 | 308.3 | +7 % |
+| Gross margin | 22.9 % | 28.7 % | –580 bp |
+| Operating profit | 83.3 | 128.8 | –35 % |
+| Net income | 88.9 | 83.8 | +6 % |
+| Diluted EPS ($) | 2.80 | 2.66 | +5 % |
+
+### Segment Performance  
+
+| 2021 Net Sales | $ millions | vs 2020 | Comment |
+|----------------|-----------|---------|---------|
+| Advanced Materials & Structures (AMS) | 930.7 | +71.2 % | +Scapa & Tekra; >20 % organic growth in filtration & transportation; construction +10 %; healthcare down |
+| Engineered Papers (EP) | 509.3 | –4.1 % | ‑2 % lower volume, ‑4 % price/mix; +3 % FX; HnB growth offset cigarette decline |
+
+AMS operating profit slipped to **$61.6 million** (margin 6.6 %) from $64.8 million as inflation, supply-chain bottlenecks and $17.5 million incremental purchase-accounting charges outweighed higher volume.  
+
+EP operating profit fell to **$100.5 million** (margin 19.7 %) from $116.8 million due to lower LIP volume, negative mix and sharply higher wood-pulp, energy and freight; currency tailwinds added $5.7 million.
+
+### Other P&L Items  
+• Interest expense rose to **$46.1 million** (2020: $30.5 million) mainly on higher debt supporting Scapa; 2020 benefited from a $4.5 million Brazilian tax-case reversal.  
+• Other income, net of **$35.9 million** reflects the $35.2 million Spotswood gain, $4.0 million CO₂-credit sale and $6.9 million Scapa-FX loss.  
+• Income from equity affiliates (CTM/CTS) increased to **$6.4 million** (2020: $4.9 million).
+
+---
+
+## LIQUIDITY AND CAPITAL RESOURCES  
+
+### Cash Flow and Working Capital  
+Operating working capital ended 2021 at **$366.7 million**, up from $232.3 million, largely due to Scapa consolidation and cost-inflated inventories.  Working-capital changes consumed **$61.4 million** cash (2020 use: $5.7 million).
+
+### Investing & Financing  
+Capital spending of **$38.9 million** targeted asset maintenance, new-product development, paper-machine rebuilds, cost reductions and IT upgrades.  Financing inflows of **$688.6 million** consisted of $744.5 million new borrowings (Revolver draw, Term Loan B) less $55.9 million principal repayments; the Company also issued $55.3 million in dividends and repurchased $3.4 million of shares for employee-tax settlements.
+
+### Debt Structure and Covenants  
+| Instrument (31 Dec 2021) | Balance ($ m) | Rate Basis | Maturity |
+|--------------------------|---------------|------------|----------|
+| Revolving Credit Facility | 399.7 drawn | L+2.25 % / ABR+1.25 % | Sep 2023 |
+| Term Loan A | 192.5 | L+2.50 % / ABR+1.50 % | Sep 2025 |
+| Term Loan B | 348.2 | L+3.75 % (0.75 % floor) / ABR+2.75 % | Feb 2028 |
+| 6.875 % Senior Notes | 349.5 (net) | Fixed | Oct 2026 |
+
+Total debt-to-capital (Credit-Agreement basis) was **65.1 %** at year-end 2021 (2020: 47.7 %).  The Company was in full covenant compliance; the amended agreement gradually steps the net-debt/EBITDA limit back to 4.5× by mid-2023.
+
+### Contractual Obligations  
+Aggregate future cash obligations total **$1.695 billion**, of which **$169.5 million** falls in 2022.  Key five-year buckets include $399.7 million Revolver maturities (2023) and $192.5 million Term Loan A (2025).  Pension plans were underfunded by **$11.4 million**; plan assets stood at $335.4 million.
+
+---
+
+## OTHER FACTORS AFFECTING LIQUIDITY AND CAPITAL RESOURCES  
+The Company outlines purchase commitments for raw materials ($55.0 million) and energy ($43.1 million), restructuring cash obligations ($6.2 million), lease liabilities ($29.8 million) and the remaining U.S. Tax Act transition-tax instalments ($18.8 million).
+
+---
+
+## OUTLOOK  
+Management expects:  
+• AMS to generate above-GDP organic growth in water/process filtration, surface-protection films and healthcare; construction and industrial sales should track broader economic activity.  
+• EP to face continued secular cigarette decline, FX swings and potential regulatory/tax shifts, but HnB growth provides a partial offset.  
+• Overall profit growth is projected, contingent on raw-material inflation moderation and continued cost-recovery pricing.  With AMS now the larger segment post-Scapa, SWM views its long-term sales and earnings trajectory more favourably diversified.
+
+---
+
+## FORWARD-LOOKING STATEMENTS  
+All projections are subject to the extensive risk factors enumerated in the filing, including pandemic impacts, commodity inflation, supply-chain disruptions, regulatory changes, competitive dynamics, successful integration of acquisitions, labour constraints and financial-market volatility.
+
+---
+
+## Item 7A. Quantitative and Qualitative Disclosures about Market Risk (abridged)  
+• A 10 % adverse currency move would lower pre-tax income by **≈$5.9 million**.  
+• A 100 bp rise in floating rates would reduce pre-tax earnings by **≈$4.4 million** after swaps (34 % of debt remains floating).  
+• Commodity sensitivities: 10 % resin cost change = **±$25.8 million**; 10 % pulp cost change = **±$4.4 million**; 10 % purchased-energy change = **±$5.0 million** (before pricing offsets).
+
+---

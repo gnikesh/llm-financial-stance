@@ -1,0 +1,114 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Summary  
+
+(All amounts are in millions of U.S. dollars, except per-share data, percentages or where otherwise indicated.)
+
+---
+
+## Introduction  
+The 2021 discussion compares results with 2020 and should be read with the consolidated financial statements. The Company uses both GAAP and certain non-GAAP measures (primarily “adjusted operating income”) to illustrate underlying operating trends. Forward-looking statements are subject to risk.
+
+---
+
+## Overview of Business  
+Neenah is a global producer of specialty materials with two reportable segments:  
+• Technical Products – filtration media, specialty tapes and liners, abrasive backings, digital transfer papers, and other engineered substrates produced in dedicated facilities in Europe, Mexico and the U.S.  
+• Fine Paper and Packaging – premium printing, packaging and specialty papers produced mainly in North America.  
+
+The mission is to make critical components that deliver performance and image advantages in markets where the Company can hold or gain a leadership position. 2021 strategy focused on: safety, cost control, capital discipline, and growth through acquisition (Itasa) and organic volume recovery.
+
+---
+
+## Business Segments  
+In January 2021 the publishing grades formerly reported in Technical Products ($26.3 net sales; $0.9 operating loss in 2020) were realigned to Fine Paper and Packaging. On 6 April 2021 Neenah acquired Global Release Liners, S.L. (“Itasa”) for $240.2 (including debt extinguishment and FX hedge losses). Itasa, now in Technical Products, added $106.9 of 2021 sales. Acquisition costs totaled $12.8, of which $5.1 related to forward-contract losses; transaction funded with cash and a new $450 Term Loan B.
+
+---
+
+## Results of Operations and Related Information  
+
+### Consolidated Highlights  
+
+|  | 2021 | 2020 | Δ |
+|---|---|---|---|
+| Net sales | $1,028.5 | $792.6 | +30 % |
+| GAAP operating income (loss) | (11.8) | (6.1) | –5.7 |
+| Adjusted operating income | 72.0 | 64.4 | +7.6 |
+| Net income (loss) | (25.0) | (16.0) | –9.0 (approx.; derived from % of sales) |
+| Cash provided by operations | 53.2 | 93.4 | –40.2 |
+| Capital expenditures | 28.2 | 18.9 | +9.3 |
+| Cash & cash equivalents (EOY) | 23.9 | 37.1 | –13.2 |
+| Total debt (EOY) | 441.3 | 194.4 | +246.9 |
+| Net debt (EOY) | 417.4 | 157.3 | +260.1 |
+
+Adjusted operating income excludes $83.8 of 2021 and $70.5 of 2020 “adjusting items” (impairments, pension settlements, acquisition and integration costs, COVID-19, loss on debt extinguishment, restructuring).
+
+### Net Sales  
+Sales rebounded strongly from COVID-19 lows:
+
+• Technical Products rose 38 % to $664.2, driven by organic volume recovery, $106.9 from Itasa, and $8.3 in price increases, partly offset by an unfavorable value mix (supply-chain-driven).  
+• Fine Paper and Packaging rose 18 % to $364.3, reflecting higher volumes across categories, $10.6 in price increases and richer product mix.
+
+Currency added $11.9 to consolidated growth.
+
+### Operating Income  
+Segment detail (GAAP):
+
+|  | 2021 | 2020 | Δ |
+|---|---|---|---|
+| Technical Products | 5.6 | (3.9) | +9.5 |
+| Fine Paper & Packaging | 40.9 | 22.4 | +18.5 |
+| Unallocated corporate | (58.3) | (24.6) | –33.7 |
+| Consolidated | (11.8) | (6.1) | –5.7 |
+
+Key drivers:  
+• Volume recovery and acquisition synergies (+$49.8).  
+• Net pricing/mix (+$6.5) offset by sharp cost inflation in pulp, energy, chemicals, freight (–$46.7).  
+• Higher labor turnover, training, bonus and overtime reduced productivity.  
+• Unallocated corporate costs include $16.5 pension settlement loss and $12.6 acquisition costs; in November the Company annuitized $64 of U.S. pension obligations, triggering a $15.6 settlement charge but expected $7 lifetime savings.
+
+Adjusted operating income by segment: Technical Products $51.1 (-4 %), Fine Paper & Packaging $41.7 (+37 %), Corporate (20.8) (worse by 1.8).
+
+Gross margin fell to 15.9 % from 19.3 %, primarily on cost inflation and mix; SG&A rose to 9.9 % of sales (Itasa inclusion and normalization of 2020 cost curtailments). Interest expense increased to $17.9 (vs. $12.6) owing to the upsized Term Loan B. The effective tax rate remained a 16 % benefit, reflecting pretax loss, valuation-allowance changes, CARES Act NOL carrybacks and write-off of a $2.9 deferred tax asset related to the Appleton closure.
+
+### Significant Special Charges  
+• Appleton, Wisconsin mill permanently closed; $32.4 non-cash impairment + $4.9 other restructuring (obsolete inventory, severance, environmental).  
+• Total 2021 impairment & restructuring: $37.3 (vs. $57.8 in 2020).  
+• Loss on debt extinguishment: $7.2 from replacing the 2020 Term Loan B.  
+
+---
+
+## Liquidity and Capital Resources  
+
+### Cash Flow  
+Operating cash flow fell by $40.2 to $53.2, mainly from $218 sales rebound requiring higher working capital and payment of $2.2 deferred 2020 payroll taxes plus higher foreign tax payments.  
+
+Investing used $264.3 (vs. $19.5) largely for the Itasa purchase ($240.2) and higher capex ($28.2).  
+
+Financing provided $199.2 (vs. used $47.0) principally from net debt issuances to fund Itasa; share repurchases were $5.0 and dividends $31.9 (unchanged per-share payout of $1.885 for 2021).
+
+### Capitalization & Facilities  
+• Cash 12/31/21: $23.9 (-$13.2 YOY); only $0.4 held in U.S.  
+• Debt 12/31/21: $441.3 (Term Loan B $448.7 variable; €1.9 in German project loans), maturing April 2028; scheduled principal $6.4 due in 2022.  
+• Net leverage increased; total leverage ratio >3.0× but <4.0×, restricting discretionary dividends/repurchases above $8.75 per quarter unless basket capacity used.  
+• Global Revolving Credit Facility: $175 commitment, $0.9 drawn, $0.3 LCs, $146.1 available, matures December 2023.  
+• Material cash requirements (undiscounted): $818 over all years, with $161 in 2022 dominated by open purchase orders ($116.5) and debt/interest ($23.2).  
+
+Management believes existing liquidity and borrowing capacity are sufficient for the next 12 months; long-term cash generation depends on cost control, pricing actions, demand trends and successful strategy execution.
+
+---
+
+## Other Items  
+• Dividends: $31.9 paid in each of 2021 and 2020; quarterly rate raised to $0.475 in Q4-21.  
+• Share repurchases: 103,785 shares for $5.0 under the $25 program; 19,273 shares for $1.0 surrendered for taxes.  
+• Tax attributes at 12/31/21: $30.8 U.S. federal and $7.7 state R&D credits; $69.9 state NOLs; valuation allowance $7.2.  
+• Pension expense rose to $18.7 (vs. $4.0) mainly from settlement losses; discount rate 2.58 % and expected return 4.90 % (U.S. plan).  
+• Market risk sensitivities: every $100/ton pulp cost change ≈ ±$19 in annual cost; 10 % USD strengthening vs. local currencies ≈ $4 pretax; 100 bp rate hike ≈ +$4.5 interest on variable debt.
+
+---
+
+## Critical Accounting Policies and Estimates  
+Key areas requiring significant judgment include inventory costing (LIFO in U.S.), income-tax valuation allowances and uncertain positions, pension assumptions (discount rate, return on assets, mortality), impairment testing for long-lived and indefinite-lived assets (trigger events included Appleton closure), and purchase-price allocation for acquisitions (Itasa).  
+
+---
+
+## Conclusion  
+2021 showed sharp top-line recovery (+30 %) and accretive acquisition growth, but profitability was pressured by unprecedented input-cost inflation, supply-chain constraints and labor inefficiencies, resulting in a GAAP operating loss but higher adjusted earnings. Liquidity remains adequate after the leveraged Itasa purchase, with manageable near-term debt service and strong revolver availability. Strategic priorities include further pricing/mix improvement, integration synergies, cost mitigation, safety performance, and disciplined capital allocation to achieve long-term value creation.

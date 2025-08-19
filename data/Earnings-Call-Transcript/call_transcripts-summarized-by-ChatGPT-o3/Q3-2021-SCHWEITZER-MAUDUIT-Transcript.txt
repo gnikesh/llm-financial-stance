@@ -1,0 +1,51 @@
+# Schweitzer-Mauduit International (SWM) – Q3 2021 Earnings Call Summary
+
+Schweitzer-Mauduit International’s third-quarter 2021 results reflected vigorous end-market demand but also unprecedented cost inflation, raw-material scarcity, logistics bottlenecks and labour shortages that materially compressed margins and earnings.
+
+Management delivered consolidated net sales of $384 million, a 37 % increase year-over-year (-1 % organically) but adjusted operating profit fell 24 % to $40 million.  Adjusted EPS dropped to $0.82 from $1.16 a year ago; GAAP EPS was $0.38 versus $0.78.  The company estimates that unrecouped resin and pulp inflation alone reduced EPS by more than $0.20 and lost transportation-film sales tied to resin shortages cut a further $0.10.
+
+## Segment Performance
+
+Advanced Materials & Structures (AMS)  
+• Sales surged 87 % on the addition of the April-acquired Scapa Group and rose 10 % organically; transportation and filtration each grew roughly 25 %.  
+• Without resin scarcity and labour gaps, organic growth could have exceeded 20 %.  
+• Adjusted operating profit increased 9 % to $27 million, but the margin contracted 750 bp to 10.5 % because resin, freight and other inputs rose faster than price increases.  Polypropylene alone hit profits by about $5 million.  
+• Scapa contributed >$9 million of operating profit; about $2.5 million of its SG&A was booked in corporate unallocated expense.  The deal was slightly dilutive in the quarter but is still expected to provide roughly $0.50 of EPS accretion by the back half of 2022 once synergies and normalised costs materialise.  
+• Paint-protection-film (PPF) capacity remains fully utilised; tens of millions of dollars of 2021 PPF revenue have been deferred by thermoplastic polyurethane (TPU) shortages.  Additional resin supply for 2022 has been secured, supporting management’s expectation of >10 % PPF growth next year on top of 2021’s strong gains.  
+• Filtration growth was constrained by understaffed plants, costing an estimated $4–5 million of quarterly sales.
+
+Engineered Papers (EP)  
+• Sales declined 12 % (volume –10 %) against a difficult comparison that included last year’s COVID-related customer inventory builds of low-ignition-propensity (LIP) paper.  
+• Higher pulp, freight, energy and natural-gas costs weighed heavily; net of partial price pass-throughs, pulp inflation alone reduced profit by roughly $3 million.  
+• The NBSK pulp index peaked near $1,340/ton (+60 % YoY) during Q3; management believes prices have plateaued and expects modest relief in coming quarters.  
+• Heat-not-burn and hemp/botanical products continued to ramp and carry attractive margin profiles.  A first meaningful hemp-filler contract is close to finalisation and could become a multimillion-dollar account within two years.  
+• The company is closing its Winkler, Manitoba facility by year-end following the earlier Spotswood, New Jersey closure to further streamline the cost base.
+
+## Inflation, Pricing & Supply Chain Actions
+
+• Multiple price increases have been pushed through, the latest effective 1 October, yet benefits lag cost escalation by one to two quarters.  
+• Resin (especially polypropylene) averaged ~$1.40/lb in Q3 and flows into Q4 COGS; October pricing has softened and industry forecasts call for sub-$1/lb by 2H 2022.  
+• Contractual pulp price pass-throughs occur mainly at the start of each year; certain contracts are being renegotiated to incorporate more frequent adjustments.  
+• Labour shortages are being tackled via wage increases, retention programmes and accelerated automation under SWM’s Manufacturing 4.0 initiative.
+
+## Outlook and Guidance
+
+• Q4 2021 adjusted EPS is projected to be about 20 % below the prior-year $0.77 (≈$0.62), reflecting high-cost raw materials purchased in Q3, ongoing material scarcity and labour constraints.  
+• Full-year 2021 adjusted EPS is now expected to finish roughly 10 % below the low end of the original $3.90–$4.10 guidance range issued early in the year.  
+• Management anticipates “strong operating-profit growth” in 2022 as resin and pulp costs ease, price increases catch up, Scapa synergies flow, and supply constraints abate.  They target exiting 2022 on a run-rate “approaching $4” of adjusted EPS, effectively returning to the earnings power assumed in the original 2021 plan.  
+
+## Cash Flow, Balance Sheet & Liquidity
+
+• Year-to-date operating cash flow was $28 million versus $108 million in 2020, impacted by $14 million of Scapa-related cash charges and a $50 million working-capital outflow (≈$30 million due to inflation-driven inventory cost).  
+• Net debt stood at just over $1.2 billion; leverage under the credit agreement was 4.8 × EBITDA, comfortably below the 5.5 × covenant.  
+• Total liquidity was about $160 million (cash $73 million plus $86 million undrawn revolver).  An asset sale from discontinued operations is expected to close in Q4, providing additional cash.  
+
+## Strategic Priorities
+
+Despite near-term margin pressure, SWM continues to:  
+• Invest in capacity expansions for high-growth franchises such as paint-protection films, water/process filtration media and heat-not-burn papers.  
+• Advance product innovation, especially in hemp, botanicals, and wound-care materials.  
+• Pursue commercial and cost synergies from the Scapa integration.  
+• Deploy Manufacturing 4.0 technologies to offset labour tightness, improve quality and enhance efficiency.
+
+Management remains confident that these initiatives, combined with moderating input-cost headwinds and recovering supply chains, will restore profitability and generate sustained EPS growth in 2022 and beyond while maintaining a disciplined balance-sheet posture.

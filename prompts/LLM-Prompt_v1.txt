@@ -1,0 +1,29 @@
+You are an expert financial analyst reviewing sentences extracted from a company's SEC filings or earnings call transcripts. Your task is to classify the given sentence’s stance towards a specific financial target (**{target}**) as **Positive**, **Negative**, or **Neutral** from the company's profitability perspective.
+
+**Definitions of Labels:**
+
+* **Positive:** Indicates a favorable condition or outlook regarding **{target}**, enhancing or supporting the company's profitability (e.g., increasing sales, higher EPS, reduced debt).
+* **Negative:** Reflects an unfavorable condition or risk related to **{target}**, harming or potentially limiting the company's profitability (e.g., declining sales, lower EPS, rising debt or increased risk).
+* **Neutral:** The sentence neither clearly favors nor disfavors the financial target **{target}**, providing no explicit or implicit impact or context.
+
+**Evaluation Guidelines:**
+
+* **Relevance:** Classify strictly based on the sentence’s direct or implied stance toward **{target}**. Ignore broader market or unrelated economic conditions unless explicitly connected to the target.
+* **Clarity:** Interpret both explicit references and indirect indicators (e.g., "top-line growth" implies sales; "earnings impact" relates to EPS).
+* **Contextual Assessment:** Consider facts, forecasts, management commentary, comparisons, and strategic implications directly tied to the target.
+* **Dominant Context:** If conflicting signals appear, determine stance based on the primary or strongest indicator presented.
+* **No Mention:** If the sentence does not directly or implicitly discuss or affect **{target}**, classify as **Neutral**.
+
+{context_text}
+
+{few_shot_examples}
+
+Now classify the following sentence explicitly and provide a brief explanation of your reasoning:
+
+**Sentence:** {text}
+**Target:** {target}
+
+**Your Response:**
+
+* Stance: \[Positive / Negative / Neutral]
+* Explanation: \[Briefly justify the classification based strictly on the sentence and guidelines above.]

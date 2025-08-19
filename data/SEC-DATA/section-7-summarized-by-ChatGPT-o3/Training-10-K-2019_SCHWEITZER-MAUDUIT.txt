@@ -1,0 +1,46 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations  
+
+In 2019 Schweitzer-Mauduit International, Inc. (“SWM”) generated net sales of $1,022.8 million, a year-over-year decline of $18.5 million, or 1.8 percent; excluding an unfavorable $21.2 million currency impact, revenue would have risen $2.7 million.  Net income fell from $94.5 million in 2018 to $85.8 million, principally because 2019 absorbed $6.6 million after-tax expense tied to Brazilian tax assessments whereas 2018 benefited from a $7.7 million contingent-consideration revaluation gain, a $13.0 million Tax-Act adjustment, and absorbed a $15.0 million impairment of the Company’s Chinese joint venture.  Diluted earnings per share decreased to $2.76 from $3.06.  Cash provided by operating activities improved to $160.3 million (2018: $139.1 million), aided by better working-capital management.  The Company used this cash to repay $80.5 million of net debt, pay $54.4 million in common-stock dividends, and fund $28.6 million of capital expenditures.
+
+# CRITICAL ACCOUNTING POLICIES AND ESTIMATES  
+Management’s most judgment-sensitive policies concern income-tax accounting, revenue recognition, loss contingencies, long-lived-asset valuation, business-combination purchase accounting, equity-method investment impairment, and the annual impairment testing of goodwill and indefinite-lived intangibles.  No goodwill or indefinite-lived-intangible impairments were recorded in either 2019 or 2018.  The Company has elected to treat Global Intangible Low-Taxed Income (“GILTI”) as a current-period expense.
+
+# RECENT ACCOUNTING PRONOUNCEMENTS  
+No recently issued accounting standards had a material impact on 2019 results, cash flows, or financial position.
+
+# RESULTS OF OPERATIONS  
+
+| $ in millions (except per-share data) | 2019 | 2018 | Δ $ | Δ % |
+|--------------------------------------|------|------|-----|-----|
+| Net sales                            | 1,022.8 | 1,041.3 | (18.5) | (1.8) |
+| Gross profit                         | 290.0 | 278.5 | 11.5 | 4.1 |
+| Operating profit                     | 134.0 | 135.0 | (1.0) | (0.7) |
+| Net income                           | 85.8 | 94.5 | (8.7) | (9.2) |
+| Diluted EPS ($)                      | 2.76 | 3.06 | (0.30) | (9.8) |
+
+Segment detail:
+
+* Advanced Materials & Structures (“AMS”) revenue increased 2.0 percent to $477.2 million, driven by filtration, transportation surface-protection films, and medical applications.  AMS operating profit jumped 29.9 percent to $64.3 million as resin costs eased and prior-year plant-closure expenses did not recur.  
+* Engineered Papers (“EP”) revenue declined 4.8 percent to $545.6 million because of $18.9 million of adverse currency translation and lower volume/price of $8.7 million; stronger sales of low-ignition-propensity (“LIP”) and wrapper papers partly offset this drop.  EP operating profit slipped 2.1 percent to $119.2 million due to higher restructuring charges, Brazil tax-assessment expense, and currency headwinds, partly mitigated by favorable mix and pulp-cost relief.
+
+Gross margin improved to 28.4 percent from 26.7 percent, reflecting lower input costs and productivity gains; non-manufacturing expenses rose $10.5 million, largely because of higher stock-linked deferred-compensation and IT spending.  Restructuring and impairment expense was $3.7 million (2018: $1.7 million).  Interest expense climbed to $36.1 million, including $7.1 million of Brazil-assessment interest, and the effective tax rate rose to 15.7 percent from 9.2 percent, chiefly because the 2018 period contained a $13 million Tax-Act benefit.  Income from equity affiliates rebounded to $4.1 million versus a $11.3 million loss that had included a $15.0 million impairment.
+
+# LIQUIDITY AND CAPITAL RESOURCES  
+Cash and equivalents totaled $103.0 million at year-end, of which $60.3 million was held by foreign subsidiaries.  Net operating working capital stood at $168.8 million, down from $195.2 million.  Capital spending of $28.6 million focused on filtration-capacity additions, Chinese and Polish AMS facilities, paper-machine rebuilds, and IT infrastructure; 2020 capital expenditures are budgeted at $40–$45 million.
+
+## Capital structure and debt  
+At 31 December 2019 total debt (face value) was $552.2 million, comprising $2.8 million current and $549.4 million long-term obligations.  The debt-to-capital ratio declined to 47.6 percent from 52.7 percent.  The Company’s $700 million Credit Agreement provides a $500 million revolver and a $200 million term loan; unused revolver capacity was $495.5 million.  The seven-year term loan bears LIBOR + 200 basis points and amortises 1 percent annually until its 2025 maturity.  In 2018 SWM also issued $350 million of 6.875 percent senior unsecured notes due 2026.  All debt covenants were satisfied.
+
+Contractual obligations, including debt principal, interest, leases, purchase commitments, and the remaining Tax-Act transition tax, aggregate $869.9 million; $77.6 million falls due in 2020.  There are no material off-balance-sheet arrangements.
+
+## Dividends and share repurchases  
+The Company paid $54.4 million of dividends in 2019 and subsequently declared a quarterly dividend of $0.44 per share payable 20 March 2020.  Shares valued at $0.9 million were withheld for employee-tax obligations; no open-market repurchases occurred.
+
+# OTHER FACTORS AFFECTING LIQUIDITY AND CAPITAL RESOURCES  
+Future cash uses include $23.7 million of remaining Tax-Act transition-tax installments (through 2025), modest environmental-compliance capex (<$1 million per year), and pension contributions consistent with Pension Protection Act requirements.  Pension plans were under-funded by $24.9 million on a projected-benefit-obligation basis, with plan assets of $127.0 million.
+
+# OUTLOOK  
+Management expects AMS to outpace general economic growth over the long term, led by water and specialty filtration, surface-protection films, and infrastructure products; margin expansion is anticipated absent sharp raw-material inflation.  EP faces structural cigarette-consumption declines, currency volatility, and potential regulatory changes; continued product-mix improvement, cost actions, and positions in reduced-risk-product substrates are intended to mitigate these headwinds.  No significant incremental borrowings are planned for 2020 unless strategic acquisitions arise.
+
+# FORWARD-LOOKING STATEMENTS  
+The report’s projections are subject to numerous risks, including but not limited to raw-material cost swings, currency fluctuations, regulatory and tax changes, litigation outcomes, tariff impacts, successful execution of growth and restructuring initiatives, pension-funding requirements, and macroeconomic conditions.  Actual results could differ materially; the Company undertakes no duty to update forward-looking statements except as required by law.

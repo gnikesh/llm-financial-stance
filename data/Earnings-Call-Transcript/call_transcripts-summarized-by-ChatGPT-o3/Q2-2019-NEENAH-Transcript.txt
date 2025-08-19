@@ -1,0 +1,51 @@
+# Neenah, Inc. – Q2 2019 Earnings Call Summary  
+
+Neenah reported a second-quarter revenue of $253 million, 7 % below last year’s record quarter; after removing a $9 million negative currency effect and the December 2018 divestiture of the Brattleboro mill, underlying sales fell 2 %. GAAP diluted earnings per share were $0.80 versus a loss of $0.29 a year ago, when results were burdened by a $1.47 per-share Brattleboro impairment. 2019 GAAP results included $0.15 per share of non-routine charges, largely for accelerated depreciation tied to a forthcoming machine shutdown. Excluding all special items, adjusted EPS were $0.95, up sharply from $0.69 in Q1-19 but below $1.18 in Q2-18.  
+
+Adjusted operating income was $23 million, increasing almost $6 million sequentially and expanding adjusted operating margin by 200 basis points, yet still trailing the year-ago quarter. Pricing initiatives and cost controls fully offset $4 million of year-on-year input-cost inflation (principally pulp, energy and chemicals).  
+
+Operating cash flow of $38 million (Q2-18: $32 million) and disciplined capex of just $5 million allowed Neenah to repay more than $20 million of debt. Period-end net debt stood at $224 million, down $23 million since March and below 2× EBITDA; the bulk remains the $175 million senior notes maturing May 2021, all of which are pre-payable without penalty. Interest expense declined to $3 million (Q2-18: $3.3 million).  
+
+## Segment Performance  
+
+Technical Products  
+• Revenue was $146 million versus $154 million last year; roughly half the decline was currency-related, with the remainder from lower volumes.  
+• Constant-currency filtration sales grew 8 % (transportation, industrial and water filtration all strong), but this was more than offset by weakness in backings, a category with 60 % non-U.S. exposure (20 % in Asia) hurt by the strong dollar, tariffs and “nationalism.”  
+• GAAP operating income was $12.5 million (Q2-18: $15.8 million). After adjusting for $0.4 million of restructuring costs this year and $1.8 million last year, operating income of $12.9 million fell $4.7 million. Price/mix gains fully covered >$2 million of higher input costs, yet volumes and FX curtailed profit.  
+
+Fine Paper & Packaging  
+• Sales declined to $107 million from $116 million; three-quarters of the drop stemmed from the Brattleboro sale, with the remainder due to softer commercial print volumes and mix. Premium packaging continued to grow.  
+• GAAP operating income swung to a $12.9 million profit from an $8.8 million loss, the latter reflecting a 2018 impairment. 2019 included $3 million of optimization costs tied to shutting a paper machine.  
+• Adjusted operating income was $15.9 million, down $0.8 million year over year; margins rebounded to nearly 15 %, in line with historical averages.  
+
+## Cost Actions and Capacity Changes  
+
+A Fine Paper machine in Appleton (about 20 000 tons of capacity) will be idled in Q3. Non-cash charges of ~$2 million were recorded in Q2, with another ~$2 million expected in Q3. When complete, the move should yield roughly $1 million of annual savings starting in Q4 while leaving the segment effectively fully utilized on its remaining six machines.  
+
+Annual planned maintenance shutdowns in Q3–Q4 will carry a $3 million–$5 million earnings headwind (downtime plus higher maintenance spend). The company is also targeting ongoing SG&A at slightly under $25 million per quarter in the second half (Q2 actual: $27 million, largely elevated medical expense).  
+
+## Input Costs, Pricing and Outlook  
+
+Pulp remains up year on year but has fallen from late-2018 peaks; Neenah expects further moderation in the second half and anticipates its pricing actions will fully offset the cumulative pulp inflation by year-end, positioning margins on a “normalized footing” entering 2020. Energy and chemical costs, particularly in Germany, are still elevated.  
+
+Management warned that sluggish global macro conditions, a strong U.S. dollar and weaker industrial demand—especially outside North America—will continue to suppress volumes, mainly in Technical Products. Q2 currency translation alone reduced revenue by ~$5 million and earnings by >$0.5 million. Commercial initiatives to win incremental volume, customized R&D efforts (notably in overseas backings) and tight cost controls are expected to partially counter these pressures.  
+
+## Capital Allocation and Liquidity  
+
+Neenah generated only $9 million of capex year-to-date and now forecasts full-year spending of about $30 million, the lower end of its normal 3 %–5 % of sales range, as certain growth projects are deferred. Working capital is being held near 15 % of sales.  
+
+The company continues to return cash: dividends have increased materially over time and both the current dividend yield and payout ratio are now aligned with target. A standing share-repurchase authorization offers additional flexibility. Pension plans are well funded; 2019 cash outlays for all post-retirement obligations are estimated at $15 million, $6 million below last year.  
+
+## Strategic and Organizational Developments  
+
+• The new Appleton filtration asset remains on its planned production ramp; once fully qualified, management still targets ~$70 million of annual filtration revenue from the mill.  
+• Ron Lane joined in July as Senior Vice President of Operations, bringing experience in global manufacturing and continuous-improvement processes.  
+• Management reiterated its disciplined M&A strategy—strong preference for bolt-on, strategic fits funded by the healthy balance sheet—but noted that current market valuations remain high.  
+
+## Tax and Other Items  
+
+The Q2 effective tax rate was 19 %; a rate closer to 20 % is expected for H2-19. Cash taxes should remain in the mid-teens for several years thanks to R&D credits. Unallocated corporate SG&A was $5.6 million (slightly above the customary $5 million run rate).  
+
+## Bottom Line  
+
+Despite continued global softness, currency headwinds and higher raw-material costs, Neenah posted sequentially stronger margins, solid free cash flow and meaningful debt reduction in Q2 2019. Ongoing filtration growth, premium packaging gains, cost-out initiatives (including the Appleton machine shutdown) and easing pulp prices are expected to support further improvement, even as Technical Products volumes remain under pressure from macro conditions and a strong U.S. dollar. Management believes the company will exit 2019 with normalized margins, a conservative leverage profile and ample flexibility to pursue disciplined organic investments and value-accretive acquisitions.

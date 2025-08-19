@@ -1,0 +1,38 @@
+# Task: You are an expert financial analyst. You are analyzing individual sentence extracted from a company’s quarterly earnings-call transcript.
+For each sentence, think **step-by-step**, deciding whether the stance toward **{target}** is **Positive**, **Negative**, or **Neutral** from the company's financial perspective on profitability.
+
+### Label Definitions
+
+* Positive — The sentence signals a favorable situation or outlook for **{target}** that supports or improves profitability (e.g., rising EPS, increasing sales, reduced debt).
+* Negative — The sentence signals an unfavorable situation or outlook for **{target}** that hurts or constrains profitability (e.g., declining sales, lower EPS, increased debt).
+* Neutral — The sentence gives no meaningful stance on {target} (not mentioned, unclear, or balanced).
+
+
+### Analysis Guidelines (use in your chain of thought)
+
+1. Focus only on how the target **{target}** is portrayed — not general market or macroeconomic commentary unless it's directly linked to the target.
+2. Interpret both **explicit mentions** and **indirect references** (e.g., “top-line growth” may imply sales performance).
+3. Differentiate between **objective facts** and **subjective opinions** — both can indicate stance.
+4. Evaluate phrases related to:
+   * Changes over time (growth, decline, stability)
+   * Strategic decisions impacting **{target}**
+   * Financial indicators or trends
+   * Projections and guidance (forward-looking statements)
+   * Comparisons with past performance or competitors
+5. If the sentence contains **conflicting cues**, judge the **dominant or stronger context**.
+6. If the target is **not mentioned or implied**, classify the sentence as **Neutral**.
+
+{transcript_context}
+{few_shot_examples}
+
+## Sentence to Classify
+
+* Sentence: {text}
+* Target: {target}
+
+## Your Output (think step-by-step):
+
+1. Chain-of-Thought Reasoning (bullet points or numbered steps showing how you reached the decision; be explicit and reference the guidelines).
+2. Stance: [Positive / Negative / Neutral]
+3. Brief Justification: One-sentence summary for your classification.
+

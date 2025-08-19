@@ -1,0 +1,46 @@
+# Mativ Holdings Q3 2022 Earnings – Detailed Financial Summary
+
+Mativ’s first quarter of combined reporting following the July 6, 2022 merger of SWM and Neenah delivered solid year-over-year profit growth but also revealed new headwinds that have prompted a more cautious outlook for the balance of 2022.
+
+Third-quarter net sales were $674 million.  On a like-for-like basis (legacy SWM + legacy Neenah) organic revenue expanded 12 percent in constant currency and 7 percent after an unfavorable foreign-exchange impact, driven almost entirely by pricing as volumes were essentially flat.  Adjusted operating profit for the comparable businesses grew 24 percent, expanding margin by 160 basis points, and price actions exceeded inflation by roughly $23 million.  Adjusted EBITDA totaled $93 million and adjusted EPS was $0.74.  
+
+Interest expense was approximately $24 million; after executing interest-rate swaps roughly 75 percent of total debt now carries fixed rates, giving a blended borrowing cost of about 5.25 percent.  Management still expects to finish 2022 with net leverage at or below 3.75 × EBITDA.
+
+## Segment performance  
+
+Advanced Technical Materials (ATM)  
+• Organic revenue rose 6 percent—or 12 percent on a constant-currency basis—on strong pricing in release liners, protective solutions, and filtration.  
+• Comparable adjusted operating profit advanced 28 percent, with margin up 240 basis points; gains came chiefly from price recovery, partly offset by lower volume/mix and manufacturing inefficiencies related to the quarter’s cyber incident.  
+
+Fiber-Based Solutions (FBS)  
+• Organic revenue increased 7 percent, or 12 percent excluding currency, again led by price.  Packaging, commercial print, and consumer products posted double-digit gains.  
+• Comparable adjusted operating profit rose 6 percent; margin was essentially flat.  Price-cost was positive by roughly $6 million but was offset by volume/mix softness and pulp-driven cost pressure in Engineered Papers.  
+
+## Synergy progress and cost outlook  
+
+The $65 million cost-synergy program (largely SG&A in the early stages, procurement and operating efficiencies later) is “well underway.”  Management now expects to exit 2022 above the originally targeted $20 million run-rate and is selectively pulling forward savings that had been scheduled for early-to-mid-2023.
+
+Input-cost inflation remains significant.  Electricity and natural-gas prices in Europe have surged following the Russia-Ukraine conflict; together the two utilities now represent an annualized cost run-rate near $130 million.  Approximately 70 percent of 2023 European energy exposure has already been hedged, albeit at elevated prices.  Wood-pulp costs are at multi-year highs but are expected to ease sequentially through 2023, with year-over-year relief not visible until mid-year.  Specialty resin prices remain stubbornly high, while some commodity-grade resins have begun to decline.
+
+Mativ continues to renegotiate contracts to include broader raw-material, chemical, freight, and energy escalators that adjust semi-annually or quarterly, and has instituted targeted surcharges where permissible.  The company believes price recovery will ultimately offset the latest cost increases, although lags will depress second-half 2022 earnings.
+
+## Macroeconomic, FX and cyber headwinds  
+
+Since mid-year, management has observed a modest (estimated 2–4 percentage-point) slowdown in demand as customers temper inventories, especially in Europe.  Currency has moved sharply against the company; the weaker euro alone is a roughly $5 million EBITDA headwind for the back half.  European energy costs could trim another $5 – 10 million, and the third-quarter cyber incident—now fully remediated—cut EBITDA by an additional $5 million-plus and generated $6 million of out-of-pocket expenses (excluded from adjusted results, with insurance recovery expected for a portion).
+
+## Revised outlook  
+
+Management’s prior forecast of $210 – 230 million EBITDA for the second half has been trimmed to “around $200 million,” implicitly guiding to a Q4 EBITDA comparable with Q3’s $93 million.  Pricing actions, incremental synergy capture and some sales deferred by the cyber event are expected to offset seasonal softness, so Q4 profits should again show pronounced year-over-year growth.  The company continues to target “$100 million-plus” EBITDA quarters during 2023; full-year 2023 guidance will be provided in February.
+
+## Balance-sheet and capital structure  
+
+Free-cash-flow absorption linked to merger closing weighed on Q3, but a normalized FCF pattern and stepped-up working-capital program are expected in Q4.  Absent further shocks, the company anticipates exiting 2022 with net debt/EBITDA no higher than 3.75×, consistent with prior commitments.
+
+## Strategic and operational highlights  
+
+• Release liners capacity is being expanded in Mexico to support growth in the Americas.  
+• Protective solutions is capitalizing on demand for paint-protection film and exploring “smart bath” applications.  
+• Water, air and industrial filtration remain structural growth platforms.  
+• Early customer response to the combined portfolio has been positive, with clients valuing a broader technical offering and more secure supply chain.  
+
+Despite currency volatility, surging European energy prices, a cyber attack and signs of macro slowing, management affirms the merger thesis and long-term targets: sustained organic growth led by filtration, release liners and protective solutions; EBITDA margin expansion via dynamic pricing and a $65 million synergy pipeline; and continuing deleveraging of the balance sheet.

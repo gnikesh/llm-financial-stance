@@ -1,0 +1,116 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations  
+(The headings mirror the original document for ease of reference. All figures are in U.S. dollars unless otherwise noted.)
+
+## Management’s Discussion and Analysis – Overview  
+Mativ Holdings, Inc. (“Mativ” or “the Company”) completed its transformational merger with Neenah, Inc. on 6 July 2022. 2022 results therefore include Neenah from the acquisition date.  Prior‐year comparatives include the April 2021 Scapa acquisition.  Throughout 2022 the Company faced substantial merger‐related costs, higher input prices, a cyber-attack, and rising interest rates, all of which materially influenced earnings, cash flow and leverage.
+
+## Merger  
+• Each Neenah share was exchanged for 1.358 Mativ shares; c. 22.8 million new shares were issued, valued at $534.1 million.  
+• A $650 million Delayed-Draw Term Loan funded at closing repaid Neenah’s $504.9 million debt and repaid $100 million on Mativ’s revolver.  
+• Post-closing, the Company adopted two reportable segments:  
+  – Advanced Technical Materials (ATM) – legacy SWM AMS + allocated Neenah businesses  
+  – Fiber-Based Solutions (FBS) – legacy SWM Engineered Papers + allocated Neenah businesses  
+• “MATV” began trading on the NYSE on 6 July 2022.
+
+## Critical Accounting Estimates (snapshot)  
+Management highlights complex judgments in income taxes, revenue recognition, contingencies, PP&E valuation, business combinations, and goodwill/intangibles testing.  No goodwill or indefinite-lived intangible impairments were recorded in 2022.
+
+## Summary of 2022 Consolidated Performance  
+• Net sales: $2.167 billion, +50.5 % versus 2021, driven by Neenah, price increases, and select volume growth, partially offset by adverse FX.  
+• Gross profit: $437.6 million (+32.5 %); gross margin contracted to 20.2 % (from 22.9 %) due to higher pulp, resin, energy and $19.3 million in purchase-accounting COGS.  
+• Operating profit: $51.4 million (-38.3 %); operating margin fell to 2.4 %.  
+• Net loss: $(6.6) million versus 2021 net income of $88.9 million.  
+• Diluted EPS: $(0.18) versus $2.80.  
+• Merger & integration costs: $72.6 million; non-cash purchase-accounting charges: $29.4 million; restructuring & impairment: $19.3 million.  
+• Weighted-average diluted shares: 42.7 million (vs. 31.4 million in 2021).
+
+## Results of Operations  
+
+### Net Sales by Segment  
+
+| Segment | 2022 | 2021 | $ Change | % Change |
+|---------|------|------|----------|----------|
+| ATM | $1,396.2 m | $930.7 m | +$465.5 m | +50.0 % |
+| FBS | $771.2 m | $509.3 m | +$261.9 m | +51.4 % |
+| Total | $2,167.4 m | $1,440.0 m | +$727.4 m | +50.5 % |
+
+• ATM strength stemmed from release liners and protective solutions; FBS growth concentrated in packaging and specialty papers.  
+• Broad-based price increases mitigated, but did not fully offset, inflation in pulp, resin and energy.
+
+### Gross Profit  
+Gross profit rose $107.3 million to $437.6 million; however, margin compressed 270 bps due to unfavorable mix, inflation and purchase-accounting COGS.
+
+### Non-Manufacturing Expenses  
+Selling, R&D and general expenses increased 54.9 % to $366.9 million (16.9 % of sales) largely from:  
+• $72.6 million direct/indirect merger costs  
+• $10 million incremental intangible amortization  
+• Inclusion of Neenah overhead.
+
+### Restructuring & Impairment  
+Expense doubled to $19.3 million:  
+• ATM: $17.2 million (write-down and loss on sale of an industrial-products unit, Appleton facility closure, contract termination).  
+• FBS: $1.3 million (benefits linked to Winkler closure).  
+• Corporate: $0.8 million lease modifications tied to the merger.
+
+### Operating Profit by Segment  
+
+| Segment | 2022 | 2021 | Δ | Margin ’22 | Margin ’21 |
+|---------|------|------|----|-----------|-----------|
+| ATM | $98.8 m | $61.6 m | +60.4 % | 7.1 % | 6.6 % |
+| FBS | $106.6 m | $100.5 m | +6.1 % | 13.8 % | 19.7 % |
+| Unallocated | $(154.0) m | $(78.8) m | (95.4 %) | — | — |
+| Consolidated | $51.4 m | $83.3 m | (38.3 %) | 2.4 % | 5.8 % |
+
+Unallocated expenses ballooned mainly because of merger costs, cybersecurity remediation, and incremental corporate overhead.
+
+### Interest, Taxes and Earnings  
+• Interest expense: $86.1 million (up $40 million) reflecting Neenah debt assumption and higher floating rates; weighted-average cost = 5.11 %.  
+• Other income: $10.3 million (vs. $35.9 million 2021) – prior year benefited from $35.2 million Spotswood gain; 2022 included $7.3 million CO₂ credit sales.  
+• Income-tax benefit: $12.6 million; effective rate 51.6 % versus (12.9 %) in 2021; swings driven by valuation-allowance adjustments and merger items.  
+• Equity affiliates: $5.2 million (down $1.2 million) on higher input costs in Chinese JVs.
+
+## Liquidity and Capital Resources  
+
+### Cash Flow  
+| Category | 2022 | 2021 |
+|----------|------|------|
+| Operating cash flow | $202.2 m | $58.1 m |
+| Investing cash flow | $(481.3) m | $(636.5) m |
+| Financing cash flow | $331.6 m | $599.9 m |
+
+Operating cash surged on working-capital release (notably receivables sold) and favorable swap settlements, partly offset by merger cash costs.  Investing cash used largely for Neenah debt repayment treated as purchase consideration ($518.5 million) and $56.9 million cap-ex. Financing inflows reflected $775 million of new borrowings (Delayed-Draw Term Loan + revolver), partly offset by $341.8 million debt repayments and $72.2 million dividends.
+
+### Balance Sheet & Debt  
+• Total debt: $1.6939 billion; cash: $124.4 million; net leverage (credit-agreement definition) = 3.71 × EBITDA vs covenant ≤ 5.50 ×.  
+• $600 million revolver: $404 million available at 31 Dec 2022.  
+• 6.875 % senior unsecured notes ($350 million) are earliest maturity, due 2026.  
+• Debt mix after interest-rate hedges: 77.1 % fixed, 22.9 % floating.  
+• Total-debt-to-capital ratio: 59.0 % (down from 65.1 % in 2021).
+
+### Working Capital & Other Uses of Cash  
+• Operating working capital: $544.1 million (2021: $366.7 million) reflecting Neenah assets and cost-inflated inventories.  
+• Share buy-backs limited to tax-withholding for equity awards (273 k shares, $6.9 million).  
+• Quarterly dividend maintained; $0.40 per share declared 22 Feb 2023.
+
+### Contractual Obligations (excerpt)  
+
+| Obligation | Total | 2023–2027 |
+|------------|-------|-----------|
+| Debt principal | $1.723 billion | $1.354 billion |
+| Debt interest (assumed rates) | $529 million | $521 million |
+| Operating & finance leases | $77.5 million | $55.5 million |
+| Raw-material purchase commitments | $193.9 million | $191.8 million |
+
+The Company expects operating cash flow and revolver capacity to cover these obligations.
+
+## Outlook  
+ATM (≈ 65 % of post-merger sales) is projected to outpace GDP over the cycle, supported by filtration, protective solutions, release liners and healthcare. Cost synergies from the Neenah merger are anticipated over one-to-three years. FBS faces secular decline in traditional cigarette papers but seeks growth in premium packaging and consumer papers. Near-term visibility is tempered by inflation, higher interest rates and geopolitical uncertainty, especially in Europe, but management expects long-term organic growth, strong cash generation, and steady deleveraging.
+
+## Quantitative and Qualitative Market Risk  
+• Foreign exchange: a 10 % adverse rate movement would reduce pre-tax income by ≈ $16 million; selective hedging employed.  
+• Interest rates: 100 bp rise on current variable-rate debt, net of swaps, would cut annual pre-tax earnings by ≈ $4 million.  
+• Commodity inputs: 10 % rise in resin costs would cut pre-tax earnings ≈ $27.6 million; 10 % rise in wood-pulp costs ≈ $24.8 million; no commodity derivatives in place.  
+• Energy: 10 % increase in purchased energy costs would lower pre-tax earnings ≈ $11.6 million; partial fixed-price contracts in place.
+
+## Forward-Looking Statements  
+Management cautions that actual results could differ materially due to integration risks, raw-material inflation, currency and interest-rate movements, cybersecurity threats, regulatory changes, macro-economic conditions, and other factors detailed under “Risk Factors.” The Company undertakes no obligation to update forward-looking statements except as required by law.

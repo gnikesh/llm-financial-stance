@@ -1,0 +1,432 @@
+# Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis presents the factors that had a material effect on our results of operations during the years ended December 31, 2019, 2018 and 2017. Also discussed is our financial position as of the end of those years. You should read this discussion in conjunction with our consolidated financial statements and the notes to those consolidated financial statements included elsewhere in this Annual Report on Form 10-K. This Management's Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements. See "Forward-Looking Statements" for a discussion of the uncertainties, risks and assumptions associated with these statements.
+
+# Introduction
+
+This Management's Discussion and Analysis of Financial Condition is intended to provide investors with an understanding of the historical performance of our business, its financial condition and its prospects. We will discuss and provide our analysis of the following:
+
+• Overview of Business;
+• Business Segments;
+• Results of Operations and Related Information;
+• Liquidity and Capital Resources;
+• Adoption of New Accounting Pronouncements; and
+• Critical Accounting Policies and Use of Estimates.
+
+## Overview of Business
+
+We are a leading global producer of specialty materials for niche markets. We have two primary operations: our technical products business and our fine paper and packaging business. Our mission is to create value by improving the image and performance of everything we touch. We expect to create value by growing in markets that value performance or image and where we have competitive advantages. In managing our businesses, we believe that achieving and maintaining a leadership position in our markets, responding effectively to customer needs and competitive challenges, employing capital optimally, controlling costs and managing risks are important to long-term success. Changes in general economic conditions and timing of changes in input costs and selling prices can also impact our results. In this discussion and analysis, we will refer to these factors. 
+
+## Business Segments 
+
+Our reportable operating segments consist of Technical Products and Fine Paper and Packaging. Our technical products business is a leading international producer of transportation, water and other filter media and durable, saturated and coated substrates for a variety of end markets. We focus on categories where we believe we are, or can be, a market leader. These categories include filtration media for transportation, water and other end use applications, backings for specialty tapes and abrasives, performance labels, digital image transfer papers, and other custom engineered materials. Our products are typically used in high performance applications where our customers require specific standards and qualifications. Our dedicated technical products manufacturing facilities are located in Weidach and Bruckmühl, Germany, Eerbeek, Netherlands, Bolton, England, Munising, Michigan, and Pittsfield, Massachusetts. Our fine paper and packaging business is a leading supplier of premium printing, packaging, and other high-end specialty papers predominantly in North America. Our products include some of the most recognized and preferred brands in North America, where we enjoy leading market positions in many of our product categories. Often these papers are characterized by distinctive finishing, colors, textures and coating. We sell our products primarily to authorized paper distributors, as well as through converters, major national retailers and specialty businesses. Our dedicated fine paper and packaging manufacturing facilities are located in Whiting and Neenah, Wisconsin, and Great Barrington, Massachusetts. In addition, certain products of both segments are manufactured in shared facilities located in Brownville and Lowville, New York, Appleton, Wisconsin, and Quakertown, Pennsylvania. Prior to 2019, our Other segment included certain product lines composed of papers sold to converters for end uses such as covering materials for datebooks, diaries, yearbooks and traditional photo albums. These products were primarily manufactured at our shared facilities located in Brownville, New York and Brattleboro, Vermont. Following the disposition of the Brattleboro mill which eliminated a significant portion of the products of the Other business segment, in January 2019 we realigned the remaining products manufactured in the Other business segment to be managed as part of the Technical Products business segment. As a result, we recast the comparable 2018 and 2017 information and presented the $15.6 million and $16.5 million of net sales for the years ended December 31, 2018 and 2017, respectively, of this remaining portion of the Other business segment within the Technical Products business segment. The 2018 and 2017 operating income (loss) of the Other business segment was immaterial and was not recast. See Note 14 of Notes to Consolidated Financial Statements, "Business Segment and Geographic Information" where a realignment of this segment in 2019 is described.
+
+
+## Results of Operations and Related Information
+
+In this section, we discuss and analyze our net sales, income before interest and income taxes (which we refer to as "operating income") and other information relevant to an understanding of our results of operations.
+
+### Executive Summary
+
+For the year ended December 31, 2019, consolidated net sales of $938.5 million decreased $96.4 million, or 9 percent, from $1,034.9 million in 2018. The decrease resulted from lower volumes, including the divestiture of the Brattleboro mill, and unfavorable currency effects. These were partially offset by increased selling prices and a higher-value Technical Products sales mix. 
+
+Consolidated operating income of $78.3 million for the year ended December 31, 2019 increased $24.2 million, or 45 percent, from the prior year. The increase was mainly due to the absence of a $31.1 million impairment loss in 2018 related to the divestiture of the Brattleboro mill. Excluding the $4.8 million of net unfavorable adjustments in 2019, primarily due to idling of a fine paper machine, and $30.7 million of net unfavorable adjustments in 2018, adjusted operating income decreased $1.7 million (2%), primarily due to lower sales and production volumes, and associated manufacturing fixed cost inefficiencies, that were only partially offset by higher net selling prices and slightly lower input costs. See later in this section for further information regarding the presentation of operating income, as adjusted. 
+
+Cash provided by operating activities of $97.6 million for the year ended December 31, 2019 was $4.9 million higher than cash provided by operating activities of $92.7 million in the prior year. The increase in cash flows resulted primarily from lower pension plan contributions, partly offset by lower cash earnings.
+
+Capital expenditures for the year ended December 31, 2019 were $21.4 million compared to $38.1 million in the prior year. Spending was lower in 2019 as a result of a large environmental project completed in 2018 at the Company's filtration plant in Germany, and lower required spending in 2019 for most businesses.
+
+### Analysis of Net Sales — Years Ended December 31, 2019, 2018 and 2017
+
+The following table presents net sales by segment and net sales expressed as a percentage of total net sales:
+
+| Net sales                | 2019    | 2019 | 2018      | 2018 | 2017    | 2017 |
+|--------------------------|---------|------|-----------|------|---------|------|
+| Technical Products       | $ 541.6 | 58%  | $ 583.2   | 56%  | $ 518.6 | 53%  |
+| Fine Paper and Packaging | 396.9   | 42%  | 445.8     | 43%  | 455.3   | 46%  |
+| Other                    | —       | —%   | 5.9       | 1%   | 6.0     | 1%   |
+| Consolidated             | $ 938.5 | 100% | $ 1,034.9 | 100% | $ 979.9 | 100% |
+
+
+Commentary:
+
+Year 2019 versus 2018
+
+| Segment                  | 2019    | 2018      | Total Change | Volume  | Net Price | Currency |
+|--------------------------|---------|-----------|--------------|---------|-----------|----------|
+| Technical Products       | $ 541.6 | $ 583.2   | $ (41.6)     | $ (48.5)| $ 21.9    | $ (15.0) |
+| Fine Paper and Packaging | $ 396.9 | $ 445.8   | $ (48.9)     | $ (53.6)| $ 4.7     | $ —      |
+| Other                    | $ —     | $ 5.9     | $ (5.9)      | $ (5.9) | $ —       | $ —      |
+| Consolidated             | $ 938.5 | $ 1,034.9 | $ (96.4)     | $(108.0)| $ 26.6    | $ (15.0) |
+
+
+Consolidated net sales for the year ended December 31, 2019 were $96.4 million (9%) lower than the prior year. The decrease resulted from lower volumes, including the divestiture of the Brattleboro mill, and unfavorable currency effects. These were partially offset by increased selling prices and a higher-value Technical Products sales mix.
+
+• Net sales in our technical products business decreased $41.6 million (7%) from the prior year due to volume declines (primarily due to lower backings sales in
+Asia) and negative foreign currency impacts. These items were partially offset by increased selling prices and a higher value mix.
+
+• Net sales in our fine paper and packaging business decreased $48.9 million (11%) from the prior year. Half of the decline was due to the sale of Brattleboro, with the remainder mostly due to lower commercial print volume (including impacts from a change in the relationship with a major distributor). These items were partly offset by higher selling prices.
+
+Year 2018 versus 2017
+
+| Segment                  | 2018      | 2017    | Total Change | Volume | Net Price | Currency |
+|--------------------------|-----------|---------|--------------|--------|-----------|----------|
+| Technical Products (a)   | $ 583.2   | $ 518.6 | $ 64.6       | $ 34.9 | $ 18.7    | $ 11.0   |
+| Fine Paper and Packaging | $ 445.8   | $ 455.3 | $ (9.5)      | $(21.6)| $ 12.1    | $ —      |
+| Other (a)                | $ 5.9     | $ 6.0   | $ (0.1)      | $ (0.1)| $ —       | $ —      |
+| Consolidated             | $ 1,034.9 | $ 979.9 | $ 55.0       | $ 13.2 | $ 30.8    | $ 11.0   |
+
+
+(a) As a result of the Brattleboro mill sale in 2018, we recast the comparable 2018 and 2017 information and presented the $15.6 million and $16.5 million of net sales for the years ended December 31, 2018 and 2017, respectively, of the remaining portion of the Other business segment within the Technical Products business segment. See Note 13 of Notes to Consolidated Financial Statements, "Sale of Brattleboro Mill and Impairment Loss" where a realignment of this segment in 2019 is described.
+
+Consolidated net sales for the year ended December 31, 2018 were $55.0 million (6%) higher than the prior year. The increase resulted from higher Technical Products volumes (including volumes from the November 2017 Coldenhove Acquisition), increased selling prices in both segments, and a higher value mix and favorable currency effects in Technical Products. These items more than offset lower Fine Paper and Packaging volumes.
+
+
+• Net sales in our technical products business increased $64.6 million (12%) from the prior year due to acquired volume, organic increases in filtration sales, as well as a higher-priced mix and favorable currency effects due to a stronger euro in the first half of the year.
+• Net sales in our fine paper and packaging business decreased $9.5 million (2%) from the prior year. Volume declines in commercial print products were partly offset by higher selling prices and volume increases in premium packaging.
+• Net sales in our other business segment decreased $0.1 million from the prior year period due to lower volumes
+
+
+### Analysis of Operating Income — Years Ended December 31, 2019 and 2018
+
+The following table sets forth line items from our consolidated statements of operations as a percentage of net sales for the periods indicated and is intended to provide a perspective of trends in our historical results:
+
+
+| Item | Year Ended December 31, 2019 | Year Ended December 31, 2018 |
+|------|------------------------------|------------------------------|
+| Net sales | 100.0% | 100.0% |
+| Cost of products sold | 80.5% | 82.3% |
+| Gross profit | 19.5% | 17.7% |
+| Selling, general and administrative expenses | 10.5% | 9.3% |
+| Restructuring, integration and other costs | 0.6% | 0.2% |
+| Pension and SERP related adjustments | (0.1)% | 0.2% |
+| Impairment loss | —% | 3.0% |
+| Acquisition-related adjustments | —% | (0.4)% |
+| Other expense, net | 0.2% | 0.2% |
+| Operating income | 8.3% | 5.2% |
+| Interest expense, net | 1.2% | 1.2% |
+| Income from continuing operations before income taxes | 7.1% | 4.0% |
+| Provision for income taxes | 1.2% | 0.4% |
+| Income from continuing operations | 5.9% | 3.6% |
+
+
+Commentary:
+
+Year 2019 versus 2018
+
+| Segment | 2019 | 2018 | Total Change | Volume | Net Price (a) | Input Costs (b) | Currency | Other (c) |
+|---------|------|------|--------------|--------|---------------|-----------------|----------|-----------|
+| Technical Products | $44.6 | $50.9 | $(6.3) | $(13.5) | $15.1 | $1.6 | $(1.9) | $(7.7) |
+| Fine Paper and Packaging | $53.2 | $29.4 | $23.8 | $(7.4) | $11.2 | $1.4 | $0.0 | $18.7 |
+| Other | $0.0 | $(6.4) | $6.4 | $0.0 | $0.0 | $0.0 | $0.0 | $6.4 |
+| Unallocated corporate costs | $(19.5) | $(19.8) | $0.3 | $0.0 | $0.0 | $0.0 | $0.0 | $0.3 |
+| Consolidated | $78.3 | $54.1 | $24.2 | $(20.9) | $26.3 | $3.0 | $(1.9) | $17.7 |
+
+
+(a) Includes price changes, net of changes in product mix.
+(b) Includes price changes for raw materials and energy.
+(c) Includes other manufacturing costs, over (under) absorption of fixed costs, distribution and selling, general and administrative ("SG&A") expenses. In addition, 2018 results include $35.0 million of unfavorable adjustments primarily related to the divestiture of the Brattleboro mill and restructuring costs, and $4.3 million of favorable adjustments related to the Coldenhove Acquisition and an insurance-related settlement. In 2019, it includes non-routine costs of $6.2 million primarily related to the accelerated depreciation and other costs related to the consolidation of the fine paper manufacturing footprint with an idling of a paper machine, and $1.4 million of favorable adjustments primarily related to the curtailment gain for the Neenah Coldenhove pension plan. See the breakdown by segment and the reconciliation table on page 37 for further detail.
+
+
+Consolidated operating income of $78.3 million for the year ended December 31, 2019 increased $24.2 million (45%) from the prior year. The increase was mainly due to the absence of a $31.1 million impairment loss in 2018 related to the divestiture of the Brattleboro mill. Excluding the $4.8 million of net unfavorable adjustments in 2019, primarily due to idling of a fine paper machine, and $30.7 million of net unfavorable adjustments in 2018, adjusted operating income decreased $1.7 million (2%), primarily due to lower sales and production volumes, and associated manufacturing fixed cost inefficiencies, that were only partially offset by higher net selling prices and slightly lower input costs. See later in this section for further information regarding the presentation of operating income, as adjusted.
+
+• Operating income for our technical products business decreased $6.3 million (12%) from the prior year. The decrease in income resulted from lower sales and production volumes and associated manufacturing fixed cost inefficiencies, higher SG&A and unfavorable foreign currency impacts, partially offset by increased selling prices, a higher-value mix and lower input and distribution costs. Excluding the previously noted favorable adjustments of $1.2 million in 2019 and $1.4 million in 2018, adjusted operating income for the technical products business decreased $6.1 million (12%).
+
+• Operating income for our fine paper and packaging business increased $23.8 million (81%) from the prior year period The increase was mainly due to adjustments in 2018 of $24.3 million for impairment related to the divestiture of the Brattleboro mill and other one-time items referenced above, partly offset by $5.7 million of non-routine costs in 2019 primarily due to the idling of a paper machine. Excluding these costs, adjusted operating income for the fine paper and packaging business increased $5.2 million (10%) as a result of higher selling prices and slightly lower input, SG&A and distribution costs that more than offset the lower sales volumes.
+
+• Unallocated corporate costs for the year ended December 31, 2019 were $19.5 million, or $0.3 million lower than the prior year. 2019 included adjusting items of $0.3 million for restructuring costs and pension settlement. These costs compared to $1.9 million of pension settlement, restructuring and other non-routine costs in 2018.
+
+
+
+Year 2018 versus 2017
+
+A comparative discussion of our operating income (loss), additional statement of operations commentary, and liquidity and capital resources for the years ended December 31, 2018 and 2017 is set out in our Annual Report on Form 10-K for the year ended December 31, 2018 under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Results of Operations - Year 2018 versus Year 2017.”
+
+| Category | Line Item | YTD 2019 | YTD 2018 |
+|----------|-----------|----------|----------|
+| **Technical Products** | GAAP Operating Income | $ 44.6 | $ 50.9 |
+| | Restructuring, integration, and other costs | $ 0.3 | $ 1.0 |
+| | Pension and SERP-related adjustments | $ (1.5) | $ 0.4 |
+| | Impairment loss | $ — | $ 1.1 |
+| | Acquisition-related adjustments | $ — | $ (3.9) |
+| | Adjusted operating income | $ 43.4 | $ 49.5 |
+| **Fine Paper and Packaging** | GAAP Operating Income | $ 53.2 | $ 29.4 |
+| | Idled paper machine costs | $ 4.7 | $ — |
+| | 2012-15 indirect tax audit costs | $ 0.7 | $ — |
+| | Restructuring and other non-routine costs | $ 0.3 | $ (0.2) |
+| | Pension and SERP-related adjustments | $ — | $ 0.4 |
+| | Impairment loss | $ — | $ 24.4 |
+| | Insurance settlement | $ — | $ (0.3) |
+| | Adjusted operating income | $ 58.9 | $ 53.7 |
+| **Other/Unallocated Corporate** | GAAP Operating Income | $ (19.5) | $ (26.2) |
+| | Restructuring and other non-routine costs | $ 0.2 | $ 1.3 |
+| | Pension and SERP-related adjustments | $ 0.1 | $ 1.0 |
+| | Impairment loss | $ — | $ 5.6 |
+| | Insurance settlement | $ — | $ (0.1) |
+| | Adjusted operating income | $ (19.2) | $ (18.4) |
+| **Consolidated** | GAAP Operating Income | $ 78.3 | $ 54.1 |
+| | Idled paper machine costs | $ 4.7 | $ — |
+| | 2012-15 indirect tax audit costs | $ 0.7 | $ — |
+| | Restructuring, integration, and other costs | $ 0.8 | $ 2.1 |
+| | Pension and SERP-related adjustments | $ (1.4) | $ 1.8 |
+| | Impairment loss | $ — | $ 31.1 |
+| | Acquisition-related adjustments | $ — | $ (3.9) |
+| | Insurance settlement | $ — | $ (0.4) |
+| | Adjusted operating income | $ 83.1 | $ 84.8 |
+
+
+In accordance with generally accepted accounting principles in the United States ("GAAP"), consolidated operating income includes the pre-tax effects of an impairment loss, acquisition, integration and restructuring costs, pension plan settlement and other costs, acquisition-related adjustments, and an insurance settlement. We believe that by adjusting reported operating income to exclude the effects of these items, the resulting adjusted operating income is on a basis that reflects the results of our ongoing operations. We believe that providing adjusted operating results will help investors gain an additional perspective of underlying business trends and results. Adjusted operating income is not a recognized term under GAAP and should not be considered in isolation or as a substitute for operating income derived in accordance with GAAP. Other companies may use different methodologies for calculating their non-GAAP financial measures and, accordingly, our non-GAAP financial measures
+may not be comparable to their measures.
+
+
+### Additional Statement of Operations Commentary:
+
+• SG&A expense of $98.6 million for the year ended December 31, 2019 was $2.7 million higher than 2018, as a result of timing of certain costs. SG&A expense as a percentage of net sales for the year ended December 31, 2019 increased to 10.5 percent from 9.3 percent in 2018 due to lower sales.
+
+• For the years ended December 31, 2019 and 2018, we incurred $11.8 million and $13.0 million of interest expense, respectively. During the year ended December 31, 2019, we made net repayments of $36.3 million under our Global Revolving Credit Facilities resulting in only Euro-denominated borrowings (with lower interest rates compared to USD-denominated borrowings) outstanding under these facilities as of December 31, 2019.
+
+• Income tax expense represented 17 percent and 9 percent of income from continuing operations before income taxes for the years ended December 31, 2019 and 2018, respectively. In general, our effective tax rate differs from the U.S. statutory tax rate primarily due to impacts of changes in the mix of earnings in taxing jurisdictions with differing statutory rates, the impact of R&D and other tax credits, changes in tax laws and changes in corporate structure as a result of business acquisitions and dispositions.
+
+• For the year ended December 31, 2019, our effective income tax rate related to continuing operations was 17 percent, primarily due to the tax benefit of R&D tax credits generated during the year. For the year ended December 31, 2018, our effective income tax rate related to continuing operations was 9 percent, primarily due to the reduction in the U.S. federal tax rate from 35% to 21%. In addition, the effective tax rate was significantly reduced by the effects of the $31.1 million impairment loss of the Brattleboro mill and associated research and office facilities (see Note 13 of Notes to Consolidated Financial Statements, "Sale of Brattleboro Mill and Impairment Loss"), as similar sized reconciling items had a larger percentage impact on lower pre-tax book income. Throughout 2018, we completed our analysis of the Tax Act and recorded additional adjustments to reflect a measurement-period tax benefit of $0.9 million related to the effects of the statutory corporate tax rate reduction and a measurement-period tax expense of $0.8 million from U.S. federal and state taxes on accumulated
+earnings and profits ("E&P") of its foreign subsidiaries.
+
+## Liquidity and Capital Resources
+
+| **Year Ended December 31,** | **2019** | **2018** |
+|----------------------------|----------|----------|
+| **Net cash flow provided by (used in):** |          |          |
+| Operating activities       | $97.6    | $92.7    |
+| **Investing activities:**   |          |          |
+| Capital expenditures        | $(21.4)  | $(38.1)  |
+| Proceeds from sale of property, plant and equipment | — | $5.0 |
+| Other investing activities  | $(1.9)   | $(1.2)   |
+| **Total investing activities** | **$(23.3)** | **$(34.3)** |
+| Financing activities        | $(75.2)  | $(52.6)  |
+| Effect of exchange rate changes on cash and cash equivalents | — | $(0.4) |
+| **Net increase (decrease) in cash and cash equivalents** | **$(0.9)** | **$5.4** |
+
+
+
+### Operating Cash Flow Commentary
+
+• Cash provided by operating activities of $97.6 million for the year ended December 31, 2019 was $4.9 million higher than cash provided by operating activities of $92.7 million in the prior year. The increase in cash flows resulted primarily from lower pension plan contributions, partly offset by lower cash earnings.
+
+
+### Investing Cash Flow Commentary:
+
+• For the years ended December 31, 2019 and 2018, cash used by investing activities was $23.3 million and $34.3 million, respectively. The decrease was primarily due to reduced capital spending in 2019. In addition, 2018 included proceeds from the sale of Brattleboro mill.
+
+• Capital expenditures for the year ended December 31, 2019 were $21.4 million compared to spending of $38.1 million in the prior year. Spending was lower in 2019 as a result of a large environmental project completed in 2018 at the Company's filtration plant in Germany, and lower required spending in 2019 for most businesses.
+
+• Going forward, we expect aggregate annual capital expenditures to be within a range of approximately 2 to 4 percent of net sales. We believe that this level of capital spending can be more than adequately funded from cash provided from operating activities and allows us to maintain the efficiency and cost effectiveness of our assets while also investing in expanded capabilities to successfully pursue strategic initiatives and deliver attractive returns.
+
+### Financing Cash Flow Commentary:
+
+Our liquidity requirements are provided by cash generated from operations and short and long-term borrowings.
+
+• For the year ended December 31, 2019, cash used by financing activities was $75.2 million compared to cash used by financing activities of $52.6 million for the prior year. The increase was due to higher net debt repayments of $38.1 million in 2019 compared to $12.8 million in prior year and higher dividends paid in 2019.
+
+• We have the following short- and long-term borrowings:
+
+	Secured Bank Credit Facility
+
+	In December 2018, we entered into the Fourth Amended Credit Agreement. The Fourth Amended Credit Agreement, among other things: (1) increased the maximum principal amount of our existing credit facility for the U.S. Revolving Credit Facility to $150 million; (2) maintained the German Revolving Credit Facility in the maximum principal amount of $75 million; (3) caused Neenah and the other domestic borrowers to guarantee, among other things, the obligations arising under the German Revolving Credit Facility; (4) provides for the Global Revolving Credit Facilities to mature on December 10, 2023; and (5) modifies the accordion feature permitting one or more increases in the Global Revolving Credit Facilities in an aggregate principal amount not exceeding $125 million, such that the aggregate commitments under the Global Revolving Credit Facilities do not exceed $350 million. In addition, domestic borrowers may request letters of credit under the U.S. Revolving Credit Facility in an aggregate face amount not to exceed $20 million outstanding at any time, and German borrowers may request letters of credit under the German Revolving Credit Facility in an aggregate face amount not to exceed $5 million outstanding at any time. The variable interest rates on our revolving credit facility are based on LIBOR as a benchmark, exposing us to possible changes in interest in the event that the method for determining LIBOR changes, LIBOR is replaced by an alternative reference rate or LIBOR is phased out altogether. We will continue to monitor developments related to the LIBOR transition and identification of an alternative reference rate. The impact related to any changes cannot be predicted at this time. As of December 31, 2019, we had approximately $21.6 million of LIBOR-based debt. See Note 7 of Notes to Consolidated Financial Statements, "Debt."
+	
+	Unsecured Senior Notes
+
+	We have $175 million of 2021 Senior Notes. Proceeds from this offering were used to retire the remaining principal amount of 2014 Senior Notes, to repay approximately $56 million in outstanding revolver borrowings under our bank credit agreement and for general corporate purposes. See Note 7 of Notes to Consolidated Financial Statements, "Debt."
+
+
+## Other Debt
+
+The Second German Loan Agreement provides for €9.0 million of construction financing which is secured by the melt blown machine. The loan matures in September 2022 and principal is repaid in equal quarterly installments. At December 31, 2019, €3.1 million ($3.5 million, based on exchange rates at December 31, 2019) was outstanding under the Second German Loan Agreement. 
+
+In May 2018, Neenah Germany entered into a project financing agreement for construction of a regenerative thermal oxidizer (the "Third German Loan Agreement") to increase the capacity of the existing saturators and ensure compliance with new European air emission standards. The agreement provides for €5.0 million of financing and is secured by the asset. The loan matures in September 2022 and principal is repaid in 13 equal quarterly installments beginning in June 2019. The interest rate on amounts outstanding is 1.45 percent based on actual days elapsed in a 360-day year and is payable quarterly. In the fourth quarter 2018, we received a subsidy from the German government of $0.9 million due to completion of the regenerative thermal oxidizer project. At December 31, 2019, €3.3 million ($3.7 million, based on exchange rates at December 31, 2019) was outstanding under the Third German Loan Agreement.
+
+• Availability under our revolving credit facility varies over time depending on the value of our inventory, receivables and various capital assets. As of
+December 31, 2019, we had $21.6 million outstanding under our Revolver and $173.5 million of available credit (based on exchange rates at December 31,
+2019).
+
+• We have required debt payments through December 31, 2020 of $2.6 million on the Second and Third German Loan Agreements.
+
+• For the year ended December 31, 2019, cash and cash equivalents decreased $0.9 million to $9.0 million at December 31, 2019 from $9.9 million at
+December 31, 2018. Total debt decreased $38.3 million to $200.8 million at December 31, 2019 from $239.1 million at December 31, 2018. Net debt (total
+debt minus cash and cash equivalents) decreased by $37.4 million. Total debt was higher at December 31, 2018 due to higher borrowings under our revolving
+credit facility.
+
+• As of December 31, 2019, our cash balance of $9.0 million consists of $2.7 million in the U.S. and $6.3 million held at entities outside of the U.S. As of
+December 31, 2019, there were no restrictions regarding the repatriation of our non-U.S. cash.
+
+
+## Transactions with Shareholders
+
+• For the years ended December 31, 2019 and 2018, we paid quarterly cash dividends of $0.45 per common share or $30.5 million annually and $0.41 per common share or $27.8 million annually, respectively.
+
+• In November 2019, our Board of Directors approved a 4 percent increase in the quarterly dividend rate on our common stock to $0.47 per share, scheduled to be paid starting in March 2020.
+
+• In November 2019, our Board of Directors authorized a program for the purchase of up to $25 million of outstanding common stock effective January 1, 2020 ("2020 Stock Purchase Plan"). The program does not require the Company to purchase any specific number of shares and may be suspended or discontinued at any time. Purchases under the 2020 Stock Purchase Plan will be made from time to time in the open market or in privately negotiated transactions in accordance with the requirements of applicable law. The timing and amount of any purchases will depend on share price, market conditions and other factors. For the year ended December 31, 2019, we acquired approximately 79,676 shares of Common Stock at a cost of $4.9 million. For further details on our Stock Purchase Plans refer to Note 10 of Notes to Consolidated Financial Statements, "Stockholders' Equity."
+
+• For the years ended December 31, 2019 and 2018, we acquired approximately 17,774 and 25,890 shares of Common Stock, respectively, at a cost of $1.3 million and $1.5 million, respectively, for shares surrendered by employees to pay taxes due on vested restricted stock awards and stock appreciation rights exercised. In addition, we received $0.0 million and $0.6 million in proceeds from the exercise of employee stock options for the years ended December 31, 2019 and 2018, respectively.
+
+• Under the most restrictive terms of the Fourth Amended and Restated Credit Agreement, we are permitted to pay cash dividends on or repurchase shares of our common stock up to the amount available under the Fourth Amended and Restated Credit Agreement, as long as our specified excess availability under the Fourth Amended and Restated Credit Agreement exceeds the greater of (i) $25 million and (ii) 12.5% of our aggregate commitments under the Global Revolving Credit Facilities (approximately $25 million as of December 31, 2019), on a pro forma basis after giving effect to such dividend or stock repurchase (as the case may be). If our specified excess availability, on a pro forma basis, is less tan the applicable threshold, we are subject to certain restrictions on the amount of cash dividends we are permitted to declare and the amount of share repurchases we are permitted to execute. As of December 31, 2019, our availability was $173.5 million, so this restriction did not apply. See our availability under the Fourth Amended and Restated Credit Agreement in Note 7 of Notes to Consolidated Financial Statements, "Debt." Under the most restrictive terms of the 2021 Senior Notes, we are permitted to pay cash dividends of up to $25 million in a calendar year, but not permitted to repurchase shares of our common stock. However, as long as the net leverage ratio (net debt/EBITDA) under the 2021 Senior Notes is below 2.5x, we can pay dividends or repurchase shares without limitation. In the event the net leverage ratio exceeds 2.5x, we may still pay dividends in excess of $25 million or repurchase shares by utilizing "restricted payment baskets" as defined in the indenture for the 2021 Senior Notes. As of December 31, 2019, since our leverage ratio was less than 2.5x, none of these covenants were restrictive to our ability to pay dividends on or repurchase shares of our common stock.
+
+
+## Contractual Obligations
+
+The following table presents the total contractual obligations for which cash flows are fixed or determinable as of December 31, 2019:
+
+| **Contractual Obligations**       | **2020** | **2021** | **2022** | **2023** | **2024** | **Beyond** | **Total** |
+|-----------------------------------|----------|----------|----------|----------|----------|------------|-----------|
+| Long-term debt payments           | $2.6     | $177.8   | $1.8     | $21.6    | $—       | $—         | $203.8    |
+| Interest payments on long-term debt (a) | $9.6   | $4.6     | $0.3     | $0.2     | $—       | $—         | $14.7     |
+| Open purchase orders (b)          | $79.7    | $—       | $—       | $—       | $—       | $—         | $79.7     |
+| Other post-employment benefits (c)| $5.6     | $5.0     | $4.6     | $4.2     | $3.9     | $13.7      | $37.0     |
+| Contributions to pension trusts and other benefit obligations (d) | $9.1 | $0.1 | $0.1 | $0.1 | $0.1 | $1.2 | $10.7 |
+| Minimum purchase commitments (e)  | $7.2     | $0.8     | $0.2     | $0.2     | $—       | $—         | $8.4      |
+| Operating leases (f)               | $2.8     | $2.6     | $2.3     | $2.0     | $1.7     | $7.4       | $18.8     |
+| **Total contractual obligations** | **$116.6**| **$190.9**| **$9.3** | **$28.3**| **$5.7** | **$22.3** | **$373.1**|
+
+
+(a) Interest payments on long-term debt includes interest on variable rate debt at December 31, 2019 weighted average interest rates.
+
+(b) The open purchase orders displayed in the table represent amounts we anticipate will become payable within the next 12 months for goods and services that we have negotiated for delivery.
+
+(c) The above table includes future payments that we will make for postretirement benefits other than pensions. Those amounts are estimated using actuarial assumptions, including expected future service, to project the future obligations.
+
+(d) We expect to make aggregate contributions to qualified and nonqualified defined benefit pension trusts and to pay pension benefits for unfunded pension plans of $9 million in 2020. The amount also includes estimated payments of $0.1 million per year over 20 years for the withdrawal liability from PIUMPF. See Note 8 of Notes to Consolidated Financial Statements, "Pension and Other Postretirement Benefits."
+
+(e) The minimum purchase commitments in 2020 are primarily for raw material contracts. Although we are primarily liable for payments on the above minimum purchase commitments, based on historic operating performance and forecasted future cash flows, we believe our exposure to losses, if any, under these arrangements is not material.
+
+(f) We adopted the ASU 2016-02, Leases (Topic 842) accounting standard in 2019 by recognizing the present value of the lease payments above as right-ofuse assets and corresponding lease liabilities on our consolidated balance sheet. See Note 11 of Notes to Consolidated Financial Statements, "Leases."
+
+
+## Other Items
+
+• As of December 31, 2019, we had $21.0 million of U.S. federal and $7.5 million of U.S. state R&D Credits which, if not used, will expire between 2031 and 2039 for the U.S. federal R&D Credits and between 2020 and 2034 for the state R&D Credits. As of December 31, 2019, we had $44.1 million of state net operating losses (NOLs) which may be used to offset state taxable income. The NOLs are reflected in the consolidated financial statements as a deferred income tax asset of $2.7 million. If not used, substantially all of the NOLs will expire in various amounts between 2020 and 2039.
+
+• Management believes that our ability to generate cash from operations and our borrowing capacity are adequate to fund working capital, capital spending and other cash needs for the next 12 months. Our ability to generate adequate cash from operations beyond 2019 will depend on, among other things, our ability to successfully implement our business strategies, control costs in line with market conditions and manage the impact of changes in input prices and currencies. We can give no assurance we will be able to successfully implement these items.
+
+## Adoption of New Accounting Pronouncements 
+
+See Note 2 of Notes to Consolidated Financial Statements, "Summary of Significant Accounting Policies — Recently Adopted Accounting Standards" for a description of accounting standards adopted in the year ended December 31, 2019.
+
+## Critical Accounting Policies and Use of Estimates
+The preparation of financial statements in conformity with GAAP in the United States requires estimates and assumptions that affect the reported amounts and related disclosures of assets and liabilities at the date of the financial statements and net sales and expenses during the reporting period. Actual results could differ from these estimates, and changes in these estimates are recorded when known. The critical accounting policies used in the preparation of the consolidated financial statements are those that are important both to the presentation of financial condition and results of operations and require significant judgments with regard to estimates used. These critical judgments relate to the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities, and the reported amounts of expenses.
+
+The following summary provides further information about the critical accounting policies and should be read in conjunction with the notes to the consolidated financial statements. We believe that the consistent application of our policies provides readers of our financial statements with useful and reliable information about our operating results and financial condition.
+
+We have discussed the application of these critical accounting policies with our Board of Directors and Audit Committee.
+
+### Inventories
+
+We value U.S. inventories at the lower of cost, using the last-in, first-out ("LIFO") method, or market. German and Dutch inventories are valued at the lower of cost, using a weighted-average cost method, or net realizable value. The first-in, first-out ("FIFO") value of U.S. inventories valued on the LIFO method was $102.2 million and $109.1 million at December 31, 2019 and 2018, respectively and exceeded such LIFO value by $8.9 million and $15.4 million, respectively. Cost includes labor, materials and production overhead. Under the LIFO inventory valuation method, changes in the cost of raw materials and production activities are recognized in cost of sales in the current period even though these materials and other costs may have been incurred at significantly different values due to the length of time of our production cycle. Since we value most of our inventory utilizing the LIFO inventory costing methodology, rapid changes in raw material costs have an immediate impact on our operating results.
+
+
+### Income Taxes
+
+Significant judgment is required in determining our global provision for income taxes and recording the related tax assets and liabilities. In the ordinary course of our business, there are many transactions and calculations where the ultimate tax determination is less than certain. Our effective income tax rates include the tax effects of certain special items, such as R&D Credits, foreign tax rate differences, tax effects of foreign financing structures, changes in statutory tax rates and excess tax benefits from stock compensation. While we believe that these judgments and estimates are appropriate and reasonable under the circumstances, actual resolution of these matters may differ from recorded estimated amounts.
+
+As of December 31, 2019 and 2018, our liability for uncertain income taxes positions was $7.8 million and $10.1 million, respectively. The determination of our provision for income taxes requires considerable judgment, the use of estimates, and the interpretation and application of complex tax laws. Significant judgment is also required in assessing the timing and amounts of deductible and taxable items and the probability of sustaining uncertain tax positions. Uncertain tax positions occur, and a resulting income tax liability is recorded when management concludes that an income tax position fails to achieve a more likely than not recognition threshold. When this occurs, the amount of tax benefits recognized may differ from the amount taken or expected to be taken on a tax return. These differences represent unrecognized tax benefits and are reviewed at each reporting period based on facts, circumstances, available evidence and applicable laws. We recognize interest and penalties, if any, related to uncertain tax positions as a component of the provision for income taxes.
+
+### Pension and Other Postretirement Benefits
+
+Consolidated pension expense related to continuing operations for defined benefit pension plans was $3.7 million, $7.7 million and $7.0 million for the years ended December 31, 2019, 2018 and 2017, respectively. See Note 8, "Pension and Other Postretirement Benefits" for components of net periodic benefit cost. Accounting for defined benefit pension plans requires various assumptions, including, but not limited to, discount rates, expected long-term rates of return on plan assets, future compensation growth rates and mortality rates. Accounting for our postretirement benefit plans also requires various assumptions, which include, but are not limited to, discount rates and annual rates of increase in the per capita costs of health care benefits. 
+
+The following chart summarizes the more significant assumptions used in the actuarial valuation of our defined benefit plans for each of the past three years:
+
+| **Metric**                          | **2019** | **2018** | **2017** |
+|-------------------------------------|----------|----------|----------|
+| **Pension plans**                  |          |          |          |
+| Weighted average discount rate for benefit expense | 3.78% | 3.65% | 4.18% |
+| Weighted average discount rate for benefit obligation | 2.98% | 3.94% | 3.49% |
+| Expected long-term rate on plan assets | 5.91% | 5.78% | 6.31% |
+| Rate of compensation increase for benefit expense | 2.33% | 2.44% | 2.49% |
+| **Postretirement benefit plans**    |          |          |          |
+| Weighted average discount rate for benefit expense | 3.84% | 3.42% | 3.89% |
+| Weighted average discount rate for benefit obligation | 2.68% | 3.84% | 3.27% |
+| Health care cost trend rate assumed for next year | 6.10% | 6.80% | 6.80% |
+| Ultimate cost trend rate | 4.50% | 4.50% | 4.50% |
+| Year that the ultimate cost trend rate is reached | 2037 | 2037 | 2037 |
+
+
+The discount (or settlement) rate that is utilized for determining the present value of future pension obligations in the U.S. is generally based on the yield for a theoretical basket of AA-rated corporate bonds currently available in the market place, whose duration matches the timing of expected pension benefit payments. The discount (or settlement) rate that is utilized for determining the present value of future pension obligations in Germany is generally based on the IBOXX index of AA-rated corporate bonds adjusted to match the timing of expected pension benefit payments.
+
+The expected long-term rate of return on pension fund assets held by our pension trusts was determined based on several factors, including input from pension investment consultants and projected long-term returns of broad equity and bond indices. We also considered the plans' historical 10-year and 15-year compounded annual returns. We evaluate our investment strategy and long-term rate of return on pension asset assumptions at least annually. 
+
+For the years ended December 31, 2019, 2018 and 2017, consolidated postretirement health care and life insurance plan benefit expense was $3.6 million, $3.1 million and $2.7 million, respectively. The discount (or settlement) rate that is utilized for determining the present value of future postretirement health care and life insurance plan benefit obligations in the U.S. is generally based on the yield for a theoretical basket of AA-rated corporate bonds currently available in the market place, whose duration matches the timing of expected postretirement health care and life insurance benefit payments. The discount (or settlement) rate that is utilized for determining the present value of future postretirement health care and life insurance obligations for our foreign benefit plans is generally based on an index of AA-rated corporate bonds adjusted to match the timing of expected benefit payments.
+
+We evaluate these assumptions at least once each year or as facts and circumstances dictate and we make changes as conditions warrant. Changes to these assumptions will increase or decrease our reported net periodic benefit expense, which will result in changes to the recorded benefit plan assets and liabilities.
+
+
+## Useful Life and Impairment of Long-Lived Assets
+
+### Property, Plant and Equipment
+
+For financial reporting purposes, depreciation is principally computed on the straight-line method over estimated useful asset lives. The weighted average remaining useful lives for buildings, land improvements and machinery and equipment are approximately 19 years, 19 years and 10 years respectively. We also use units-of-production method of depreciation for the U.S. transportation filtration production assets with a gross book value of $69.3 million, which reflects the nature of the assets' utilization.
+
+Property, plant and equipment are tested for impairment in accordance with ASC Topic 360, Property, Plant, and Equipment ("ASC Topic 360"), whenever events or changes in circumstances indicate that the carrying amounts of such long-lived assets may not be recoverable from future net pre-tax cash flows. Impairment testing requires significant management judgment including estimating the future success of product lines, future sales volumes, growth rates for selling prices and costs, alternative uses for the assets and estimated proceeds from disposal of the assets. Impairment testing is conducted at the lowest level where cash flows can be measured and are independent of cash flows of other assets. An asset impairment would be indicated if the sum of the expected future net pre-tax cash flows from the use of the asset (undiscounted and without interest charges) is less than the carrying amount of the asset. An impairment loss would be measured based on the difference between the fair value of the asset and its carrying amount. We determine fair value based on an expected present value technique using multiple cash flow scenarios that reflect a range of possible outcomes and a risk free rate of interest are used to estimate fair value.
+
+The estimates and assumptions used in the impairment analysis are consistent with the business plans and estimates we use to manage our business operations. The use of different assumptions would increase or decrease the estimated fair value of the asset and would increase or decrease the impairment charge. Actual outcomes may differ from the estimates.
+
+There was no impairment indicated as of December 31, 2019.
+
+### Goodwill and Other Intangible Assets with Indefinite Lives
+
+We test goodwill for impairment at least annually in conjunction with preparation of Neenah's annual business plan, or more frequently if events or circumstances indicate it might be impaired.
+
+We tested goodwill for impairment as of November 30, 2019 under ASC Topic 350, Intangibles — Goodwill and Other. We elected the option under ASC Topic 350, Intangibles — Goodwill and Other, to perform a qualitative assessment of our reporting units to determine whether further impairment testing is necessary. In this qualitative assessment, we considered the following items for each of the reporting units: macroeconomic conditions, industry and market conditions, overall financial performance and other entity specific events. In addition, for each of these reporting units, the most recent fair value determination results in an amount that exceeds the carrying amount of the reporting units. Based on these assessments, we determined that the likelihood that a current fair value determination would be less than the current carrying amount of the reporting unit is not more likely than not. As of November 30, 2019, no impairment was indicated.
+
+### Other Intangible Assets
+
+Certain trade names are estimated to have indefinite useful lives and as such are not amortized. Intangible assets with indefinite lives are annually reviewed for impairment in accordance with ASC Topic 350. 
+
+Acquired intangible assets with finite useful lives are amortized on a straight-line basis over their respective estimated useful lives, and reviewed for impairment in accordance with ASC Topic 360. Intangible assets consist primarily of customer relationships, trade names and acquired intellectual property. Such intangible assets are amortized using the straight-line method over estimated useful lives of between 10 and 15 years.
+
+Our annual test of other intangible assets for impairment at November 30, 2019, 2018 and 2017 indicated that the carrying amount of such assets was recoverable.
+
+### Acquisition Accounting
+
+We account for acquisitions under ASC Topic 805, which requires companies to record assets acquired and liabilities assumed at their respective fair market values at the date of acquisition. The accounting for acquisitions involves a considerable amount of judgment and estimate, including the fair value of certain forms of consideration; fair value of acquired intangible assets involving projections of future revenues and cash flows that are then either discounted at an estimated discount rate or measured at an estimated royalty rate; fair value of other acquired assets and assumed liabilities, including potential contingencies; and the useful lives of the acquired assets. The assumptions used are determined at the time of the acquisition in accordance with accepted valuation models. Projections are developed using internal forecasts, available industry and market data and estimates of long-term rates of growth for our business. The impact of prior or future acquisitions on our financial position or results of operations may be materially impacted by the change in or initial selection of assumptions and estimates. Refer to Note 4, “Acquisitions”, of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for further discussion of business combination accounting valuation methodology and assumptions.
+
+# Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+As a multinational enterprise, we are exposed to risks such as changes in commodity prices, foreign currency exchange rates, interest rates and environmental regulation. A variety of practices are employed to manage these risks, including operating and financing activities.
+
+Presented below is a description of our most significant risks.
+
+## Foreign Currency Risk
+
+Our reported operating results are affected by changes in the exchange rates of the local currencies of our non-U.S. operations relative to the U.S. dollar. For the year ended December 31, 2019, a hypothetical 10 percent strengthening of the U.S dollar relative to the local currencies of our non-U.S. operations would have decreased our income before income taxes by approximately $3.8 million. We do not hedge our exposure to exchange risk on reported operating results.
+
+The translation of the balance sheets of our non-U.S. operations from their local currencies into U.S. dollars is also sensitive to changes in the exchange rate of the U.S. dollar. Consequently, we performed a sensitivity test to determine if changes in the exchange rate would have a significant effect on the translation of the balance sheets of our non-U.S. operations into U.S. dollars. These translation gains or losses are recorded as unrealized translation adjustments ("UTA", a component of accumulated other comprehensive income (loss) within stockholders' equity). The hypothetical change in UTA is calculated by multiplying the net assets of our non-U.S. operations by a 10 percent change in the exchange rate of their local currencies compared to the U.S. dollar. As of December 31, 2019, the net assets of our non-U.S. operations exceeded their net liabilities by approximately $207 million. As of December 31, 2019, a 10 percent strengthening of the U.S. dollar relative to the local currencies of our non-U.S. operations would have decreased our stockholders' equity by approximately $21 million.
+
+
+## Commodity Risk
+
+### Pulp
+
+We purchase the wood pulp used to produce our products on the open market, and, as a result, the price and other terms of those purchases are subject to change based on factors such as worldwide supply and demand and government regulation. We do not have significant influence over the price paid for our wood pulp purchases. Therefore, an increase in wood pulp prices could adversely affect earnings if prices for our products are not increased or if such increases significantly trail the increases in wood pulp prices.
+
+Based on our current quantity of pulp purchases, a $100 per ton increase in the average market price for pulp would have increased our annual costs for pulp by approximately $23 million.
+
+
+### Other Manufacturing Inputs
+We purchase a substantial portion of the other manufacturing inputs necessary to produce our products on the open market, and, as a result, the price and other terms of those purchases are subject to change based on factors such as worldwide supply and demand and government regulation. We do not have significant influence over our costs for such manufacturing inputs. Therefore, an increase in manufacturing inputs could adversely affect earnings if prices for our products are not increased or if such increases significantly trail the increases in manufacturing inputs.
+
+Our technical products business acquires certain of its specialized pulp requirements from two global suppliers and certain critical specialty latex grades from a limited number of suppliers. In general, these supply arrangements are covered by formal contracts and represent multi-year business relationships that have historically been sufficient to meet our needs. We expect these relationships to continue to operate in a satisfactory manner in the future. In the event of an interruption of production at any one supplier, we believe that each of these suppliers individually would be able to satisfy our short-term requirements for specialized pulp or specialty latex. In the event of a long-term disruption in our supply of specialized pulp or specialty latex, we believe we would be able to substitute other pulp grades or other latex grades that would allow us to meet required product performance characteristics and incur only a limited disruption in our production. As a result, we do not believe that the substitution of such alternative pulp or latex grades would have a material effect on our operations.
+
+We have the ability to generate substantially all of the electrical energy used by our Munising mill and approximately 25 percent of the electrical energy at our Appleton and Bruckmühl mills. Availability of energy is not expected to be a problem in the foreseeable future, but the purchase price of such energy can and likely will fluctuate significantly based on fluctuations in demand and other factors. There is no assurance that that we will be able to obtain electricity or natural gas purchases on favorable terms in the future.
+
+Except for certain specialty latex grades and specialty pulps used by our technical products business, we are not aware of any significant concentration of business transacted with a particular supplier.
+
+Our transportation costs are affected by various market factors as previously discussed under Item 1A, "Risk Factors." We do not have significant influence over our transportation prices. Therefore, an increase in transportation costs could adversely affect earnings if prices for our products are not increased or if such increases significantly trail the increases in transportation costs.
+
+
+## Interest Rate Risk
+
+We are exposed to interest rate risk on our variable rate bank debt. At December 31, 2019, we had $21.6 million of variable rate borrowings outstanding. A 100 basis point increase in interest rates would increase our annual interest expense on outstanding variable rate borrowings by approximately $0.2 million.
+
+We believe these risks can be managed and will not have a material effect on our business or our consolidated financial position, results of operations or cash flows.
+
+
+

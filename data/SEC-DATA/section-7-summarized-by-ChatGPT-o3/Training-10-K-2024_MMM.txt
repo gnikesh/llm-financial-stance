@@ -1,0 +1,125 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Summary
+
+(Amounts in U.S. dollars unless otherwise noted • $ = millions, except per-share data)**
+
+---
+
+## Overview  
+3M completed the spin-off of its former Health Care business on 1 April 2024, distributing 80.1 % of Solventum Corporation to shareholders and retaining a 19.9 % stake valued at $2.3 billion. 2024 results therefore reflect only the three continuing segments—Safety & Industrial, Transportation & Electronics, and Consumer—together with “Corporate and Unallocated” and “Other.”
+
+Key 2024 consolidated highlights versus 2023:  
+
+* Net sales: **$24.58 billion, -0.1 %** (adjusted, excl. PFAS: **$23.63 billion, +1.3 %**).  
+* GAAP diluted EPS from continuing operations: **$7.26** (2023: ‑$15.17).  
+* Adjusted diluted EPS (ex-special items): **$7.30**, up 21 % from $6.04.  
+* GAAP net income from continuing operations: **$4.01 billion** (2023 loss: $8.40 billion).  
+* Adjusted effective tax rate: **19.6 %** (2023: 19.2 %).  
+* Total debt fell to **$13.0 billion** (-$3.0 billion); net debt nearly halved to **$5.3 billion**.  
+* Cash & equivalents rose to **$7.7 billion**.  
+* Share repurchases: **$1.80 billion**; new $7.5 billion program authorized February 2025.  
+* Dividends paid 2024: **$3.61 per share**; Q1-2025 dividend raised 4 % to $0.73.  
+* 2024 capital spending: **$1.10 billion**; 2025 plan ≈ $1.1 billion.  
+* Pension plans 95 % funded worldwide; $0.8 billion non-cash settlement charge recorded.  
+* PFAS and Combat Arms Earplug (CAE) settlements: up to **$18.5 billion** through 2036; $5.0 billion paid by year-end 2024.
+
+---
+
+## Results of Operations  
+
+|                                | 2024 | 2023 |  Change |
+|--------------------------------|------|------|---------|
+| Net sales                      | $24,575 | $24,610 | ‑0.1 % |
+| Operating income (loss)        | $4,822 | ($10,689) | N/M |
+| Operating margin               | 19.6 % | (43.4 %) | +63.0 pp |
+| Net income (loss) – cont. ops. | $4,009 | ($8,402) | N/M |
+| Diluted EPS – GAAP             | 7.26 | (15.17) | N/M |
+| Diluted EPS – adj.             | 7.30 | 6.04 | +21 % |
+
+Special-item after-tax impact on 2024 EPS was a net **-$0.04** versus **-$21.21** in 2023. Major 2024 special items included $1.32 EPS of litigation costs, $1.11 EPS pension settlement charge, $0.24 EPS divestiture costs, ‑$2.83 EPS gain from Solventum-share re-measurement, and $0.20 EPS from manufactured PFAS products.
+
+Organic growth, productivity, and other operational levers added **$0.93** to EPS; restructuring actions contributed **$0.23**; adverse FX shaved **$0.13**.
+
+Cost structure improved sharply: cost-of-sales ratio fell to 58.8 % (-210 bp); SG&A normalised to 17.2 % of sales after 2023’s litigation charges (77.9 %).
+
+---
+
+## Performance by Business Segment  
+
+| 2024 Sales | % chg | 2024 Op. Inc. | Margin | Key 2024 Drivers |
+|------------|-------|--------------|--------|------------------|
+| Safety & Industrial | **$10.96 bn** | 0 % | **$2.49 bn** | 22.7 % | Roofing granules, adhesives, electrical strength offset weaker abrasives; organic +0.7 %; margin +150 bp on productivity & cost discipline. |
+| Transportation & Electronics | **$8.38 bn** | ‑1.4 % | **$1.58 bn** | 18.8 % | Ex-PFAS sales +3.1 %; electronics up, auto OEM soft; PFAS exit reduced revenue $0.95 bn; margin +340 bp. |
+| Consumer | **$4.93 bn** | ‑1.9 % | **$0.93 bn** | 18.9 % | Home-improvement growth offset discretionary softness; margin +90 bp on portfolio actions. |
+| Corporate & Unallocated | $0.27 bn | — | **($0.17 bn)** | — | Lower litigation costs vs. 2023. |
+| Other | $0.03 bn | — | **($0.01 bn)** | — | Lower transition-service income post-Solventum. |
+| **Total** | **$24.58 bn** | ‑0.1 % | **$4.82 bn** | 19.6 % |  |
+
+Segment operating income before special items was **$5.07 billion**, a 12 % increase.
+
+---
+
+## Performance by Geographic Area (2024 vs. 2023)
+
+| Region | Sales | % of total | Total Δ | Organic Δ |
+|--------|-------|-----------|---------|-----------|
+| Americas | $13.41 bn | 54.5 % | +1.0 % | +0.1 % |
+| Asia-Pacific | $6.99 bn | 28.5 % | ‑1.0 % | +1.2 % (China/HK +8 %) |
+| EMEA | $4.18 bn | 17.0 % | ‑2.3 % | ‑3.1 % |
+| **Worldwide** | $24.58 bn | 100 % | ‑0.1 % | ‑0.2 % |
+
+Currency translation cut global sales by 70 bp; acquisitions added 20 bp; divestitures (mainly Solventum-related agreements) added 60 bp.
+
+---
+
+## Financial Condition and Liquidity  
+
+* Cash, cash equivalents, and marketable securities: **$7.74 billion** (up $1.94 billion).  
+* Commercial paper outstanding at 12/31/24: **$0** (12/31/23: $1.8 billion).  
+* Revolving credit facility: $4.25 billion, undrawn; maturity May 2028.  
+* Total debt: **$13.04 billion**, down $2.99 billion after $2.9 billion maturities (incl. $1.8 billion commercial-paper pay-down).  
+* Net debt to EBITDA (adjusted): approx. **0.8×**.  
+* Working capital improved to **$4.63 billion** (from $1.08 billion).  
+
+### Cash Flow (Continuing & Discontinued)
+
+|                          | 2024 | 2023 |  Δ |
+|--------------------------|------|------|----|
+| Operating cash flow      | $5.07 bn | $9.96 bn | ‑$4.89 bn (large PFAS/CAE payments) |
+| Investing cash flow      | ($1.56 bn) | ($1.60 bn) | +$0.04 bn |
+|  – CAPEX                 | ($1.20 bn) | ($1.39 bn) | |
+| Financing cash flow      | ($0.35 bn) | ($6.01 bn) | +$5.66 bn (Solventum debt proceeds, lower buybacks) |
+
+---
+
+## Capital Allocation  
+
+1. **Organic investment** – R&D (4.4 % of sales) and CAPEX (~$1.1 bn).  
+2. **Dividends** – 66th consecutive year of increases; payout ratio 50 % of GAAP EPS.  
+3. **Share repurchase** – $1.80 bn in 2024; open-ended $7.5 bn authorization.  
+4. **M&A / Portfolio** – Continuing PFAS product exit by 2025; plan to divest remaining Solventum stake within five years.  
+5. **Debt management** – Target strong “A” credit metrics; near-term maturities comfortably covered by liquidity profile.
+
+---
+
+## Critical Accounting Estimates  
+No change in policies; key judgments involve legal contingencies (ASC 450), pension assumptions (discount rate 5.64 % U.S., expected return 8.00 % for 2025), and goodwill (no impairments in 2024, goodwill $6.3 billion).
+
+---
+
+## Financial Instruments and Market Risks  
+
+* FX: 10 % instantaneous currency move would swing hedge portfolio fair value by ~$24 million.  
+* Interest rates: 100 bp move affects annual pre-tax earnings by ~$10 million.  
+* Commodity exposure managed via supply contracts; no derivatives outstanding.  
+
+---
+
+## Outlook  
+Management expects:  
+
+* Continued PFAS production wind-down by end-2025.  
+* Ongoing productivity benefits from 2023-2025 restructuring (cumulative pre-tax charges to date: $646 million).  
+* 2025 CAPEX around $1.1 billion; pension cash contributions $100 – $200 million.  
+* Maintenance of strong liquidity, disciplined capital deployment, and execution of litigation settlement payment schedules while targeting sustainable EPS growth.
+
+---

@@ -1,0 +1,94 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations  
+*(Condensed summary – all figures are for the year ended 31 December 2020 unless otherwise noted. Prior-year figures are 2019 comparatives.)*
+
+## Overview  
+3M remained a diversified, four-segment industrial and technology company. 2020 results were shaped by COVID-19: demand surged for personal-safety and cleaning products while many industrial and consumer end-markets contracted.  
+* Total net sales were **$32.184 billion**, essentially flat (+0.1 %); **organic local-currency sales fell 1.7 %**.  
+* COVID-related respirator revenue added roughly **3 percentage points** to organic growth.  
+* GAAP operating income rose 16 % to **$7.161 billion**; operating margin expanded **3.1 pp to 22.3 %** (21.3 % on an adjusted basis, +0.1 pp).  
+* Major organic declines occurred in oral care (-19 %), advanced materials (-17 %), automotive & aerospace (-16 %) and other industrial categories.  
+* Cost actions, lower discretionary spend and government relief partly offset pandemic headwinds.
+
+## Results of Operations  
+
+### Earnings per Share  
+| Diluted EPS | 2020 | 2019 | Δ % |
+|-------------|------|------|-----|
+| GAAP | **$9.25** | $7.81 | +18.4 % |
+| Adjusted (non-GAAP) | **$8.74** | $8.88 | –1.5 % |
+
+Key drivers versus 2019  
+* Lower organic volume and COVID-specific costs reduced EPS by $0.06.  
+* Non-divestiture restructuring (net benefit) added $0.12; acquisitions/divestitures subtracted $0.10.  
+* FX translation lowered EPS $0.11; a 0.2 pp lower tax rate reduced EPS $0.03.  
+* Share count was 0.5 % lower, adding $0.04.
+
+### Income Statement Highlights  
+| (US $ millions) | 2020 | 2019 | % chg |
+|-----------------|-------|-------|-------|
+| Net sales | 32,184 | 32,136 | +0.1 % |
+| Operating income | 7,161 | 6,174 | +16.0 % |
+| Operating margin | 22.3 % | 19.2 % | +3.1 pp |
+| Net income attributable to 3M | 5,384 | 4,570 | +17.8 % |
+| Effective tax rate | 19.6 % | 19.8 % | –0.2 pp |
+
+Lower litigation charges, higher divestiture gains, price increases (+0.6 %) and raw-material deflation supported margins; pandemic-related unabsorbed costs, higher pension service cost and respirator-liability reviews were headwinds.
+
+## Performance by Business Segment  
+
+| Segment | Sales ($ m) | % of total | Sales Δ | Org. LC Δ | Op. Inc. ($ m) | Op. Inc. Δ | 2020 Margin |
+|---------|-------------|------------|---------|-----------|----------------|------------|-------------|
+| Safety & Industrial | 11,767 | 36.6 % | +2.2 % | +3.5 % | 3,054 | +21.7 % | 26.0 % |
+| Transportation & Electronics | 8,827 | 27.4 % | –8.0 % | –7.1 % | 1,927 | –13.3 % | 21.8 % |
+| Health Care | 8,345 | 25.9 % | +12.3 % | +1.0 % | 1,828 | –1.6 % | 21.9 % |
+| Consumer | 5,336 | 16.6 % | +3.6 % | +4.1 % | 1,249 | +11.2 % | 23.4 % |
+| Corporate & Unalloc. | — | — | — | — | (363) | n.m. | n.m. |
+| Elim. of Dual Credit | (2,090) | (6.5 %) | — | — | (534) | — | — |
+| **Total** | **32,184** | 100 % | +0.1 % | –1.7 % | **7,161** | +16 % | 22.3 % |
+
+Highlights  
+* Safety & Industrial benefited from pandemic respirator demand; margins also improved on property gains and productivity.  
+* Transportation & Electronics saw sharp declines in automotive, aerospace and commercial graphics, partly offset by strength in semiconductors and data centers.  
+* Health Care growth was acquisition-driven (Acelity, M*Modal +15.5 pp); organic sales were up modestly as medical solutions recovered while oral care lagged; the drug-delivery divestiture cut 4.1 pp.  
+* Consumer segment growth came from home improvement and home care; stationery and office remained weak.
+
+## Performance by Geographic Area  
+
+| Region | Sales ($ m) | % of total | Total Δ | Org. LC Δ |
+|--------|-------------|-----------|---------|-----------|
+| Europe, Asia, Middle East & Other | 16,525 | 51.3 % | +2.5 % | –0.2 % |
+| Americas | 9,569 | 29.7 % | –2.3 % | –3.4 % |
+| Pacific & Africa | 6,109 | 19.0 % | –1.9 % | –2.8 % |
+| **Worldwide** | 32,184 | 100 % | +0.1 % | –1.7 % |
+
+Notable country moves: U.S. organic +1 %; China +3 %; Mexico –12 %; Brazil +7 %.
+
+## Critical Accounting Estimates  
+Management reaffirmed that the most sensitive estimates involve legal contingencies, pension/post-retirement obligations, goodwill and intangibles, long-lived asset recoverability, and uncertain tax positions. Pension plans were **87 % funded** worldwide; the primary U.S. plan was 91 % funded with a 2.55 % discount rate.
+
+## New Accounting Pronouncements  
+No recently issued standards were deemed material to 3M’s 2020 consolidated results; adoption timelines and expected effects are disclosed in Note 1.
+
+## Financial Condition and Liquidity  
+
+* **Operating cash flow:** **$8.113 billion** (+$1.0 billion), driven by cost savings, lower litigation cash-outs and working-capital discipline.  
+* **Capital expenditures:** **$1.501 billion** (cut to preserve liquidity, yet increased respirator capacity).  
+* **Free cash flow (non-GAAP):** $6.6 billion; conversion 123 % of net income.  
+* **Cash & marketable securities:** **$5.1 billion** (vs. $2.5 billion).  
+* **Total debt:** **$18.795 billion** (down $1.518 billion); **net debt** $13.727 billion.  
+* March 2020 financing: $1.75 billion note issuance bolstered liquidity; no commercial paper outstanding at year-end.  
+* Committed credit lines: $3.0 billion five-year (Nov 2024) plus $1.25 billion 364-day, both undrawn; EBITDA/interest covenant comfortably met at roughly 17×.  
+* **Shareholder returns:**  
+  * Dividends paid: **$3.388 billion** ($5.88 per share); 63rd consecutive annual increase announced for 2021.  
+  * Share repurchase program paused March 2020; only **$0.368 billion** bought (vs. $1.4 billion in 2019). Authorization of $7.8 billion remains; buybacks to resume in 2021.
+
+## Financial Instruments  
+3M actively hedges currency, interest-rate and commodity exposures:  
+* FX derivatives outstanding notional **$5.5 billion** ($2.3 billion cash-flow and net-investment hedges; $3.2 billion non-designated).  
+* Interest-rate swaps notional **$403 million**; commodity hedges limited.  
+* Value-at-risk (95 % confidence) indicated potential annual after-tax earnings swing of ≈ $170 million for FX, ≈ $1 million for rates; commodity VaR immaterial.
+
+---
+
+### Summary Conclusion  
+Despite a pandemic-driven 1.7 % organic sales contraction, 3M grew GAAP EPS 18 %, expanded operating margin to 22.3 % and generated record $8.1 billion operating cash flow. Robust personal-safety sales, cost discipline, lower litigation charges and divestiture gains offset weaknesses in automotive, aerospace, oral care and office products. Debt was reduced, liquidity strengthened, and dividends maintained, positioning 3M for resumed share repurchases and continued investment in 2021.

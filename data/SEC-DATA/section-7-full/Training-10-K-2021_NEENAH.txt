@@ -1,0 +1,431 @@
+# Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion and analysis presents the factors that had a material effect on our results of operations during the year ended December 31, 2021. Also discussed is our financial position as of December 31, 2021. You should read this discussion in conjunction with our consolidated financial statements and the notes to those consolidated financial statements included elsewhere in this Annual Report on Form 10-K. This Management's Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements. See "Forward-Looking Statements" for a discussion of the uncertainties, risks and assumptions associated with these statements. A detailed discussion of year ended December 31, 2020 can be found in Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K filed on February 19, 2021. 
+
+# Introduction 
+
+This Management's Discussion and Analysis of Financial Condition is intended to provide investors with an understanding of the historical performance of our business, its financial condition and its prospects. We will discuss and provide our analysis of the following: 
+
+• Overview of Business; 
+• Business Segments; 
+• Results of Operations and Related Information; 
+• Liquidity and Capital Resources; 
+• Adoption of New Accounting Pronouncements; and 
+• Critical Accounting Policies and Use of Estimates. 
+
+# Overview of Business 
+
+We are a leading global producer of specialty materials. We have two primary operations: our technical products business and our fine paper and packaging business. 
+
+Our mission is to manufacture critical components that create possibilities for our customers and end-users. We expect to drive value by growing in markets where product performance or image is valued and where we have competitive advantages. In managing our businesses, we believe that achieving and maintaining a leadership position in our markets, responding effectively to customer needs and competitive challenges, employing capital optimally, controlling costs and managing risks are important to long-term success. Changes in general economic conditions and timing of changes in input costs and selling prices will also impact our results. In this discussion and analysis, we will refer to these factors. 
+
+# Business Segments 
+
+Our two reportable operating segments consist of Technical Products and Fine Paper and Packaging. 
+
+Our technical products business is a leading international producer of transportation, water and other filter media and durable, saturated, and coated substrates for a variety of end markets. We focus on categories where we believe we are, or can be, a market leader. These categories include filtration media for transportation, water and other end use applications, backings for specialty tapes and abrasives, release liners, digital transfer papers, performance labels and other custom engineered materials. Our products are typically used in high performance applications where our customers require specific standards and qualifications. Our dedicated technical products manufacturing facilities are located in Weidach and Bruckmühl, Germany, Eerbeek, Netherlands, Andoain, Spain, Bolton, England, Queretaro, Mexico, Munising, Michigan, and Pittsfield, Massachusetts.
+
+Our fine paper and packaging business is a leading supplier of premium printing, packaging, and other high-end specialty papers predominantly in North America. Our products include some of the most recognized and preferred brands in North America, where we enjoy leading market positions in many of our product categories. Often these papers are characterized by distinctive finishing, colors, textures and coating. We sell our products primarily to authorized paper distributors, as well as through converters, major national retailers and specialty businesses. Our dedicated fine paper and packaging manufacturing facilities are located in Whiting and Neenah, Wisconsin, and Great Barrington, Massachusetts. In addition, certain products of both segments are manufactured in shared facilities located in Brownville and Lowville, New York, and Quakertown, Pennsylvania. 
+
+In January 2021, the Company realigned management of the publishing products component of the Technical Products segment to be part of the Fine Paper and Packaging segment. As a result, the Company recast the comparable 2020 information and presented the $26.3 million of net sales and $0.9 million of operating loss for the year ended December 31, 2020, which were formerly in the Technical Products segment to be a part of the Fine Paper and Packaging segment. 
+
+As discussed in Note 4 of Notes to Consolidated Financial Statements, "Business Acquisition", on April 6, 2021 the Company acquired all of the outstanding capital stock of Global Release Liners, S.L., a Spanish limited company (Itasa) for approximately $240.2 million in cash, net of cash on hand and debt extinguishment, and including a loss on foreign currency forward contracts. Itasa, through its subsidiaries, is a leading global coater and converter of release liners used in hygiene, tapes, industrial labels, composites, and various other end markets. The acquisition ("Itasa Acquisition") was funded with available cashon- hand and the net proceeds of the Term Loan B discussed in Note 7 of Notes to Consolidated Financial Statements, "Debt." The Company incurred $12.8 million of costs related to the acquisition, including a realized loss of $5.1 million related to the foreign currency forward contracts negotiated to fund the purchase price in Euros. The Itasa business is now part of the Company's Technical Products segment. 
+
+# Results of Operations and Related Information 
+
+In this section, we discuss and analyze our net sales, income before interest and income taxes (which we refer to as "operating income") and other information relevant to an understanding of our results of operations. 
+
+## Executive Summary 
+
+For the year ended December 31, 2021, consolidated net sales of $1,028.5 million increased $235.9 million, or 30 percent, from $792.6 million in 2020. The increase in net sales resulted primarily from strong organic volume growth in both segments, from pricing actions in response to input cost increases and from the Itasa Acquisition which contributed $106.9 million to the change in the Technical Products segment. Net sales grew 38 percent in Technical Products and 18 percent in Fine Paper and Packaging. In addition to the incremental impacts from Itasa, the Technical Products segment volume increased significantly but was adversely affected by a lower value sales mix in 2021. The increase in net sales in the Fine Paper and Packaging segment was due to higher demand, increased selling prices and a higher value sales mix.
+
+Consolidated operating income (loss) for the year ended December 31, 2021 was a loss of $11.8 million, and such loss was $5.7 million larger than the prior year. Excluding adjusting items in both years, adjusted operating income of $72 million increased $7.6 million from $64.4 million in 2020. As presented in the reconciliation table on page 34, we recorded $83.8 million of adjusting items in 2021, including non-cash impairment and asset restructuring costs, pension and SERP settlement/curtailment losses, acquisition and integration costs, loss on debt extinguishment, incremental costs of COVID-19 and other restructuring and non-routine costs. Adjusting items of $70.5 million in 2020 included similar items. Adjusted operating income increased in 2021 due to robust sales volume growth (including the volume and operating income from Itasa) and pricing actions in both segments, partially offset by significantly higher raw material, energy and distribution costs, effects of supply chain constraints and a lower value sales mix in Technical Products. Additionally, manufacturing costs for both segments increased due to higher workforce turnover and labor costs. 
+
+Cash provided by operating activities of $53.2 million for the year ended December 31, 2021 was $40.2 million lower than the $93.4 million in the prior year. The decrease resulted from the increase in working capital needs resulting from the 30 percent rebound in net sales in 2021 compared to the COVID-impacted level of business activity and spending in 2020. Also, we had significantly higher global tax payments in 2021 due to payment of one-half of the U.S. payroll taxes which had been deferred from 2020 and from higher foreign entities' taxable income.
+
+Capital expenditures for the year ended December 31, 2021 were $28.2 million compared to $18.9 million in the prior year. Capital spending increased by $9.3 million, reflecting actions we took in 2020 to significantly minimize capital spending. 
+
+In addition to these financial results, other noteworthy accomplishments during 2021 included: achieving an overall 30 percent reduction in the rate of workplace injuries through strong employee engagement in safety initiatives, pivoting in response to raw material input availability challenges by reformulating a significant portion of our product portfolio and implementation of the Neenah Operating System, an enterprise-wide framework of principles, practices and tools, with employee safety always preeminent, which are designed to align internal processes with customer value, and focus on continuous improvement and long-term value creation in our manufacturing facilities. 
+
+### Analysis of Net Sales — Years Ended December 31, 2021 and 2020 
+
+The following table presents net sales by segment and net sales expressed as a percentage of total net sales: 
+
+| Year Ended December 31, | 2021    | 2021  | 2020    | 2020  |
+|-------------------------|---------|-------|---------|-------|
+| Technical Products      | $ 664.2 | 65 %  | $ 482.6 | 61 %  |
+| Fine Paper and Packaging| 364.3   | 35 %  | 310.0   | 39 %  |
+| Consolidated            | $ 1,028.5| 100 % | $ 792.6 | 100 % |
+
+Commentary: Year 2021 versus 2020 
+
+| Change in Net Sales Compared to the Prior Year | For the Year Ended December 31, | Change Due To |           |        |        |
+|------------------------------------------------|--------------------------------|---------------|-----------|--------|--------|
+|                                                | 2021                           | 2020          | Total Change | Volume | Price/Mix | Currency |
+| Technical Products                             | $ 664.2                        | $ 482.6       | $ 181.6   | $ 176.9| $ (7.2)| $ 11.9 |
+| Fine Paper and Packaging                       | 364.3                          | 310.0         | 54.3      | 41.4   | 12.9   | —      |
+| Consolidated                                   | $ 1,028.5                      | $ 792.6       | $ 235.9   | $ 218.3| $ 5.7  | $ 11.9 |
+
+Consolidated net sales for the year ended December 31, 2021 were $235.9 million (30%) higher than the prior year. The increase in net sales resulted primarily from strong organic volume growth in both segments, from pricing actions in response to input cost increases and from the Itasa Acquisition which contributed $106.9 million to the change in the Technical Products segment. Net sales grew 38 percent in Technical Products and 18 percent in Fine Paper and Packaging. In addition to the incremental impacts from Itasa, the Technical Products segment volume increased significantly but was adversely affected by a lower value sales mix in 2021. The increase in net sales in the Fine Paper and Packaging segment was due to higher demand, increased selling prices and a higher value sales mix. 
+
+• Net sales in our technical products business increased $181.6 million (38%) from the prior year. The revenue increase was primarily driven by a volume rebound in all product categories, the incremental net sales from the Itasa Acquisition and from selling price increases totaling $8.3 million. These increases were partially offset by a lower value sales mix in 2021, which was impacted by the adverse effects of limited availability of various raw materials from global supply chain constraints. 
+
+• Net sales in our fine paper and packaging business increased $54.3 million (18%) from the prior year. The increase reflected a continued rebound of volumes in all product categories, especially in premium packaging and consumer products. Selling price increases totaling $10.6 million were realized in 2021, along with an improved product mix.
+
+### Analysis of Operating Income — Years Ended December 31, 2021 and 2020 
+
+The following table sets forth line items from our consolidated statements of operations as a percentage of net sales for the periods indicated and is intended to provide a perspective of trends in our historical results: 
+
+| Year Ended December 31,                        | 2021    | 2020    |
+|------------------------------------------------|---------|---------|
+| Net sales                                      | 100.0 % | 100.0 % |
+| Cost of products sold                          | 84.1 %  | 80.7 %  |
+| Gross profit                                   | 15.9 %  | 19.3 %  |
+| Selling, general and administrative expenses   | 9.9 %   | 11.2 %  |
+| Impairment and asset restructuring costs       | 3.4 %   | 7.3 %   |
+| Pension and SERP settlement and curtailment losses | 1.7 % | 0.2 % |
+| Acquisition-related costs                      | 1.3 %   | 0.2 %   |
+| Loss on debt extinguishment                    | 0.7 %   | 0.2 %   |
+| Other restructuring and non-routine costs      | 0.2 %   | 0.5 %   |
+| COVID-19 costs                                 | 0.2 %   | 0.4 %   |
+| Other expense (income), net                    | (0.3) % | 0.1 %   |
+| Operating income (loss)                        | (1.2) % | (0.8) % |
+| Interest expense, net                          | 1.7 %   | 1.6 %   |
+| Income (loss) before income taxes              | (2.9) % | (2.4) % |
+| Provision (benefit) for income taxes           | (0.5) % | (0.4) % |
+| Net income (loss)                              | (2.4) % | (2.0) % |
+
+Commentary: Year 2021 versus 2020 
+
+| Category                  | 2021   | 2020   | Total Change | Volume   | Price/Mix (a) | Input Costs (b) | Currency | Other (c) |
+|---------------------------|--------|--------|--------------|----------|---------------|-----------------|----------|-----------|
+| Technical Products        | $ 5.6  | $ (3.9)| $ 9.5        | $ 37.5   | $ (7.1)       | $ (34.5)        | $ 2.3    | $ 11.3    |
+| Fine Paper and Packaging  | $ 40.9 | $ 22.4 | $ 18.5       | $ 12.3   | $ 13.6        | $ (12.2)        | —        | $ 4.8     |
+| Unallocated corporate costs| $ (58.3)|$ (24.6)|$ (33.7)     | —        | —             | —               | —        | $ (33.7)  |
+| Consolidated              | $ (11.8)|$ (6.1)|$ (5.7)      | $ 49.8   | $ 6.5         | $ (46.7)        | $ 2.3    | $ (17.6)  |
+
+
+_______________________ 
+(a) Includes price changes, net of changes in product mix. 
+
+(b) Includes cost changes for raw materials and energy. 
+
+(c) Includes other manufacturing costs, over (under) absorption of fixed costs, distribution and selling, general and administrative ("SG&A") expenses. In addition, in 2021, it included $45.5 million, $0.8 million, and $37.5 million of unfavorable adjustments in Technical Products, Fine Paper and Packaging, and Unallocated corporate costs, respectively. In 2020, it included it included $56.9 million, $8.0 million, and $5.6 million of unfavorable adjustments in Technical Products, Fine Paper and Packaging, and Unallocated corporate costs, respectively. See the breakdown by segment in the reconciliation table on page 34 for further detail.
+
+Consolidated operating income decreased $5.7 million from prior year to a loss of $11.8 million for the year ended December 31, 2021. Excluding adjusting items in both years, adjusted operating income of $72 million increased $7.6 million from $64.4 million in 2020. As presented in the reconciliation table on page 34, we recorded $83.8 million of adjusting items in 2021, including non-cash impairment and asset restructuring costs, pension and SERP settlement/curtailment losses, acquisition and integration costs, loss on debt extinguishment, incremental costs of COVID-19 and other restructuring and nonroutine costs. Adjusting items of $70.5 million in 2020 included similar items. Adjusted operating income increased in 2021 due to robust sales volume growth (including the volume and operating income from Itasa) and pricing actions in both segments, partially offset by significantly higher raw material, energy and distribution costs, effects of supply chain constraints and a lower value sales mix in Technical Products. Additionally, manufacturing costs for both segments increased due to higher workforce turnover and labor costs. 
+
+• Operating income for our technical products business increased $9.5 million from prior year to a profit of $5.6 million. Excluding unfavorable adjusting items discussed above and shown on the reconciliation table on page 34 , adjusted operating income decreased $1.9 million (4%), reflecting higher sales and production volumes, including those from the Itasa Acquisition and favorable foreign currency, which were more than offset by higher raw material, energy and distribution costs, a lower value sales mix, along with manufacturing cost inefficiencies. The facilities required increased hiring activity to meet demand and were faced with higher workforce turnover which led to incremental training, bonus and overtime costs, and adverse productivity and waste. Also, we experienced a lag in executing certain customer pricing actions to recover input cost increases, as some are subject to annual adjustment contract provisions. 
+
+• Operating income for our fine paper and packaging business increased $18.5 million (83%) from the prior year period. Excluding unfavorable adjusting items discussed above and shown on the reconciliation table on page 34, adjusted operating income increased $11.3 million (37%) from the prior year, primarily as a result of higher sales and production volumes and higher value sales mix. The increase was offset by higher input and distribution costs, along with manufacturing cost inefficiencies. The facilities required increased hiring activity to meet demand which led to incremental training, bonus and overtime costs, and adverse productivity and waste. 
+
+• Unallocated corporate costs for the year ended December 31, 2021 were $58.3 million, or $33.7 million higher than the prior year. Excluding the $37.5 million of unfavorable adjusting items, primarily related to pension settlement losses and acquisition-related costs (shown on the reconciliation table on page 34), the unallocated corporate costs of $20.8 million increased $1.8 million (10%) from the COVID-19 impacted 2020 period. During November 2021, to reduce pension risk of a U.S. pension plan, the Company liquidated trust assets to acquire a $64 million group insurance annuity for 1,400 retirees with relatively small monthly pension benefits. This transaction is expected to save the Company approximately $7 million over the lives of these retirees, as it eliminated future disproportionately high “per head” Pension Benefit Guaranty Corporation fees and administrative costs of the trustee. Recognition of a pro-rata share of the cumulative actuarial losses was triggered by this transaction, resulting in a $15.6 million settlement loss. 
+
+
+The following table sets forth our operating income by segment, adjusted for the effects of certain costs, for the periods indicated: 
+
+
+| Category                           | YTD 2021 | 2020    |
+|------------------------------------|----------|---------|
+| Technical Products                 |          |         |
+| GAAP Operating Income (Loss)       | $ 5.6    | $ (3.9) |
+| Impairment and asset restructuring | $ 37.3   | $ 54.1  |
+| Acquisition-related costs          | $ 5.8    | —       |
+| Pension and SERP settlement losses | $ 0.9    | $ 0.8   |
+| Loss on debt extinguishment        | —        | $ 0.1   |
+| Other restructuring costs          | $ 1.0    | $ 0.6   |
+| COVID-19 costs                     | $ 0.5    | $ 1.3   |
+| Adjusted operating income          | $ 51.1   | $ 53.0  |
+| Fine Paper and Packaging           |          |         |
+| GAAP Operating Income              | $ 40.9   | $ 22.4  |
+| Impairment and asset restructuring | —        | $ 3.7   |
+| Pension and SERP adjustments       | —        | $ 0.4   |
+| Other restructuring costs          | —        | $ 2.3   |
+| COVID-19 costs                     | $ 0.8    | $ 1.6   |
+| Adjusted operating income          | $ 41.7   | $ 30.4  |
+| Other/Unallocated Corporate Costs  |          |         |
+| GAAP Operating Loss                | $ (58.3) | $ (24.6)|
+| Acquisition-related costs          | $ 12.6   | $ 1.5   |
+| Pension and SERP settlement losses | $ 16.5   | $ 0.4   |
+| Loss on debt extinguishment        | $ 7.2    | $ 1.8   |
+| Other restructuring costs          | $ 0.9    | $ 1.3   |
+| COVID-19 costs                     | $ 0.3    | $ 0.6   |
+| Adjusted operating loss            | $ (20.8) | $ (19.0)|
+| Consolidated                       |          |         |
+| GAAP Operating Loss                | $ (11.8) | $ (6.1) |
+| Impairment and asset restructuring | $ 37.3   | $ 57.8  |
+| Acquisition-related costs          | $ 18.4   | $ 1.5   |
+| Pension and SERP settlement losses | $ 17.4   | $ 1.6   |
+| Loss on debt extinguishment        | $ 7.2    | $ 1.9   |
+| Other restructuring costs          | $ 1.9    | $ 4.2   |
+| COVID-19 costs                     | $ 1.6    | $ 3.5   |
+| Adjusted operating income          | $ 72.0   | $ 64.4  |
+
+
+In accordance with generally accepted accounting principles in the United States ("GAAP"), consolidated operating income includes the pre-tax effects impairment and asset restructuring costs, acquisition-related costs, pension and SERP settlement and curtailment losses, loss on debt extinguishment, COVID- 19 costs and other restructuring and non-routine costs. We believe by adjusting reported operating income to exclude the effects of such items, the resulting adjusted operating income is on a basis that reflects the results of our ongoing operations. In assessing COVID-19 impacts, we only excluded costs that were unusual, incremental and directly attributable to mitigating the effects of COVID-19 on our operations. We believe that providing adjusted operating results will help investors gain an additional perspective of underlying business trends and results. We use adjusted operating income among other measures in evaluating the operating performance of our business units and the performance of management personnel. 
+
+Adjusted operating income is not a recognized term under GAAP and should not be considered in isolation or as a substitute for operating income derived in accordance with GAAP. Other companies may use different methodologies for calculating their non-GAAP financial measures and, accordingly, our non- GAAP financial measures may not be comparable to their measures. 
+
+### Additional Statement of Operations Commentary: 
+
+• SG&A expense of $101.4 million for the year ended December 31, 2021 was $13.4 million higher than 2020. The majority of the increase was due to additional SG&A from the Itasa Acquisition. In addition, costs in 2020 were lower due to significant actions taken to manage spending and temporarily reduce costs in areas including marketing, travel, payroll-related spending, including impacts of furloughs, headcount reductions and wage and hiring freezes. 
+
+• For the years ended December 31, 2021 and 2020, we incurred $17.9 million and $12.6 million of interest expense, respectively. The increase in interest expense relates to higher borrowing under the upsized Term Loan B and amortization of the associated deferred financing costs. 
+
+• Income tax expense (benefit) represented (16) percent of income (loss) before income taxes for both the years ended December 31, 2021 and 2020. In general, our effective tax rate differs from the U.S. statutory tax rate primarily due to impacts of changes in the mix of earnings in taxing jurisdictions with differing statutory rates, the impact of R&D and other tax credits, changes in tax laws and changes in corporate structure as a result of business acquisitions and dispositions. 
+
+• For the years ended December 31, 2021 and 2020, the effective income tax (benefit) rate of (16) percent in each year was significantly impacted by the effects of the $83.8 million and $70.5 million, respectively, of unusual costs for asset impairment and restructuring costs, losses from pension and SERP settlements, acquisition-related costs and losses on debt extinguishments (as detailed in the table on page 34), which resulted in consolidated pre-tax book losses. In addition, as a result of the impacts of COVID-19 and other factors, in 2021 and 2020, the Company recorded an increase to the valuation allowance against state tax credits and NOLs of $2.4 million and $4.7 million, respectively. In 2021, upon the permanent closure of the Appleton facility and termination of an intercompany royalty agreement, the Company wrote-off a deferred tax asset of $2.9 million which was no longer recoverable through future tax deductions. 
+
+• In March 2020, the U.S. government enacted the Coronavirus Aid, Relief and Economic Security Act ("CARES Act"). The CARES Act included various income and payroll tax provisions designed to stimulate the economy and provide relief to businesses. In 2020, the Company recorded an estimated income tax benefit of $0.9 million and a corresponding tax receivable for $8.0 million for the carryback tax refund. In 2021, when the federal tax return was filed, an additional income tax benefit of $1.4 million was recorded and the corresponding tax refund receivable was increased to $9.1 million. In 2020, the Company also elected the option to delay payment of $4.4 million of 2020 payroll taxes. One-half was paid on December 31, 2021 and the remainder will be paid on December 31, 2022.
+
+### Liquidity and Capital Resources 
+
+We believe that we have a strong financial position and the liquidity to withstand economic uncertainty during this volatile period, in consideration of the following: 
+
+• $23.9 million of cash and cash equivalents was on hand at December 31, 2021. 
+
+• As of December 31, 2021, we had $0.9 million of outstanding borrowings under our Global Revolving Credit Facility, with remaining availability of $146.1 million; 
+
+• We have no material near-term debt maturities, with our Global Revolving Credit Facility maturing December 2023 and our Term Loan B facility maturing April 2028; 
+
+| Cash Flow Category                                  | 2021     | 2020    |
+|----------------------------------------------------|----------|---------|
+| Net cash flow provided by (used in):               |          |         |
+| Operating activities                                | $ 53.2   | $ 93.4  |
+| Investing activities:                               |          |         |
+| Capital expenditures                                | $ (28.2) | $ (18.9)|
+| Acquisition of Itasa                                | $ (240.2)| —       |
+| Proceeds from sale of property, plant and equipment | —        | $ 0.5   |
+| Other investing activities                          | $ 4.1    | $ (1.1) |
+| Total investing activities                          | $ (264.3)| $ (19.5)|
+| Financing activities                                | $ 199.2  | $ (47.0)|
+| Effect of exchange rate changes on cash             | $ (1.3)  | $ 1.2   |
+| Net increase (decrease) in cash and cash equivalents| $ (13.2) | $ 28.1  |
+
+
+### Operating Cash Flow Commentary: 
+
+• Cash provided by operating activities of $53.2 million for the year ended December 31, 2021 was $40.2 million lower than cash provided by operating activities of $93.4 million in the prior year.The decrease resulted from the increase in working capital needs resulting from the 30 percent rebound in net sales in 2021 compared to the COVID-impacted level of business activity and spending in 2020. Also, we had significantly higher global tax payments in 2021 due to payment of one-half of the U.S. payroll taxes which had been deferred from 2020 and from higher foreign entities' taxable income. 
+
+### Investing Cash Flow Commentary: 
+
+• For the years ended December 31, 2021 and 2020, cash used by investing activities was $264.3 million and $19.5 million, respectively. 
+
+• We acquired Itasa on April 6, 2021, for $240.2 million, net of cash on hand and repayment of existing debt, and including a loss on foreign currency forward contracts. 
+
+• Going forward, we expect aggregate annual capital expenditures to return to a range of approximately 4 to 5 percent of net sales. We believe that this level of capital spending can be funded from cash provided from operating activities and allows us to maintain the efficiency and cost effectiveness of our assets while also investing in expanded capabilities to successfully pursue strategic initiatives and deliver attractive returns. 
+
+### Financing Cash Flow Commentary: 
+
+Our liquidity requirements are provided by cash generated from operations and short- and long-term borrowings. 
+
+• On April 6, 2021, in connection with the Itasa Acquisition, the Company entered into an Amendment and Restatement agreement which provides a sevenyear Term Loan B facility in the initial principal amount of $450 million, which replaced the 2020 Term Loan B. The 2021 Term Loan B is repayable in equal quarterly installments which 36 commenced on September 30, 2021 in a aggregate annual amount equal to 1 percent of the original principal amount of the Term Loan B. Cash proceeds of borrowings on the closing date under the Term Loan B were used by the Company to pay cash consideration for the acquisition, including the repayment of certain existing debt of Itasa, and to pay fees and expenses in connection with the acquisition, the 2020 Term Loan B and the amendment of the ABL Credit Agreement. The Company recognized a $7.2 million loss on debt extinguishment in connection with the transaction. 
+
+• For the year ended December 31, 2021, cash provided by financing activities was $199.2 million compared to cash used by financing activities of $47 million for the prior year. This consisted of net borrowings of long-term debt, dividends paid, debt issuance cost, and share repurchases. We upsized our Term Loan B from $200 million to $450 million as a source of financing the Itasa Acquisition, resulting in net borrowings (repayments) of $246.9 million in 2021 compared to $(4.3) million in the prior year. 
+
+• For the year ended December 31, 2021, cash and cash equivalents decreased $13.2 million to $23.9 million at December 31, 2021 from $37.1 million at December 31, 2020. Total debt increased $246.9 million to $441.3 million at December 31, 2021 from $194.4 million at December 31, 2020. The increase in total debt reflects the borrowing for the Itasa Acquisition and the repayment of the 2020 Term Loan B. Net debt (total debt minus cash and cash equivalents) increased by $260.1 million. 
+
+• The Company currently has the following credit facilities: 
+
+	- Global Revolving Credit Facility 
+	We have a $175 million asset-based revolving credit facility which is provided under our Fourth Amended and Restated Credit Agreement dated as of December 10, 2018 (as amended, the “Revolving Credit Agreement”) by and among the Company and certain of its domestic subsidiaries (the "Domestic Borrowers"), Neenah Services GmbH & Co. KG and certain of its German subsidiaries (the "German Borrowers"), certain other subsidiaries as the "German Guarantors", the financial institutions signatory to the Revolving Credit Agreement as lenders (the "Lenders"), and JPMorgan Chase Bank, N.A., as agent for the Lenders. 
+
+	Our revolving credit facility consists of a $125 million secured revolving credit facility for the Domestic Borrowers (the "U.S. Revolving Credit Facility") and a $50 million secured, multicurrency revolving credit facility for the German Borrowers (the "German Revolving Credit Facility," and together with the U.S. Revolving Credit Facility, the "Global Revolving Credit Facility"). The Global Revolving Credit Facility, which matures on December 10, 2023, contains an accordion feature permitting one or more increases in the Global Revolving Credit Facility in an aggregate principal amount not exceeding $125 million, such that the aggregate commitments under the Global Revolving Credit Facility do not exceed $300 million. In addition, the Domestic Borrowers may request letters of credit under the U.S. Revolving Credit Facility in an aggregate face amount not to exceed $20 million outstanding at any time, and the German Borrowers may request letters of credit under the German Revolving Credit Facility in an aggregate face amount not to exceed $5 million outstanding at any time. 
+
+	As of December 31, 2021, we had $0.9 million in borrowings and $0.3 million in letters of credit outstanding under our Global Revolving Credit Facility. See Note 7 of Notes to Consolidated Financial Statements, "Debt." 
+
+	- Term Loan B Facility 
+
+	We have a $450 million secured term loan facility (the “Term Loan Facility” or the “Term Loan B”) provided under an Amendment and Restatement Agreement dated as of April 6, 2021 (the “Term Loan Credit Agreement”), by and among the Company, as borrower, certain of its domestic subsidiaries, as guarantors (the “Guarantors”, and together with the Company, the “Term Loan Parties”), a syndicate of banks, financial institutions and other entities as lenders (the “Term Loan B Lenders”), and JPMorgan Chase Bank, N.A., as administrative agent for the Term Loan B Lenders, amending and restating our June 30, 2020 Term Loan Credit Agreement and replacing our prior $200 million secured term loan facility provided thereunder (the “2020 Term Loan B”). 
+
+	Under the terms of the Term Loan Credit Agreement, and subject to certain conditions and adjustments, the Company may from time to time solicit the Term Loan B Lenders or new lenders to provide incremental term loan financings under the Term Loan Credit Agreement up to $150 million in the aggregate. 
+
+	The Term Loan B is repayable in equal quarterly installments commencing on September 30, 2021 in an aggregate annual amount equal to 1% of the original principal amount of the Term Loan B Facility (subject to certain reductions in connection with debt prepayments and debt buybacks). The entire unpaid principal balance of the Term Loan B, together with all accrued and unpaid interest thereon, will be due and payable at maturity on April 6, 2028. See Note 7 of Notes to Consolidated Financial Statements, "Debt." 
+
+	Cash proceeds of borrowings on the closing date under the Term Loan B were used by the Company to pay cash consideration for the Itasa Acquisition, including the repayment of certain existing debt of Itasa, and to pay fees and expenses in connection with the Acquisition, the Term Loan B and the amendment of the Global Revolving Credit Facility to permit the Itasa Acquisition. The Company recognized $ 7.2 million of loss on debt extinguishment in connection with the transaction. 
+
+	- Other Debt 
+
+	In January 2013, Neenah Germany entered into a project financing agreement for the construction of a melt blown machine (the "Second German Loan Agreement"). The Second German Loan Agreement provided for €9.0 million of construction financing which is secured by the melt blown machine. The loan matures in September 2022 and principal is repaid in equal quarterly installments. At December 31, 2021, €0.9 million ($1.0 million, based on exchange rates at December 31, 2021) was outstanding under the Second German Loan Agreement. 
+
+	In May 2018, Neenah Germany entered into a project financing agreement for construction of a regenerative thermal oxidizer (the "Third German Loan Agreement") to increase the capacity of the existing saturators and ensure compliance with new European air emission standards. The agreement provided for €5.0 million of financing and is secured by the asset. The loan matures in September 2022 and principal is repaid in 13 equal quarterly installments beginning in June 2019. The interest rate on amounts outstanding is 1.45 percent based on actual days elapsed in a 360-day year and is payable quarterly. At December 31, 2021, €0.8 million ($0.9 million, based on exchange rates at December 31, 2021) was outstanding under the Third German Loan Agreement. 
+
+• Availability under our Global Revolving Credit Facility varies over time depending on the value of our inventory, receivables and (in the case of the German Revolving Credit Facility) various capital assets. As of December 31, 2021, we had $0.9 million of borrowings, and $0.3 million of outstanding letters of credit, outstanding under our Global Revolving Credit Facility and $146.1 million of available credit (based on exchange rates at December 31, 2021). 
+
+• We have required debt payments in 2022 of $6.4 million on the Term Loan B and the Second and Third German Loan Agreements. 
+
+• As of December 31, 2021, our cash balance of $23.9 million consists of $0.4 million in the U.S. and $23.5 million held at entities outside of the U.S. As of December 31, 2021, there were no restrictions regarding the repatriation of our non-U.S. cash. 
+
+### Transactions with Shareholders 
+
+• For the nine months ended September 30, 2021, we paid quarterly cash dividends of $0.47 per common share, and for the quarter ended December 31, 2021 we increased the quarterly cash dividend to $0.475 per common share, with full year cash dividend payments in the year ending December 31, 2021 totaling $31.9 million. For the year ended December 31, 2020, we paid quarterly cash dividends of $0.47 per common share or $31.9 million. 
+
+• In November 2020, our Board of Directors authorized a program for the purchase of up to $25 million of outstanding common stock effective January 1, 2021 ("Stock Purchase Plan"). The program does not expire or require the Company to purchase any specific number of shares and may be suspended or discontinued at any time. Purchases under the Stock Purchase Plan will be made from time to time in the open market or in privately negotiated transactions in accordance with the requirements of applicable law. The timing and amount of any purchases will depend on share price, market conditions and other factors. For the years ended December 31, 2021 and 2020, we acquired approximately 103,785 and 59,577 shares of Common Stock at a cost of $5.0 million and $3.6 million, respectively, related to the Stock Purchase Plan. For further details on our Stock Purchase Plans refer to Note 10 of Notes to Consolidated Financial Statements, "Stockholders' Equity." 
+
+• For the years ended December 31, 2021 and 2020, we acquired approximately 19,273 and 22,064 shares of Common Stock, respectively, at a cost of $1.0 million and $1.2 million, respectively, for shares surrendered by employees to pay taxes due on vested restricted stock awards and stock appreciation rights exercised.
+
+
+• Under the terms of the Fourth Amended and Restated Credit Agreement, we are permitted to pay cash dividends on, and repurchase shares of, our common stock without limitation, as long as our specified excess availability under the Fourth Amended and Restated Credit Agreement exceeds the greater of (i) $20 million and (ii) 12.5 percent of our aggregate commitments under the Global Revolving Credit Facility (approximately $22 million as of December 31, 2021), on a pro forma basis after giving effect to such dividend or stock repurchase (as the case may be). If our specified excess availability, on a pro forma basis, is less than the applicable threshold, we are subject to certain restrictions on the amount of cash dividends we are permitted to declare and the amount of share repurchases we are permitted to execute. As of December 31, 2021, our availability was $146.1 million, so this restriction did not apply. See our availability under the Fourth Amended and Restated Credit Agreement in Note 7 of Notes to Consolidated Financial Statements, "Debt." 
+
+• Under the most restrictive terms of the Term Loan Credit Agreement, we are permitted to pay cash dividends and repurchase shares of our common stock in an aggregate amount not to exceed $8.75 million per fiscal quarter. However, as long as the total leverage ratio calculated in accordance with the Term Loan Credit Agreement does not exceed 3.0 to 1.0, we can pay dividends or repurchase shares without limitation. In the event the total leverage ratio exceeds 3.0 to 1.0, but is less than or equal to 4.0 to 1.0, we may still pay dividends or repurchase shares of our common stock in an aggregate amount in excess of $8.75 million per fiscal quarter by utilizing certain "restricted payment baskets" described in the Term Loan Credit Agreement. In addition, we would be permitted to pay cash dividends and repurchase shares of our common stock in excess of $8.75 million per fiscal quarter if the aggregate amount of such payments, together with the amount of redemptions or prepayments of certain indebtedness, is less than or equal to the greater of (i) $125 million and (ii) 15% of our consolidated tangible assets. As of December 31, 2021, our total leverage ratio was greater than 3.0 to 1.0, but below 4.0 to 1.0. 
+
+### Material Cash Requirements 
+
+The following table shows our material cash requirements, described below, as of December 31, 2021: 
+
+| Category (In millions)                                      | 2022   | 2023   | 2024   | 2025   | 2026   | Beyond 2026 | Total   |
+|-------------------------------------------------------------|--------|--------|--------|--------|--------|-------------|---------|
+| Long-term debt payments                                     | $ 6.4  | $ 5.4  | $ 4.5  | $ 4.5  | $ 4.5  | $ 425.3     | $ 450.6 |
+| Interest payments on long-term debt (a)                     | $ 16.8 | $ 20.4 | $ 22.3 | $ 21.9 | $ 21.7 | $ 27.1      | $ 130.2 |
+| Open purchase orders (b)                                    | $ 116.5| —      | —      | —      | —      | —           | $ 116.5 |
+| Other post-employment benefits (c)                          | $ 5.4  | $ 4.4  | $ 4.1  | $ 3.7  | $ 3.3  | $ 11.1      | $ 32.0  |
+| Finance Leases (d)                                          | $ 1.7  | $ 1.7  | $ 1.7  | $ 1.6  | $ 1.6  | $ 22.2      | $ 30.5  |
+| Operating leases (d)                                        | $ 4.1  | $ 3.6  | $ 3.1  | $ 2.6  | $ 2.2  | $ 7.1       | $ 22.7  |
+| Contributions to pension trusts and other benefit obligations (e) | $ 4.5  | $ 1.8  | $ 2.2  | $ 1.9  | $ 1.7  | $ 9.7       | $ 21.8  |
+| Minimum purchase commitments (f)                            | $ 5.7  | $ 3.8  | $ 3.0  | $ 1.4  | —      | —           | $ 13.9  |
+| Total                                                       | $ 161.1| $ 41.1 | $ 40.9 | $ 37.6 | $ 35.0 | $ 502.5     | $ 818.2 |
+
+
+_______________________ 
+(a) Interest payments on long-term debt includes interest on variable rate debt at December 31, 2021 weighted average interest rates. 
+
+(b) The open purchase orders displayed in the table represent amounts we anticipate will become payable within the next twelve months for goods and services that we have negotiated for delivery. 
+
+(c) The above table includes future payments that we will make for post-employment benefits other than pensions. Those amounts are estimated using actuarial assumptions, including expected future service, to project the future obligations. 
+
+(d) See Note 11 of Notes to Consolidated Financial Statements, "Leases." 
+
+(e) See Note 8 of Notes to Consolidated Financial Statements, "Pension and Other Post-employment Benefits." 
+
+(f) The minimum purchase commitments in 2022 are primarily for utilities and information technology contracts. Although we are primarily liable for payments on the above minimum purchase commitments, based on historic operating performance and forecasted future cash flows, we believe our exposure to losses, if any, under these arrangements is not material. 
+
+
+## Other Items 
+
+• As of December 31, 2021, we had $30.8 million of U.S. federal and $7.7 million of U.S. state R&D Credits which, if not used, will expire between 2029 and 2041 for the U.S. federal R&D Credits and between 2022 and 2036 for the state R&D Credits. As of December 31, 2021, we had $69.9 million of state NOLs which may be used to offset state taxable income. The NOLs are reflected in the Consolidated Financial Statements as a deferred income tax asset of $4.2 million. If not used, substantially all of the NOLs will expire in various amounts between 2022 and 2041. 
+
+• Management believes that our ability to generate cash from operations and our borrowing capacity are adequate to fund working capital, capital spending and other cash needs for the next twelve months. Our ability to generate adequate cash from operations beyond 2021 will depend on, among other things, our ability to successfully implement our business strategies, control costs in line with market conditions and manage the impact of changes in input prices and currencies. We can give no assurance we will be able to successfully implement these items. 
+
+### Adoption of New Accounting Pronouncements 
+
+See Note 2 of Notes to Consolidated Financial Statements, "Summary of Significant Accounting Policies — Recently Adopted Accounting Standards" for a description of accounting standards adopted in the year ended December 31, 2021. 
+
+
+### Critical Accounting Policies and Use of Estimates 
+
+The preparation of financial statements in conformity with GAAP in the United States requires estimates and assumptions that affect the reported amounts and related disclosures of assets and liabilities at the date of the financial statements and net sales and expenses during the reporting period. Actual results could differ from these estimates, and changes in these estimates are recorded when known. The critical accounting policies used in the preparation of the consolidated financial statements are those that are important both to the presentation of financial condition and results of operations and require significant judgments with regard to estimates used. These critical judgments relate to the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities, and the reported amounts of expenses. 
+
+The following summary provides further information about the critical accounting policies and should be read in conjunction with the notes to the consolidated financial statements. We believe that the consistent application of our policies provides readers of our financial statements with useful and reliable information about our operating results and financial condition. 
+
+We have discussed the application of these critical accounting policies with the Audit Committee of our Board of Directors. 
+
+### Inventories 
+
+We value U.S. inventories at the lower of cost, using the last-in, first-out ("LIFO") method, or market. German and Dutch inventories are valued at the lower of cost, using a weighted-average cost method, or net realizable value. The first-in, first-out ("FIFO") value of U.S. inventories valued on the LIFO method was $95.4 million and $88.5 million at December 31, 2021 and 2020, respectively and exceeded such LIFO value by $16.6 million and $6.4 million, respectively. Cost includes labor, materials and production overhead. Under the LIFO inventory valuation method, changes in the cost of raw materials and production activities are recognized in cost of sales in the current period even though these materials and other costs may have been incurred at significantly different values due to the length of time of our production cycle. Since we value most of our inventory utilizing the LIFO inventory costing methodology, rapid changes in raw material costs have an immediate impact on our operating results.
+
+###  Income Taxes 
+
+Significant judgment is required in determining our global provision for income taxes and recording the related tax assets and liabilities. In the ordinary course of our business, there are many transactions and calculations where the ultimate tax determination is less than certain. Our effective income tax rates include the tax effects of certain special items, such as R&D Credits, foreign tax rate differences, tax effects of foreign financing structures, changes in statutory tax rates and excess tax benefits from stock compensation. While we believe that these judgments and estimates are appropriate and reasonable under the circumstances, actual resolution of these matters may differ from recorded estimated amounts. 
+
+As of December 31, 2021 and 2020, our liability for uncertain income taxes positions was $8.5 million and $8.0 million, respectively. The determination of our provision for income taxes requires considerable judgment, the use of estimates, and the interpretation and application of complex tax laws. Significant judgment is also required in assessing the timing and amounts of deductible and taxable items and the probability of sustaining uncertain tax positions. Uncertain tax positions occur, and a resulting income tax liability is recorded when management concludes that an income tax position fails to achieve a more likely than not recognition threshold. When this occurs, the amount of tax benefits recognized may differ from the amount taken or expected to be taken on a tax return. These differences represent unrecognized tax benefits and are reviewed at each reporting period based on facts, circumstances, available evidence and applicable laws. We recognize interest and penalties, if any, related to uncertain tax positions as a component of the provision for income taxes. 
+
+As of December 31, 2021 and 2020, the Company had $5.3 million and $5.3 million of foreign tax credits, all of which the Company believes will expire unutilized. Therefore, as of December 31, 2021 and 2020, the Company recorded a valuation allowance which was equal to the balance of the deferred income tax asset. As of December 31, 2021 and 2020, the Company also had a valuation allowance of $9.1 million and $6.4 million, respectively, against the gross value of its state tax credits and NOLs. Including the federal benefit of state taxes, the net valuation allowance reflected on the consolidated balance sheets was $7.2 million and $5.1 million as of December 31, 2021 and 2020, respectively. In determining the need for a valuation allowance, the Company considers many factors, including specific taxing jurisdictions, sources of taxable income, income tax strategies and forecasted earnings for the entities in each jurisdiction. A valuation allowance is recognized if, based on the weight of available evidence, the Company concludes that it is more likely than not that some portion or all of the deferred income tax asset will not be realized. 
+
+### Pension and Other Post-employment Benefits 
+
+Consolidated pension expense for defined benefit pension plans was $18.7 million, $4.0 million and $3.7 million for the years ended December 31, 2021, 2020 and 2019, respectively. See Note 8, "Pension and Other Post-employment Benefits" for components of net periodic benefit cost, including a discussion of the $17.4 million of settlement and curtailment losses in 2021. Accounting for defined benefit pension plans requires various assumptions, including, but not limited to, discount rates, expected long-term rates of return on plan assets, future compensation growth rates and mortality rates. Accounting for our postemployment benefit plans also requires various assumptions, which include, but are not limited to, discount rates and annual rates of increase in the per capita costs of health care benefits. 
+
+The following chart summarizes the more significant assumptions used in the actuarial valuation of our defined benefit plans for each of the past three years: 
+
+| Category                                           | 2021  | 2020  |
+|----------------------------------------------------|-------|-------|
+| Pension plans                                      |       |       |
+| Weighted average discount rate for benefit expense | 2.53% | 2.98% |
+| Weighted average discount rate for benefit obligation | 2.58% | 2.28% |
+| Expected long-term rate on plan assets             | 4.90% | 5.42% |
+| Rate of compensation increase for benefit expense  | 1.54% | 2.05% |
+| Post-employment benefit plans                      |       |       |
+| Weighted average discount rate for benefit expense | 1.67% | 2.68% |
+| Weighted average discount rate for benefit obligation | 2.25% | 1.67% |
+| Health care cost trend rate assumed for next year  | 5.20% | 5.25% |
+| Ultimate cost trend rate                           | 4.00% | 4.50% |
+| Year that the ultimate cost trend rate is reached  | 2045  | 2037  |
+
+41 The discount (or settlement) rate that is utilized for determining the present value of future pension obligations in the U.S. is generally based on the yield for a theoretical basket of AA-rated corporate bonds currently available in the market place, whose duration matches the timing of expected pension benefit payments. The discount (or settlement) rate that is utilized for determining the present value of future pension obligations in Germany is generally based on the IBOXX index of AA-rated corporate bonds adjusted to match the timing of expected pension benefit payments. 
+
+The expected long-term rate of return on pension fund assets held by our pension trusts was determined based on several factors, including input from pension investment consultants and projected long-term returns of broad equity and bond indices. We also considered the plans' historical 10-year and 15-year compounded annual returns. We evaluate our investment strategy and long-term rate of return on pension asset assumptions at least annually. 
+
+For the years ended December 31, 2021, 2020 and 2019, consolidated post-employment health care and life insurance plan benefit expense was $3.0 million, $2.9 million and $3.6 million, respectively. The discount (or settlement) rate that is utilized for determining the present value of future post-employment health care and life insurance plan benefit obligations in the U.S. is generally based on the yield for a theoretical basket of AA-rated corporate bonds currently available in the market place, whose duration matches the timing of expected post-employment health care and life insurance benefit payments. The discount (or settlement) rate that is utilized for determining the present value of future post-employment health care and life insurance obligations for our foreign benefit plans is generally based on an index of AA-rated corporate bonds adjusted to match the timing of expected benefit payments. 
+
+We evaluate these assumptions at least once each year or as facts and circumstances dictate and we make changes as conditions warrant. Changes to these assumptions will increase or decrease our reported net periodic benefit expense, which will result in changes to the recorded benefit plan assets and liabilities. 
+
+### Useful Life and Impairment of Long-Lived Assets 
+
+#### Property, Plant and Equipment 
+
+For financial reporting purposes, depreciation is principally computed on the straight-line method over estimated useful asset lives. The weighted average remaining useful lives for buildings, land improvements and machinery and equipment are approximately 17 years, 19 years and 9 years respectively. 
+
+Property, plant and equipment are tested for impairment in accordance with ASC Topic 360, Property, Plant, and Equipment ("ASC Topic 360"), whenever events or changes in circumstances indicate that the carrying amounts of such long-lived assets may not be recoverable from future net pre-tax cash flows. Impairment testing requires significant management judgment including estimating the future success of product lines, future sales volumes, growth rates for selling prices and costs, alternative uses for the assets and estimated proceeds from disposal of the assets. Impairment testing is conducted at the lowest level where cash flows can be measured and are independent of cash flows of other assets. An asset impairment would be indicated if the sum of the expected future net pre-tax cash flows from the use of the asset (undiscounted and without interest charges) is less than the carrying amount of the asset. An impairment loss would be measured based on the difference between the fair value of the asset and its carrying amount. We estimate fair value based on an expected present value technique using multiple cash flow scenarios that reflect a range of possible outcomes and a risk free rate. 
+
+The estimates and assumptions used in the impairment analysis are consistent with the business plans and estimates we use to manage our business operations. The use of different assumptions would increase or decrease the estimated fair value of the asset and would increase or decrease the impairment charge. Actual outcomes may differ from the estimates. 
+
+In June 2021, the Company's Board of Directors approved the permanent closure of the Appleton facility used in the Technical Products segment. The closure of the facility was substantially complete by the end of the third quarter. In connection with the closure, the Company reduced the carrying value of the facility's assets to an estimated salvage value of $10.5 million, which resulted in a non-cash impairment loss of $32.4 million. In addition, the Company recorded $4.9 million of other restructuring charges, including reserves for obsolete inventory, severance costs and environmental exposures. 
+
+During the year ended December 31, 2020, the Company recorded asset restructuring and impairment costs of $55.3 million, of which $52.3 million related to a non-cash impairment loss for long-lived assets used primarily in the Technical Products segment, including $51.0 million for the Appleton facility. The other charge of $3.0 million arose from accelerated depreciation due to the idling of assets and related employee termination benefits for a workforce reduction in the Fine Paper and Packaging segment. See Note 13 of Notes to Consolidated Financial Statements, "Assets Held For Sale and Impairment and Asset Restructuring Costs" for further discussion. 
+
+
+#### Goodwill and Other Intangible Assets with Indefinite Lives 
+
+We test goodwill for impairment at least annually in conjunction with preparation of Neenah's annual business plan, or more frequently if events or circumstances indicate it might be impaired. 
+
+We tested goodwill for impairment as of November 30, 2021 under ASC Topic 350, Intangibles — Goodwill and Other ("ASC Topic 350"). The Company elected the option under ASC Topic 350 to perform a qualitative assessment of the Company's reporting units to determine whether further impairment testing was necessary. In this qualitative assessment, the Company considered the following items for each of the reporting units: macroeconomic conditions, industry and market conditions, overall financial performance and other entity specific events. In addition, for each of these reporting units, the most recent fair value determination resulted in an amount that exceeded the carrying amount of the reporting units. Based on these assessments, the Company determined that the likelihood that a current fair value determination would be less than the current carrying amount of the reporting units is not more likely than not. There was no impairment in the carrying value of goodwill for the years ended December 31, 2021. 
+
+#### Other Intangible Assets 
+
+Certain trade names are estimated to have indefinite useful lives and as such are not amortized. Intangible assets with indefinite lives are annually reviewed for impairment in accordance with ASC Topic 350. 
+
+Acquired intangible assets with finite useful lives are amortized on a straight-line basis over their respective estimated useful lives, and reviewed for impairment in accordance with ASC Topic 360. Intangible assets consist primarily of customer relationships, trade names and acquired intellectual property. Such intangible assets are amortized using the straight-line method over estimated useful lives of between 7 and 15 years. 
+
+During the second quarter of 2020, we recorded an impairment loss for indefinite-lived intangible assets (brand names) of $0.9 million and $0.4 million in the Fine Paper and Packaging and Technical Products segments, respectively, due to the adverse impacts of the COVID-19 pandemic. See Note 13, "Assets Held For Sale and Impairment and Asset Restructuring Costs." Our annual test of other intangible assets for impairment at November 30, 2021, 2020, and 2019 indicated that the carrying amount of such assets was recoverable. 
+
+### Acquisition Accounting 
+
+We account for acquisitions under ASC Topic 805, Business Combinations ("ASC Topic 805") which requires companies to record assets acquired and liabilities assumed at their respective fair market values at the date of acquisition. The accounting for acquisitions involves a considerable amount of judgment and estimates, including the fair value of certain forms of consideration; fair value of acquired intangible assets involving projections of future revenues and cash flows that are then either discounted at an estimated discount rate or measured at an estimated royalty rate; fair value of other acquired assets and assumed liabilities, including potential contingencies; and the useful lives of the acquired assets. The assumptions used are determined at the time of the acquisition in accordance with accepted valuation models. Projections are developed using internal forecasts, available industry and market data and estimates of long-term rates of growth for our business. The impact of prior or future acquisitions on our financial position or results of operations may be materially impacted by the change in or initial selection of assumptions and estimates. 
+
+
+# Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+As a multinational enterprise, we are exposed to market risks such as changes in commodity prices, foreign currency exchange rates, and interest rates. A variety of practices are employed to manage these risks, including operating and financing activities. 
+
+Presented below is a description of our most significant market risks. 
+
+## Commodity Risk 
+
+### Pulp 
+
+We purchase the wood pulp used to produce our products on the open market, and, as a result, the price and other terms of those purchases are subject to change based on factors such as worldwide supply and demand and government regulation. We do not have significant influence over the price paid for our wood pulp purchases. Therefore, an increase in wood pulp prices could adversely affect earnings if prices for our products are not increased or if such increases significantly trail the increases in wood pulp prices. 
+
+Based on our current quantity of pulp purchases, a $100 per ton increase in the average market price for pulp would have increased our annual costs for pulp by approximately $19 million. 
+
+### Other Manufacturing Inputs 
+
+We purchase a substantial portion of the other manufacturing inputs necessary to produce our products on the open market, and, as a result, the price and other terms of those purchases are subject to change based on factors such as worldwide supply and demand and government regulation. We do not have significant influence over our costs for such manufacturing inputs. Therefore, an increase in manufacturing inputs could adversely affect earnings if prices for our products are not increased or if such increases significantly trail the increases in manufacturing inputs. 
+
+Our technical products business acquires certain specialized pulp from two global suppliers and certain critical specialty chemicals from a limited number of suppliers. In general, these supply arrangements are covered by formal contracts and represent multi-year business relationships that have historically been sufficient to meet our needs. We expect these relationships to continue to operate in a satisfactory manner in the future. In the event of an interruption of production at any one supplier, we believe that each of these suppliers individually would be able to satisfy our short-term requirements for specialized pulp or specialty chemicals. In addition, short-term disruptions in the global supply chain for our raw materials, as experienced in 2021, could negatively impact our ability to produce certain products which could adversely impact the mix and volume of products we can provide to our customers. In the event of a long-term disruption in our supply of specialized pulp or specialty chemicals, we believe we would be able to substitute other pulp grades or other specialty chemicals that would allow us to meet required product performance characteristics and incur only a limited disruption in our production. As a result, we do not believe that the substitution of such alternative pulp or specialty chemicals would have a material effect on our operations in the long run. 
+
+We have the ability to generate substantially all of the electrical energy used by our Munising mill and approximately 30 percent of the electrical energy at our Bruckmühl, Germany mill. Availability of energy is not expected to be a problem in the foreseeable future, but the purchase price of such energy can and likely will fluctuate significantly based on fluctuations in demand and other factors. There is no assurance that that we will be able to obtain electricity or natural gas purchases on favorable terms in the future. 
+
+Except for certain specialty pulp grades and specialty chemicals used by our technical products business, we are not aware of any significant concentration of business transacted with a particular supplier. 
+
+Our transportation costs are affected by various market factors as previously discussed under Item 1A, "Risk Factors." We do not have significant influence over our transportation prices. Therefore, as we experienced in 2021, an increase in transportation costs could adversely affect earnings if prices for our products are not increased or if such increases significantly trail the increases in transportation costs. 
+
+## Foreign Currency Risk 
+
+Our reported operating results are affected by changes in the exchange rates of the local currencies of our non-U.S. operations relative to the U.S. dollar. A hypothetical 10 percent strengthening of the U.S dollar relative to the local currencies of our non-U.S. operations would change our income before income taxes by approximately $4.0 million. We do not hedge our exposure to exchange risk on reported operating results. 
+
+The translation of the balance sheets of our non-U.S. operations from their local currencies into U.S. dollars is also sensitive to changes in the exchange rate of the U.S. dollar. Consequently, we perform a sensitivity test to determine if changes in the exchange rate would have a significant effect on the translation of the balance sheets of our non-U.S. operations into U.S. dollars. These translation gains or losses are recorded as unrealized translation adjustments, a component of accumulated other comprehensive income (loss) within stockholders' equity. The hypothetical change in unrealized translation adjustment is calculated by multiplying the net assets of our non-U.S. operations by a 10 percent change in the exchange rate of their local currencies compared to the U.S. dollar. As of December 31, 2021, the net assets of our non-U.S. operations exceeded their net liabilities by approximately $431 million. As of December 31, 2021, a 10 percent strengthening of the U.S. dollar relative to the local currencies of our non-U.S. operations would have reduced our stockholders' equity by approximately $43 million.
+
+## Interest Rate Risk 
+
+We are exposed to interest rate risk on our variable rate bank debt. At December 31, 2021, we had $448.7 million of variable rate borrowings outstanding. A 100 basis point increase in interest rates would increase our annual interest expense on outstanding variable rate borrowings by approximately $4.5 million. 
+
+We believe these risks can be managed and will not have a material effect on our business or our consolidated financial position, results of operations or cash flows. 

@@ -1,0 +1,434 @@
+# Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following is a discussion of our financial condition and results of operations. This discussion should be read in conjunction with our consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. The discussion of our financial condition and results of operations includes various forward-looking statements about our markets, the demand for our products and our future prospects. These statements are based on certain assumptions that we consider reasonable. For information about risks and exposures relating to us and our business, you should read the sections entitled "Factors That May Affect Future Results," in Part I, Item 1A of this Annual Report on Form 10-K and "Forward Looking Statements" at the end of this Item 7. Unless the context indicates otherwise, references to "Mativ," the "Company," "we," "us," "our," or similar terms include Mativ Holdings, Inc. and our consolidated subsidiaries. 
+
+This Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&A") is designed to provide a reader of our financial statements with an understanding of our recent performance, our financial condition and our prospects. 
+
+As discussed in Note 9. Discontinued Operations of the Notes to Consolidated Financial Statements, the results from continuing operations exclude the results of our EP Business for all periods presented. All information presented within this MD&A is on a continuing operations basis. 
+
+# EP Divestiture 
+
+On August 1, 2023, the Company entered into the Offer Letter with Evergreen Hill Enterprise pursuant to which Evergreen Hill Enterprise made the Offer to acquire the Company’s EP Business for $620.0 million in cash, subject to customary closing date adjustments. Pursuant to the terms of the Offer Letter, following the conclusion of the French Consultation Process, the Company accepted Evergreen Hill Enterprise's Offer and countersigned the Purchase Agreement, with respect to the EP divestiture on October 4, 2023. On November 30, 2023 the Company completed the sale of the EP Business. With the sale of the EP business, Mativ ceased participating in tobacco-based products markets. 
+
+Effective with the Offer, the EP business is presented as a discontinued operation for all periods presented. Current and non-current assets and liabilities of the EP business are classified as held for sale, and certain prior period amounts have been retrospectively revised to reflect these changes. The consolidated financial statements and the notes thereto, unless otherwise indicated, are on a continuing operations basis. Refer to Note 9. Discontinued Operations of the Notes to Consolidated Financial Statements for more information on the discontinued operation and transaction. 
+
+# Merger 
+
+On July 6, 2022, the Company completed its previously announced Merger with Neenah, pursuant to which a wholly-owned subsidiary merged with and into Neenah, with Neenah surviving as a direct and wholly-owned subsidiary of the Company. Refer to Note 5. Business Acquisition of the Notes to the Consolidated Financial Statements for further information related to the Merger. Refer to Note 21. Segment Information of the Notes to the Consolidated Financial Statements for information on our segments after the Merger. 
+
+# CRITICAL ACCOUNTING ESTIMATES 
+
+We disclose those accounting estimates that we consider to be significant in determining the amounts to be utilized for communicating our consolidated financial position, results of operations and cash flows in the first note to our consolidated financial statements included elsewhere herein. Our discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements. Our consolidated financial statements are prepared in conformity with accounting principles generally accepted in the U.S., which require management to make estimates that affect the amounts of revenues, expenses, assets and liabilities reported and disclosure of contingencies. Changes in these estimates could have a material impact on our financial position, results of operations, and cash flows. We discussed with the Audit Committee of the Board of Directors the estimates and judgments made for each of the following items and our accounting for and presentation of these items in the accompanying consolidated financial statements: 
+
+## Income Taxes 
+
+Our income tax expense (benefit), deferred tax assets and liabilities, and liabilities for unrecognized tax benefits reflect management’s best estimate of current and future taxes to be paid. We are subject to income taxes in the U.S. and numerous foreign jurisdictions. The complexity of our global structure requires technical expertise in determining the allocation of income to each of these jurisdictions and consolidated income tax expense (benefit). 
+
+Deferred income taxes arise from temporary differences between the tax basis of assets and liabilities and their reported amounts in the financial statements, which will result in taxable or deductible amounts in the future. In evaluating our ability to recover our deferred tax assets in the jurisdiction from which they arise, we consider all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, taxplanning strategies, and results of recent operations. In projecting future taxable income, we begin with historical results adjusted for the results of discontinued operations and incorporate assumptions about the amount of future state, federal, and foreign pretax operating income adjusted for items that do not have tax consequences. The assumptions about future taxable income require the use of significant judgment and are consistent with the plans and estimates we are using to manage the underlying businesses. In evaluating the objective evidence that historical results provide, we consider three years of cumulative operating income (loss). 
+
+The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax laws and regulations in a multitude of jurisdictions across our global operations. Accounting Standards Codification Topic No. 740, Income Taxes ("ASC 740"), states that a tax benefit from an uncertain tax position may be recognized when it is more likely than not that the position will be sustained upon examination, including resolutions of any related appeals or litigation processes, on the basis of the technical merits. We record unrecognized tax benefits as liabilities in accordance with ASC 740 and adjust these liabilities when our judgment changes as a result of the evaluation of new information not previously available. Because of the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the unrecognized tax benefit liabilities. These differences will be reflected as increases or decreases to income tax expense in the period in which new information is available. 
+
+## Contingencies 
+
+We accrue an estimated loss by taking a charge to income when the likelihood that a future event, such as a legal proceeding, will result in a loss or the occurrence of a liability is probable, and the amount of loss can be reasonably estimated. We disclose material contingencies if there is at least a reasonable possibility that a loss has been incurred. In determining whether a loss should be accrued, we evaluate, among other factors, the degree of probability of an unfavorable outcome and the ability to make a reasonable estimate of the amount of loss. Changes in these factors could materially impact our financial condition, results of operations, and our cash flows. 
+
+For further information, refer to "Litigation" in Part I, Item 3, "Legal Proceedings" and Note 20. Commitments and Contingencies of the Notes to Consolidated Financial Statements.
+
+
+## Property, Plant and Equipment Valuation 
+
+Certain of our manufacturing processes are capital intensive; as a result, we make substantial investments in property, plant and equipment which are recorded at cost. Net property, plant and equipment comprised 25% of our total assets as of December 31, 2023. Property, plant and equipment is depreciated on the straight-line method over the estimated useful lives of the assets. Production machines and related equipment are not subject to substantial technological changes rendering them obsolete and are generally depreciated over estimated useful lives of 5 to 20 years. When indications of impairment exist, we assess the likelihood of recovering the cost of long-lived assets based on our expectation of future profitability and undiscounted cash flow of the related asset group. These factors, along with management's plans with respect to the operations, are considered in assessing the recoverability of property, plant and equipment. Changes in management's estimates and plans could significantly impact our financial condition, results of operations and cash flows. 
+
+In recent years, we have restructured our operations to improve our competitiveness, drive efficiencies, and enhance profitability, which, in certain circumstances, resulted in charges related to accelerated depreciation, asset impairments, and employee severances. Management continues to evaluate ways to drive efficiencies, and further restructuring efforts may be possible that could result in additional charges of similar nature. 
+
+## Business Combinations 
+
+Accounting for business combinations requires us to recognize, separately from goodwill, the assets acquired and the liabilities assumed ("net assets") at their acquisition date fair values. Goodwill is measured as the excess of consideration transferred over the net assets acquired at their respective fair values as of the acquisition date. The estimated fair values are based upon quoted market prices and widely accepted valuation techniques, which require significant estimates and assumptions including, but not limited to, estimating future cash flows and developing appropriate growth and discount rates. In particular, the estimated fair value of intangible assets acquired may consider available historical information along with expectations and assumptions about future performance. While we use our best estimates and assumptions to accurately value assets acquired and liabilities assumed at the acquisition date, our estimates are inherently uncertain and subject to refinement. Changes in these assumptions may have a significant impact on the fair value of assets acquired and liabilities assumed. During the measurement period, which may be up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding adjustment to goodwill, based on new information obtained about the facts and circumstances that existed as of the acquisition date. Upon the conclusion of the measurement period or final determination of the values of net assets acquired, whichever comes first, any subsequent adjustments are recorded to our Consolidated Statements of Income (Loss). Refer to Note 5. Business Acquisition, of the Notes to Consolidated Financial Statements for additional information. 
+
+
+## Goodwill and Unamortized Intangible Assets 
+
+Goodwill is not subject to amortization and is tested for impairment annually, during the fourth quarter, or more frequently if events or changes in circumstances indicate that the asset may be impaired. We first evaluate qualitative factors, such as macroeconomic conditions and our overall financial performance by reporting unit to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount, including goodwill. Goodwill is measured as the excess of consideration transferred over the net assets acquired at their respective fair values as of the acquisition date. Goodwill is tested for impairment at the reporting unit level. We then evaluate how significant each of the identified factors could be to the fair value or carrying amount of a reporting unit and weigh these factors in totality in forming a conclusion of whether or not it is more likely than not that the fair value of a reporting unit is less than its carrying amount (the “Step 0 Test”). Goodwill is not impaired if we determine that it is not more likely than not that the fair value of a reporting unit is less than its carrying amount. Otherwise, we would proceed to the goodwill impairment test. In the goodwill impairment test, fair value of a reporting unit is typically based upon estimated future cash flows discounted at a rate commensurate with the risk involved or market-based comparables. If the carrying amount of the reporting unit’s net assets exceeds its fair value, then an analysis will be performed to compare the implied fair value of goodwill with the carrying amount of goodwill. An impairment loss will be recognized in an amount equal to the excess of the carrying amount over its implied fair value. After an impairment loss is recognized, the adjusted carrying amount of goodwill is its new accounting basis. During the year ended December 31, 2023, we performed an interim quantitative goodwill impairment test, which resulted in a non-cash impairment charge of $401.0 million in the third quarter of 2023. Refer to Note 10. Goodwill, of the Notes to Consolidated Financial Statements for additional information. The annual impairment test performed on October 1, 2023 and 2022 did not indicate any further impairment of goodwill. 
+
+Intangible assets with finite lives are amortized over their estimated useful lives and are reviewed for impairment whenever events or changes in circumstances indicate that their carrying amount may not be recoverable. An impairment loss would be indicated when estimated undiscounted future cash flows from the use of the asset are less than its carrying amount. An impairment loss would be measured as the difference between the fair value (based on discounted future cash flows) and the carrying amount of the asset. Estimated useful lives range from 12 to 23 years for customer relationships and 4 to 20 years for developed technology, patents and other intangible assets. Certain trade names are estimated to have indefinite useful lives and as such are not amortized. Intangible assets with indefinite lives are reviewed for impairment following a method similar to the impairment testing for Goodwill. Testing of these assets is performed annually and whenever events and circumstances indicate that impairment may have occurred. The annual impairment tests performed on October 1, 2023 and 2022 did not indicate any impairment of intangible assets. 
+
+The fair value estimates used in the assessment of impairment for both goodwill and intangible assets consider historical trends in addition to significant assumptions including projections of future performance. Changes in these assumptions can have a significant impact on the assessment of fair value. 
+
+
+# RECENTLY ADOPTED ACCOUNTING PRONOUNCEMENTS 
+
+For a discussion regarding recently adopted accounting pronouncements, refer to Recently adopted Accounting Pronouncements included in Note 2. Summary of Significant Accounting Policies of the Notes to Consolidated Financial Statements. 
+
+# SUMMARY 
+
+In 2023, Mativ reported a net loss of $507.7 million on total net sales of $2,026.0 million. Compared to the prior year, net sales increased $389.1 million, or 23.8%. Sales reflected the full-year impact of the Merger with Neenah, as well as lower volume, partially offset by higher selling prices and favorable foreign currency translation. ATM and FBS segment net sales increased $213.8 million, or 15.3% and $175.3 million, or 72.8%, respectively, compared to prior year primarily driven by the full-year impact of the Merger with Neenah. 
+
+The increase in net loss in 2023 compared to 2022 was primarily due to the goodwill impairment recorded of $401.0 million. For more information on the goodwill impairment, refer to Note 10. Goodwill of the Notes to Consolidated Financial Statements. The Company incurred significant integration and divestiture expenses that impacted net income of $43.2 million and $72.7 million, in 2023 and 2022, respectively, related to the Merger and associated integration, and divestiture costs related costs related to the sale of the EP Business. The Company also incurred restructuring and other impairment charges of $22.6 million and $19.1 million, in 2023 and 2022, respectively, primarily related to exiting certain end markets and site closures.
+
+
+# RESULTS OF OPERATIONS 
+
+| Category (in millions, except per share amounts) | 2023     | 2022     | 2021    |
+|--------------------------------------------------|----------|----------|---------|
+| Net sales                                        | $2,026.0 | $1,636.9 | $930.7  |
+| Cost of products sold                            | $1,670.2 | $1,330.9 | $747.5  |
+| Gross profit                                     | $355.8   | $306.0   | $183.2  |
+| Selling expense                                  | $78.9    | $59.8    | $32.5   |
+| Research and development expense                 | $21.2    | $18.8    | $11.8   |
+| General expense                                  | $246.0   | $248.5   | $153.2  |
+| Total nonmanufacturing expenses                  | $346.1   | $327.1   | $197.5  |
+| Goodwill impairment expense                      | $401.0   | —        | —       |
+| Restructuring and other impairment expense       | $22.6    | $19.1    | $1.9    |
+| Operating loss                                   | $(413.9) | $(40.2)  | $(16.2) |
+| Interest expense                                 | $62.2    | $57.3    | $40.4   |
+| Other income (expense), net                      | $(4.8)   | $1.0     | $30.1   |
+| Loss from continuing operations before taxes     | $(480.9) | $(96.5)  | $(26.5) |
+| Income tax (expense) benefit                     | $(26.8)  | $27.6    | $28.2   |
+| Net income (loss) from continuing operations     | $(507.7) | $(68.9)  | $1.7    |
+| Income from discontinued operations, net of tax  | $198.2   | $62.3    | $87.2   |
+| Net income (loss)                                | $(309.5) | $(6.6)   | $88.9   |
+| Dividends to participating securities            | $(0.7)   | $(0.9)   | $(0.6)  |
+| Undistributed earnings to participating securities | —        | —        | $(0.5)  |
+| Net income (loss) to common stockholders         | $(310.2) | $(7.5)   | $87.8   |
+| Net income (loss) per share - Basic              | $(9.33)  | $(1.64)  | $0.02   |
+| Net income (loss) per share - Diluted            | $(9.33)  | $(1.64)  | $0.02   |
+
+(1) Results during the year ended December 31, 2022 include Neenah from the July 6, 2022 acquisition date to December 31, 2022. 
+(2) Results during the year ended December 31, 2021 include Scapa from the April 15, 2021 acquisition date to December 31, 2021. 
+
+## Comparison of the Years Ended December 31, 2023 and 2022 
+
+Net Sales 
+The following table presents net sales by segment (in millions): 
+
+| Segment                     | 2023      | 2022      | Change   | Percent Change |
+|-----------------------------|-----------|-----------|----------|----------------|
+| Advanced Technical Materials| $1,610.0  | $1,396.2  | $213.8   | 15.3%          |
+| Fiber-Based Solutions       | $416.0    | $240.7    | $175.3   | 72.8%          |
+| Total                       | $2,026.0  | $1,636.9  | $389.1   | 23.8%          |
+
+Net sales of $2,026.0 million during the year ended December 31, 2023 increased $389.1 million, or 23.8% compared to the prior year-end. ATM segment net sales of $1,610.0 million during the year ended December 31, 2023 increased $213.8 million, or 15.3% compared to prior year-end. Sales reflected the full-year impact of the Merger with Neenah, and lower volumes partly offset by higher selling prices and favorable currency translation. 
+
+FBS segment net sales of $416.0 million during the year ended December 31, 2023 increased $175.3 million, or 72.8% compared to the prior year-end. Sales reflected the full-year impact of the Merger with Neenah, and lower volume partly offset by higher selling prices. 
+
+## Gross Profit 
+The following table presents gross profit (in millions): 
+
+| Category           | 2023      | 2022      | Change   | Percent Change | % of Net Sales 2023 | % of Net Sales 2022 |
+|--------------------|-----------|-----------|----------|----------------|---------------------|---------------------|
+| Net sales          | $2,026.0  | $1,636.9  | $389.1   | 23.8%          | 100.0%              | 100.0%              |
+| Cost of products sold | $1,670.2  | $1,330.9  | $339.3   | 25.5%          | 82.4%               | 81.3%               |
+| Gross profit       | $355.8    | $306.0    | $49.8    | 16.3%          | 17.6%               | 18.7%               |
+
+
+Gross profit of $355.8 million during the year ended December 31, 2023 increased $49.8 million, or 16.3%, compared to the prior year-end. ATM gross profit increased $35.4 million, or 13.1% and FBS gross profit increased $14.4 million, or 40.9%, which reflected the full-year impact of the Merger with Neenah, as well as price increases and lower input costs. 
+
+## Nonmanufacturing Expenses 
+The following table presents nonmanufacturing expenses (in millions): 
+
+| Category                     | 2023    | 2022    | Change  | Percent Change | % of Net Sales 2023 | % of Net Sales 2022 |
+|------------------------------|---------|---------|---------|----------------|---------------------|---------------------|
+| Selling expense              | $78.9   | $59.8   | $19.1   | 31.9%          | 3.9%                | 3.7%                |
+| Research and development expense | $21.2   | $18.8   | $2.4    | 12.8%          | 1.0%                | 1.1%                |
+| General expense              | $246.0  | $248.5  | $(2.5)  | (1.0)%         | 12.1%               | 15.2%               |
+| Nonmanufacturing expenses    | $346.1  | $327.1  | $19.0   | 5.8%           | 17.0%               | 20.0%               |
+
+
+Nonmanufacturing expenses of $346.1 million during the year ended December 31, 2023 increased $19.0 million, or 5.8%, compared to the prior year-end primarily driven by the full-year impact of the Merger with Neenah including integration related costs.
+
+## Restructuring and Other Impairment Expense 
+
+The following table presents restructuring and other impairment expense by segment (in millions): 
+
+| Segment                     | 2023    | 2022    | Change  | % of Net Sales 2023 | % of Net Sales 2022 |
+|-----------------------------|---------|---------|---------|---------------------|---------------------|
+| Advanced Technical Materials| $12.4   | $17.2   | $(4.8)  | 0.8%                | 1.2%                |
+| Fiber-Based Solutions       | $9.9    | $1.1    | $8.8    | 2.4%                | 0.5%                |
+| Unallocated expenses        | $0.3    | $0.8    | $(0.5)  | —                   | —                   |
+| Total                       | $22.6   | $19.1   | $3.5    | 1.1%                | 1.2%                |
+
+
+The Company incurred total restructuring and other impairment expense of $22.6 million in the year ended December 31, 2023, compared to $19.1 million in the year ended December 31, 2022, an increase of $3.5 million, or 18.3%. 
+
+In the current year period, restructuring and other impairment expense in the ATM segment of $12.4 million was comprised of fixed asset and certain other asset impairments related to facilities where we have announced closures or have classified as held for sale. The facility actions are primarily a result of decisions to exit certain product end markets amid ongoing manufacturing optimization efforts. The facilities are expected to cease operations in 2024 and one facility is expected to be sold in Q1 of 2024. The Company recognized $17.2 million of restructuring and other impairment expense in the prior-year period in the ATM segment primarily due to a $12.9 million impairment of certain assets in conjunction with the divestiture of a portion of the ATM segment serving the industrials end market. The assets were sold during the third quarter of 2022 for net proceeds of $4.6 million and a loss of $0.4 million. 
+
+In the FBS segment, the Company incurred $9.9 million of restructuring and other impairment expense for the year ended December 31, 2023 related to longlived assets at our Eerbeek, Netherlands facility. An impairment assessment was performed after significant changes in market conditions, including the entrance of new competitors and products caused management to revise our long-term view on pricing and volume recovery. The impairment reduced the carrying value of the assets to fair value, which was determined using management estimates for future cash flows. In the prior-year period, restructuring and other impairment expense in the FBS segment of $1.1 million was related to closed facilities. 
+
+
+## Operating Profit (Loss) 
+The following table presents operating profit (loss) by segment (in millions): 
+
+| Segment                     | 2023     | 2022    | Change   | Percent Change | Return on Net Sales 2023 | Return on Net Sales 2022 |
+|-----------------------------|----------|---------|----------|----------------|--------------------------|--------------------------|
+| Advanced Technical Materials| $(281.5) | $98.8   | $(380.3) | N.M.           | (17.5)%                  | 7.1%                     |
+| Fiber-Based Solutions       | $4.6     | $15.0   | $(10.4)  | (69.3)%        | 1.1%                     | 6.2%                     |
+| Unallocated expenses        | $(137.0) | $(154.0)| $17.0    | 11.0%          | —                        | —                        |
+| Total                       | $(413.9) | $(40.2) | $(373.7) | —              | (20.4)%                  | (2.5)%                   |
+
+
+Operating loss was $413.9 million in the year ended December 31, 2023, compared to $40.2 million in the year ended December 31, 2022, a decrease of $373.7 million. 
+
+In the ATM segment, operating loss in the year ended December 31, 2023 was $281.5 million compared to operating profit of $98.8 million in the year ended December 31, 2022, a decrease of $380.3 million. primarily attributed to a goodwill impairment recorded of $401.0 million. For more information on the goodwill impairment, refer to Note 10. Goodwill of the Notes to Consolidated Financial Statements. In the FBS segment, operating profit in the year ended December 31, 2023 was $4.6 million, a decrease of $10.4 million, or 69.3%, compared to the prior year-end. 
+
+Unallocated expenses in the year ended December 31, 2023 were $137.0 million, a decrease of $17.0 million, or 11.0%, compared to the prior year-end. The decrease compared to the prior year period is primarily due to the higher integration related costs incurred in the prior year period. 
+
+## Interest Expense 
+
+Interest expense was $62.2 million in the year ended December 31, 2023, an increase of $4.9 million, or 8.6%, compared to the year ended December 31, 2022. Interest expense increased mainly due to the incremental expense of assuming Neenah's debt and higher average interest rates. 
+
+The weighted average effective interest rate on our debt facilities, including the impact of interest rate hedges, was approximately 5.98% and 5.11% for the years-ended December 31, 2023 and 2022, respectively.
+
+## Other Income (Expense), Net 
+
+Other income (expense), net was expense of $4.8 million in the year ended December 31, 2023 compared to income of $1.0 million for the year ended December 31, 2022, an increase in expense of $5.8 million. The increase in expense was driven by legal and tax settlement expenses. 
+
+## Income Taxes 
+
+The $26.8 million expense and $27.6 million benefit for income taxes in the years-ended December 31, 2023 and 2022, respectively, resulted in an effective tax rate of (5.6)% compared with 28.6% in the prior year. The net change was primarily due to adjustments to valuation allowances, non-deductible goodwill impairment, and acquisition related nondeductible expenses due to the Merger. 
+
+
+## Net Loss and Loss per Share 
+
+Net loss in the year ended December 31, 2023 was $507.7 million, or $9.33 per diluted share, compared to net loss of $68.9 million, or $1.64 per diluted share, during the prior year period. 
+
+For a comparison of the Company’s results of operations for the year ended December 31, 2022 to the year ended December 31, 2021, refer to Item 7. "Management’s Discussion and Analysis of Financial Condition and Results of Operations" in the Company’s Annual Report on Form 10-K for the year ended December 31, 2022, which was filed with the U.S. Securities and Exchange Commission on March 1, 2023. 
+
+## Discontinued Operations 
+
+Net income from discontinued operations in the year ended December 31, 2023 was $198.2 million, or $3.64 per diluted share, compared to net income of $62.3 million, or $1.46 per diluted share, during the prior year period. The Company recorded a gain on sale of the EP business of $176.3 million ($170.0 million, net of income taxes) in discontinued operations in the year ended December 31, 2023. The gain and cash proceeds are subject to customary working capital adjustments during a specified period following the sale close date. 
+
+
+# LIQUIDITY AND CAPITAL RESOURCES 
+
+## Liquidity & Debt Overview 
+
+As of December 31, 2023, the Company had $1,104.6 million of total debt, a decrease of $585.4 million year over year, $120.2 million of cash, and undrawn capacity on its $600.0 million revolving line of credit facility (the "Revolving Facility") of $333.6 million. Per the terms of the Company's amended Credit Agreement, net leverage was 3.93 at December 31, 2023, versus a current maximum covenant ratio of 4.50x. The Company’s nearest debt maturity is our 6.875% senior unsecured notes which are due in 2026. 
+
+A major factor in our liquidity and capital resource planning is our generation of cash flow from operations, which is sensitive to changes in the mix of products sold, volume and pricing of our products, as well as changes in our production volumes, costs and working capital. Our liquidity is supplemented by funds available under our Revolving Facility with a syndicate of banks that is used as either operating conditions or strategic opportunities warrant. 
+
+## Cash Requirements 
+
+As of December 31, 2023, $117.3 million of our $120.2 million of cash and cash equivalents was held by foreign subsidiaries. Cash paid for income taxes (net of refunds) was $37.5 million for the year ended December 31, 2023. We believe that our sources of liquidity and capital, including cash on-hand, cash generated from operations and our existing credit facilities, will be sufficient to finance our continued operations, our current and long-term growth plans, and dividend payments. 
+
+## Cash Provided by Operations 
+
+Net cash provided by operations was $76.6 million in the year ended December 31, 2023, compared with $124.6 million in the prior year. The decrease was related to year-over-year movements in working capital related cash flows. The Company incurred significant costs for advisory fees, transaction expenses, and integration costs all related to the Merger and the EP business sale. 
+
+### Working Capital 
+
+As of December 31, 2023, we had net operating working capital (excluding Current assets held for sale of discontinued operations and Current liabilities held for sale of discontinued operations) of $433.9 million including cash and cash equivalents of $120.2 million, compared with net operating working capital of $411.7 million including cash and cash equivalents of $101.1 million as of December 31, 2022. The increase is attributable primarily to an increase in cash. 
+
+In the year ended December 31, 2023, net changes in operating working capital decreased cash flow by $19.8 million primarily related to decreases in accounts payable and other current liabilities. In 2022, net changes in operating working capital increased cash flow by $63.1 million. The most significant prior year working capital related cash inflow was related to the decrease in accounts receivables as a result of the accounts receivable sales agreement entered into during the prior year. Refer to Note 6. Accounts Receivable, Net of the Notes to Consolidated Financial Statements for further information on our accounts receivable sales programs. 
+
+## Cash Used in Investing 
+
+Cash used for investing activities in the year ended December 31, 2023 was $61.4 million compared to $469.3 million in the prior year. Cash used in investing activities for the current year was mainly attributable to capital spending, and reflected the addition of the Neenah operations. Cash used in investing activities in the prior year reflects Merger consideration of $518.5 million related to the repayment on Neenah’s outstanding debt and acquisition related costs incurred by Neenah, partially offset by $55.9 million cash acquired. In addition, capital spending in the prior year was $45.6 million, partially offset by $35.8 million received from settlement of cross-currency swap contracts. 
+
+## Cash Provided by Financing Activities Cash used in financing activities in the year ended December 31, 2023 was $662.0 million compared to cash provided by financing activities of $332.5 million in the prior year. During the year ended December 31, 2023, financing activities primarily consisted of payments on our long-term debt of $834.6 million, $241.0 million of borrowings under the revolving credit facility and $55.3 million of dividends paid to the Company's stockholders. 
+
+During the year ended December 31, 2022, financing activities consisted primarily of $774.9 million of proceeds from borrowings under the Delayed Draw Term Loan Facility and Revolving Facility. The proceeds from the Delayed Draw Term Loan was used to repay Neenah's outstanding debt of $504.9 million upon consummation of the Merger. Refer to Note 5. Business Acquisition of the Notes to Consolidated Financial Statements for further discussion of the total Merger consideration. The proceeds were partially offset by $340.6 million of payments on our long-term debt, which includes a pay down of $227.0 million on our Revolving Facility, $72.2 million in cash paid for dividends declared to the Company's stockholders, and $22.1 million of payments for debt issuance costs associated with the amendment of our Credit Agreement and the Bridge Facility, as discussed in Note 14. Debt of the Notes to Consolidated Financial Statements. 
+
+## Dividend Payments We have declared and paid cash dividends on our common stock every fiscal quarter since the second quarter of 1996. On February 21, 2024, we announced a cash dividend of $0.10 per share payable on March 22, 2024, to stockholders of record as of the close of business on March 8, 2024. The covenants contained in our Indenture and amended Credit Agreement, each, as defined below in "Debt Instruments and Related Covenants," require that we maintain certain financial ratios, as disclosed in Note 14. Debt of the Notes to Consolidated Financial Statements, none of which under normal business conditions materially limit our ability to pay such dividends. We will continue to assess our dividend policy in light of our overall strategy, cash generation, debt levels and ongoing requirements for cash to fund operations and to pursue possible strategic opportunities. 
+
+## Share Repurchases 
+
+In 2023 we repurchased 659,146 shares of our common stock at a cost of $10.7 million, of which $8.0 million were repurchased as part of the share buyback program authorized by the Board of Directors in August 2023. In 2022, we repurchased 273,027 shares of our common stock at a cost of $6.9 million. Shares that are not part of the buyback program are repurchased for the value of employees' stock-based compensation share awards surrendered to satisfy their personal statutory income tax withholding obligations. 
+
+## Debt Instruments and Related Covenants 
+
+The following table presents activity related to our debt instruments for the years-ended (in millions): 
+
+| Category                           | 2023     | 2022    |
+|------------------------------------|----------|---------|
+| Proceeds from long-term debt       | $241.0   | $774.9  |
+| Payments on long-term debt         | $(834.6) | $(340.6)|
+| Net (payments) proceeds from borrowings | $(593.6) | $434.3  |
+
+
+Net repayments from borrowings were $593.6 million during the year ended December 31, 2023 compared to net proceeds from borrowings of $434.3 million during the prior year-end. 
+
+
+## Credit Agreement 
+
+On September 25, 2018, the Company entered into a $700.0 million credit agreement (the “Credit Agreement”), which replaced the Company’s previous senior secured credit facilities and provided for a five-year $500.0 million revolving line of credit (the “Revolving Credit Facility”) and a seven-year $200.0 million bank term loan facility (the “Term Loan A Facility”). Subject to certain conditions, including the absence of a default or event of default under the Credit Agreement, the Company may request incremental loans to be extended under the Revolving Credit Facility or as additional Term Loan Facilities so long as the Company is in pro forma compliance with the financial covenants set forth in the Credit Agreement and the aggregate of such increases does not exceed $400.0 million. Refer to Note 14. Debt of the Notes to Consolidated Financial Statements, for more information. 
+
+On February 10, 2021, we amended our Credit Agreement to, among other things, add a new seven-year $350.0 million Term Loan B Facility (the “Term Loan B Facility”) and to decrease the incremental loans that may be extended at the Company’s request to $250.0 million. The Credit Agreement was further amended effective February 22, 2022 to adjust the step-down schedule for the maximum net debt to EBITDA ratio. Refer to Note 14. Debt of the Notes to Consolidated Financial Statements for additional information about the Term Loan B Facility. The balance under the Term Loan B Facility was $160.5 million as of December 31, 2023. 
+
+In connection with the Merger, we further amended our Credit Agreement on May 6, 2022 in order to extend the maturity of the Revolving Credit Facility and the Term Loan A Facility to May 6, 2027, and to increase the availability under the Revolving Credit Facility, subject to consummation of the Merger, to $600.0 million. Additionally, we added a $650.0 million delayed draw term loan facility (the "Delayed Draw Term Loan Facility") to be funded concurrent with the closing of the Merger. 
+
+On July 5, 2022, in connection with the consummation of the Merger, the Company borrowed $650.0 million under the Delayed Draw Term Loan Facility. The funds were used to repay all of Neenah's outstanding debt of $445.9 million under its term loan B facility and $59.0 million under its global secured revolving credit facility, as well as pay down $100.0 million of our Revolving Facility. In addition, we terminated the Bridge Facility. Refer to Note 14. Debt of the Notes to Consolidated Financial Statements, for further information related to the Delayed Draw Term Loan Facility. In addition, upon consummation of the Merger, we assumed Neenah's project financing agreement for the construction of a melt blown machine (the "German Loan Agreement"). The German Loan Agreement provided €10.0 million ($10.7 million as of May 30, 2022) of construction financing which is secured by the melt blown machine. Refer to Note 14. Debt of the Notes to Consolidated Financial Statements for further information related to the German Loan Agreement. 
+
+In December 2022, $127.0 million of cash from operations was used to repay our Revolving Facility. 
+
+Effective July 1, 2023, pursuant to the amended Credit Agreement on June 5, 2023, borrowings under the Term Loan B Facility in U.S. dollar will bear interest equal to a forward-looking term rate based on Term SOFR (subject to a minimum floor of 0.75%) plus 2.75%. Borrowings under the Term Loan B Facility in Euros will bear interest equal to EURIBOR (subject to a minimum floor of 0%) plus 3.75%. 
+
+On September 29, 2023, the Company further amended its Credit Agreement to permit the consummation of the sale of the Company's EP business. Under the terms of the Amended Credit Agreement, Mativ will continue to be required to maintain certain financial ratios and comply with certain financial covenants consistent with the Prior Agreement, including a requirement to maintain a maximum net debt to EBITDA ratio of (a) 4.75 to 1.00 for the consecutive trailing four fiscal quarter period ended September 30, 2023, (b) (i) solely if the Transaction has not been completed on or before December 31, 2023, 4.75 to 1.00, or (ii) otherwise, 4.50 to 1.00, for such period ended December 31, 2023, and (c) 4.50 to 1.00 for such period ended March 31, 2024 and thereafter. 
+
+In December 2023, $641.2 million of cash from proceeds from the sale of the Company's Engineered Papers business was used to repay a portion of our Revolving Credit Facility, Term Loan A Facility, Term Loan B Facility, and Delayed Draw Term Loan Facility. 
+
+Borrowings under the amended Term Loan A Facility ("Term Loan A Credit Facility") will bear interest, at a rate equal to either (1) a forward-looking term rate based on the Secured Overnight Financing Rate (“Term SOFR”), plus the applicable margin or (2) the highest of (a) the federal funds effective rate plus 0.5%, (b) the rate of interest as published by the Wall Street Journal as the “bank prime loan” rate, and (c) Term SOFR plus 1.0%, in each case plus the applicable margin. The applicable margin for borrowings under the Term Loan A Credit Facility is expected to range from 1.25% to 2.75% for SOFR loans and from 0.25% to 1.75% for base rate loans, in each case depending on the Company’s then current net debt to EBITDA ratio. 
+
+Borrowings under the amended Revolving Facility or the Delayed Draw Term Loan facility in U.S. dollars will bear interest, at the Company’s option, at a rate equal to either (1) a forward-looking term rate based on Term SOFR, plus the applicable margin or (2) the highest of (a) the federal funds effective rate plus 0.5%, (b) the rate of interest as published by the Wall Street Journal as the “bank prime loan” rate, and (c) one-month Term SOFR plus 1.0%, in each case plus the applicable margin. Borrowings under the Revolving Facility in Euros will bear interest at a rate equal to the reserve-adjusted Euro interbank offered rate, or EURIBOR, plus the applicable margin. The applicable margin for borrowings under the revolving credit agreement is expected to range from 1.00% to 2.50% for SOFR loans and EURIBOR loans, and from 0.00% to 1.50% for base rate loans, in each case, depending on the Company’s then current net debt to EBITDA ratio. 
+
+Borrowings under the Term Loan B Facility will bear interest, equal to a forward-looking term rate based on Term SOFR (subject to a minimum floor of 0.75%) plus 2.75%. Borrowings under the Term Loan B Facility in Euros will bear interest equal to EURIBOR (subject to a minimum floor of 0%) plus 3.75%. 
+
+Under the terms of the amended Credit Agreement, the Company is required to maintain certain financial ratios and comply with certain financial covenants, including maintaining a net debt to EBITDA ratio, as defined in the amended Credit Agreement, calculated on a trailing four fiscal quarter basis, not greater than 4.50x and an interest coverage ratio, also as defined in the amended Credit Agreement, of not less than 3.00x. The maximum allowable net debt to EBITDA ratio has decreased quarterly returning to 4.50x effective as of December 2023. In addition, borrowings and loans made under the amended Credit Agreement are secured by substantially all of the Company’s and the guarantors’ personal property, excluding certain customary items of collateral, and will be guaranteed by the Company’s existing and future wholly-owned direct material domestic subsidiaries and by SWM Luxembourg. 
+
+The Company was in compliance with all of its covenants under the amended Credit Agreement at December 31, 2023. With the current level of borrowing and forecasted results, we expect to remain in compliance with our amended Credit Agreement financial covenants. The determination of the forecasted financial covenants requires management to make significant estimates and assumptions related to forecasts of future cash flows, future net debt, and future benefits from Merger synergies. Changes to the forecasted revenue growth, earnings before income taxes, depreciation and amortization (“EBITDA”), net debt, and benefits from Merger synergies may result in a significantly different estimate of our forecasted financial covenant ratios. 
+
+Our total debt to capital ratios, as calculated under the amended Credit Agreement, at December 31, 2023 and December 31, 2022 were 53.8% and 58.9%, respectively. 
+
+### Debt Commitment Letter 
+
+Prior to the Merger, we obtained financing commitments for (i) a $648.0 million senior 364-day unsecured bridge facility (the “Bridge Facility”) and (ii) a $500.0 million senior secured revolving credit facility pursuant to a commitment letter (the “Debt Commitment Letter”) dated as of March 28, 2022. On May 6, 2022, in conjunction with further amendment of our Credit Agreement, the Debt Commitment Letter was amended, reducing the commitments under the Bridge Facility and senior secured revolving credit facility to $50.0 million and zero, respectively. Upon consummation of the Merger, we terminated our Bridge Facility. 
+
+### Indenture for 6.875% Senior Unsecured Notes Due 2026 
+
+On September 25, 2018, the Company closed a private offering of $350.0 million of 6.875% senior unsecured notes due 2026 (the “Notes”). The Notes were sold in a private placement in reliance on Rule 144A and Regulation S under the Securities Act of 1933, as amended, pursuant to a purchase agreement between the Company, certain subsidiaries of the Company and a third-party financial institution as representative of the initial purchasers. The Notes are guaranteed on a senior unsecured basis by each of the Company’s existing and future wholly owned subsidiaries that is a borrower under or that guarantees obligations under the amended Credit Agreement or that guarantees certain other indebtedness, subject to certain exceptions. 
+
+
+The Notes were issued pursuant to an Indenture, dated as of September 25, 2018 (the “Indenture”), by and among the Company, the guarantors listed therein and a third-party financial institution, as trustee. The Indenture provides that interest on the Notes will accrue from September 25, 2018, and is payable semiannually in arrears on April 1 and October 1 of each year, beginning on April 1, 2019, and the Notes mature on October 1, 2026. 
+
+The Company may redeem some or all of the Notes at any time on or after October 1, 2021, at the redemption prices set forth in the Indenture, together with accrued and unpaid interest, if any, to, but excluding, the redemption date. If the Company sells certain assets or consummates certain change of control transactions, the Company will be required to make an offer to repurchase the Notes, subject to certain conditions. 
+
+The Indenture contains certain covenants that, among other things, limit the Company’s ability and the ability of its restricted subsidiaries to incur additional indebtedness, make certain dividends, repurchase Company stock or make other distributions, make certain investments, create liens, transfer or sell assets, merge or consolidate and enter into transactions with the Company’s affiliates. Such covenants are subject to a number of exceptions and qualifications set forth in the Indenture. The Indenture also contains certain customary events of default, including failure to make payments in respect of the principal amount of the Notes, failure to make payments of interest on the Notes when due and payable, failure to comply with certain covenants and agreements and certain events of bankruptcy or insolvency. The Company was in compliance with all of its covenants under the Indenture at December 31, 2023. 
+
+For a comparison of liquidity and capital resources and the Company’s cash flow activities for the fiscal year ended December 31, 2022 and 2021, refer to Item 7. "Management’s Discussion and Analysis of Financial Condition and Results of Operations" in the Company’s Annual Report on Form 10-K for the year ended December 31, 2022, which was filed with the U.S. Securities and Exchange Commission on March 1, 2023. 
+
+## Notional Cash Pooling 
+
+On November 15, 2022, certain of the Company’s subsidiaries entered into a notional cash pooling arrangement with a third-party financial institution to manage global liquidity requirements. As part of the pooling agreement, the participating subsidiaries combine their cash balances in pooling accounts at a third-party financial institution with the ability to offset bank overdrafts of one participant against the positive cash account balances held by another participant. Under the terms of the notional pooling agreement, the financial institution has the right, ability, and intent to offset a positive balance in one account against an overdrawn amount in another account. Amounts in each of the accounts are unencumbered and unrestricted with respect to use. As such, the net cash balance related to this pooling arrangement is included in Cash and cash equivalents in the Consolidated Balance Sheets. 
+
+## Other Factors affecting Liquidity and Capital Resources 
+
+- Debt Interest Obligations. Debt interest obligations as of December 31, 2023 amount to $294.9 million over the next five years, Approximately $88.0 million, $87.9 million, and $82.2 million is due annually in 2024, 2025, and 2026, respectively, with the remainder being due in 2027 and 2028. 
+
+- Other Obligations. We have certain purchase obligations as of December 31, 2023, under which we are required to make minimum payments for goods and services including raw materials, capital projects and energy. These obligations amount to approximately $79.2 million of which $69.4 million is obligated over the next year and the remainder is obligated over the next five years. 
+
+- Tax Act Transaction Obligations. On December 22, 2017, the United States enacted the Tax Act into law, which requires a one-time transition tax on certain unrepatriated earnings of foreign subsidiaries. Companies may elect to pay the tax over eight years based on an installment schedule outlined in the Tax Act. We have made this election and our transition tax due as a contractual obligation.as of December 31, 2023 is $13.9 million of which $6.2 million is due in the next year and $7.7 million is due in 2025. We have no obligations due in the years 2026 through 2028 and thereafter.
+
+
+# OUTLOOK 
+
+As outlined in Note 22. Subsequent Event of the Notes to Consolidated Financial Statements, the Company plans to reorganize into two new segments starting in the first quarter of 2024: Filtration & Advanced Materials (FAM), focused primarily on filtration, industrial netting, and protective solutions end markets, and Sustainable & Adhesive Solutions (SAS), focused primarily on the tape, release liners, industrials, healthcare, and packaging and specialty papers end markets. 
+
+For both segments, we expect our growth outlook to be driven by macro factors affecting our served end-markets, as well as industry demand for many of our key applications. 
+
+For our FAM segment, we generally expect to deliver growth exceeding long-term broad economic growth in the U.S and Europe, and, to some extent China (as well as relative outperformance during periods of economic declines). 
+
+For the SAS segment, we generally expect to deliver growth relatively in line with long-term broad economic growth in the U.S. and to some extent Europe and China. 
+
+
+# FORWARD-LOOKING STATEMENTS 
+
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 (the "Act") that are subject to the safe harbor created by the Act and other legal protections. Forward-looking statements include, without limitation, those regarding the incurrence of additional debt and expected maturities of the Company’s debt obligations, the adequacy of our sources of liquidity and capital, acquisition integration and growth prospects (including international growth), the cost and timing of our restructuring actions, the impact of ongoing litigation matters and environmental claims, the amount of capital spending and/or common stock repurchases, future cash flows, purchase accounting impacts, impacts and timing of our ongoing operational excellence and other cost-reduction and cost-optimization initiatives, profitability, and cash flow, the expected benefits and accretion of the Neenah merger and Scapa acquisition and integration, whether the strategic benefits of the EP Divestiture can be achieved and other statements generally identified by words such as "believe," "expect," "intend," "guidance," "plan," "forecast," "potential," "anticipate," "confident," "project," "appear," "future," "should," "likely," "could," "may," "will," "typically" and similar words. 
+
+These forward-looking statements are prospective in nature and not based on historical facts, but rather on current expectations and on numerous assumptions regarding the business strategies and the environment in which the Company’s business shall operate in the future and are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied by those statements. These statements are not guarantees of future performance and involve certain risks and uncertainties that may cause actual results to differ materially from our expectations as of the date of this report. These risks include, among other things, those set forth in Part I, Item 1A. Risk Factors of this report, as well as the following factors: 
+
+• Risks associated with the implementation of our strategic growth initiatives, including diversification, and the Company's understanding of, and entry into, new industries and technologies; 
+
+• Risks associated with acquisitions, dispositions, strategic transactions and global asset realignment initiatives of Mativ, including the recent EP Divestiture; 
+
+• The possibility the Company may be unable to achieve the strategic benefits of the EP Divestiture; 
+
+• Adverse changes in the filtration, release liners, protective solutions, industrials and healthcare sectors impacting key ATM segment customers; 
+
+• Changes in the source and intensity of competition in our commercial end-markets: filtration, protective solutions, release liners, healthcare, and industrials for ATM, and packaging and specialty papers for FBS; 
+
+• Adverse changes in sales or production volumes, pricing and/or manufacturing costs in our ATM or FBS operating segments; 47 
+
+• Seasonal or cyclical market and industry fluctuations which may result in reduced net sales and operating profits during certain periods; 
+
+• Risks associated with our technological advantages in our intellectual property and the likelihood that our current technological advantages are unable to continue indefinitely; 
+
+• Supply chain disruptions, including the failure of one or more material suppliers, including energy, resin, fiber, and chemical suppliers, to supply materials as needed to maintain our product plans and cost structure; 
+
+• Increases in operating costs due to inflation and continuing increases in the inflation rate or otherwise, such as labor expense, compensation and benefits costs; 
+
+• The possibility that Mativ may be unable to successfully integrate Neenah's operations with those of Mativ and achieve expected synergies and operating efficiencies within the expected time-frames or at all; 
+
+• Potential adverse reactions or changes to business relationships resulting from the Merger, including as it relates to the Company's ability to successfully renew existing client contracts on favorable terms or at all and obtain new clients; 
+
+• Our ability to attract and retain key personnel, including as a result of the Merger, labor shortages, labor strikes, stoppages or other disruptions; 
+
+• The substantial indebtedness Mativ has incurred and assumed in connection with the Merger and the need to generate sufficient cash flows to service and repay such debt; 
+
+• Changes in general economic, financial and credit conditions in the U.S., Europe, China and elsewhere, including the impact thereof on currency exchange rates (including any weakening of the Euro and Real) and on interest rates; 
+
+• A failure in our risk management and/or currency or interest rate swaps and hedging programs, including the failures of any insurance company or counterparty; 
+
+• Changes in the manner in which we finance our debt and future capital needs, including potential acquisitions; 
+
+• Changes in tax rates, the adoption of new U.S. or international tax legislation or exposure to additional tax liabilities; 
+
+• Uncertainty as to the long-term value of the common stock of Mativ, including the dilution caused by Mativ’s issuance of additional shares of its common stock in connection with the Merger; 
+
+• Changes in employment, wage and hour laws and regulations in the U.S., France and elsewhere, including the loi de Securisation de l'emploi in France, unionization rules and regulations by the National Labor Relations Board in the U.S., equal pay initiatives, additional anti-discrimination rules or tests and different interpretations of exemptions from overtime laws; 
+
+• The impact of tariffs, and the imposition of any future additional tariffs and other trade barriers, and the effects of retaliatory trade measures; 
+
+• Existing and future governmental regulation and the enforcement thereof that may materially restrict or adversely affect how we conduct business and our financial results; 
+
+• Weather conditions, including potential impacts, if any, from climate change, known and unknown, and natural disasters or unusual weather events; 
+
+• International conflicts and disputes, such as the ongoing conflict between Russia and Ukraine, the war between Israel and Hamas and the broader regional conflict in the Middle East, which restrict our ability to supply products into affected regions, due to the corresponding effects on demand, the application of international sanctions, or practical consequences on transportation, banking transactions, and other commercial activities in troubled regions; 
+
+• Compliance with the FCPA and other anti-corruption laws or trade control laws, as well as other laws governing our operations; 
+
+• Risks associated with pandemics and other public health emergencies, including the COVID-19 pandemic and its variant strains; 
+
+• The number, type, outcomes (by judgment or settlement) and costs of legal, tax, regulatory or administrative proceedings, litigation and/or amnesty programs; 
+
+• Increased scrutiny from stakeholders related to environmental, social and governance ("ESG") matters, as well as our ability to achieve our broader ESG goals and objectives; 
+
+• Costs and timing of implementation of any upgrades or changes to our information technology systems; 
+
+• Failure by us to comply with any privacy or data security laws or to protect against theft of customer, employee and corporate sensitive information; 48 
+
+• The impact of cybersecurity risks related to breaches of security pertaining to sensitive Company, customer, or vendor information, as well as breaches in the technology that manages operations and other business processes; and 
+
+• Other factors described elsewhere in this document and from time to time in documents that we file with the SEC. 
+
+All forward-looking statements made in this document are qualified by these cautionary statements. Forward-looking statements herein are made only as of the date of this document, and we do not undertake any obligation, other than as may be required by law, to update or revise any forward-looking or cautionary statements to reflect changes in assumptions, the occurrence of events, unanticipated or otherwise, or changes in future operating results over time or otherwise. 
+
+Comparisons of results for current and any prior periods are not intended to express any future trends or indications of future performance unless expressed as such and should only be viewed as historical data. 
+
+
+# Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+## Foreign Currency Risk 
+
+Changes in foreign currency exchange rates may have an impact on our operating profit. Since we transact business in many countries, some of our sale and purchase transactions are denominated in a currency other than the local currency of our operations. As a result, changes in exchange rates between the currencies in which the transaction is denominated versus the local currency of our operation into which the transaction is being recorded can impact the amount of local currency recorded for such transaction. This can result in more or less local currency revenue or cost related to such transaction and thus have an effect on our operating profit. Our European operations are more fully exposed to currency transaction risk, especially as a result of U.S. dollar, euro, and British pound denominated sales in countries where these currencies are non-functional. 
+
+Additionally, changes in foreign currency exchange rates may have an impact on the amount reported in Other income (expense), net. Once the above-indicated receivables and payables from the sale and purchase transactions have been recorded, to the extent currency exchange rates change prior to settlement of the balance, a gain or loss on the non-local currency denominated asset or liability balance may be experienced, in which case such gain or loss is included in Other income (expense), net. 
+
+We utilize forward and swap contracts to selectively hedge our exposure to foreign currency transaction risk when it is practical and economical to do so. The use of these contracts minimizes transactional exposure to exchange rate changes because the gains or losses incurred on the derivative instrument will offset, in whole or in part, the loss or gain on the underlying foreign currency exposure. These instruments are entered into with money center banks, insurance companies or government agencies, collectively known as counterparties. As of December 31, 2023, a 10% unfavorable change in the exchange rate of our functional currencies and those of our subsidiaries against the prevailing market rates of non-local currencies involving our transactional exposures would have resulted in a net pre-tax loss of approximately $44.1 million. These hypothetical gains or losses on foreign currency transactional exposures are based on the December 31, 2023 rates and the assumed rates. While we believe the above loss resulting from the hypothetical unfavorable changes in foreign currency exchange rates could be material to our results of operations, we reduce this risk by selectively hedging our exposure when it is practical and economical to do so. 
+
+## Interest Rate Risk 
+
+We may utilize a combination of variable-rate and fixed-rate debt consisting of short-term and long-term instruments. We selectively hedge our exposure to interest rate increases on our variable-rate, long-term debt when it is practical and economical to do so. We have utilized various forms of interest rate hedge agreements, including interest rate swap agreements and forward rate agreements. We utilize variable-to-fixed interest rate swap agreements, which serve to convert a portion of our outstanding variable rate debt to a fixed rate. Various outstanding interest-bearing instruments are sensitive to changes in interest rates. With respect to our variable-rate debt outstanding at December 31, 2023, a 100 basis point increase in interest rates would result in a $2.6 million decrease to our future annual pre-tax earnings, taking into account the effect of the interest rate hedge transactions the Company has entered into as of December 31, 2023. As of December 31, 2023, 31.0% and 69.0% of the Company's total debt was fixed and floating interest rate debt, respectively. The Company has entered into a number of interest rate hedge transactions to convert floating rate debt to fixed. Refer to Note 15. Derivatives of the Notes to Consolidated Financial Statements for additional information. Including the impact of these transactions, as of December 31, 2023, the percentage of the Company’s debt subject to fixed and floating rates of interest was 77.0% and 23.0%, respectively. 
+
+## Commodity Price Risk 
+
+We are subject to commodity price risks from our purchases of raw materials, including resin and wood pulp. Resin is the largest single component of raw material cost in the ATM segment and wood pulp is our largest single component of raw material cost in our FBS segment. The per pound price of resin is volatile and may impact the future results of our ATM segment. Additionally, the per ton cost of wood pulp is cyclical in nature and more volatile than general inflation. During the period from January 2017 through December 2023, the U.S. list price of northern bleached softwood kraft pulp ("NBSK") a representative pulp grade that we use, ranged between $1,000 to $1,700 per ton. The average list price of NBSK for the year of 2023 was $1,500 per ton. 
+
+We normally maintain approximately 50 to 90 days of inventories to support our operations. As a result, there is a lag in the impact of changes in the per ton list price of resin and wood pulp on our cost of products sold. 
+
+In our ATM segment, we utilize a variety of commodity grade and specialty resins, including a selection of specialized high temperature engineering grade resins. Certain of these specialty resins are significantly more expensive than commodity grade resins. Resin prices fluctuate significantly and can impact profitability. As we periodically enter into agreements with customers under which we agree to supply products at fixed prices, unanticipated increases in the costs of raw materials, or the lack of availability of such raw materials (due to force majeure or other reasons), can significantly impact our financial performance. Even where we do not have fixed-price agreements, we may be limited in our ability to pass through increases in raw material costs in a timely manner or may be unable to pass through increases to our customers in whole or in part. Further, some of the resins we use in our ATM segment are only available from a single supplier, or a limited number of suppliers. Consequently, such supplier(s) can control the availability and thus the cost of the resins we use, notwithstanding any changes in the cost of oil. It can be time consuming and costly, and occasionally impractical, to find replacement resins where such suppliers limit the availability or increase the cost of resins we use. Commodity grade resin prices typically correlate with crude oil prices while specialty resin prices often do not. To date, we have not utilized derivative instruments to manage this risk. With respect to our commodity price risk, a hypothetical 10% change in per ton resin prices would impact our future annual pre-tax earnings by approximately $21.4 million, assuming no compensating change in our selling prices. 
+
+Selling prices of our paper products are influenced, in part, by the market price for wood pulp, which is determined by worldwide industry supply and demand. Generally, over time, we have been able to increase our selling prices in response to increases in per ton wood pulp costs and have generally reduced our selling prices when wood pulp costs have significantly declined. Increases in prices of wood pulp could adversely impact our earnings if selling prices are not increased or if such increases do not fully compensate for or trail the increases in wood pulp prices. We have not utilized derivative instruments to manage this risk. With respect to our commodity price risk, a hypothetical 10% change in per ton wood pulp prices would impact our future annual pre-tax earnings by approximately $12.8 million, assuming no compensating change in our selling prices. 
+
+Our ATM segment acquires certain specialized pulp from a limited number of global suppliers and certain critical specialty chemicals from a limited number of suppliers. In general, these supply arrangements are covered by formal contracts and represent multi-year business relationships that have historically been sufficient to meet our needs. We expect these relationships to continue to operate in a satisfactory manner in the future. In the event of an interruption of production at any one supplier, we believe that each of these suppliers individually would be able to satisfy our short-term requirements for specialized pulp or specialty chemicals. In addition, short-term disruptions in the global supply chain for our raw materials, as experienced in 2022 and 2021, could negatively impact our ability to produce certain products which could adversely impact the mix and volume of products we can provide to our customers. In the event of a long-term disruption in our supply of specialized pulp or specialty chemicals, we believe we would be able to substitute other pulp grades or other specialty chemicals that would allow us to meet required product performance characteristics and incur only a limited disruption in our production. As a result, we do not believe that the substitution of such alternative pulp or specialty chemicals would have a material effect on our operations in the long run.
+
+We believe that, while our exposure to commodity price risk is material to our results of operations, our customers understand such risk and over time changes in the price of the commodities used in our manufacturing processes are typically reflected in selling prices. 
+
+## Energy Supply and Cost Volatility 
+
+In Western Europe, Poland, China and in the U.S., availability of energy is generally reliable, although prices can fluctuate significantly based on variations in demand. the geopolitical events in Russia and Ukraine have resulted in volatile energy prices in Europe as well as temporary concerns about supply of energy sources, such as natural gas, in the region. Currently, while energy prices remain elevated versus historical levels, supplies appear to be stable. 
+
+Due to the competitive pricing in the markets for most of our products, we are typically unable to fully pass-through higher energy costs to our customers. With respect to our purchased energy price risk, a hypothetical 10% change in per unit prices would impact our future annual pre-tax earnings by approximately $6.0 million, assuming no compensating change in our selling prices. 
+
+Periodically, when we believe it is appropriate to do so, we enter into agreements to procure a portion of our energy for future periods in order to reduce the uncertainty of future energy costs. However, in recent years this has only marginally slowed the increase in energy costs due to the volatile changes in energy prices we have experienced.
+
+
+

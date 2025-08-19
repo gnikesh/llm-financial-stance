@@ -1,0 +1,944 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is designed to provide a reader of 3M’s financial statements with a narrative from the perspective of management. 3M’s MD&A is presented in eight sections:
+
+- Overview  
+- Results of Operations  
+- Performance by Business Segment  
+- Performance by Geographic Area  
+- Critical Accounting Estimates  
+- New Accounting Pronouncements  
+- Financial Condition and Liquidity  
+- Financial Instruments
+
+The term "N/M" used herein references "not meaningful" for certain percent changes.
+
+Forward-looking statements in Item 7 may involve risks and uncertainties that could cause results to differ materially from those projected (refer to the section entitled **Cautionary Note Concerning Factors That May Affect Future Results** in Item 1 and the risk factors provided in Item 1A for discussion of these risks and uncertainties).
+
+---
+
+# Overview
+
+3M is a diversified global manufacturer, technology innovator, and marketer of a wide variety of products and services. Certain changes are reflective in this document for all applicable periods presented. These include:
+
+- As discussed in Note 2, on April 1, 2024, 3M completed the previously announced separation of its Health Care business (the Separation) through a pro rata distribution of 80.1% of the outstanding shares of Solventum Corporation (Solventum) to 3M stockholders. As a result of the Separation, Solventum became an independent public company and 3M no longer consolidates Solventum into 3M’s financial results. In connection with the Separation, the historical net income of Solventum and applicable assets and liabilities included in the Separation are reported in 3M's consolidated financial statements as discontinued operations.
+
+- 3M made certain changes to the composition of segment information reviewed by 3M's chief operating decision maker (CODM) effective in the second quarter of 2024 largely as a result of the separation of Solventum and changes within its business segments effective in the first quarter of 2024, as further described in Note 22. To the extent these changes impacted 3M's disclosed disaggregated revenue information, data in Note 3 has also been updated.
+
+Certain additional information about results of operations and financial condition for 2023 and 2022, not otherwise impacted by the reflection of the above for applicable prior periods presented, can be found in Management’s Discussion and Analysis of Financial Condition and Results of Operations sections in 3M's Annual Report on Form 10-K for the year ended December 31, 2023.
+
+3M manages its continuing operations in three operating business segments: Safety and Industrial; Transportation and Electronics; and Consumer. From a geographic perspective, any references to EMEA refer to Europe, Middle East, and Africa on a combined basis. References are made to organic sales change (which includes both organic volume impacts and selling price impacts), defined as the change in net sales, absent the separate impacts on sales from foreign currency translation and acquisitions, net of divestitures. Acquisition and divestiture sales change impacts, if any, are measured separately for the first twelve months post-transaction and, beginning April 2024, include the impact of commercial agreements associated with the separation of Solventum. 
+
+3M believes this information is useful to investors and management in understanding ongoing operations and in analysis of ongoing operating trends.
+
+3M is impacted by certain special items such as costs for significant litigation and the sales and income associated with manufactured PFAS products. See **Certain amounts adjusted for special items - (non-GAAP measures)** section below for additional discussion of these and other special items, including references therein to where further information is provided.
+
+Additional information regarding certain items impacting pre-2024 periods that may also be relevant in 2024 can be found in the Overview section of Part II, Item 7, as well as in further sections of 3M’s 2023 Annual Report on Form 10-K.
+
+---
+
+# Earnings (loss) from continuing operations per share attributable to 3M common shareholders – diluted
+
+| Year ended December 31 | 2024 | 2023 |
+|------------------------|--------|-------|
+| Same period last year | (15.17) | 7.07 |
+| Net costs for significant litigation | 21.00 | 3.20 |
+| Divestiture costs | 0.02 | 0.01 |
+| Gain on business divestitures | (0.05) | (4.73) |
+| Divestiture-related restructuring actions | — | 0.05 |
+| Russia exit charges (benefits) | (0.04) | 0.19 |
+| Manufactured PFAS products | 0.28 | 0.90 |
+| **Total special items** | **21.21** | **(0.38)** |
+
+| Same period last year, excluding special items | 6.04 | 6.69 |
+
+### Increase/(decrease) due to:
+
+| Item | 2024 | 2023 |
+|-------|--------|-------|
+| Total organic growth/productivity and other | 0.93 | 0.23 |
+| Restructuring and related charges | 0.23 | (0.59) |
+| Foreign exchange impacts | (0.13) | (0.10) |
+| Acquisitions/divestitures | 0.02 | (0.06) |
+| Other expense (income), net | 0.22 | (0.07) |
+| Income tax rate | (0.04) | (0.20) |
+| Shares of common stock outstanding | 0.03 | 0.14 |
+
+| Current period, excluding special items | 7.30 | 6.04 |
+
+| Net costs for significant litigation | (1.32) | (21.00) |
+| Divestiture costs | (0.24) | (0.02) |
+| Gain on business divestitures | — | 0.05 |
+| Russia exit (charges) benefits | — | 0.04 |
+| Manufactured PFAS products | (0.20) | (0.28) |
+| Pension risk transfer cost | (1.11) | — |
+| Solventum ownership benefit from change in value | 2.83 | — |
+
+| **Total special items** | **(0.04)** | **(21.21)** |
+
+| Current period | 7.26 | (15.17) |
+
+The Company refers to various "adjusted" amounts or measures on an “adjusted" basis. These exclude special items. These non-GAAP measures are further described and reconciled to the most directly comparable GAAP financial measures in the **Certain amounts adjusted for special items - (non-GAAP measures)** section below.
+# Financial Disclosure
+
+---
+
+## Components of Year-on-Year Changes in Earnings (Loss) from Continuing Operations per Diluted Share
+
+### Organic Growth/Productivity and Other:
+- In 2024, the following components impacted earnings (loss) from continuing operations per diluted share year-on-year:
+  - Year-on-year increase of $0.77 per share as a result of benefits from organic growth (including from new product launches), productivity, strong spending discipline, and restructuring (including a $30 million cumulative translation adjustment restructuring benefit as certain entities were substantially liquidated in the fourth quarter of 2024) partially offset by growth investments
+  - Nonrecurring items including gain on property sales resulted in a net year-on-year increase of $0.08 per share
+  - Income from transition services agreements with Solventum (refer to Note 2 for additional discussion) resulted in a net year-on-year increase of $0.08 per share. The year-on-year impact of non-Solventum related transition services agreements is included in acquisitions/divestitures as further described below.
+
+- In 2023, the following components impacted earnings (loss) from continuing operations per diluted share year-on-year:
+  - Declines in disposable respirator demand year-on-year and the 2022 exit of operations in Russia negatively impacted earnings (loss) per share by $0.38.
+  - Remaining organic growth/productivity and other impacts resulted in a net year-on-year increase of $0.61 per share which was impacted by the following:
+    - Benefits from spending discipline, sourcing actions, restructuring, higher selling prices, and ongoing productivity actions
+    - Lower sales volumes (particularly electronics/consumer retail); investments in growth, productivity, and sustainability; manufacturing/supply chain headwinds; inflation impacts; China; and Europe's geopolitical impacts
+
+- In 2024 and 2023, lower defined benefit pension and postretirement service cost decreased expense year-on-year.
+
+---
+
+## Restructuring and Related Charges
+- 3M recorded restructuring pre-tax charges of $187 million in 2024, $415 million in 2023, and $16 million in 2022 related to the 2023 to 2025 structural reorganization actions and 2020 through 2022 operational/marketing capability actions (refer to Note 6 for additional discussion). The 2024 pre-tax charge included a $30 million cumulative translation adjustment restructuring benefit as certain entities were substantially liquidated in the fourth quarter of 2024. That benefit is reflected in organic growth/productivity and other as described above.
+- 3M also recorded certain pre-tax adjustments, accelerated depreciation, and other charges of $44 million in 2024 and $4 million in 2023 related to these actions. 
+- Restructuring charges in 2023 and 2024 for PFAS exit actions and in 2022 for divestiture-related restructuring actions are further described in Note 6, which are part of the manufactured PFAS products and divestiture-related restructuring actions special items.
+
+---
+
+## Foreign Exchange Impacts
+- Foreign currency impacts (net of hedging) decreased operating income from continuing operations by approximately **$101 million** (pre-tax income decrease of approximately **$104 million**) in 2024.
+- In 2023, impacts increased operating loss from continuing operations by approximately **$116 million** (pre-tax loss increase of approximately **$111 million**).
+- These estimates include:
+  - Effects of year-on-year exchange rate changes on translating current period functional currency profits into U.S. dollars and on current period non-functional currency denominated purchases or transfers of goods
+  - Year-on-year changes in transaction gains and losses, including derivative instruments designed to reduce foreign currency exchange rate risks.
+
+---
+
+## Acquisitions/Divestitures
+- Impacts are mainly measured for the first 12 months post-transaction unless otherwise noted.
+- Divestiture impact includes lost income from divested businesses.
+- Additional details:
+  - Divestiture impact includes effects of new commercial agreements from the April 2024 separation of Solventum (discussed in Note 2).
+  - Impact of transition services agreements over their duration, except those with Solventum (included in organic growth/productivity and other).
+  - In 2023, completed sale of dental local anesthetic business.
+  - In 2022, completed split-off of Food Safety business (see Note 4).
+  - Deconsolidation/reconsolidation of Aearo entities:
+  
+| Quarter | Action             | Impact Type                   | Timing                          |
+|---------|---------------------|------------------------------|--------------------------------|
+| Q3 2022 | Deconsolidation     | Divestiture impact           | Third quarter 2022             |
+| Q2 2023 | Reconsolidation    | Acquisition impact           | Second quarter 2023            |
+
+---
+
+## Other Expense (Income), Net
+- Interest expense (net of interest income) decreased year-over-year in 2024 and 2023.
+- Lower income from non-service pension and postretirement costs increased expenses in both years.
+
+---
+
+## Income Tax Rate
+- Effective tax rates:
+  - 2024: 16.7%
+  - 2023: 25.4%
+  - 2022: 4.5%
+- Primary factors:
+  - 2024: Effect of change in the value of 3M's ownership interest in Solventum offset by tax impact of PWS and CAE Settlements.
+  - 2023: Charges related to PWS and CAE Settlements.
+  - 2022: Impact of tax-efficient structure on gain from Food Safety split-off.
+- Adjusted effective tax rates:
+  - 2024: 19.6%
+  - 2023: 19.2%
+  - 2022: 16.6%
+
+---
+
+## Shares of Common Stock Outstanding
+- Impacts earnings (loss) from continuing operations per share year-on-year.
+
+---
+
+## Certain Amounts Adjusted for Special Items (Non-GAAP Measures)
+- 3M provides non-GAAP measures that are not substitutes for GAAP but are considered useful for investors.
+- These measures include adjustments for special items, including those described in the “Description of special items” section.
+- Special items impacting operating income (loss) are reflected in "Corporate and Unallocated," except specified for litigation and PFAS-related items.
+- The following are included:
+
+| Measure | Description |
+|---------|-------------|
+| Net sales (and sales change) | Useful for evaluating underlying business performance and transparency around special items |
+| Operating income (loss), segment operating income (loss), and margin | Used for assessing segment performance |
+| Income (loss) from continuing operations before taxes | |
+| Provision for income taxes and effective tax rate | |
+| Net income (loss) from continuing operations | |
+| Earnings (loss) per share from continuing operations | |
+
+**Note:** The above measures are supplemented with additional non-GAAP metrics and reasons why they are useful to investors.
+# Special Items for the Periods Presented
+
+### Net costs for significant litigation:
+- These relate to 3M's respirator mask/asbestos (including Aearo and non-Aearo items), PFAS-related environmental issues, and Combat Arms Earplugs matters (as discussed in Note 19).  
+- Net costs include impacts of changes in accrued liabilities (including interest imputation on settlement obligations), legal fees, insurance recoveries, and associated tax impacts.  
+- Tax impacts involve FDII, GILTI, foreign tax credits, and repatriation costs.  
+- 3M does not consider these net costs as normal operating expenses related to ongoing operations, revenue activities, business strategy, industry, or regulation.  
+- **Segment allocation:**
+  - Respirator mask/asbestos net costs: reflected as special items in *Safety and Industrial* segment.  
+  - PFAS-related environmental and Combat Arms Earplugs matters: reflected as corporate special items in *Corporate and Unallocated*.  
+  - During the bankruptcy period (July 2022 - June 2023), Aearo-related costs were reflected in corporate items.  
+  - Prior to bankruptcy, Combat Arms Earplugs costs were in *Safety and Industrial* segment.
+
+### Gain/loss on business divestitures:
+- **2023:** Recorded a gain from sale of dental local anesthetic business, offset by a loss from a contingent indemnification obligation from 2020 divestiture.  
+- **2022:** Gain from split-off and combination of Food Safety business with Neogen Corporation.  
+
+### Divestiture costs:
+- Include costs related to divesting an entire business segment following public announcement of such plans.  
+- With the April 2024 separation of Solventum, this also includes tax costs for updating previous indefinite reinvestment plans on unrepatriated earnings and tax positions remaining with 3M.
+
+### Divestiture-related restructuring actions:
+- **2022:** Post-split of Food Safety, management approved restructuring to address corporate costs attributed to divested businesses (see Note 6).
+
+### Manufactured PFAS products:
+- Sales and estimated income/loss on PFAS products planned for exit by the end of 2025 in the *Transportation and Electronics* segment.  
+- Estimated costs of sales:
+  - 2024: $890 million  
+  - 2023: $1,267 million  
+  - 2022: $970 million  
+- Estimated income excludes impacts from non-operating items such as interest and defined benefit plan costs.
+
+### Russia exit charges/benefits:
+- **Q2 2023:** Gain from disposal of Russia assets.  
+- **Q3 2022:** Charge due to impairment related to exit plan.
+
+### Pension risk transfer charge:
+- **2024:** In Q2, a non-cash pension settlement charge due to transferring U.S. pension obligations to an insurance company (see Note 15).
+
+### Solventum ownership - change in value:
+- Reflects value change of 3M's retained interest in Solventum stock, shown as other expense/income.
+
+---
+
+# Financial Data (Dollars in Millions, Except Per Share Amounts)
+
+## Year ended December 31, 2022
+
+|                              | Net Sales | Operating Income (Loss) | Operating Margin | Income (Loss) Before Taxes | Provision (Benefit) for Income Taxes | Effective Tax Rate | Net Income (Loss) from Continuing Operations Attributable to 3M | Earnings (Loss) from Continuing Operations Per Diluted Share |
+|------------------------------|------------|-------------------------|------------------|---------------------------|----------------------------------------|-------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| Safety and Industrial (GAAP) | 1,135      | 111                     | 9.8%             | -                         | -                                      | -                 | -                                                            | -                                                            |
+| Adjustments for Special Items |            |                         |                  |                           |                                        |                   |                                                              |                                                              |
+| Net costs for significant litigation | -          |                 |                  | 1,414                     | -                                      | -                 | -                                                            | -                                                            |
+| Total special items          | -          |                         |                  | 1,414                     | -                                      | -                 | -                                                            | -                                                            |
+| Adjusted (non-GAAP)           | 2,549      |                         | 22.0%            | -                         | -                                      |                   | -                                                            | -                                                            |
+| Transportation and Electronics | 8,902      | 973                     | 10.9%            | -                         | -                                      | -                 | -                                                            | -                                                            |
+| Adjustments for Special Items |            |                         |                  |                           |                                        |                   |                                                              |                                                              |
+| Manufactured PFAS products    | -          | -                     |                  | (1,351)                   | 631                                    | -                 | -                                                            | -                                                            |
+| Total special items          | -          |                         |                  | (1,351)                   | 631                                    | -                 | -                                                            | -                                                            |
+| Adjusted (non-GAAP)           | 7,551      |                         | 21.2%            | -                         | -                                      |                   | -                                                            | -                                                            |
+| Total Company                | 26,161     | 4,369                   | 16.7%            | 4,204                     | 188                                    | 4.5%              | 4,013                                                        | 7.07                                                         |
+| Adjustments for Special Items |            |                         |                  |                           |                                        |                   |                                                              |                                                              |
+| Net costs for significant litigation | -          | 2,291                   | 2,291            | -                         | 476                                    | 1,815             | 3.20                                                         |
+| Manufactured PFAS products    | -          | 631                     | 631              | -                         | 121                                    | 510               | 0.90                                                         |
+| Gain on business divestitures | -          | (2,724)                 | (2,724)          | -                         | (39)                                   | (2,685)           | (4.73)                                                       |
+| Russia exit charges (benefits) | -          | 101                     | 101              | -                         | (2)                                    | 103               | 0.19                                                         |
+| Divestiture-related restructuring actions | -          | 41                      | 41               | -                         | 9                                      | 32                | 0.05                                                         |
+| Divestiture costs             | -          | 8                       | 8                | -                         | -                                      | 8                 | 0.01                                                         |
+| Total special items          | -          | 348                     | 348              | 565                       | (217)                                  | (0.38)            | -                                                            |
+| Adjusted (non-GAAP)           | 24,810     |                         | 19.0%            | 4,552                     | 753                                    | 16.6%             | 3,796                                                        | 6.69                                                         |
+
+---
+
+## Year ended December 31, 2023
+
+|                              | Net Sales | Sales Change | Operating Income (Loss) | Operating Margin | Income (Loss) Before Taxes | Provision (Benefit) for Income Taxes | Effective Tax Rate | Net Income (Loss) from Continuing Operations Attributable to 3M | Earnings (Loss) from Continuing Operations Per Diluted Share |
+|------------------------------|------------|--------------|-------------------------|------------------|---------------------------|----------------------------------------|-------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| Safety and Industrial (GAAP) | 2,324      | 21.2%        | -                       | -                | -                         | -                                      | -                 | -                                                            | -                                                            |
+| Adjustments for Special Items |            |              |                         |                  |                           |                                        |                   |                                                              |                                                              |
+| Net costs for significant litigation | 84         |                      |                        |                  |                           |                                        |                   |                                                              |                                                              |
+| Total special items          | 84         |              |                         |                  |                           |                                        |                   |                                                              |                                                              |
+| Adjusted (non-GAAP)           | 2,408      | 22.0%        | -                       | -                | -                         | -                                      | -                 | -                                                            | -                                                            |
+| Transportation and Electronics | 8,501      | (4.5)%       | 1,312                   | 15.4%            | -                         | -                                      | -                 | -                                                            | -                                                            |
+| Adjustments for Special Items |            |              |                         |                  |                           |                                        |                   |                                                              |                                                              |
+| Manufactured PFAS products    | (1,289)    | 205          | -                       | -                | -                         | -                                      | -                 | -                                                            | -                                                            |
+| Total special items          | (1,289)    | 205          | -                       | -                | -                         | -                                      | -                 | -                                                            | -                                                            |
+| Adjusted (non-GAAP)           | 7,212      | (4.5)%       | 1,517                   | 21.0%            | -                         | -                                      | -                 | -                                                            | -                                                            |
+| Total Company                | 24,610     | (5.9)%       | (10,689)                | (43.4)%         | (11,271)                 | (2,867)                               | 25.4%             | (8,402)                                                    | (15.17) N/M                                                 |
+| Adjustments for Special Items |            |              |                         |                  |                           |                                        |                   |                                                              |                                                              |
+| Net costs for significant litigation | -          | 14,869       | 15,245                  | 3,615            | 11,630                   | 21.00                                  |                   |                                                              |                                                              |
+| Manufactured PFAS products    | (1,289)    | 205          | 205                     | 50               | 155                      | 0.28                                   |                   |                                                              |                                                              |
+| Gain on business divestitures | -          | (36)         | (36)                    | (11)             | (25)                     | (0.05)                                |                   |                                                              |                                                              |
+| Russia exit charges (benefits) | -          | (18)         | (18)                    | 3                | (21)                     | (0.04)                                |                   |                                                              |                                                              |
+| Divestiture costs             | -          | 13           | 13                      | 4                | 9                        | 0.02                                 |                   |                                                              |                                                              |
+| Total special items          | -          | 15,033       | 15,409                  | 3,661            | 11,748                   | 21.21                                  |                   |                                                              |                                                              |
+| Adjusted (non-GAAP)           | 23,321     | (6.0)%       | 4,344                   | 18.6%            | 4,138                    | 794                                    | 19.2%             | 3,346                                                        | 6.04 (10)%                                                 |
+# Financial Data (2024 and 2023)
+
+### Year ended December 31, 2024
+
+| Segment                          | Net Sales          | % of Total | Operating Income (Loss) |  
+|----------------------------------|-------------------|------------|-------------------------|  
+| Safety and Industrial            | $2,491            | 22.7%      | —                       |  
+| Adjustments for special items:   |                   |            |                         |  
+| - Net costs for significant litigation | 36             |            |                         |  
+| **Adjusted amounts (non-GAAP measures)** | $2,527   | 23.1%      | —                       |  
+
+| Segment                          | Net Sales          | % of Total | Operating Income (Loss) |  
+|----------------------------------|-------------------|------------|-------------------------|  
+| Transportation and Electronics   | $8,380            | (1.4)%     | $1,578                  |  
+| Adjustments for special items:   |                   |            |                         |  
+| - Manufactured PFAS products     | (945)             |            |                         |  
+| **Adjusted amounts (non-GAAP measures)** | $7,435   | 3.1%       | $1,722                  |  
+
+| Total Company                     | Net Sales          | % of Total | Operating Income (Loss) | Income (loss) from continuing operations before taxes | Provision (benefit) for income taxes | Effective tax rate | Net income (loss) from continuing operations attributable to 3M | Earnings (loss) from continuing operations per diluted share | Earnings (loss) from continuing operations per diluted share (percent change) |  
+|-----------------------------------|-------------------|------------|-------------------------|--------------------------------------------------------|----------------------------------------|------------------|------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|  
+| $24,575                         | (0.1)%            |            | $4,822                  | $4,819                                                 | $804                                   | 16.7%            | $4,009                                            | $7.26                                                       | 148%                                                       |  
+| Adjustments for special items:    |                   |            |                         |                                                        |                                        |                  |                                                    |                                                              |                                                              |  
+| - Net costs for significant litigation | —             |            | 81                      | 800                                                    | 68                                     | 732              | 1.32                                               |                                                              |                                                              |  
+| - Manufactured PFAS products        | (945)             |            | 144                     | 144                                                    | 34                                     | 110              | 0.20                                               |                                                              |                                                              |  
+| - Divestiture costs                | —                  |            | 20                      | 20                                                     | (111)                                  | 131              | 0.24                                               |                                                              |                                                              |  
+| - Solventum ownership - change in value | —             |            | (1,564)                 | —                                                      | (1,564)                                | (2.83)           |                                                    |                                                              |                                                              |  
+| - Pension risk transfer charge    | —                  |            | 808                     | 191                                                    | 617                                    | 1.11             |                                                    |                                                              |                                                              |  
+| **Total special items**            | (945)             |            | 245                     | 208                                                    | 182                                    | 26               | 0.04                                               |                                                              |                                                              |  
+| **Adjusted amounts (non-GAAP measures)** | $23,630  | 1.3%       | $5,067                  | 21.4%                                                  | $5,027                                 | $986             | 19.6%                                                | $4,035                                                       | 21%                                                        |  
+
+---
+
+### Year ended December 31, 2023
+
+| Sales Change | Organic sales | Acquisitions | Divestitures | Translation | Total sales change |  
+|----------------|----------------|--------------|--------------|--------------|-------------------|  
+| Total Company  | (4.3)%         | 0.3%         | (1.2)%       | (0.7)%       | (5.9)%            |  
+| Remove manufactured PFAS products special item impact | (0.1) |          | (0.1) | 0.1  | (0.1)  |  
+| **Adjusted total Company (non-GAAP measures)** | (4.4)% | 0.3% | (1.3)% | (0.6)% | (6.0)% |  
+
+| Sales Change | Organic sales | Acquisitions | Divestitures | Translation | Total sales change |  
+|----------------|----------------|--------------|--------------|--------------|-------------------|  
+| Transportation and Electronics | (3.5)% | 0.7% | (0.7)% | (1.0)% | (4.5)% |  
+| Remove manufactured PFAS products special item impact | — | 0.2 | (0.2) | — | — |  
+| **Adjusted Transportation and Electronics (non-GAAP measures)** | (3.5)% | 0.9% | (0.9)% | (1.0)% | (4.5)% |  
+
+| Sales Change | Organic sales | Acquisitions | Divestitures | Translation | Total sales change |  
+|----------------|----------------|--------------|--------------|--------------|-------------------|  
+| Consumer       | (4.7)%         | —            | (0.1)%       | (0.2)%       | (5.0)%            |  
+| Remove manufactured PFAS products special item impact | — | — | — | — | — |  
+| **Adjusted Consumer (non-GAAP measures)** | (4.7)% | — | (0.1)% | (0.2)% | (5.0)% |  
+
+---
+
+### Sales and Operating Income (Loss) by Business Segment
+
+| Segment                      | 2024 | % of Total | Operating Income (Loss) | 2023 | % of Total | Operating Income (Loss) | 2022 | % of Total | Operating Income (Loss) |  
+|------------------------------|--------|------------|-------------------------|--------|------------|-------------------------|--------|------------|-------------------------|  
+| Safety and Industrial        | $10,961 | 44.6% | $2,491 | $10,956 | 44.5% | $2,324 | $11,604 | 44.4% | $1,135 |  
+| Transportation and Electronics | $8,380 | 34.1% | $1,578 | $8,501 | 34.5% | $1,312 | $8,902 | 34.0% | $973 |  
+| Consumer                     | $4,931 | 20.1% | $932 | $5,026 | 20.4% | $904 | $5,292 | 20.2% | $978 |  
+| Total reportable business segments | $24,272 | 98.8% | $5,001 | $24,483 | 99.4% | $4,540 | $25,798 | 98.6% | $3,086 |  
+| Corporate and Unallocated     | $271 | 1.1% | $(173) | $90 | 0.4% | $(15,284) | $82 | 0.3% | $1,213 |  
+| Other                        | $32 | 0.1% | $(6) | $37 | 0.2% | $55 | $281 | 1.1% | $70 |  
+| **Total Company**            | $24,575 | 100.0% | $4,822 | $24,610 | 100.0% | $(10,689) | $26,161 | 100.0% | $4,369 |  
+
+---
+
+### Operating Income (Loss) Change by Business Segment
+
+| Year | Safety and Industrial | Transportation and Electronics | Consumer | Total Company |  
+|-------|------------------------|------------------------------|----------|--------------|  
+| 2024 vs 2023 | 7.2% | 20.2% | 3.1% | N/M |  
+| 2023 vs 2022 | 104.7% | 34.9% | (7.6)% | N/M |
+# Financial and Operational Highlights
+
+## Sales by Geographic Area
+Percent change comparisons are between the years ended December 31, 2024, and 2023, unless otherwise specified. Additional discussion of business segment results is provided in the **Performance by Business Segment** section.
+
+### Year Ended December 31, 2024
+| Region                        | Net Sales (millions) | % of Worldwide Sales |
+|------------------------------|---------------------|----------------------|
+| Americas                     | $13,405             | 54.5%                |
+| Asia Pacific                 | $6,994              | 28.5%                |
+| Europe, Middle East & Africa | $4,176              | 17.0%                |
+| **Worldwide**                | $24,575             | 100.0%               |
+
+### Components of Net Sales Change (2024)
+|                     | Americas | Asia Pacific | Europe, Middle East & Africa | Worldwide |
+|---------------------|----------|--------------|------------------------------|-----------|
+| Organic sales      | 0.1%     | 1.2%         | (3.1)%                      | (0.2)%   |
+| Acquisitions       | 0.3%     | —            | —                            | 0.2%     |
+| Divestitures       | 1.0%     | 0.1%         | 0.2%                         | 0.6%     |
+| Translation        | (0.4)%   | (2.3)%       | 0.6%                         | (0.7)%   |
+| **Total sales change** | 1.0% | (1.0)%       | (2.3)%                       | (0.1)%   |
+
+### Year Ended December 31, 2023
+| Region                        | Net Sales (millions) | % of Worldwide Sales |
+|------------------------------|---------------------|----------------------|
+| Americas                     | $13,268             | 53.9%                |
+| Asia Pacific                 | $7,068              | 28.7%                |
+| Europe, Middle East & Africa | $4,274              | 17.4%                |
+| **Worldwide**                | $24,610             | 100.0%               |
+
+### Components of Net Sales Change (2023)
+|                     | Americas | Asia Pacific | Europe, Middle East & Africa | Worldwide |
+|---------------------|----------|--------------|------------------------------|-----------|
+| Organic sales      | (0.2)%   | (12.4)%     | (1.3)%                        | (4.3)%   |
+| Acquisitions       | 0.5%     | —            | 0.1%                          | 0.3%     |
+| Divestitures       | (1.3)%   | (1.0)%      | (1.3)%                        | (1.2)%   |
+| Translation        | —        | (3.0)%      | 1.6%                          | (0.7)%   |
+| **Total sales change** | (1.0)% | (16.4)%     | (0.9)%                        | (5.9)%   |
+
+## Additional Information
+- In 2024, U.S. total sales in the Americas increased by 2%, with flat organic sales.
+- China/Hong Kong in Asia Pacific saw an 8% increase in total sales, including an 8% increase in organic sales.
+- In 2023, U.S. sales remained flat with flat organic sales.
+- China/Hong Kong experienced a 17% decrease in total sales, including a 13% decrease in organic sales.
+- The Company's results are impacted by global economic, political, regulatory, trade, and geopolitical conditions.
+
+## Managing Currency Risks
+3M employs various tools to manage foreign currency exchange rate fluctuations, including:
+- Natural hedges such as pricing, productivity, hard currency, and localized sourcing.
+- Derivative and non-derivative instruments (up to five years) for hedging, designated as cash flow or net investment hedges, as detailed in Note 17.
+- The hedging approach aims to mitigate currency risk and reduce volatility, providing time for business adaptation.
+
+## Financial Condition
+- Refer to **Financial Condition and Liquidity** section later in MD&A.
+
+### Share Repurchase and Dividends
+- In February 2025, the Board replaced the 2018 repurchase program with a new one authorizing up to $7.5 billion in stock repurchases, with no end date.
+- In 2024, the Company bought back $1.801 billion of its stock; in 2023, $33 million.
+- Dividends declared in 2024:
+  - Q1: $1.51 per share
+  - Q2: $0.70 per share
+  - Q3: $0.70 per share
+  - Q4: $0.70 per share
+- In February 2025, a dividend of $0.73 per share was declared, a 4% increase.
+
+## Raw Materials
+- Refer to the **Raw Materials** section in Item 1 for details on raw material sources and availability in 2024.
+
+## Pension and Postretirement Defined Benefit Plans
+- At year-end 2024, plans were **95% funded worldwide**.
+- The U.S. qualified pension plan (about 63% of total obligation) was **94% funded**.
+- International plans were **122% funded**.
+- U.S. non-qualified pension plans are not funded due to tax and other factors.
+- Asset returns in 2024 for the U.S. qualified plan were **2.3%**.
+- The long-term expected return for 2025 is **8.00%**.
+- The discount rate at year-end 2024 was **5.65%** (up from 4.98% in 2023).
+- The funded status remained at **94%**.
+- The Company expects to contribute between **$100 million and $200 million** in 2025.
+
+## Results of Operations
+
+### Net Sales
+- Refer to the **Overview** and **Performance by Business Segment** sections for detailed sales discussions.
+
+### Operating Expenses
+| Item                                              | 2024         | 2023         | 2022      | Change 2024 vs 2023 | Change 2023 vs 2022 |
+|--------------------------------------------------|--------------|--------------|-----------|---------------------|---------------------|
+| Cost of sales (%)                                | 58.8%        | 60.9%        | 60.6%     | (2.1)%              | 0.3%                |
+| Selling, general and administrative (SG&A) (%) | 17.2%        | 77.9%        | 27.7%     | (60.7)%             | 50.2%               |
+| Research, development and related (R&D) (%)    | 4.4%         | 4.7%         | 4.4%      | (0.3)%              | 0.3%                |
+| Gain on business divestitures                    | —            | (0.1)%       | (10.4)%  | —                   | 10.3%               |
+| Goodwill impairment expense                      | —            | —            | 1.0%      | —                   | (1.0)%             |
+| **Operating income (loss) margin**               | 19.6%        | (43.4)%     | 16.7%     | 63.0%               | (60.1)%            |
+
+### Cost of Sales
+- Decreased in 2024 due to manufacturing, procurement, and logistics savings, offset by inflation and restructuring.
+- Increased in 2023 due to investments, restructuring, higher energy costs, and litigation impact.
+
+### SG&A Expenses
+- Decreased in 2024 due to a $10.3 billion charge related to the PWS Settlement and a $4.2 billion charge for CAE Settlement, plus lower restructuring charges.
+- 2023 impacted by restructuring charges and investments in growth.
+
+### Research & Development
+- Decreased in 2024 from 2023; increased in 2023 compared to 2022.
+- Continues to focus on application development, product support, and innovation, with restructuring impacts.
+
+### Gains and Impairments
+- 2023 gain of $36 million from asset sale related to dental anesthetic business.
+- 2022 gain of $2.7 billion from split-off of Food Safety business.
+- 2022 goodwill impairment related to PFAS exit.
+## Other Expense (Income), Net
+
+See Note 7 for a detailed breakout of this line item.
+
+Interest expense (net of interest income) increased year-on-year for both 2024 and 2023 primarily driven by the addition of imputed interest associated with the obligations resulting from the PWS Settlement and the CAE Settlement in the second and third quarters of 2023, respectively (discussed in Note 19), partially offset by additional interest income.
+
+The non-service pension and postretirement net benefit decreased $0.9 billion and $0.1 billion in 2024 and 2023, respectively. The lower year-on-year benefit in 2024 was largely due to the $0.8 billion 2024 pension settlement charge as a result of transferring a portion of U.S. pension payment obligations and related plan assets to an insurance company. The lower year-on-year benefit in 2023 was primarily due to higher interest costs due to higher discount rates as of the year-end 2022, partially offset by a reduction in actuarial loss amortization, which was driven by the higher discount rates (see Note 15).
+
+See also Certain Expenses Impacting Multiple Line Items within Results of Operations subsection further below.
+
+Solventum ownership - change in value resulted in a year-on-year benefit of $1.6 billion in 2024 following Solventum's separation from 3M in April 2024 (discussed in Note 2).
+
+## Provision (benefit) for Income Taxes:
+
+| Percent of pre-tax income/loss | 2024  | 2023  | 2022  |
+|---------------------------|--------|--------|--------|
+| Effective tax rate        | 16.7 % | 25.4 % |  4.5 % |
+
+Factors that impacted the tax rates between years are further discussed in the Overview section above and in Note 11.
+
+## Income from Unconsolidated Subsidiaries, Net of Taxes:
+
+| (Millions)                | 2024 | 2023 | 2022 |
+|---------------------------|-------|-------|-------|
+| Income (loss) from unconsolidated subsidiaries, net of taxes | $  9 | $ 18 | $ 11 |
+
+Income (loss) from unconsolidated subsidiaries, net of taxes, is attributable to the Company’s accounting under the equity method for ownership interests in certain entities.
+
+## Net Income (Loss) Attributable to Noncontrolling Interest:
+
+| (Millions)               | 2024 | 2023 | 2022 |
+|--------------------------|-------|-------|-------|
+| Net income (loss) attributable to noncontrolling interest | $ 15 | $ 16 | $ 14 |
+
+Net income (loss) attributable to noncontrolling interest represents the elimination of the income or loss attributable to non-3M ownership interests in 3M consolidated entities. The primary noncontrolling interest relates to 3M India Limited, of which 3M’s effective ownership is 75 percent.
+
+## Certain Expenses Impacting Multiple Line Items within Results of Operations
+
+Stock compensation expense is discussed in Note 21 and impacts cost of sales, SG&A, and R&D. As noted therein, higher stock-based compensation expense is recognized in the quarter in which 3M’s annual stock option and restricted stock unit grant is made because of accounting rules for grants to employees that are retiree-eligible. Typically, the annual grant is made in the first quarter. However, due to the spin-off of Solventum (see Note 2), the 2024 annual grant was made in May, after the April 1, 2024 separation.
+
+Pre-tax defined benefit pension and postretirement service cost expense for continuing operations impacts cost of sales, SG&A, and R&D while the non-service cost component of pension and postretirement benefits for continuing operations impacts the other expense (income), net line item. As discussed in Note 15, in 2024 for continuing operations, the Company recognized pre-tax defined benefit pension and postretirement benefit service cost expense of $194 million and non-service pension and postretirement net benefit costs (including settlements, curtailments, special termination benefits, and other) of $828 million for a total pre-tax continuing operations defined benefit pension and postretirement expense of $1,022 million. These 2024 amounts include the impacts of remeasurements of pension and postretirement pension plans during the year and a $0.8 billion pension settlement charge associated with the pension risk transfer special item (all discussed in Note 15).
+
+For 2023, on a comparable continuing operations basis, the Company recognized pre-tax defined benefit pension and postretirement service cost expense of $222 million and a benefit of $109 million related to non-service pension and postretirement net benefit costs (including settlements, curtailments, special termination benefits, and other) for a total pre-tax continuing operations defined benefit pension and postretirement expense of $113 million.
+
+The Company continues to make investments in the implementation of new business systems and solutions, including enterprise resource planning, with these investments impacting cost of sales, SG&A, and R&D.
+
+### Performance by Business Segment
+
+The section entitled Business Segments in Item 1 provides an overview of 3M’s business segments. In addition, disclosures relating to 3M’s business segments are provided in Note 22. As discussed in Note 22, 3M made changes to the composition of segment information reviewed by 3M's chief operating decisionmaker (CODM) effective in the second quarter of 2024 largely as a result of the separation of Solventum and changes within its business segments effective in the first quarter of 2024. Information provided herein reflects the impact of these changes for all applicable periods presented. 3M manages its continuing operations in three business segments. The reportable segments are:
+
+- Safety and Industrial
+- Transportation and Electronics
+- Consumer
+# Safety and Industrial Business (44.6% of consolidated sales)
+
+| 2024 | 2023 |
+|--------|--------|
+| Sales (millions) | $ 10,961 | $ 10,956 |
+| Sales change analysis | | |
+| Organic sales | 0.7 % | (5.1 %) |
+| Translation | (0.7) | (0.5) |
+| Total sales change | — % | (5.6 %) |
+| Business segment operating income (millions) | $ 2,491 | $ 2,324 |
+| Percent change | 7.2 % | 104.7 % |
+| Percent of sales | 22.7 % | 21.2 % |
+| Adjusted business segment operating income (millions) (non-GAAP measure) | $ 2,527 | $ 2,408 |
+| Percent change | 4.9 % | (5.5 %) |
+| Percent of sales | 23.1 % | 22.0 % |
+
+The preceding table also displays business segment operating income (loss) information adjusted for special items. For Safety and Industrial these adjustments include net costs related to respirator mask/asbestos (Aearo-related and non-Aearo related). During the voluntary Aearo chapter 11 bankruptcy period (which began in July 2022 and ended in June 2023), net costs related to Aearo-respirator mask/asbestos matters were reflected as corporate special items in Corporate and Unallocated while those associated with non-Aearo respirator mask/asbestos matters continued to be reflected as special items in the Safety and Industrial business segment. Prior to the bankruptcy, costs associated with Combat Arms Earplugs matters were reflected in the Safety and Industrial business segment (rather than reflected in Corporate and Unallocated—see Note 22 for additional information). Refer to the Certain amounts adjusted for special items - (non-GAAP measures) section for additional details.
+
+### Year 2024 results:
+Sales in Safety and Industrial were flat in U.S. dollars.
+On an organic sales basis:
+- Sales increased in roofing granules, industrial adhesives and tapes and in electrical markets, were flat in automotive aftermarket and personal safety, and decreased in industrial specialties and abrasives.
+- Industrial end market demand was mixed as end user and channel remain cautious, including weaker EMEA industrial and manufacturing environment. Growth primarily driven by strength in bonding solutions for electronic devices, cable accessories, auto body repair and roofing granules driven by replacement demand for residential roofs.
+- Business segment operating income margins increased year-on-year primarily driven by benefits from growth, productivity and spending discipline partially offset by translation, growth investments and dis-synergies due to the spin of Solventum. Adjusting for special item costs for significant litigation (non-GAAP measure), business segment operating income margins increased year-on-year as displayed above.
+
+### Year 2023 results:
+Sales in Safety and Industrial were down 5.6 percent in U.S. dollars.
+On an organic sales basis:
+- Sales increased in roofing granules and automotive aftermarket; decreased in personal safety, industrial specialties, industrial adhesives and tapes, abrasives and electrical markets.
+- Growth was held back by the disposable respirator sales decline within personal safety along with the exit of Russia (which, together, negatively impacted year-on-year organic growth by 5.2 percentage points); declines within industrial adhesives and tapes due to consumer electronics softness, industrial specialties was down as consumers pulled back on discretionary spending impacting e-commerce shipments (slowing down in packaging and shipping activity).
+- Business segment operating income margins increased year-on-year primarily due to lower special item costs for significant litigation. 2022 was impacted by a pre-tax charge of approximately $1.2 billion related to steps toward resolving Combat Arms Earplugs litigation. Margins were also impacted by aggressive spending discipline, benefits from restructuring, pricing and productivity actions offset by the lower sales volume, higher restructuring costs, inflation impacts, investments in the business and China-related challenges. Adjusting for special item costs for significant litigation (non-GAAP measure), business segment operating income margins were consistent year-on-year.
+
+---
+
+# Transportation and Electronics Business (34.1% of consolidated sales)
+
+| 2024 | 2023 |
+|--------|--------|
+| Sales (millions) | $ 8,380 | $ 8,501 |
+| Sales change analysis | | |
+| Organic sales | (1.0)% | (3.5)% |
+| Acquisitions | 0.6 | 0.7 |
+| Divestitures | — | (0.7) |
+| Translation | (1.0) | (1.0) |
+| Total sales change | (1.4)% | (4.5)% |
+| Business segment operating income (millions) | $ 1,578 | $ 1,312 |
+| Percent change | 20.2 % | 34.9 % |
+| Percent of sales | 18.8 % | 15.4 % |
+| Adjusted sales (millions) (non-GAAP measure) | $ 7,435 | $ 7,212 |
+| Sales change analysis | | |
+| Organic sales | 3.4 % | (3.5)% |
+| Acquisitions | 0.7 | 0.9 |
+| Divestitures | — | (0.9) |
+| Translation | (1.0) | (1.0) |
+| Total sales change | 3.1 % | (4.5)% |
+| Adjusted business segment operating income (millions) (non-GAAP measure) | $ 1,722 | $ 1,517 |
+| Percent change | 13.6 % | (5.4)% |
+| Percent of sales | 23.2 % | 21.0 % |
+
+The preceding table also displays business segment sales (and sales change) and operating income (loss) information adjusted for special items. For Transportation and Electronics these adjustments include the sales and estimates of income regarding PFAS manufactured products that 3M plans to exit by the end of 2025. Refer to the Certain amounts adjusted for special items - (non-GAAP measures) section for additional details.
+
+### Year 2024 results:
+- Sales in Transportation and Electronics were down 1.4 percent in U.S. dollars.
+- Adjusting for special item PFAS manufactured products (non-GAAP measure), sales were up 3.1 percent in U.S. dollars.
+- On an organic sales basis:
+  - Sales increased in electronics, were flat in commercial branding and transportation, and decreased in advanced materials, and in automotive and aerospace.
+  - Growth was negatively impacted by headwinds related to PFAS manufactured products and automotive OEM build rates, partially offset by new product launches and spec-wins that drove share gain.
+- Acquisitions/divestitures:
+  - Divestiture and acquisition impacts relate to lost/gained Transportation and Electronics sales year-on-year from the Aearo Entities. In the third quarter of 2022, 3M deconsolidated the Aearo Entities and, in the second quarter of 2023, reconsolidated those entities. For each of the 12 months post-deconsolidation and post-reconsolidation, impacts are each reflected separately as divestiture and acquisition, respectively.
+- Business segment operating income margins increased year-on-year driven by benefits from non-PFAS manufacturing growth and productivity, spending discipline, and restructuring partially offset by dis-synergies due to the spin of Solventum. Margins were also impacted by decreasing PFAS manufacturing. Adjusting for special item PFAS manufactured products (non-GAAP measure), business segment operating income margins increased year-on-year as displayed above.
+
+### Year 2023 results:
+- Sales in Transportation and Electronics were down 4.5 percent in U.S. dollars. Adjusting for special item PFAS manufactured products (non-GAAP measure), sales were down 4.5 percent in U.S. dollars.
+- On an organic sales basis:
+  - Sales increased in automotive and aerospace, were flat in commercial branding and transportation and decreased in electronics and advanced materials.
+  - Growth continued to be held back by consumer electronics end-market weakness.
+# Acquisitions/divestitures:
+- Divestiture and acquisition impacts relate to lost/gained Transportation and Electronics sales year-on-year from the Aearo Entities. In the third quarter of 2022, 3M deconsolidated the Aearo Entities and, in the second quarter of 2023, reconsolidated those entities. For each of the 12-months post-deconsolidation and post-reconsolidation, impacts are each reflected separately as divestiture and acquisition, respectively.
+- Business segment operating income margins increased year-on-year due to lower operating losses on PFAS manufactured products. In 2022, PFAS manufacturing products results included an $0.8 billion asset impairment charge. Margins were also impacted by lower sales volumes, inflation impacts, investments in the business, higher restructuring costs, manufacturing and supply chain headwinds and China-related challenges partially offset by benefits from aggressive spending discipline, pricing and productivity actions. Adjusting for special item PFAS manufacturing exit costs (non-GAAP measure), business segment operating income margins decreased year-on-year.
+
+# Consumer Business (20.1% of consolidated sales):
+
+|             | 2024 | 2023 |
+|-------------|-------|-------|
+| Sales (millions) | $4,931 | $5,026 |
+| Sales change analysis | | |
+| Organic sales | (1.2)% | (4.7)% |
+| Divestitures | — | (0.1) |
+| Translation | (0.7) | (0.2) |
+| **Total sales change** | (1.9)% | (5.0)% |
+| Business segment operating income (millions) | $932 | $904 |
+| Percent change | 3.1% | (7.6)% |
+| Percent of sales | 18.9% | 18.0% |
+
+## Year 2024 results:
+- Sales in Consumer were down 1.9 percent in U.S. dollars.
+- On an organic sales basis:
+  - Sales increased in home improvement, and decreased in home and auto care, packaging and expression and consumer safety and well-being.
+  - Growth was negatively impacted by softness in consumer discretionary spending along with product portfolio and geographic prioritization.
+- Business segment operating income margins increased year-on-year driven by benefits from productivity actions, portfolio initiatives, and spending discipline partially offset by organic decline and dis-synergies due to the spin of Solventum.
+
+## Year 2023 results:
+- Sales in Consumer were down 5.0 percent in U.S. dollars.
+- On an organic sales basis:
+  - Sales decreased in consumer safety and well-being, packaging and expression, home improvement and in home and auto care.
+  - Growth was negatively impacted as consumers have shifted their spending patterns to more non-discretionary items.
+- Business segment operating income margins decreased year-on-year from lower sales volumes, inflation impacts, investments, manufacturing and supply chain headwinds, and higher restructuring costs partially offset by benefits from aggressive spending discipline, pricing, productivity actions and restructuring.
+
+# Corporate and Unallocated and Other:
+- Outside of 3M's reportable operating segments, 3M has Corporate and Unallocated and Other which are not reportable business segments as they do not meet the segment reporting criteria. Because Corporate and Unallocated and Other include a variety of miscellaneous items, they are subject to fluctuation on a quarterly and annual basis. Corporate and Unallocated and Other are presented separately in the preceding business segments table and in Note 22.
+- Corporate and Unallocated operating income (loss) includes “corporate special items” and “other corporate expense-net”.
+  - Corporate special items include net costs for significant litigation impacting operating income (loss) associated with PFAS-related other environmental and Combat Arms Earplugs matters. In addition, during the voluntary chapter 11 bankruptcy period (which began in July 2022 and ended in June 2023), costs associated with the Aearo portion of respirator mask/asbestos matters were also included in corporate special items. Prior to the bankruptcy, costs associated with Combat Arms Earplugs matters were not included in the Corporate net costs for significant litigation special item, instead being reflected in the Safety and Industrial business segment. Corporate special items for the periods presented also include divestiture costs, gain on business divestitures, divestiture-related restructuring actions and Russia exit charges/benefits. Divestiture costs include costs that were not eligible to be part of discontinued operations related to separating and divesting substantially an entire business segment of 3M following public announcement of its intended divestiture.
+  - Refer to the Certain amounts adjusted for special items - (non-GAAP measures) section for additional details on the impact of special items for additional information on the components of corporate special items. Corporate special item net costs decreased year-over-year in 2024, primarily due to lower net costs for significant litigation associated with Corporate and Unallocated.
+  - Corporate special item net costs increased year-over-year in 2023, primarily due to increased net costs for significant litigation as a result of pre-tax charges of $10.3 billion and $4.2 billion in the second and third quarters of 2023 related to the PWS Settlement and the CAE Settlement, respectively (both discussed in Note 19), and lower gains on business divestitures.
+  - Other corporate expense-net includes certain enterprise and governance activities resulting in unallocated corporate costs and other activity and net costs that 3M may choose not to allocate directly to its business segments.
+  - Other corporate expense-net also includes costs previously allocated to Solventum prior to the Separation that were not eligible to be part of discontinued operations, commercial activity with Solventum post-Separation, and certain operations of the former Health Care business segment retained by 3M.
+- Other:
+  - This category principally reflects activity associated with:
+    - Operations of businesses of the former Health Care segment divested prior to the Separation and therefore not reflected as discontinued operations within 3M's financial statements, along with limited-duration supply agreements with those previous divestitures.
+    - Transition arrangement agreements (e.g., fees charged by 3M, net of underlying costs) related to divested businesses, including those related to the Separation, as well as other applicable divestitures.
+  - Operating income categorized as "Other" decreased year-over-year in 2024 primarily due to the extent of transition arrangement income from divested businesses (and associated costs) largely related to Solventum, which separated in April 2024.
+  - Operating income categorized as "Other" decreased year-over-year in 2023 as a result of divestiture of the Food Safety Division and dental local anesthetic businesses (both formerly part of the "Other" category) and the extent of transition arrangement income from divested businesses other than Solventum.
+# Performance by Geographic Area
+
+While 3M manages its businesses globally and believes its business segment results are the most relevant measure of performance, the Company also utilizes geographic area data as a secondary performance measure. Export sales are generally reported within the geographic area where the final sales to 3M customers are made. A portion of the products or components sold by 3M’s operations to its customers are exported by these customers to different geographic areas. As customers move their operations from one geographic area to another, 3M’s results will follow. Thus, net sales in a particular geographic area are not indicative of end-user consumption in that geographic area. Financial information related to 3M operations in various geographic areas is provided in Note 3 and Note 22.  
+Refer to the Overview section for a summary of net sales by geographic area and business segment.
+
+## Geographic Area Supplemental Information
+
+| Employees as of December 31, | 2024  | 2023  | Capital Spending - Continuing Operations for years ended December 31, | Property, Plant and Equipment - net - Continuing Operations as of December 31, | (Millions, except Employees) |
+|------------------------------|--------|--------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------|
+|                              |        |        | 2024  | 2023  | 2024  | 2023  | 2022  | 2024  | 2023  |
+| **Americas**                 | 36,000 | 50,000 | $829  | $1,077 | $1,155 | $5,284 | $5,370 |       |       |
+| **Asia Pacific**             | 13,500 | 17,000 | 128   | 169    | 164   | 1,053  | 1,176  |       |       |
+| **Europe, Middle East and Africa** | 12,000 | 18,000 | 147   | 142    | 158   | 1,051  | 1,144  |       |       |
+| **Total Company**            | 61,500 | 85,000 | $1,104 | $1,388 | $1,477 | $7,388 | $7,690 |       |       |
+
+Employment decreased in 2024 when compared to 2023. The above table includes the impact of acquisitions, net of divestitures, and other actions. Further, the 2023 employment amount includes the former Solventum healthcare business, the separation of which was not completed until April 2024 and which at that time comprised approximately 17,000 employees.
+
+Amounts related to capital spending and property, plant, and equipment in the above table relate to 3M's continuing operations and do not include amounts associated with discontinued operations (refer to Note 2 for the amount attributed to discontinued operations). Investments in property, plant, and equipment enable growth across many diverse markets, helping to meet product demand and increasing manufacturing efficiency. 3M is increasing its investment in manufacturing and sourcing capability to better serve its customers worldwide with proprietary, automated, efficient, safe, and sustainable processes. Capital spending is discussed in more detail later in MD&A in the section entitled *Cash Flows from Investing Activities*.
+
+# Critical Accounting Estimates
+
+Information regarding significant accounting policies is included in **Note 1** to the consolidated financial statements. As stated in Note 1, the preparation of financial statements in conformity with U.S. generally accepted accounting principles requires management to make certain estimates and assumptions. These estimates and assumptions are subject to inherent uncertainties which may result in actual amounts differing from these estimates.
+
+The Company considers the items below to be critical accounting estimates. Critical accounting estimates are those estimates made in accordance with generally accepted accounting principles that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on the financial condition or results of operations of the Company. Senior management has discussed the development, selection, and disclosure of its critical accounting estimates with the Audit Committee of 3M’s Board of Directors.
+
+## Legal Proceedings
+
+Assessments of lawsuits and claims can involve complex judgments about future events, the outcomes of which are inherently uncertain, and can rely heavily on estimates and assumptions. The Company accrues an estimated liability for legal proceeding claims that are both probable and reasonably estimable in accordance with **ASC 450**, *Contingencies*. Please refer to the section entitled *Process for Disclosure and Recording of Liabilities Related to Legal Proceedings* (contained in Legal Proceedings in Note 19) for additional information about such estimates.
+
+## Pension and Postretirement Obligations
+
+The Company applies certain estimates for the discount rates and expected return on plan assets in determining its defined benefit pension and postretirement obligations and related net periodic benefit costs. The below further describes these estimates. **Note 15** provides the weighted averages of these assumptions as of applicable dates and for respective periods and additional information on how the rates were determined.
+
+### Discount Rate
+
+The defined benefit pension and postretirement obligation represents the present value of the benefits that employees are entitled to in the future for services already rendered as of the measurement date. The annual measurement date is December 31. The Company measures the present value of these future benefits by projecting benefit payment cash flows for each future period and discounting these cash flows back to the measurement date, using the yields of a portfolio of high-quality, fixed-income debt instruments that would produce cash flows sufficient in timing and amount to settle projected future benefits. Service cost and interest cost are measured separately using the spot yield curve approach applied to each corresponding obligation. Service costs are determined based on duration-specific spot rates applied to the service cost cash flows. The interest cost calculation is determined by applying duration-specific spot rates to the year-by-year projected benefit payments. The spot yield curve approach does not affect the measurement of the total benefit obligations as the change in service and interest costs offset the actuarial gains and losses recorded in other comprehensive income. Changes in expected benefit payment and service cost cash flows, as well as ongoing changes in market activity and yields, cause these rates to be subject to uncertainty.
+
+Using this methodology, the Company determined discount rates as follows:
+
+|                               | **December 31, 2024** |                     |
+|-------------------------------|------------------------|---------------------|
+| **U.S. Benefit Obligation**   | 5.64 %                |                     |
+| **International Pension**     | 4.44 %                |                     |
+| **Postretirement Benefits**   | 5.68 %                |                     |
+
+### Net Periodic Benefit Cost Components (2024)
+
+|                                  | **U.S.** | **International** | **Postretirement** |
+|----------------------------------|---------|------------------|------------------|
+| Service cost                     | 5.35 %  | 3.77 %           | 5.30 %           |
+| Interest cost                     | 5.21 %  | 4.06 %           | 5.23 %           |
+
+### Expected Return on Plan Assets
+
+The expected return on plan assets for the primary U.S. qualified pension plan is based on strategic asset allocation, long-term capital market return expectations, and expected performance from active investment management. For 2025, the expected long-term rate of return is 8.00%, up from 7.63% in 2024. Return on assets assumptions for international pension and other post-retirement benefit plans are calculated on a plan-by-plan basis using plan asset allocations and expected long-term rate of return assumptions. The weighted average expected return for the international pension plans is 5.00% for 2025 compared to 5.31% for 2024. Changes in asset allocation and market performance cause these estimates to be subject to uncertainty.
+
+In 2024, for continuing operations, the Company recognized pre-tax defined benefit pension and postretirement benefit service cost expense of $194 million and non-service pension and postretirement net benefit costs (including settlements, curtailments, special termination benefits, and other) of $828 million, totaling a pre-tax expense of $1,022 million, up from $113 million in 2023. The 2024 amounts include impacts of remeasurements of pension and postretirement plans and a $0.8 billion pension settlement charge related to pension risk transfer (discussed in Note 15).
+
+## Assessments of Goodwill
+
+The Company makes certain estimates and judgments in impairment assessments of goodwill. As of December 31, 2024, goodwill totaled approximately $6.3 billion. Goodwill is tested for impairment annually in the fourth quarter or when an event or change indicates potential impairment. If future non-cash asset impairment charges are taken, only a portion of the goodwill would be impaired.
+
+Impairment testing for goodwill is performed at a reporting unit level, with all goodwill assigned accordingly. Reporting units are one level below the business segment and are combined when within the same segment with similar economic characteristics. At 3M, reporting units correspond to divisions. No reporting units were combined for impairment testing. An impairment loss occurs when the carrying amount exceeds the estimated fair value, which is determined using a market approach with EBITDA multiples, and sometimes a discounted cash flow analysis involving key assumptions such as sales, margins, capital expenditures, and discount rates. Changes in these assumptions and broader economic conditions make estimates uncertain.
+## 3M SEC Report (Extracted and Reformatted)
+
+### Goodwill Impairment and Reporting Units
+Based on the annual test in the fourth quarter of 2024 completed as of October 1, 2024, no goodwill impairment was indicated for any of the reporting units.
+
+As of October 1, 2024, 3M had 16 primary reporting units, with five reporting units accounting for approximately 85 percent of the goodwill. These five reporting units were comprised of the following divisions:
+
+- Commercial Branding and Transportation
+- Display Materials and Systems
+- Electronics Materials Solutions
+- Industrial Adhesives and Tapes
+- Personal Safety
+
+3M is a highly integrated enterprise, where businesses share technology and leverage common fundamental strengths and capabilities, thus many of 3M’s businesses could not easily be sold on a stand-alone basis. 
+
+3M’s focus on research and development has resulted in a portion of 3M’s value being comprised of internally developed businesses.
+
+3M will continue to monitor its reporting units and asset groups in 2025 for any triggering events or other indicators of impairment.
+
+### Uncertainty in Income Tax Positions
+The extent of 3M’s operations involves dealing with uncertainties and judgments in the application of complex tax regulations in a multitude of jurisdictions. The final taxes paid are dependent upon many factors, including negotiations with taxing authorities in various jurisdictions and resolution of disputes arising from federal, state, and international tax audits.
+
+The Company recognizes potential liabilities and records tax liabilities for anticipated tax audit issues in the United States and other tax jurisdictions based on its estimate of whether, and the extent to which, additional taxes will be due. 
+
+The Company follows guidance provided by ASC 740, Income Taxes, a subset of which relates to uncertainty in income taxes, to record these liabilities (refer to Note 11 for additional information). 
+
+The Company adjusts these reserves in light of changing facts and circumstances; however, due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from the Company’s current estimate of the tax liabilities. 
+
+If the Company’s estimate of tax liabilities proves to be less than the ultimate assessment, an additional charge to expense would result. 
+
+If payment of these amounts ultimately proves to be less than the recorded amounts, the reversal of the liabilities would result in tax benefits being recognized in the period when the Company determines the liabilities are no longer necessary.
+
+### New Accounting Pronouncements
+Information regarding new accounting pronouncements is included in Note 1 to the Consolidated Financial Statements.
+
+### Financial Condition and Liquidity
+The strength and stability of 3M’s business model and strong free cash flow capability, together with proven capital markets access, provide financial flexibility to deploy capital in accordance with the Company's stated priorities and meet needs associated with contractual commitments and other obligations.
+
+Investing in 3M’s business to drive organic growth and deliver strong returns on invested capital remains the first priority for capital deployment. This includes research and development, capital expenditures, and commercialization capability.
+
+The Company also continues to actively manage its portfolio through acquisitions and divestitures to maximize value for shareholders. 3M expects to continue returning cash to shareholders through dividends and share repurchases.
+
+To fund cash needs in the United States, the Company relies on ongoing cash flow from U.S. operations, access to capital markets, and repatriation of the earnings of its foreign affiliates that are not considered to be permanently reinvested. 
+
+For those international earnings considered to be reinvested indefinitely, the Company currently has no plans or intentions to repatriate these funds for U.S. operations. (See Note 11 for further information on earnings considered to be reinvested indefinitely.)
+
+### Ownership of Solventum Corporation
+As of December 31, 2024, 3M owned 19.9% of Solventum Corporation common stock, with a fair value of $2.3 billion. 
+
+As previously disclosed, 3M intends to divest its ownership in Solventum within five years from its April 2024 spin-off.
+
+### Liquidity Profile
+3M maintains a strong liquidity profile. The Company’s primary short-term liquidity needs are met through cash on hand and U.S. commercial paper issuances. 
+
+3M believes it will have continuous access to the commercial paper market. 
+
+**Commercial Paper Program:**
+
+| Maximum Outstanding | Maturity Limit (days) | Outstanding at 12/31/2024 | Outstanding at 12/31/2023 |
+|------------------------|-----------------------|----------------------------|----------------------------|
+| $5 billion            | 397                   | $0                         | $1.8 billion             |
+
+Total debt: The strength of 3M’s credit profile and significant ongoing cash flows provide proven access to capital markets. The debt maturity profile is staggered to help ensure refinancing needs are reasonable in proportion to the total portfolio, including scheduled maturities in the next 12 months (see Note 14).
+
+As of the date of this report:
+
+- Credit rating from Moody’s: **A3**, stable outlook
+- Credit rating from S&P Global Ratings: **BBB+**, negative outlook
+- Credit rating from Fitch: **A-**, stable outlook
+
+### Debt Activity
+The total debt associated with continuing operations at December 31, 2024 decreased compared to December 31, 2023, primarily due to:
+
+- $2.9 billion in debt maturities
+  - $1.1 billion of medium-term notes
+  - $1.8 billion repayment of commercial paper borrowings
+
+Amounts borrowed by Solventum during the first quarter of 2024 were liabilities associated with discontinued operations and became the responsibility of Solventum after the April 1, 2024 separation (see Note 14).
+
+### Debt Issuance and Revisions
+| Program                                          | Amount (as of 12/31/2024) | Notes                                                |
+|--------------------------------------------------|---------------------------|------------------------------------------------------|
+| Well-known seasoned issuer (WKSI) shelf        | Indeterminate             | Renewed February 8, 2023                            |
+| Medium-term notes program (Series F)            | Up to $18 billion         | Total issued: approximately $17.6 billion          |
+| Last issued under Series F                        | February 2019             | No current plans for issuance                        |
+| Revolving credit facility                        | $4.25 billion             | Expires in May 2028, undrawn at 12/31/2024         |
+| Possible increase                                | Up to $1 billion          | At lender’s discretion                              |
+| Stand-alone letters of credit, guarantees        | $0.5 billion              | Outstanding as of 12/31/2024                       |
+
+### Cash, Cash Equivalents, and Marketable Securities
+| Year                   | Balance (Billions USD) | Foreign Subsidiaries | U.S. Holdings |
+|------------------------|------------------------|----------------------|---------------|
+| December 31, 2024     | $7.7                   | ~$3.5 billion       | ~$4.2 billion |
+| December 31, 2023     | $5.8                   | ~$3.1 billion       | ~$2.7 billion |
+
+The increase from 2023 was driven by $8.4 billion in debt proceeds (mainly related to Solventum issuance) partially offset by ~$4.6 billion in environmental liability and legal settlement payments, plus debt maturities.
+
+### Net Debt (Non-GAAP)
+|                         | December 31, 2024 | December 31, 2023 | Change    |
+|------------------------|-------------------|-------------------|-----------|
+| Total debt             | $13,044 million   | $16,035 million   | $(2,991) million |
+| Less: Cash & equivalents| $7,744 million    | $5,805 million    | $1,939 million  |
+| **Net Debt**            | **$5,300 million**| **$10,230 million**| **$(4,930) million** |
+
+### Balance Sheet and Working Capital
+3M’s strong balance sheet provides flexibility for future growth.
+
+|                         | December 31, 2024 | December 31, 2023 | Change    |
+|------------------------|-------------------|-------------------|-----------|
+| Current assets         | $15,884 million   | $16,379 million   | $(495) million |
+| Current liabilities    | $11,256 million   | $15,297 million   | $(4,041) million |
+| **Working capital**     | **$4,628 million**| **$1,082 million**| **$3,546) million** |
+
+Working capital is defined as current assets minus current liabilities and is used as an indicator of operational efficiency and short-term financial health.
+# Working Capital and Cash Flow Overview
+
+Working capital increased **$3.5 billion** compared with December 31, 2023, primarily driven by lower balances of current liabilities principally of discontinued operations, short-term borrowings, current portions of long-term debt, and current liabilities relating to the PWS settlement (discussed in Note 19).
+
+## Cash Flows
+
+Discussions of cash flows from operating, investing, and financing activities are provided in the sections that follow. The Consolidated Statements of Cash Flows include the results of continuing and discontinued operations and, therefore, also include cash and cash equivalents associated with Solventum through its April 2024 separation from 3M that were presented in current assets of discontinued operations in the 3M Consolidated Balance Sheet.
+
+### Cash Flows from Operating Activities
+
+Cash flows from operating activities can fluctuate significantly from period to period, as working capital movements, tax timing differences, and other items such as litigation payments can significantly impact cash flows.
+
+In 2024, cash flows provided by operating activities decreased **$4.9 billion** compared to the same period last year, primarily driven by approximately **$4.6 billion** in payments associated with PFAS-related other environmental liabilities and the CAE legal settlement (both discussed in Note 19). The 2023 pre-tax charges of **$10.5 billion** related to the PWS Settlement and **$4.3 billion** (inclusive of imputed interest) related to the CAE Settlement largely impacted the net income component within the Consolidated Statements of Cash Flows, with offsets in the other-net and deferred tax elements.
+
+### Cash Flows from Investing Activities
+
+Investments in property, plant, and equipment (PP&E) enable growth across many diverse markets, helping to meet product demand and increasing manufacturing efficiency.
+
+- 3M invested **$1.2 billion** on PP&E in 2024.
+- The company expects 2025 capital spending to be approximately **$1.1 billion** as it continues investing in growth, productivity, and sustainability.
+
+3M invests in renewal and maintenance programs, which pertain to cost reduction, cycle time, maintaining and renewing current capacity, eliminating pollution, and compliance. Costs related to maintenance, ordinary repairs, and certain other items are expensed. The company also invests in growth, driven by new products and expansion of current or new facilities, as well as initiatives like information technology (IT), laboratory facilities, and sustainability.
+
+Purchases of marketable securities and investments, along with proceeds from maturities and sales of securities, are primarily attributable to certificates of deposit/time deposits, commercial paper, and other securities classified as available-for-sale (refer to Note 13).
+
+### Cash Flows from Financing Activities
+
+#### 2024 Debt Activity
+
+| Description | Amount (billion USD) |
+|----------------------------|---------------------|
+| Proceeds from Solventum's debt issuance | $8.4             |
+| Debt maturities (including medium-term notes and commercial paper repayment) | $2.9             |
+| - Medium-term notes | $1.1             |
+| - Commercial paper repayment | $1.8             |
+| Commercial paper outstanding as of Dec 31, 2024 | $0.0             |
+
+The company's primary short-term liquidity needs are met through cash on hand and U.S. commercial paper issuances. Refer to Note 14 for more details.
+
+#### 2023 Debt Activity
+
+| Description | Amount (billion USD) |
+|----------------------------|---------------------|
+| Maturities of fixed-rate notes | $1.8             |
+| Net commercial paper issuance | $1.8             |
+
+### Repurchases of Common Stock
+
+| Year | Amount (billion USD) | Details |
+|--------|-----------------------|---------|
+| 2024 | $1.8 | Purchased for stock-based employee compensation and other corporate purposes. |
+
+### Dividends Paid to Shareholders
+
+| Period | Dividend per Share | Total ($million) |
+|--------------------------|-----------------------|------------------|
+| Q1 2024 | $1.51 | — |
+| Q2 2024 | $0.70 | — |
+| Q3 2024 | $0.70 | — |
+| Q4 2024 | $0.70 | — |
+| 2023 (per quarter) | $1.50 | — |
+| February 2025 | $0.73 (declared for Q1 2025) | — |
+
+In February 2025, 3M's Board of Directors declared a first-quarter dividend of **$0.73 per share**, an increase of 4 percent.
+
+### Other Cash Flows from Financing Activities
+
+Includes **$0.6 billion** of net cash transferred to Solventum associated with the close of the separation. Other items may include payments related to derivative instruments, distributions to or sales of noncontrolling interests, changes in overdraft balances, and principal payments for finance leases.
+
+## Material Cash Requirements from Known Contractual and Other Obligations
+
+| Obligation | Notes | Estimated Payments |
+|-----------------------------|--------|---------------------|
+| Tax obligations | Note 11 | — |
+| Debt | Note 14 | Approximately **$5 billion** for interest payments |
+| Commitments and contingencies | Note 19 | Up to **$12.5 billion** from 2023–2036 (PWS Settlement), and up to **$6.0 billion** from 2023–2029 (CAE Settlement) — paid **$5.0 billion** through Dec 31, 2024 |
+| Operating and finance leases | Note 20 | — |
+
+3M's purchase of materials and services are primarily on an as-needed basis, with limited unconditional purchase obligations, such as take-or-pay contracts. Contractual capital commitments constitute a small part of the expected capital spending.
+
+## Financial Instruments and Risk Management
+
+The company uses various financial instruments to hedge risks:
+
+- **Foreign exchange forward and option contracts** to hedge against currency fluctuations and manage translation risk.
+- **Foreign currency denominated debt** as hedging instruments for net investments abroad.
+- **Interest rate swaps** to manage interest rate exposure.
+- **Commodity price protection** via negotiated supply contracts and agreements.
+
+### Market Risk Disclosure
+
+| Risk Type | Description |
+|------------------------------|-----------------------------|
+| Foreign exchange risk | Exposure to adverse currency fluctuations affecting cash flows and net investments. |
+| Interest rate risk | Managed using a mix of fixed and floating rate debt, with swaps to mitigate interest cost volatility. |
+| Commodity prices | Hedged through supply contracts and agreements. |
+
+The company performs sensitivity analyses based on hypothetical market changes, excluding short-term and unrealized gains/losses on available-for-sale securities (see Notes 1, 13, 14, 17, 18).
+# Foreign Currency Exchange Rates Risk
+
+Foreign currency exchange rates and fluctuations in those rates may affect the Company’s net investment in foreign subsidiaries and may cause fluctuations in cash flows related to foreign denominated transactions.  
+3M is also exposed to the translation of foreign currency earnings to the U.S. Dollar.  
+The Company may enter into foreign exchange forward and option contracts to hedge against the effect of exchange rate fluctuations on cash flows denominated in foreign currencies.  
+These transactions are designated as cash flow hedges.  
+3M may de-designate these cash flow hedge relationships in advance of the occurrence of the forecasted transaction.  
+In addition, 3M enters into foreign currency contracts that are not designated in hedging relationships to offset, in part, the impacts of changes in value of various non-functional currency denominated items including certain intercompany financing balances.  
+As circumstances warrant, the Company also uses foreign exchange contracts and foreign currency denominated debt as hedging instruments to hedge portions of the Company’s net investments in foreign operations.  
+
+| Date               | Change in Fair Value of Foreign Exchange Forward and Options Contracts | Impact on Non-Functional Currency Denominated Debt |
+|--------------------|------------------------------------------------------------------------|---------------------------------------------------|
+| December 31, 2024  | up to approximately $24 million                                       | approximately $182 million                      |
+| December 31, 2023  | up to approximately $175 million                                      | approximately $192 million                      |
+
+At December 31, 2024 and December 31, 2023, an instantaneous 10% change in applicable foreign currency spot exchange rates would have increased/decreased the aggregate fair value carrying amount of foreign exchange forward and option contracts by the above amounts.  
+
+# Interest Rates Risk
+
+The Company may be impacted by interest rate volatility with respect to existing debt and future debt issuances.  
+3M manages interest rate risk and expense using a mix of fixed and floating rate debt.  
+In addition, the Company may enter into interest rate swaps that are designated and qualify as fair value hedges.  
+
+| Date               | Change in Applicable Interest Rates (Basis Points) | Impact on Pre-tax Earnings |
+|--------------------|------------------------------------------------------|---------------------------|
+| December 31, 2024  | 100 basis points                                    | approximately $10 million |
+| December 31, 2023  | 100 basis points                                    | approximately $13 million |
+
+At December 31, 2024 and December 31, 2023, an instantaneous 100 basis point change in applicable interest rates would increase/decrease the Company’s pre-tax earnings by the above amounts on an annualized basis.
+
+# Commodity Prices Risk
+
+The Company manages commodity price risks through negotiated supply contracts and price protection agreements.  
+3M does not enter into derivative financial instruments associated with commodities.  
+

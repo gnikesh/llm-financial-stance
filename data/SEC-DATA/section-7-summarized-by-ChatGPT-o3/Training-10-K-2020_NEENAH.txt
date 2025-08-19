@@ -1,0 +1,141 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Summary  
+
+## Introduction  
+Management discusses 2020 operating performance, financial condition and prospects, comparing results with 2019 and explaining major drivers, notably the COVID-19 pandemic. Topics addressed include the overview of the business, segment performance, liquidity, capital resources, accounting pronouncements and critical estimates.
+
+---
+
+## Overview of Business  
+Neenah, Inc. is a global producer of specialty materials operating two reportable segments:
+
+1. **Technical Products** – filtration media, tape and abrasive backings, performance labels, digital transfer papers and other engineered substrates, produced in Germany, the Netherlands, the U.K. and the U.S.  
+2. **Fine Paper and Packaging** – premium print, packaging and specialty papers primarily sold in North America, produced in Wisconsin and Massachusetts (with shared U.S. facilities for certain items).
+
+The company seeks growth in niche markets where product performance and brand image command a premium, emphasizing leadership positions, cost control, optimal capital allocation and risk management.
+
+---
+
+## Results of Operations and Related Information  
+
+### Impact of COVID-19  
+Both segments continued operating as “essential,” yet pandemic-related demand contraction materially reduced volumes, net sales and earnings. Management curtailed discretionary spending, capital outlays, stock repurchases and payroll costs, leveraged government relief programs and consolidated manufacturing to protect liquidity and employee safety.
+
+### Executive Summary (all figures for year ended 31 Dec 2020 vs. 2019)  
+• Consolidated net sales fell 16 % to **$792.6 million** (2019: $938.5 million).  
+  – Technical Products down 6 % to $508.9 million.  
+  – Fine Paper & Packaging (“FP&P”) down 29 % to $283.7 million.  
+• GAAP operating income swung to a **loss of $6.1 million** (2019 income: $78.3 million).  
+  – Adjusted operating income: **$64.4 million** (2019: $83.1 million).  
+  – Adjusting items totaled **$70.5 million** (non-cash impairments, restructuring, COVID-19 costs, debt extinguishment, pension/SERP settlements and M&A due-diligence).  
+• Cash from operations: **$93.4 million** (-$4.2 million YoY).  
+• Capital expenditures: **$18.9 million** (-$2.5 million YoY).  
+• Cash & equivalents at year-end: **$37.1 million**; total debt: **$194.4 million**; net debt reduced **$34.5 million**.  
+• No revolver borrowings outstanding; **$138.6 million** of availability.
+
+### Net Sales Analysis  
+
+| Segment | 2020 ($ mm) | 2019 ($ mm) | Δ $ mm | Δ % | Volume Δ | Net Price/Mix Δ | FX Δ |
+|---------|-------------|-------------|-------|-----|-----------|-----------------|------|
+| Technical Products | 508.9 | 541.6 | ‑32.7 | ‑6 % | ‑13.4 | ‑24.5 | +5.2 |
+| Fine Paper & Packaging | 283.7 | 396.9 | ‑113.2 | ‑29 % | ‑102.0 | ‑11.2 | — |
+| Consolidated | 792.6 | 938.5 | ‑145.9 | ‑16 % | ‑115.4 | ‑35.7 | +5.2 |
+
+Drivers: COVID-19 volume declines, modest price and mix erosion, partially offset in Technical Products by higher filtration (including European face-mask media).
+
+### Operating Income Analysis  
+
+| GAAP Operating Income (Loss) | 2020 ($ mm) | 2019 ($ mm) | YoY Δ |
+|------------------------------|-------------|-------------|-------|
+| Technical Products | ‑4.8 | 44.6 | ‑49.4 |
+| Fine Paper & Packaging | 23.3 | 53.2 | ‑29.9 |
+| Unallocated Corporate | ‑24.6 | ‑19.5 | ‑5.1 |
+| Consolidated | ‑6.1 | 78.3 | ‑84.4 |
+
+Adjustments converting GAAP to “Adjusted” are detailed below.
+
+| 2020 Adjusting Items ($ mm) | Tech. Prod. | FP&P | Corp. | Total |
+|-----------------------------|-------------|------|-------|-------|
+| Asset restructuring & impairment | 54.1 | 3.7 | — | 57.8 |
+| Other restructuring & non-routine | 0.7 | 2.2 | 1.3 | 4.2 |
+| COVID-19 incremental costs | 1.4 | 1.5 | 0.6 | 3.5 |
+| Loss on debt extinguishment | 0.1 | — | 1.8 | 1.9 |
+| Pension & SERP adjustments | 0.8 | 0.4 | 0.4 | 1.6 |
+| Acquisition due-diligence | — | — | 1.5 | 1.5 |
+| **Total** | **57.1** | **7.8** | **5.6** | **70.5** |
+
+After adjustments:  
+• Technical Products adjusted operating income **rose 21 % to $52.3 million**, benefiting from lower input costs, richer filtration mix and SG&A savings despite volume/margin pressure.  
+• FP&P adjusted operating income **fell 47 % to $31.1 million**, reflecting pronounced volume declines and plant inefficiencies partly offset by cost actions and lower inputs.  
+• Adjusted corporate costs were essentially flat at $19 million.
+
+### Additional Statement-of-Operations Highlights  
+• SG&A of **$88.0 million** (11.2 % of sales) decreased **$10.6 million** through marketing, travel and payroll cuts.  
+• Net interest expense: **$12.6 million** (2019: $11.8 million) – higher average debt and overlap of Senior Notes and Term Loan B interest in July.  
+• Effective tax **benefit** rate: **(16 %)**, driven by U.S. pretax loss from a $52.3 million impairment, CARES Act NOL carryback and a $4.6 million valuation-allowance increase on state credits/NOLs (2019 tax rate: 17 % expense).  
+
+---
+
+## Liquidity and Capital Resources  
+
+| Cash Flow ($ mm) | 2020 | 2019 | Commentary |
+|------------------|------|------|------------|
+| Operating | 93.4 | 97.6 | Working-capital actions largely offset lower earnings |
+| Investing (CapEx, net) | ‑19.5 | ‑23.3 | CapEx intentionally curtailed (2.4 % of sales) |
+| Financing | ‑47.0 | ‑75.2 | Lower net debt repayments (4.3 mm vs. 38.1 mm prior) |
+| FX change | 1.2 | — | — |
+| Net change in cash | +28.1 | ‑0.9 | YE cash **$37.1 mm** |
+
+Debt profile (31 Dec 20):  
+• **Term Loan B**: $187.3 million outstanding, 5.0 % weighted rate, matures June 2027, quarterly amortization 1 %/yr.  
+• **German project loans**: €4.1 million ($5.0 million) combined, 1.4 %–1.5 % rates, mature 2022.  
+• **Global Revolving Credit Facility**: $0 drawn, $138.6 million availability, matures Dec 2023.  
+• Total debt **$194.4 million**; **net debt $157.3 million**.  
+
+Financial flexibility: ample revolver headroom, no near-term maturities, leverage covenant headroom allows dividends and share repurchases; quarterly dividend $0.47/share ($31.9 million cash outflow). New $25 million repurchase program authorized for 2021; 2020 open-market purchases: $3.6 million.
+
+---
+
+## Contractual Obligations (31 Dec 20, $ millions)
+
+| 2021 | 2022 | 2023 | 2024 | 2025 | 2026+ | Total |
+|------|------|------|------|------|-------|-------|
+| Debt principal | 4.9 | 4.1 | 2.0 | 2.0 | 2.0 | 189.0 | 204.0 |
+| Debt interest (variable-rate assumption) | 10.0 | 9.8 | 9.7 | 9.6 | 9.5 | 14.1 | 62.7 |
+| Purchase orders | 83.0 | — | — | — | — | — | 83.0 |
+| OPEB & pension payments | 11.8 | 4.9 | 4.6 | 4.2 | 3.8 | 13.4 | 42.7 |
+| Other minimums & operating leases | 5.6 | 4.6 | 3.6 | 3.1 | 2.5 | 9.4 | 28.8 |
+| **Total** | **115.3** | **23.4** | **19.9** | **18.9** | **17.8** | **225.9** | **421.2** |
+
+---
+
+## Other Items  
+• R&D tax credits: $28.2 million federal, $7.4 million state outstanding; state NOLs $71.8 million.  
+• Management believes cash flow and borrowing capacity suffice for at least the next 12 months, contingent on execution of strategic initiatives and market conditions.
+
+---
+
+## Adoption of New Accounting Pronouncements  
+All newly adopted standards for 2020 are detailed in Note 2; none materially affected liquidity or covenant compliance.
+
+---
+
+## Critical Accounting Policies and Estimates  
+Key areas requiring significant judgment include inventory valuation (LIFO), income-tax uncertainties and valuation allowances, pension/OPEB assumptions (discount rate, expected return, healthcare cost trend), long-lived asset and goodwill impairment analyses, and acquisition accounting. Notably, 2020 saw:
+
+• Non-cash impairment of **$52.3 million** for U.S. transportation filtration assets (Technical Products) plus **$4.7 million** accelerated deprecation and brand-name impairments.  
+• Pension expense: $4.0 million; OPEB expense: $2.9 million; weighted discount rate 2.28 % (pensions).  
+
+---
+
+## Item 7A. Quantitative and Qualitative Disclosures About Market Risk – Highlights  
+
+• **Commodity risk**: A $100/ton pulp price rise would increase annual costs ~$22 million.  
+• **FX risk**: 10 % USD strengthening would reduce pretax income by ~$3.9 million and shareholders’ equity by ~$25 million (translation).  
+• **Interest-rate risk**: 100 bp rate increase would raise annual interest expense on variable-rate debt by ~$2 million.  
+
+Management employs operating and financing strategies to mitigate these exposures and does not expect material adverse impacts under reasonably foreseeable scenarios.
+
+---
+
+### Overall Financial Position  
+Despite a pandemic-driven 16 % revenue contraction and a GAAP operating loss, Neenah generated solid operating cash flow, preserved liquidity, reduced net debt and maintained access to substantial committed credit, positioning the company to invest selectively and return capital to shareholders while navigating ongoing market recovery.

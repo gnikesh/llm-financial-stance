@@ -1,0 +1,108 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Condensed Narrative  
+
+
+## COVID-19 Overview  
+
+Management’s principal focus throughout 2020 was employee health and supply-chain continuity.  All sites are currently operational, and raw-material availability remains adequate.  Most end-markets proved resilient; however, demand for transportation films and certain infrastructure‐related products fell sharply in 2Q–3Q before rebounding late in the year.  Medical materials, air-filtration media and select industrial substrates experienced heightened demand.  Scenario analyses indicate that available cash, operating cash flows and a $445 million undrawn revolving facility give the Company ample liquidity even under severe pandemic conditions.  As of 31 December 2020, no material deterioration had been noted in customer credit quality or receivable collections.
+
+### End-Market Commentary  
+• Tobacco (Engineered Papers, “EP”) – Largely unaffected; some customers built precautionary inventories.  
+• Medical (Advanced Materials & Structures, “AMS”) – Demand stable to strong; finger-bandage and diagnostic strip substrates in particular were unaffected by economic weakness.  
+• Filtration (AMS) – Water and speciality air products held up well; air-filtration demand rose.  
+• Transportation Films (AMS) – Aftermarket paint-protection volumes collapsed in 2Q, improved markedly in 4Q.  
+• Infrastructure & Construction (AMS) – Social-distancing rules tempered activity; potential upside exists if fiscal stimulus expands public-works spending.  
+• Industrial (AMS & EP) – Mixed performance across numerous niche applications.  
+
+---
+
+## Summary of 2020 Consolidated Results  
+
+| Metric | 2020 | 2019 | Δ | Key Drivers |
+|--------|------|------|----|-------------|
+| Net sales | $1,074.4 mm | $1,022.8 mm | +$51.6 mm (+5.0 %) | Tekra acquisition $77.3 mm; organic EP & legacy AMS modestly lower |
+| Gross profit | $308.3 mm | $290.0 mm | +$18.3 mm (+6.3 %) | Tekra, favourable price/mix in EP, lower input costs |
+| Operating profit | $128.8 mm | $134.0 mm | –$5.2 mm (–3.9 %) | Higher restructuring & SG&A (Tekra) offset GP gains |
+| Net income | $83.8 mm | $85.8 mm | –$2.0 mm | Higher taxes and restructuring expenses |
+| Diluted EPS | $2.66 | $2.76 | –$0.10 | Same factors as net income |
+| Cash from operations | $161.6 mm | $160.3 mm | +$1.3 mm | Stable working-capital usage |
+| Capital spending | $33.3 mm | $34.1 mm | –$0.8 mm | Deferral of discretionary projects  |
+| Dividends paid | $55.0 mm | $54.4 mm | +$0.6 mm | Quarterly dividend maintained at $0.44/sh. |
+| Share repurchases (tax-withholding) | $1.0 mm | $0.9 mm | +$0.1 mm | 27,779 shares surrendered |
+
+---
+
+## Segment Discussion  
+
+### Advanced Materials & Structures (AMS)
+
+• Net sales rose 13.9 % to $543.5 million (+$66.3 million), driven by the March 2020 acquisition of Tekra.  
+• Ex-Tekra, AMS sales declined 2.3 %.  Medical grew double-digits; filtration and industrial posted modest gains; transportation and infrastructure each declined full-year but rebounded in 4Q.  
+• Operating profit increased 0.8 % to $64.8 million; incremental Tekra contribution was largely offset by purchase-accounting amortisation and pandemic-related volume pressure.  
+• 2020 restructuring cost: $0.5 million (department realignments).  
+
+### Engineered Papers (EP)
+
+• Net sales fell 2.7 % to $530.9 million due to intentional reduction of lower-margin, non-tobacco volumes and industry attrition. Positive price/mix from higher-value cigarette, heat-not-burn and battery-separator papers partly offset the volume decline.  
+• Operating profit slipped 2.0 % to $116.8 million; favourable price/mix, cost initiatives and currency tailwinds were outweighed by $11.7 million Spotswood, NJ shutdown charges and $4.6 million severance in France/Poland.  
+
+---
+
+## Cost Structure and Expenses  
+
+• Gross-margin expanded 30 bp to 28.7 %.  
+• Non-manufacturing expenses rose 10 % to $167.6 million (15.6 % of sales) due to Tekra‐related SG&A, acquisition transaction fees and consulting costs.  
+• Restructuring & impairment expense totalled $11.9 million (vs. $3.7 million in 2019), primarily EP severance and asset write-downs linked to Spotswood closure.  
+
+---
+
+## Financing, Liquidity and Capital Resources  
+
+| Item (31 Dec 2020) | Figure | Commentary |
+|---------------------|--------|------------|
+| Total debt | $593.3 mm | Includes $350 mm 6.875 % notes due 2026 and $200 mm term loan; nearest maturity is revolver 2023. |
+| Cash & cash equivalents | $54.7 mm | $39.4 mm held by foreign subsidiaries. |
+| Revolving credit facility | $500 mm capacity | $445 mm undrawn; covenant leverage ceiling 4.5× (5.0× following acquisitions). |
+| Net leverage ratio | 2.3 × | Well inside covenant. |
+| Effective interest rate | 4.02 % (2020) | Down from 4.42 % in 2019; interest expense $30.5 mm (includes $1.5 mm incremental acquisition debt). |
+| Term Loan B (post year-end) | $350 mm | Added Feb 2021; further liquidity flexibility. |
+
+Operating working capital ended the year at $232.3 million (vs. $271.8 million), reflecting Tekra acquisition and Q4 sales surge.  Cash uses in 2020 comprised $169.3 million for Tekra, $55.0 million dividends, $33.3 million capex and net debt repayment of $47.4 million.
+
+### Contractual Commitments (undiscounted cash, $ millions)
+
+| 2021 | 2022 | 2023 | 2024 | 2025 | ≥2026 | Total |
+|------|------|------|------|------|-------|-------|
+| 98.0 | 51.7 | 93.5 | 40.2 | 226.0 | 370.0 | 879.4 |
+
+Includes debt principal & interest, leases, raw-material & energy contracts, restructuring and U.S. tax-reform transition payments.
+
+---
+
+## Critical Accounting Policies (Selected Highlights)  
+
+Management emphasises complex estimates in income-tax valuation, revenue recognition, contingencies, property-plant-equipment impairment, goodwill and intangible-asset testing, and purchase-accounting fair-value allocations.  No impairments were recorded on goodwill or indefinite-lived intangibles at the 1 October 2020 test date.
+
+---
+
+## Market-Risk Management  
+
+• Foreign-currency: A 10 % adverse move versus functional currencies would cut pretax income by ~ $6.7 million; selective forwards/swaps are used, especially in Brazil and Poland.  
+• Interest-rate: A 100 bp rise on variable-rate debt would lower annual pretax earnings by ~$4.4 million; swaps fix ~83 % of debt.  
+• Commodity: Every 10 % change in resin price ≈ ±$15.7 million and in wood-pulp price ≈ ±$3.5 million to pretax earnings if selling prices are unchanged.  
+• Energy: A 10 % hike in purchased-energy rates would reduce pretax income by ~$4.3 million.
+
+---
+
+## Outlook  
+
+AMS is expected to outgrow GDP over the long term, led by water and air filtration, transportation paint-protection films, infrastructure fabrics and select medical substrates.  Management anticipates continued organic profit expansion absent significant raw-material inflation.  EP will be shaped by secular cigarette decline, foreign-exchange swings and potential regulatory shifts toward reduced-risk products; emphasis remains on high-value papers to mitigate volume attrition.
+
+---
+
+## Forward-Looking Statements  
+
+The Company cautions that projections are subject to risks including, but not limited to, pandemic-related disruptions, raw-material price volatility, customer demand shifts, foreign-exchange movements, interest-rate changes, tariff actions, litigation outcomes, and successful integration of acquisitions.  See Item 1A “Risk Factors” for a detailed enumeration.
+
+---
+
+*This summary preserves the original MD&A structure and the critical quantitative and qualitative disclosures needed to understand SWM’s 2020 financial performance, liquidity position, debt profile and future outlook.*

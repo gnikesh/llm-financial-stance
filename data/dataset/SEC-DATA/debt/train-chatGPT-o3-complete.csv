@@ -1,0 +1,980 @@
+sample_id,Instances,Company,Quarter,Year,filename,type,LLM_Stance_o3_pro,LLM_Reason_o3_pro
+977a1120e085f8a8ea263d2e48b77e37,"If our operating performance declines in the future or we breach our covenants under our revolving credit facility, we may need to obtain waivers from the lendersunder our revolving credit facility to avoid being in default.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly links a deterioration in operating performance to the risk of breaching debt covenants under the revolving credit facility.  
+   • A covenant breach could place the company in default unless it secures lender waivers—this is an unfavorable scenario that could hurt liquidity, increase financing costs, or constrain operations.  
+   • Under the guidelines, mention of potential covenant violations or default is a clear negative indicator for debt and profitability (Guideline 4: “strategic actions affecting debt” and risk of adverse trends).  
+   • No conflicting positive cues are present; the dominant context is the risk of default.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+The sentence warns that declining performance could cause covenant breaches requiring lender waivers to avoid default, signaling a negative outlook for the company’s debt position.  
+
+Context Use: Not necessary—the sentence alone provides sufficient information to classify the stance."
+16f5b087f0c70199d2b89205cac1b70f,A 100 basis point increase in interest rates would increase our annual interest expense on outstanding variable rate borrowings by approximately $2 million.,NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Debt is explicitly mentioned via “outstanding variable rate borrowings.”  
+   • The sentence quantifies that a 100-bp rise in rates would raise annual interest expense by ~$2 million.  
+   • Higher interest expense represents an additional cost that reduces earnings and cash flow, i.e., an unfavorable outcome for profitability (Guideline 4: financial indicators).  
+   • No offsetting positive information is provided; the dominant context is the negative cost impact (Guideline 5).  
+   • Therefore the stance toward debt is Negative.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence foresees a $2 million increase in interest expense on variable-rate debt if rates rise, signaling a potential cost that would hurt profitability.
+
+Context Usefulness: Not necessary—the sentence alone contains sufficient information to classify the stance."
+2e4337eee9fcfb6326af01b56d5ba7a0,"Absent any substantial acquisition(s) or any share repurchases, the Company does not expect toincur any significant additional borrowings during 2020.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses future borrowings (debt).  
+   • It states the company “does not expect to incur any significant additional borrowings,” i.e., debt will not rise.  
+   • Lower or unchanged debt reduces financing burden and is therefore favorable for profitability (Guideline 1 & 4: strategic actions affecting debt and forward guidance).  
+   • No conflicting cues are present, so the dominant context is favorable.  
+
+2. Stance: Positive  
+
+3. Brief Justification: The company projects no significant new debt in 2020, signaling a favorable debt outlook that supports profitability; this is also echoed in the Outlook section (“No significant incremental borrowings are planned for 2020”). Context helpful but not strictly necessary."
+a2caa8fef79f72cc18ec83daa05f828a,"If our lenders are unable to fund borrowings under their loan commitments or we are unable to borrow, it could be difficult to replace such loan commitments on similar terms or at all.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses the company’s ability to access debt financing (“fund borrowings,” “loan commitments”).  
+   • It frames a risk scenario: if lenders cannot provide funds or the company cannot borrow, it may be “difficult to replace such loan commitments on similar terms or at all.”  
+   • This signals a potential constraint on liquidity and financing flexibility—an unfavorable situation for profitability under Guideline 4 (strategic actions affecting debt / projections).  
+   • No balancing positive factors are mentioned; the dominant context is clearly negative.  
+   • The 10-K context is not needed to interpret this isolated risk statement.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence warns that an inability to obtain or replace borrowing capacity would hamper the company’s financing, indicating an unfavorable (negative) outlook toward debt.
+
+Context Use: Not necessary"
+4d6dcfa3e7279e8853a0890c227b60c4,"If our subsidiaries do not generate sufficient cash flow from operations to help us satisfy our debt obligations, or if they are unable to distribute sufficient cash flow to us, we may have to undertake alternative financing plans, such as refinancing or restructuring our debt, selling assets, reducing or delaying capital expenditures or seeking to raise additional capital.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence revolves around “satisfy our debt obligations,” directly addressing debt (Guideline 1).  
+   • It frames a risk scenario: “If…do not generate sufficient cash flow…” → potential inability to service debt (Guideline 4: changes/risks).  
+   • It lists contingency actions—refinancing, restructuring, asset sales, cutting cap-ex, raising capital—measures usually taken when debt pressure is high, implying an unfavorable position for profitability (Guideline 5: dominant negative context).  
+   • No offsetting positive cues are present; therefore stance is clearly adverse.  
+   • The broader MD&A context isn’t required to see this risk statement, though it would confirm liquidity details.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence warns that inadequate cash flow could force the company to refinance or restructure debt, sell assets or cut investment, signalling concern about meeting debt obligations—an unfavorable outlook. (Context not necessary)"
+d337ddf5b247a99b66d5c6e2bb6dbfa8,Interest expense ondebt was up $1.5 million primarily due to incremental debt related to the Tekra acquisition.,SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that “interest expense on debt was up $1.5 million.”  
+   • Rising interest expense means the company is paying more for its debt, which directly reduces net income.  
+   • This higher cost is attributed to “incremental debt” taken on for the Tekra acquisition, so the debt increase is causing a profitability drag.  
+   • Per guideline #4 (financial indicators or trends), an increase in a cost tied to debt is an unfavorable signal.  
+   • Therefore, the stance toward debt in this sentence is Negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence highlights a $1.5 million rise in interest expense due to additional debt, indicating higher financing costs that hurt profitability.  
+
+Context Use: Not necessary—the sentence alone provides sufficient information to classify the stance."
+65e254e4d7257a1e4403d88e507f9b41,"We may be required or choose to obtain additional debt or equity financing to meet our future working capital requirements, as well as to fund capital expendituresand acquisitions.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states the company “may be required … to obtain additional debt.”  
+   • Guideline 4 notes that an outlook calling for increased debt is a negative cue because added leverage generally raises interest expense and constrains profitability.  
+   • No counter-balancing positive wording (e.g., lower rates, better terms) is given, so the dominant signal is the possibility of higher future debt.  
+   • Therefore, the stance toward debt is unfavorable.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence foresees the need to take on more debt to fund working capital and investments, signaling a potential increase in leverage that could weigh on profitability.
+
+Context use: Not necessary—the sentence alone conveys the negative outlook."
+bf36e3efe5c3546ef0f5b01ca86da768,"Our ability to make scheduled payments or to refinance our debt and other liabilities will depend on our financial and operating performance, which, in turn, is subject to prevailing economic conditions and to certain financial, business and other factors beyond our control.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence addresses the company’s “ability to make scheduled payments or to refinance our debt.”  
+   • It links that ability to external economic and business factors “beyond our control,” highlighting uncertainty and potential constraints.  
+   • Such wording is a typical risk disclosure, signaling that debt servicing could become problematic if conditions worsen.  
+   • This conveys an unfavorable or cautionary outlook regarding debt, aligning with a Negative stance per guideline #1 (focus on debt portrayal) and #5 (dominant context is risk).
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that servicing or refinancing debt is contingent on external factors outside the company’s control, implying potential difficulty and thus a negative outlook toward debt.  
+
+Context use: Not necessary – the sentence alone provides sufficient information to classify the stance."
+8fce5a8e95213673dc711c58ed9fdadb,"Our inability to generate sufficient cash flow to satisfy our debt obligations or to refinance our obligations on commercially reasonable terms would have an adverse effect on our business, financial condition and results of operations.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses the possibility of failing to generate enough cash or to refinance debt.  
+   • It explicitly states that such failure “would have an adverse effect on our business, financial condition and results of operations,” which directly links debt to a negative impact on profitability.  
+   • According to Guideline 4 (projections and forward guidance) and Guideline 5 (dominant context), a statement that highlights adverse consequences from debt is Negative.  
+   • The broader 10-K context is not required to understand this risk wording.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that inability to service or refinance debt would “have an adverse effect” on the company’s business and results, signaling a negative outlook for debt.  
+
+Context use: Not necessary – the sentence alone provides sufficient evidence."
+69d521453f8cba490280539ffb9d2813,"As of December 31, 2019, we had approximately $21.6 million of LIBOR-based debt.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references debt ($21.6 million of LIBOR-based borrowings).  
+   • It is purely descriptive—no comparison to prior periods, no commentary on cost, risk, or impact on profitability.  
+   • There is no language suggesting the debt level is favorable (e.g., reduced, low‐cost) or unfavorable (e.g., rising, burdensome).  
+   • Per Guideline 6, a factual statement without evaluative context is classified as Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence merely states the amount and type of debt without indicating whether this level benefits or harms profitability.  
+
+Context use: Not necessary—the sentence alone contains all information needed for classification."
+910894d0173820934813296551bfbc7a,We depend on our subsidiaries to generate cash flow to meet our debt service obligations.,NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “debt service obligations,” so debt is central (Guideline 1).  
+   • “We depend on our subsidiaries to generate cash flow” implies that servicing debt is contingent on another party’s performance; this highlights a vulnerability or risk (Guideline 4: strategic actions/risks affecting debt).  
+   • The phrasing does not indicate any improvement in debt metrics but rather exposes a possible constraint if subsidiary cash flows fall short (Guideline 5: dominant context is risk).  
+   • Therefore the stance toward debt is unfavorable.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   Reliance on subsidiary cash flows to fund “debt service obligations” signals a potential weakness in covering debt, reflecting an unfavorable (Negative) outlook.  
+
+Context necessity: Not necessary—the sentence alone provides sufficient information to judge the stance."
+80185a338e5103bb1029973146948dab,"However, as long as the net leverage ratio (net debt/EBITDA) under the 2021 Senior Notes is below 2.5x, we can pay dividends or repurchaseshares without limitation.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence is about a covenant tied to the company’s debt (net leverage ratio under its 2021 Senior Notes).  
+   • It says that if the ratio stays below 2.5x, the company “can pay dividends or repurchase shares without limitation.”  
+   • This signals that, at a reasonable leverage level, debt does not restrict shareholder-friendly actions; i.e., current or targeted debt levels are viewed as manageable and not a drag on profitability.  
+   • There is no indication of worsening leverage or restrictions taking effect; the emphasis is on flexibility provided by staying below the threshold.  
+   • Therefore the portrayal of debt is favorable (Positive).
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence indicates that maintaining a leverage ratio below 2.5× leaves the company free to return cash to shareholders, showing debt is not constraining and is thus viewed favorably.  
+
+Context use: Not necessary (the sentence alone gives enough information, though broader MD&A data would reinforce the interpretation)."
+ab6b308425936ccc91729024d6e29720,"There can be no assurance that our operating performance, cash flow and capital resources will be sufficient to repay our debt in the future.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses debt, stating there is “no assurance” the company will have enough operating performance, cash flow, or capital resources to repay it.  
+   • This language highlights uncertainty and a potential inability to meet debt obligations—an unfavorable signal for profitability (Guideline 2: “changes over time / projections”).  
+   • No counterbalancing positive cues are present; the dominant context is risk (Guideline 5).  
+   • The broader 10-K context was not needed to interpret this specific risk statement.  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence explicitly warns that future operating performance and cash resources may be insufficient to repay debt, indicating an unfavorable debt outlook.  
+
+Context usefulness: Not necessary."
+eea57b6885419414ff8787037353567f,"We may not be able to generate suffi cient cash flow to meet our debt obligations, including the 2021 Senior Notes.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly raises the possibility that the company “may not be able to generate sufficient cash flow” to service its debt.  
+   • An inability to meet debt obligations threatens default, higher financing costs, or forced asset sales, all of which would hurt profitability.  
+   • Guideline 4 (“strategic actions affecting debt”) and guideline 5 (dominant context) point to this as an unfavorable outlook for debt service capacity.  
+   • Therefore, the stance toward debt is clearly negative.  
+   • The broader MD&A context was not needed; the sentence alone signals the risk.  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence warns of a potential inability to generate enough cash to repay debt, signaling an unfavorable and risky debt outlook.  
+
+Context usefulness: Not necessary for this classification."
+869a6a78e5d1a86e1c657d4f9c8438b7,"With respect to our variable-rate debt outstanding at December 31, 2020, a 100 basis point increase in interest rates would increase our debt interest obligation by $4.4 million in 2021, taking into account the effect of the interest rate hedge transactions the Company has entered into as of December 31, 2020.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence is a sensitivity disclosure: it quantifies how a 100 bp rate hike would raise the company’s interest expense by $4.4 million.  
+   • Higher interest expense directly reduces net income, i.e., it is an unfavorable outcome for profitability (Guideline 4: financial indicators/trends).  
+   • Although hedges are mentioned, the net effect remains an increase in cost; no offsetting benefit is indicated, so the dominant context is negative (Guideline 5: weigh conflicting cues).  
+   • Therefore, the stance toward debt in this sentence is Negative.  
+   • The broader MD&A context (interest-rate risk section) reiterates that variable-rate debt remains exposed, supporting the interpretation, but the sentence alone is sufficient; context is helpful but not essential.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that a 1 % rise in rates would boost interest expense on variable-rate debt by $4.4 million, signalling a potential cost increase that would hurt profitability."
+379203e554978fad967a23221f17093d,"Refinancing may not be possible, and any assets may not be saleable, or, if sold, we may not realize sufficient amounts from those sales.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses potential inability to refinance existing debt (“Refinancing may not be possible”), which directly signals risk to servicing or extending debt.  
+   • It further notes that asset sales might not generate enough cash (“we may not realize sufficient amounts from those sales”), implying difficulty raising funds to cover debt obligations.  
+   • Both points indicate an unfavorable situation regarding debt and hence profitability, with no offsetting positive comments.  
+   • According to Guideline 4 (strategic actions affecting debt) and Guideline 5 (dominant context), the outlook is clearly adverse.  
+   • The provided broader 10-K context was not needed to infer this stance; the sentence alone is sufficient.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that the company may be unable to refinance its debt or obtain adequate proceeds from asset sales, highlighting heightened risk and an unfavorable debt outlook."
+6f54eb9427be130d0fd1a5228b02290d,"If our subsidiaries do not generate sufficient cash flow from operations to help us satisfy our debt obligations, including paymentson the 2021 Senior Notes, or if they are unable to distribute sufficient cash flow to us, we may have to undertake alternative financing plans, such as refinancing orrestructuring our debt, selling assets, reducing or delaying capital expenditures or seeking to raise additional capital.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses the company’s ability to “satisfy our debt obligations … including payments on the 2021 Senior Notes.”  
+   • It raises the possibility that operating cash flow may be insufficient, forcing measures such as “refinancing or restructuring our debt, selling assets, reducing or delaying capital expenditures or seeking to raise additional capital.”  
+   • These contingency actions signal financial strain and potential constraints on profitability (Guideline 4: strategic actions affecting debt, and Guideline 5: dominant negative context).  
+   • Therefore the stance toward debt is unfavorable.
+
+2. Stance: Negative
+
+3. Brief Justification  
+The sentence warns that inadequate cash flow could compel refinancing, asset sales, reduced capex or other measures to meet debt payments, indicating a negative outlook for debt management.
+
+Context Use: Not necessary—the sentence itself contains all information needed for classification."
+32afbdd70a143739ec330acdfab476a7,"If we cannot make scheduled payments on our debt, we will be in default and, as a result: our debt holders could declare all outstanding principal and interest to be due and payable; our senior secured lenders could terminate their commitments and commence foreclosure proceedings against our assets; and we could be forced into bankruptcy or liquidation.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence is a conditional warning (“If we cannot make scheduled payments on our debt…”) that outlines severe adverse outcomes—default, acceleration of principal/interest, foreclosure, bankruptcy or liquidation.  
+   • These outcomes would severely harm profitability and threaten the company’s viability.  
+   • Per Guideline 4 (projections and forward guidance) and Guideline 5 (dominant context), the statement signals an unfavorable outlook tied directly to debt.  
+   • No offsetting positive or neutral cues are present.  
+   • The MD&A context is not required to interpret this sentence; the risk wording alone is sufficient.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that failure to meet debt payments could trigger default, foreclosure, and bankruptcy—clear negative implications for profitability.  
+
+Context Use: Not necessary (the sentence itself fully conveys the negative stance)."
+0349d350db7daff75bc50844860e7cbf,"The increase in interest expense is primarily due to $7.1 million of interest related to the Brazil tax assessments and a higher average interest rate comparedto the prior year as a result of increases in market rates, partially offset by a lower total debt balance as of December 31, 2019 compared to the prior year.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses debt-related costs (interest expense).  
+   • It states that interest expense increased, driven by Brazil-assessment interest and higher average interest rates.  
+   • Higher interest expense represents a higher cost of servicing debt, which negatively affects profitability (Guideline 4: financial indicators or trends).  
+   • Although a lower total debt balance is mentioned, it is only a “partial offset,” so the dominant message is still an unfavorable rise in cost.  
+   • Therefore, the overall stance toward debt in this sentence is negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence notes that “interest expense is primarily due to…a higher average interest rate,” causing an increase in cost despite lower debt, which negatively impacts profitability.
+
+Context usage: Not necessary – the sentence alone provides sufficient information to judge the stance."
+565bef5a3128b8090c35e03af28b69fd,"We will continue to assess our dividend policy in light of our overall strategy, cash generation, debtlevels and ongoing requirements for cash to fund operations and to pursue possible strategic opportunities.34",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence merely says management “will continue to assess” its dividend policy, listing debt levels as one of several considerations.  
+   • It does not indicate that debt is increasing, decreasing, advantageous, or problematic.  
+   • There is no implied benefit or detriment to profitability tied to debt—only ongoing monitoring.  
+   • Guideline 6: When debt is mentioned without a clear favorable or unfavorable signal, classify as Neutral.
+
+2. Stance: Neutral  
+
+3. Brief Justification: The sentence simply states that debt levels will be considered in future dividend decisions, without suggesting any positive or negative change.  
+
+Context use: Not necessary—the sentence alone provides sufficient information for classification."
+f9216011d50819a5392c7d37c68df705,"However, if LIBOR ceases to exist or if the methods of calculating LIBOR change from their current form, the Company s borrowing costs may be adversely affected.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses the Company’s “borrowing costs,” which are directly tied to its debt (Guideline 1).  
+   • It states that a change in LIBOR “may adversely affect” those costs, implying they could rise (Guideline 4: projections/forward guidance).  
+   • Higher borrowing costs would hurt profitability, representing an unfavorable outlook for debt (Guideline 5: dominant context is negative).  
+   • No conflicting cues are present; the statement is a clear warning.  
+   • The broader MD&A context is not required to interpret this sentence; the stance is evident on its own.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence warns that changes to or elimination of LIBOR could increase the Company’s borrowing costs, signaling an unfavorable impact on profitability.  
+
+Context use: Not necessary."
+08ce6a46f724e3805e48907471e8c9c7,"The Company had $593.3 million of total debt, $54.7 million of cash, and undrawn capacity on its revolving credit facility of $445.0 million at the end of 2020.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence simply reports numerical balances of total debt, cash on hand, and unused revolver capacity at year-end.  
+   • It does not say the debt rose or fell, nor whether these amounts help or hurt profitability; it offers no evaluative language (e.g., “comfortable,” “burdensome,” “reduced”).  
+   • The presence of undrawn capacity suggests available liquidity, but this is presented factually without claiming a favorable impact; thus, no clear positive or negative stance is expressed.  
+   • Following Guideline 6, when debt is merely stated with no clear judgment, classify as Neutral.  
+
+2. Stance: Neutral  
+
+3. Brief Justification: The sentence only states year-end figures for debt, cash, and unused credit capacity without indicating whether this situation benefits or harms profitability, so the stance toward debt is neutral.  
+
+Context use: Not necessary – the sentence itself provides all information needed."
+11e3494d832fdb95e4fdd8aadac76ede,The increase was due to higher net debt repayments of $38.1 million in 2019 compared to $12.8 million in prior year and higher dividends paidin 2019.,NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “higher net debt repayments of $38.1 million in 2019 compared to $12.8 million in prior year.”  
+   • Repaying (reducing) debt lowers leverage and future interest expense, which generally supports profitability (Guideline 4: strategic actions affecting debt).  
+   • No negative qualifiers are attached to the repayment; the only additional factor mentioned is higher dividends, which does not alter the positive implication for debt.  
+   • Therefore, the dominant signal regarding debt is favorable.
+
+2. Stance: Positive
+
+3. Brief Justification: The company paid down substantially more net debt in 2019 than in the prior year, indicating a reduction in leverage that is beneficial for profitability.  
+
+Context usefulness: Not necessary—the sentence itself gives sufficient information, though the broader MD&A confirms the repayment trend."
+e472374fc67d0159d26a0d2c47aa544d,"Certain of our interest rate derivatives and a portion of our indebtedness bear interest at variable interest rates, primarily based on LIBOR, which may be subject to regulatory guidance and/or reform that could cause interest rates under our current or future debt agreements to perform differently than in the past or cause other unanticipated consequences.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses the company’s indebtedness and its exposure to variable-rate interest tied to LIBOR.  
+   • It warns that impending regulatory changes or reform of LIBOR “could cause interest rates … to perform differently than in the past or cause other unanticipated consequences.”  
+   • This language signals uncertainty and potential adverse cost impacts on debt service, which could hurt profitability.  
+   • Per Guideline 4 (projections/forward guidance) and Guideline 5 (dominant context), the dominant cue is downside risk; no offsetting positive cues are present.  
+   • Therefore, the stance toward debt is Negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence highlights that LIBOR reform may raise or otherwise unpredictably change the interest costs on the company’s variable-rate debt, introducing risk and potential negative consequences for profitability.  
+
+Context use: Not necessary—the sentence alone contains sufficient information to judge the stance."
+a70b8f49d3c8809b7bce49b053640dde,"For example, it could: make it difficult for us to satisfy our financial obligations, including making scheduled principal and interest payments on the Term Loan B and our other indebtedness; place us at a disadvantage to our competitors; require us to dedicate a substantial portion of our cash flow from operations to service payments on our indebtedness, thereby reducing funds available for other purposes; increase our vulnerability to a downturn in general economic conditions or the industry in which we operate; limit our ability to obtain additional financing for working capital, capital expenditures, acquisitions and general corporate and other purposes; and limit our ability to plan for and react to changes in our business and the industry in which we operate.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses consequences of the company’s indebtedness.  
+   • All listed consequences are adverse: difficulty meeting principal/interest, cash flow diversion, competitive disadvantage, higher vulnerability to downturns, constrained financing, reduced strategic flexibility.  
+   • These outcomes clearly signal that debt is harmful to profitability.  
+   • Guideline 4 (strategic actions affecting debt and financial indicators) and guideline 5 (conflicting cues) confirm a dominant negative context.  
+   • The broader 10-K context is not needed to interpret this specific sentence.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence lists multiple ways debt could hurt the company—making it hard to meet obligations, diverting cash flow, and limiting financing—indicating a negative stance toward debt.
+
+Context use: Not necessary."
+9384aab755899c75bf051a9c2ff71e7f,"The consequences of these developments cannot be entirely predicted, but could include an increase in the cost of our variable rate borrowings.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “variable rate borrowings,” i.e., debt (Guideline 1).  
+   • It states that a possible consequence of current developments “could include an increase in the cost” of this debt.  
+   • Higher borrowing costs raise interest expense, which tends to hurt profitability (Guideline 4 – financial indicators).  
+   • No offsetting or positive elements are given; the dominant cue is the potential cost increase (Guideline 5).  
+   • Therefore, the stance toward debt is unfavorable.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that future developments may raise the cost of the company’s variable-rate debt, implying higher interest expense and a negative impact on profitability.
+
+Context use: Not necessary—the sentence alone clearly conveys the negative implication for debt costs."
+16d3c39e530db1a2fd1ba1e7cc110a11,"Despite our indebtedness levels, we and our subsidiaries may be able to incur substantially more indebtedness, which may increase the risks created by oursubstantial indebtedness.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence focuses directly on debt levels and the possibility of taking on “substantially more indebtedness.”  
+   • It explicitly states that doing so “may increase the risks created by our substantial indebtedness,” highlighting heightened financial risk.  
+   • Increased risk from higher leverage generally threatens profitability (higher interest expense, greater financial vulnerability).  
+   • There are no balancing positives; the tone is cautionary and unfavorable toward additional debt.  
+   • Therefore, per Guideline 4 (risk, projections) and Guideline 5 (dominant context is negative), the stance is Negative.  
+   • The broader MD&A context was not required to interpret this specific sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that taking on additional debt would “increase the risks” associated with already “substantial indebtedness,” signaling an unfavorable outlook for debt. (Context not necessary)"
+fcd5fce6a6afd5b9733cf4f21b274a41,"amounts outstanding under the Global Revolving Credit Facility and scheduled repayments of the Term Loan B and other debt (described below), which exceeded the net incremental borrowing from the Term Loan B (compared to the extinguished 2021 Senior Notes).",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses “scheduled repayments … which exceeded the net incremental borrowing,” indicating that repayments were larger than new borrowings.  
+   • Larger repayments than borrowings lead to a net reduction of outstanding debt.  
+   • Lower debt generally means lower future interest expense and greater financial flexibility, which is favorable for profitability.  
+   • No negative or conflicting cues are present, so the dominant signal is beneficial.  
+   • According to Guideline 4 (changes over time) and Guideline 1 (focus on debt portrayal), a reduction in debt is a Positive stance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+Repayments surpassed new borrowings, signaling a net reduction in debt, which is favorable for profitability.  
+
+Context use: Not necessary—the sentence alone provides the needed information."
+30661182a43d62e76a796a82c8800fea,"If our cash flow and capital resources are insufficient to fund our debt obligations and other liabilities, we could face substantial liquidity problems and may be forced to reduce or delay scheduled expansions and capital expenditures, sell material assets or operations, obtain additional capital or restructure our debt.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses a scenario where the company’s cash flow may be insufficient to meet “debt obligations.”  
+   • It lists adverse consequences—“substantial liquidity problems,” forced reductions or delays in expansion, asset sales, need for additional capital, or debt restructuring.  
+   • These outcomes signal that debt could hurt profitability and constrain operations.  
+   • Per Guideline 4 (strategic actions affecting debt) and Guideline 5 (dominant context is adverse), the stance is clearly unfavorable.  
+   • The broader 10-K context is not needed; the sentence itself conveys the negative outlook.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that inability to cover debt obligations would create liquidity problems and force cutbacks or restructuring, indicating an unfavorable impact of debt on profitability.
+
+Context use: Not necessary."
+b5db938e1a3a84cd923aab3eb8a4bc22,"Our ability to make scheduled payments or to refinance our obligations with respect to the 2021 Senior Notes, our other debt and our other liabilities will dependon our financial and operating performance, which, in turn, is subject to prevailing economic conditions and to certain financial, business and other factors beyondour control.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence is about the company’s “ability to make scheduled payments or to refinance” its 2021 Senior Notes and other debt.  
+   • It states that this ability is contingent on operating performance and external economic/ business factors “beyond our control.”  
+   • Mentioning that debt service depends on uncertain, uncontrollable factors highlights a potential risk to meeting obligations, pointing to vulnerability rather than strength.  
+   • Per Guideline 4 (projections and forward guidance) and Guideline 5 (if cues signal risk, dominant context wins), this conditional language indicates an unfavorable outlook toward debt servicing.  
+   • No balancing positive information is offered, so the dominant tone is risk-oriented (negative).  
+   • The broader MD&A context is not required to interpret this specific risk statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that paying or refinancing debt hinges on economic and business factors beyond the company’s control, signaling potential difficulty and thus a negative stance toward debt.
+
+Context usage: Not necessary (the sentence alone contains the relevant cues)."
+092893cbf88fb2779aa75f005dc0d780,"Total debt decreased $6.4 million to $194.4 million at December 31, 2020 from $200.8 million at December 31, 2019.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that total debt “decreased $6.4 million,” i.e., a year-over-year reduction.  
+   • Guideline 4 says that reductions in debt are a favorable signal because they lessen leverage and future interest expense, which supports profitability.  
+   • There are no conflicting cues; the dominant message is the debt decline.  
+   • Therefore, the stance toward debt is Positive.  
+   • The context (Liquidity and Capital Resources section) echoes the same figures, but the sentence alone suffices; thus, the context is not strictly necessary.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence shows a $6.4 million decrease in total debt, indicating improved leverage and a favorable outlook for profitability."
+2c70261e88a1988f0e52e66ad55510cb,"Ifthe methods of calculating LIBOR change from current methods for any reason, or if LIBOR ceases to perform as it has historically, our interest expenseassociated with the unhedged portion of our outstanding indebtedness or any future indebtedness we incur may increase.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses a scenario in which changes in LIBOR could “increase” the company’s interest expense on both existing and future debt.  
+   • Higher interest expense means higher cost of debt financing, which directly hurts profitability.  
+   • Therefore, the sentence signals an unfavorable outlook regarding debt.  
+   • The broader 10-K context is not needed to understand this implication; the sentence itself is sufficient.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that changes in LIBOR could raise the company’s interest expense on outstanding or future debt, indicating a negative impact on profitability."
+a01ad6ccc2dfe6280f2c036dc5f213b5,"Subsequent Event, of the Notes to Consolidated Financial Statements for additional information about the Term Loan B. Other than potential borrowings under the Term Loan B, the Company does not expect to incur any significant additional borrowings during 2021.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Debt is explicitly addressed (“additional borrowings”).  
+   • The sentence says the company “does not expect to incur any significant additional borrowings during 2021,” i.e., plans to keep debt from rising materially.  
+   • Holding debt steady (or limiting increases) generally reduces interest-expense growth and leverage risk, a favorable signal for profitability (Guideline 4: changes over time).  
+   • Although a Term Loan B facility exists, the qualifier “other than potential borrowings” still frames overall borrowing as minimal; the dominant context is restraint, thus positive (Guideline 5).  
+   • The surrounding MD&A details are not required to understand this stance—classification can be made from the sentence alone.
+
+2. Stance: Positive
+
+3. Brief Justification: The company states it “does not expect to incur any significant additional borrowings during 2021,” indicating limited future debt and therefore a favorable outlook for profitability.
+
+Context usage: Not necessary."
+37fc4fa118f25ced29b966437ebcdd89,"However, deterioration of credit markets, including an economic crisis in the U.S. or elsewhere, whether or not caused by the U.S. or European debt ceiling, deficits and budget issues, could have an adverse impact on our ability to negotiate new credit facilities or access or renew our existing one.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence links a deterioration of credit markets to an “adverse impact” on the company’s ability to obtain, access, or renew credit facilities.  
+   • Reduced access to credit makes it harder or more expensive for the company to finance operations, harming liquidity and profitability.  
+   • According to Guideline 4 (financial indicators or trends) and Guideline 5 (dominant context), such wording signals an unfavorable outlook for debt.  
+   • No conflicting cues are present, and the statement is clearly negative about future debt financing conditions.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that worsening credit markets could adversely affect the company’s ability to secure or renew credit facilities, indicating a negative outlook on debt-related financing.  
+
+Context necessity: Not necessary – the sentence alone provides sufficient information to classify the stance."
+077c12b7e575b9ac55b41a9c1e157827,Net repayments from borrowings were $80.5 million during 2019.,SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly says “Net repayments from borrowings were $80.5 million,” meaning the company paid down that amount of debt.  
+   • Guideline 4 (changes over time): Paying down debt is a favorable change because it lowers leverage and future interest expense, supporting profitability.  
+   • No conflicting cues are present, so the dominant signal is positive.  
+   • The broader context is not required; the sentence alone contains the needed information.
+
+2. Stance: Positive
+
+3. Brief Justification: Repaying $80.5 million of debt indicates a reduction of leverage, which is beneficial for profitability and therefore a positive stance toward debt.
+
+Context usage: Not necessary."
+312fca019d47336cd17d7a30825d7160,"As of December 31, 2020, we had no borrowings outstanding under our Global Revolving Credit Facility which matures on December 10, 2023 and $199 million of term loan borrowings which mature on June 30, 2027.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses the company’s debt position (revolver and term loan).  
+   • “No borrowings outstanding under our Global Revolving Credit Facility” signals that the company has avoided drawing on short-term credit and therefore carries less debt than it otherwise might—this is favorable for profitability (Guideline 4: reductions in debt are positive).  
+   • The $199 million term loan is long-dated (matures 2027), implying no near-term refinancing pressure; this does not counteract the positive aspect of having an unused revolver.  
+   • The sentence is factual but the facts convey a healthy debt posture, so the overall stance is Positive rather than Neutral.  
+   • Context from Item 7 confirms ample revolver headroom but is not required to interpret this single sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The company reports zero borrowings on its revolver, indicating lower current debt and solid liquidity, which is favorable for profitability.  
+
+Context necessity: Not necessary (the sentence alone suffices)."
+e979883959f91bc12b3249055ced0675,Net debt (total debt minus cash and cash equivalents) decreased by $37.4 million .,NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly addresses debt, stating that “net debt … decreased by $37.4 million.”  
+   • A reduction in net debt lessens leverage and future interest obligations, which is typically favorable for profitability (Guideline 4: “reduced debt” → Positive signal).  
+   • No conflicting or offsetting information is present in the sentence.  
+   • Therefore, the dominant and unambiguous stance toward debt is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports a $37.4 million reduction in net debt, signalling an improved leverage position that supports profitability.  
+
+Context use: Not necessary—the sentence alone conveys the positive change in debt."
+46172d72fec0a947340f9f0660f84fd6,"Uses of cash during 2019 included $80.5 million in net debt repayments,$54.4 million in cash dividends paid to SWM stockholders and $28.6 million of capital spending.38",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that the company used cash for “$80.5 million in net debt repayments.”  
+   • Repaying debt lowers outstanding obligations and future interest expense, which is typically viewed as improving financial flexibility and profitability (Guideline 4: strategic actions affecting debt).  
+   • No adverse or conflicting cues are present; the dominant message about debt is its reduction.  
+   • Therefore, the stance toward debt is Positive.  
+
+2. Stance: Positive  
+
+3. Brief Justification: The company reduced its debt by repaying a net $80.5 million, signaling an improved debt position and benefiting profitability.  
+
+Context necessity: Not necessary—the sentence alone provides sufficient information to classify the stance."
+e93a0c397ce8728dfc90c52113ff3398,"In addition to higher debt in the second half of 2020, 2020 interest expense included an incremental $0.4 million due to an overlap in interest incurred in July on both our Senior Notes and Term Loan B, prior to the redemption of the 2021 Senior Notes on July 16, 2020.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “higher debt in the second half of 2020,” indicating an increase in the company’s indebtedness.  
+   • It also notes an “incremental $0.4 million” in interest expense stemming from a period when both the Senior Notes and Term Loan B were outstanding simultaneously.  
+   • Higher debt levels and greater interest expense directly worsen profitability by raising financing costs (Guideline 4: financial indicators; Guideline 1: focus on debt portrayal).  
+   • No mitigating or positive element is presented to offset this cost increase.  
+   • Therefore, the dominant context is unfavorable toward debt.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence reports higher debt and an extra $0.4 million in interest expense due to overlapping borrowings, signaling a detrimental impact on profitability.
+
+Context helpful/necessary: Not necessary— the sentence alone contains sufficient information to classify the stance."
+0b882ed686915dd7244c9b6920b7b918,"The Company currently has the intent and ability to allow its debt balances to remain outstanding and expects to continue to file notices of continuation related to its borrowings outstanding at December 31, 2020 such that those amounts are not expected to be repaid prior to the September 2023 expiration of the Revolving Credit Facility.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence simply states that management intends and is able to keep existing borrowings outstanding until the September 2023 revolver expiry, implying a rollover rather than repayment.  
+   • There is no indication that debt levels will rise or fall, nor that interest cost will materially change; it is presented as a neutral liquidity planning fact.  
+   • No wording suggests that this decision will either improve (e.g., lower interest expense, reduced leverage) or worsen (e.g., higher leverage, cash-flow strain) profitability.  
+   • Per Guideline 6, when debt is only described factually without clear favorable or unfavorable implications, the stance is Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence is a factual statement that the company plans to keep its current debt outstanding until the revolver’s 2023 expiration, with no expressed benefit or detriment to profitability.  
+
+Context use: Not necessary—the sentence alone contains enough information to classify the stance."
+5d22f0f34b6b34161a8c298ccfb67b9f,"On June 30, 2020, the Company initiated the calling of the 2021 Senior Notes for redemption in full and recorded a debt extinguishment charge of $1.9 million related to the write-off of the remaining deferred financing costs associated with the 2021 Senior Notes.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses a debt action: the company “initiated the calling of the 2021 Senior Notes for redemption in full.”  
+   • Calling (redeeming) notes in full means the liability will be removed from the balance sheet, lowering outstanding debt—this is typically beneficial for leverage, interest expense and future profitability (Guideline 4: strategic actions affecting debt).  
+   • Although it mentions a one-time “debt extinguishment charge of $1.9 million,” that cost is a short-term accounting hit and does not negate the long-term benefit of having less debt; the dominant signal is debt reduction (Guideline 5: weigh conflicting cues).  
+   • Therefore, the overall stance toward debt conveyed by the sentence is favorable.
+
+2. Stance: Positive
+
+3. Brief Justification  
+The company is redeeming the 2021 Senior Notes in full, thereby eliminating that debt, which is a favorable action despite the small extinguishment charge.
+
+Context use: The broader 10-K context was not necessary; the sentence itself fully indicates the positive debt action."
+4c08292173f702bfa5ec0c6e6246c5e9,"A lowering or withdrawal of the ratings assigned to our debt securities by rating agencies may increase our future borrowing costs and reduce our access to capital, which could have a material adverse impact on our financial condition and results of operations.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence states that if debt ratings are lowered or withdrawn, the company’s future borrowing costs will rise and access to capital will fall.  
+   • Higher borrowing costs and reduced capital access directly hurt profitability (“material adverse impact on our financial condition and results of operations”).  
+   • According to Guideline 4, references to increased financing costs or constrained liquidity indicate an unfavorable debt outlook.  
+   • No mitigating or balancing language is provided, so the negative cue dominates.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that a downgrade of the company’s debt ratings would raise borrowing costs and limit capital access, adversely affecting financial results—clearly a negative outlook on debt.
+
+Context use: Not necessary (the sentence alone contains sufficient information to classify the stance)."
+5c0d6d5aa2e91a198fade32c3771fbd0,"We cannot assure that our operating performance, cash flow and capital resources will be sufficient to repay our debt in the future.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 1: Focus on how debt is portrayed.  
+   • The sentence explicitly states the company “cannot assure” that future operating performance, cash flow, and capital resources “will be sufficient to repay our debt.”  
+   • Guideline 4: This is forward-looking and highlights uncertainty about meeting debt obligations, a clear unfavorable signal.  
+   • No offsetting positive cues are present; the dominant context is concern over debt repayment ability.  
+   • Therefore, the stance toward debt is negative for profitability.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that the company may lack adequate future resources to repay its debt, indicating a negative outlook on debt sustainability. (Context not necessary)"
+ced0930346b1f6083d8d5588bfe038af,failure to comply with the covenants contained in our revolving credit facility or the indenture governing the 2021 Senior Notes could result in an event ofdefault that could cause acceleration of our indebtedness.,NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses debt covenants linked to the company’s revolving credit facility and 2021 Senior Notes.  
+   • It warns that breaching these covenants would trigger an event of default and accelerate repayment of outstanding debt.  
+   • Acceleration of indebtedness would create liquidity pressure and potential financial distress, clearly an unfavorable outcome for profitability.  
+   • According to Guideline 1 and 4 (strategic actions affecting debt and forward-looking risks), such a warning is a negative signal.  
+   • The context provided in Item 7 is not required to understand this risk statement; the sentence alone conveys the negative implication.
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence warns that covenant breaches could trigger default and force immediate repayment, an adverse scenario for the company’s debt position and profitability.  
+
+Context Usefulness: Not necessary."
+c7e1b393be32dfbfb0de69253e27e26e,"Forexample, it could: make it difficult for us to satisfy our financial obligations, including making scheduled principal and interest payments on the 2021 Senior Notes and our otherindebtedness; place us at a disadvantage to our competitors; require us to dedicate a substantial portion of our cash flow from operations to service payments on our indebtedness, thereby reducing funds available forother purposes; increase our vulnerability to a downturn in general economic conditions or the industry in which we operate; limit our ability to obtain additional financing for working capital, capital expenditures, acquisitions and general corporate and other purposes; and limit our ability to plan for and react to changes in our business and the industry in which we operate.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence is entirely about “our indebtedness” (Guideline 1).  
+   • It lists only adverse consequences: harder to meet principal/interest, cash flow diverted from other uses, competitive disadvantage, greater vulnerability to downturns, constrained financing and strategic flexibility (Guideline 4: negative operational/financial impacts).  
+   • No counterbalancing positives are offered, so the dominant context is clearly unfavorable (Guideline 5).  
+   • Therefore, the stance toward debt is Negative because the sentence portrays debt as a burden that impairs profitability and flexibility.  
+   • The broader MD&A context was not needed to interpret this sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence frames indebtedness as causing multiple hardships—difficulty servicing payments, reduced cash for other purposes, heightened vulnerability and limited financing options—indicating an unfavorable impact on profitability.  
+
+Context helpful/necessary: Not necessary; the sentence alone provides sufficient evidence."
+1cd8f66223a874020a870ecbe58b193d,"If adequate funds are not available on acceptable terms, wemay be unable to meet our future working capital requirements or fund capital expenditures and acquisitions, any of which could negatively affect our business.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses the need for “adequate funds … on acceptable terms,” which implicitly refers to external financing/debt.  
+   • It warns that, if such funding cannot be obtained, the company “may be unable to meet … working capital requirements or fund capital expenditures and acquisitions,” resulting in negative effects on the business.  
+   • This is a risk statement highlighting a potentially harmful consequence tied to debt availability, fitting the guideline example of an “unfavorable situation” for debt.  
+   • No offsetting positive or neutral language is present; the dominant tone is cautionary.  
+   • Hence, the stance toward debt’s impact on profitability is Negative.  
+   • The broader MD&A context is not required to interpret this specific risk statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that failure to secure debt/financing on acceptable terms could hinder working capital and growth spending, thereby negatively affecting the business.
+
+Context use: Not necessary (the sentence alone provides sufficient evidence)."
+53f85aee410fcef4ac9552b1410ecbbe,"We may reduce our exposure to rising interest rates by entering into interest rate hedging arrangements, although thosearrangements may result in us incurring higher interest expenses than we would incur without the arrangements.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence is specifically about managing debt-related risk (interest rate exposure).  
+   • Positive cue: “reduce our exposure to rising interest rates” – could protect profitability.  
+   • Negative cue: “may result in us incurring higher interest expenses” – could hurt profitability.  
+   • Because the sentence simultaneously presents a potential benefit and a potential cost, the cues offset each other; there is no clear net favorable or unfavorable stance toward debt.  
+   • According to Guideline 5 (if cues conflict, judge the dominant context), the balanced wording leads to a Neutral classification.  
+   • The broader MD&A context is not required to interpret this single sentence.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence presents both a benefit (hedging lowers rate exposure) and a drawback (could raise interest expense), yielding no clear positive or negative stance toward debt."
+953322c2c1bd15a92ce5ece41e1c4563,"If interest rates increase in the absence of sucharrangements, we will need to dedicate more of our cash flow from operations to make payments on our debt.",NEENAH,,2019,Training-10-K-2019_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence links a rise in interest rates to higher required cash outflows for debt service (“dedicate more of our cash flow … to make payments on our debt”).  
+   • Higher debt-service costs reduce the cash available for other profitable uses, signalling an adverse impact on profitability (Guideline 4: financial indicators/trends; Guideline 5: dominant context is unfavorable).  
+   • No offsetting positive or neutral language is present.  
+   • Therefore, the stance toward debt is negative.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that higher interest rates would force the company to divert more operating cash to debt payments, indicating a detrimental effect on profitability.  
+
+Context necessity: Not necessary – the sentence alone provides sufficient information to classify the stance."
+202c46ec57f42afd2eb700cdf4a1d888,Changes in interest rates or the phaseout of LIBOR may significantly increase our borrowing costs.,NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence talks specifically about “borrowing costs,” which are the interest expenses the company pays on its debt.  
+   • It states that either rising interest rates or the transition away from LIBOR “may significantly increase” those costs.  
+   • Higher borrowing costs directly reduce net income and cash flow, thereby hurting profitability (Guideline 4: financial indicators/trends).  
+   • There is no offsetting language suggesting mitigation or benefits, so the dominant context is clearly unfavorable.  
+   • Therefore, the stance toward debt is Negative.  
+   • Context usefulness: while the broader MD&A shows the company has variable-rate debt (Interest-rate risk section), that information is not required to interpret the sentence; the sentence alone is sufficient.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that rising rates or the LIBOR phaseout could “significantly increase our borrowing costs,” signaling an unfavorable impact on profitability from higher debt expense."
+0b0df1a7e6b0a4c9681f3f4bdaf380af,"Including the impact of these transactions, as of December 31, 2019 , the percentage of the Company s debt subject to fixed and floating rates of interest was 97%and 3%, respectively.",SCHWEITZER-MAUDUIT,,2019,Training-10-K-2019_SCHWEITZER-MAUDUIT.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence merely quantifies the mix of fixed-rate versus floating-rate debt (97 % fixed, 3 % floating).  
+   • It provides no indication that this mix improves or worsens profitability (no mention of cost savings, risk reduction, higher interest expense, etc.).  
+   • According to Guideline 6, if debt is only described without evaluative language, the stance is Neutral.  
+   • Therefore, the dominant context is descriptive, not favorable or unfavorable.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only states the fixed vs. floating composition of debt without expressing any benefit or detriment to profitability.  
+
+Context use: Not necessary – the stance is determined from the sentence itself."
+72a4cca603bb54ce6b9e3f304f8fa1a0,"Our assets or cash flows may not be sufficient to fully repay borrowings under our outstanding debt instruments, and we may be unable to refinance or restructure the payments on indebtedness on favorable terms, or at all.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses debt (“borrowings under our outstanding debt instruments”).  
+   • It states that assets or cash flows “may not be sufficient” to repay this debt, implying potential liquidity shortfalls.  
+   • It further warns that the company “may be unable to refinance or restructure” the debt on favorable terms, or at all, indicating heightened refinancing risk.  
+   • According to Guideline 4 (strategic actions affecting debt and projections), such language signals an unfavorable outlook for debt servicing, which can directly hurt profitability.  
+   • No conflicting cues are present; the dominant message is clearly adverse.  
+   • The surrounding 10-K context is not required to interpret this sentence; the risk is explicit.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence warns that cash flows may be insufficient to repay existing debt and that refinancing might not be possible on favorable terms, indicating an unfavorable debt outlook. (Context not necessary)"
+7840ba3f0a7cd2c2dc8b6926163bf853,"In the event of material unforeseen events that impact our financial performance, particularly during a time when we have material amounts of debt, a situation could arise where we are unable to fully draw from our existing credit facility notwithstanding that there is otherwise available capacity.",SCHWEITZER-MAUDUIT,,2020,Training-10-K-2020_SCHWEITZER-MAUDUIT.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence links “material amounts of debt” with a potential inability to access liquidity (“unable to fully draw from our existing credit facility”).  
+   • An inability to draw on the revolver would constrain cash and therefore profitability, indicating an unfavorable debt situation.  
+   • Guideline 1: focus on debt portrayal—here it clearly highlights a risk.  
+   • Guideline 4 (projections/forward guidance): it is a forward-looking warning of a possible negative outcome.  
+   • No balancing positive information is given, so the dominant context is negative.  
+   • The broader MD&A context is not required to interpret this specific risk statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that high debt levels could leave the company unable to tap its credit facility in adverse circumstances, signalling a detrimental risk to liquidity and profitability.  
+
+Context usage: Not necessary."
+56a1610a37448843a9621e9502849314,"To the extent we must obtain financing from external sources to fund our capital requirements, we cannot guarantee financing will be available on favorable terms, if at all.",NEENAH,,2020,Training-10-K-2020_NEENAH.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly concerns the company’s ability to obtain external financing (debt).  
+   • It states there is no assurance that such financing will be available “on favorable terms, if at all,” highlighting uncertainty and potential difficulty.  
+   • According to Guideline 4 (strategic actions affecting debt) and Guideline 5 (dominant context), language that signals possible constraints or higher costs for future borrowing is unfavorable for profitability.  
+   • No offsetting positive cues are present, so the dominant stance is negative.  
+   • The broader 10-K liquidity discussion is not required to interpret this single-sentence risk statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that the company may be unable to secure external financing on favorable terms—or at all—signaling a potentially harmful constraint on debt funding and profitability.  
+
+Context use: Not necessary (the stance is clear from the sentence alone)."
+c1d5a725b34228cb008a53b402294233,Change in the Company s credit ratings could increase cost of funding.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly links a potential change in credit ratings to “increased cost of funding,” i.e., higher interest expense on future debt.  
+   • Higher borrowing costs make debt more expensive, pressuring profitability (Guideline 4: strategic actions/financial indicators affecting debt).  
+   • The statement is framed as a risk (“could increase”), which signals an unfavorable outlook for debt financing.  
+   • No offsetting positive information is provided, so the dominant context is negative.  
+   • The broader 10-K context is not needed to interpret this risk statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that a downgrade in credit ratings would raise the company’s borrowing costs, an unfavorable outcome for debt profitability.
+
+Context use: Not necessary."
+41109ca33b75c9763de138a2f8c1236d,The addition of further leverage to the Company s capital structure couldimpact 3M s credit ratings in the future.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses “addition of further leverage,” i.e., taking on more debt.  
+   • It warns this could “impact 3M’s credit ratings,” which implies a potential downgrade.  
+   • Lower credit ratings generally raise borrowing costs and constrain profitability, a clearly unfavorable outcome.  
+   • No offsetting positive information is given, so the dominant tone toward debt is adverse.  
+   • Therefore, per Guideline 4 (negative consequences linked to debt), the stance is Negative.  
+   • All needed information is contained within the sentence itself; the broader context is not required to judge the sentiment.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence cautions that increasing leverage may harm 3M’s credit ratings, indicating that additional debt would negatively affect the company’s financial standing.  
+
+Context necessity: Not necessary."
+bc54fa9cbdec3d7aa35c2342591bdaa1,"The increase in 2019 was driven by higher U.S. averagedebt balances, partially offset by the year-on-year increase in interest income driven by higher balances in cash, cash equivalents and marketablesecurities during the year resulting from the proceeds from debt issuances in advance of the October 2019 Acelity acquisition.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Debt is explicitly mentioned: “higher U.S. average debt balances” and “proceeds from debt issuances.”  
+   • The sentence says “The increase in 2019 was driven by higher … debt balances,” indicating a rise in a cost item (the surrounding context implies interest expense).  
+   • Although this was “partially offset” by more interest income, the dominant driver of the change is the higher debt, which raises expenses and hurts profitability (Guideline 4: changes over time; Guideline 5: choose the dominant cue).  
+   • Therefore, the stance toward debt is unfavorable.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence links an increase in costs to “higher … debt balances” and new debt issuances, signaling debt’s negative impact on profitability despite only partial offsets from interest income.  
+
+Context use: Not necessary – the sentence alone provides enough information to classify the stance."
+72a773eeb5221fb5031ed54212c7e84a,Total Debt: The strength of 3M s credit profile and significant ongoing cash flows provide 3M proven access to capital markets.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses debt capacity: “strength of 3M’s credit profile” and “proven access to capital markets.”  
+   • Strong credit profile implies low perceived risk and favorable borrowing terms (Guideline 4: strategic actions affecting debt/financial indicators).  
+   • Proven access to capital markets suggests the company can raise debt when needed without difficulty, supporting liquidity and profitability.  
+   • No negative wording or conflicting cues appear; the tone is clearly favorable.  
+   • Therefore, the dominant context is Positive toward debt.  
+   • The broader 10-K context was not required, as the sentence alone conveys the stance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+The sentence states that 3M’s strong credit profile and cash flows give it reliable access to capital markets, indicating a favorable debt situation that supports profitability. (Context not necessary)"
+bf090be27fe1ff97c1e8b7010d40a40d,3Mcurrently has an A1 credit rating with a negative outlook from Moody s Investors Service and an A+ credit rating with negative outlook fromStandard and Poor s.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   - The sentence explicitly addresses the company’s credit ratings, which directly relate to its debt profile (Guideline 1).  
+   - Although the ratings themselves (A1, A+) are investment-grade, both are accompanied by a “negative outlook,” signaling the agencies see rising risk of a downgrade (Guideline 4: projections/forward guidance).  
+   - A potential downgrade would likely raise future borrowing costs and constrain financing flexibility, which is unfavorable for profitability.  
+   - No other positive cues offset this; the dominant signal is adverse (Guideline 5).  
+   - Therefore the stance toward debt is Negative.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+   The sentence notes that Moody’s and S&P have assigned “negative outlooks” to 3M’s A1/A+ credit ratings, indicating a potential future downgrade and thus an unfavorable debt outlook.  
+
+Context usefulness: Not necessary – the sentence alone provides sufficient information to classify the stance."
+d8d50fc867c7564e5cea528e65d96459,"The Company s total debt was $1.5 billion lower at December 31, 2020 when compared to December 31, 2019.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 4 says to look for “changes over time.”  
+   • Sentence states total debt fell by $1.5 billion year-over-year.  
+   • A reduction in debt generally lowers interest expense and strengthens liquidity, which is favorable for profitability (Guideline 1: focus on how debt is portrayed).  
+   • No conflicting cues are present, so the dominant context is clearly favorable.  
+   • The sentence alone is sufficient; the broader MD&A context is not required.
+
+2. Stance: Positive
+
+3. Brief Justification: Debt declined by $1.5 billion year-over-year, indicating an improved leverage position that supports profitability; context not necessary."
+bf5055eef5bbca2091b3e64b4e77e1b3,These decreases were partially offset by the March 2020 issuanceof $1.75 billion of registered notes.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The key action is “issuance of $1.75 billion of registered notes,” i.e., the company borrowed more money.  
+   • The phrase “partially offset” tells us this new borrowing counteracted prior decreases, so total debt did not fall as much.  
+   • Adding debt generally increases leverage and interest expense, a drag on future profitability unless the sentence frames it as clearly beneficial (e.g., refinancing at lower rates, funding accretive growth).  
+   • No such positive framing is present; the sentence simply reports higher debt.  
+   • Per Guideline 4 (changes over time) and 1 (focus on debt), an increase in debt without stated benefit is an unfavorable signal.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence notes that new borrowing of $1.75 billion offset earlier decreases, meaning overall debt rose, which is an unfavorable development for profitability.  
+
+Context use: The Financial Condition section confirms the March 2020 note issuance, but the sentence alone suffices; context was not strictly necessary."
+307a1751ac2a09d105b2ccf7c71532d2,"Balance changes incurrent liabilities increased working capital by $1.3 billion, primarily due to decreases in short-term borrowing and the current portion of long-term debt.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses debt items: “short-term borrowing” and “current portion of long-term debt.”  
+   • It states these items “decreased,” which means the company has lowered its debt burden.  
+   • Lower debt reduces interest expense and improves liquidity (working capital rose by $1.3 billion), which is favorable for profitability (Guideline 4: changes over time, strategic actions affecting debt).  
+   • There are no negative or conflicting cues, so the dominant context is beneficial.  
+   • Therefore, the stance toward debt in this sentence is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The company’s working capital increased because its short-term borrowing and current portion of long-term debt decreased, indicating a favorable reduction in debt.  
+
+Context necessity: Not necessary—the sentence alone gives clear evidence."
+0fde064e0d12abe73ccc6dcbee84b790,"In addition, $1.0 billion aggregate principal amount of notes maturing inSeptember 2021 were repaid in December 2020 via make-whole-call offers.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The term “notes” clearly refers to outstanding debt (Guideline 1).  
+   • The verb “were repaid” indicates the company has reduced that debt balance (Guideline 4: strategic actions affecting debt).  
+   • Lower debt generally means lower future interest expense and improved leverage, a favorable signal for profitability (Guideline 2 & 5).  
+   • No offsetting negative cues (e.g., new borrowings) are mentioned, so the dominant context is debt reduction.  
+   • Therefore, the stance toward debt is Positive.  
+   • The 10-K context is not needed to infer this; the single sentence is sufficient.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states the company repaid $1.0 billion of notes ahead of maturity, reducing outstanding debt and supporting profitability.  
+
+Context use: Not necessary."
+29dfb197bd599671fcc4e2df8922a719,"There was no outstanding commercial paper at December 31, 2020, as compared to $150 million at December 31,2019.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence deals directly with debt: outstanding commercial paper (a short-term borrowing instrument).  
+   • It notes a decline from $150 million in 2019 to zero in 2020.  
+   • Guideline 4 (changes over time) says a reduction in debt signals an improvement in financial position and likely lowers interest expense, which is favorable for profitability.  
+   • No conflicting information appears in the sentence. Therefore, the dominant context is a favorable change in debt.  
+   • Context section “Financial Condition and Liquidity” echoes this fact, but the sentence alone is sufficient; the context is not necessary for classification.
+
+2. Stance: Positive
+
+3. Brief Justification: The company eliminated $150 million of commercial-paper debt year-over-year, indicating a reduced debt burden that benefits profitability."
+3df8eacac2d32261bb33fcd9a47d7022,"2019 Debt Activity: Total debt was approximately $5.7 billion higher at December 31, 2019 when compared to December 31, 2018.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence specifically addresses debt and reports that it is “approximately $5.7 billion higher” year-over-year.  
+   • Guideline 4 (changes over time) says an increase in debt is an unfavorable indicator because it can raise leverage and interest expense, hurting profitability.  
+   • No offsetting positive context (e.g., use of proceeds, lower rates) is provided, so the dominant signal is negative.  
+   • Therefore, the stance toward debt in this sentence is Negative.  
+   • The broader 10-K context was not required to interpret this single sentence; the sentence alone is sufficient.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence indicates total debt rose by about $5.7 billion versus the prior year, signaling a worsening debt position that is unfavorable for profitability. (Context not necessary)"
+f28b9a243fbeb4d1f6adccaffd92d1c2,"Increases in debt related to the first quarter and third quarter 2019 issuances of $2.25 billion of medium-term notes and $3.25 billion of other registered notes, respectively, 69 billion Japanese yen (approximately $632 million at December 31, 2019 exchange rates) outstanding from the 80 billion Japanese yen credit facility established in September 2019, 150 million euros (approximately $168 million at December 31, 2019 exchange rates) outstanding credit facility established in November 2019, and $0.5 billion of debt assumed and not yet repaid as a result of the Company s acquisition of Acelity Inc.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 4 (changes over time) highlights that an increase in debt is generally an unfavorable signal because it can raise interest expense and leverage.  
+   • The sentence explicitly states “Increases in debt related to … issuances … credit facilities … and debt assumed,” showing a clear rise in the company’s outstanding obligations.  
+   • No offsetting positive information (e.g., lower rates, repayment, or improved cash flow) is given within the sentence. Therefore, the dominant context is that debt has grown.  
+   • According to the label definitions, rising debt that could constrain profitability is classified as Negative.  
+   • The broader 10-K context was not required to detect this stance; the sentence alone is sufficient.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports multiple issuances and assumed borrowings that “increase” the company’s debt, indicating a less favorable situation for profitability."
+b5eff2e82791151b6364cc35acb681c4,Interest Rates Risk: The Company may be impacted by interest rate volatility with respect to existing debt and future debt issuances.,MMM,,2020,Training-10-K-2020_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly frames “interest rate volatility” as a “risk” that “may impact” the Company’s existing and future debt.  
+   • In finance terminology, a “risk” of adverse impact on debt costs implies a potential increase in interest expense or reduced flexibility, which would hurt profitability (Guideline 4: strategic actions affecting debt; Guideline 5: dominant context is negative).  
+   • No offsetting or positive wording is provided; therefore the dominant stance toward debt is unfavorable.  
+   • The broader 10-K context is not required to interpret this specific risk statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence warns that volatility in interest rates could adversely affect both current and future debt, signaling a risk that would negatively impact profitability.
+
+Context usefulness: Not necessary."
+52ff7813ff2af9665883aa8b16e46b03,"During 2018, the Company entered into forward starting interest rate swaps with a notional amount of $1.2 billion as hedgesagainst interest rate volatility associated with forecasted issuances of fixed rate debt.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence is explicitly about debt: the company expects to issue fixed-rate debt.  
+   • It states the firm “entered into forward starting interest rate swaps … as hedges against interest rate volatility.”  
+   • Using swaps to lock in or protect against adverse rate moves is a risk-management action that can keep future interest expense predictable or lower, which is favorable to profitability (Guideline 4: strategic actions affecting debt).  
+   • No wording suggests a deterioration (e.g., higher leverage pressure) or an uncertain outcome; the emphasis is on mitigation.  
+   • Hence, the dominant signal is beneficial management of debt costs → Positive stance.  
+   • The broader 10-K context was not needed; the sentence alone provided sufficient information.
+
+2. Stance: Positive
+
+3. Brief Justification: The company is proactively hedging future fixed-rate debt with $1.2 billion of interest-rate swaps, a move that reduces interest-rate risk and supports profitability."
+c59133a063060744ea2cbe99e053fe36,"As of December 31, 2018, the Company had $700 millionof notional amount in outstanding forward starting interest rate swaps as hedges against interest rate volatility with forecasted issuances of fixedrate debt.",MMM,,2020,Training-10-K-2020_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence simply states a fact: the company has $700 million of forward-starting interest-rate swaps tied to planned fixed-rate debt issuance.  
+   • It neither claims that debt will rise or fall, nor that interest expense will be higher or lower; it only describes a hedging position.  
+   • While hedging can be viewed as prudent, there is no explicit statement that it will improve profitability, nor any negative wording suggesting a burden.  
+   • Under the guidelines, when no clear positive or negative impact on debt or profitability is expressed, the stance is Neutral.  
+   • The broader 10-K context was not needed to interpret this isolated factual sentence.
+
+2. Stance: Neutral  
+
+3. Brief Justification  
+The sentence merely notes the existence of $700 million in interest-rate swaps for future fixed-rate debt, providing no clear positive or negative implication for profitability.  
+
+Context usefulness: Not necessary."
+bdcf3099130c1ebe85038e926d7caf84,Failure to maintain strong investment grade ratings would adversely affect the Company s cost of funding and could adversely affect liquidity and access to capital markets.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   1. The sentence talks about “investment grade ratings,” “cost of funding,” “liquidity,” and “access to capital markets,” all of which relate directly to the company’s ability to borrow (Guideline 1).  
+   2. It states that if ratings are not maintained, the cost of funding would rise and liquidity/access would be hurt—clearly an unfavorable impact on debt terms and therefore on profitability (Guideline 4: strategic actions affecting debt; higher funding costs = negative).  
+   3. No balancing positive information is presented, so the dominant context is adverse (Guideline 5).  
+   4. Thus, the stance toward debt is Negative.  
+   5. The broader MD&A context is not required to see this; the sentence alone conveys the negative implication (Guideline 6).  
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence warns that losing strong investment-grade ratings would “adversely affect” funding costs, liquidity, and capital-market access, signaling a harmful impact on debt conditions.  
+
+Context usage: Not necessary."
+bd78f6f01fa4fb00499dd1edecc295b5,"Interest expense (net of interest income) increased in 2020, as a result of higher U.S. average debt balances and lower year-on-year interest income driven by lower average interest rates on cash balances.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that net interest expense “increased in 2020.”  
+   • It attributes this rise to “higher U.S. average debt balances,” meaning the company carried more debt.  
+   • Higher debt-related expense directly reduces earnings, harming profitability (Guideline 4: financial indicators/trends).  
+   • No offsetting positive cues are present, so the dominant context is unfavorable.  
+   • The information needed is contained entirely within the sentence; the broader MD&A context is not required for this judgment.
+
+2. Stance: Negative
+
+3. Brief Justification  
+Net interest expense rose because of higher average debt balances, indicating debt is costing the company more and thus hurting profitability.
+
+Context use: Not necessary."
+ebeb7e505b77914e72b49e7c8552ccb8,The decrease in 2021 was due to lower U.S. average debt balances and the impact of interest rate swaps placed during the year.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 4: Look for changes over time—“decrease in 2021” signals a trend.  
+   • The phrase “lower U.S. average debt balances” means the company carried less debt.  
+   • Less debt (or lower interest expense because of it) is favorable for profitability (Guideline 1).  
+   • Interest-rate swaps that further reduce interest cost also improve financial results.  
+   • No conflicting cues are present, so the dominant context is beneficial.  
+   • Therefore, the stance toward debt is Positive.  
+   • The context section is not necessary; the sentence alone conveys the favorable debt situation.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence indicates profitability is helped by “lower U.S. average debt balances” and cost-saving interest-rate swaps, portraying a favorable debt outlook."
+edfc1122c551bcf5b84d091124aa62ec,"Additionally, the Company s debt maturity profile is staggered to help ensure refinancing needs in any given year are reasonable in proportion to the total portfolio.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses the company’s “debt maturity profile,” so guideline 1 applies (focus on debt portrayal).  
+   • “Staggered” maturities imply that debt repayments are spread over time, lowering refinancing concentration risk.  
+   • The purpose—“to help ensure refinancing needs in any given year are reasonable”—signals proactive, prudent debt management that protects liquidity and profitability (guideline 4: strategic actions affecting debt).  
+   • No negative or conflicting cues are present; the dominant context is favorable (guideline 5).  
+   • The broader 10-K context is not needed to interpret this single sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: By noting that maturities are “staggered” so annual refinancing needs remain “reasonable,” the sentence conveys prudent, beneficial debt management, a positive stance toward debt. (Context not necessary)"
+d4b9904e8879c7660e4742faa2808f65,Decreases in debt are further described in Note 12 and were largely due to the March 2021 early redemption via make-whole call offers of $450 million in debt and the November 2021 repayment of 600 million euros aggregate principal amount of Eurobonds that matured.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly reports “decreases in debt.”  
+   • Paying off/ redeeming debt (early redemption of $450 million and repayment of €600 million) reduces leverage and future interest expense, which supports profitability (Guideline: “reduced debt” → Positive).  
+   • No negative or neutral qualifiers are present; the dominant cue is the reduction itself.  
+   • Context from the wider MD&A confirms 2021 net-debt reduction, but the sentence alone is sufficient.
+
+2. Stance: Positive  
+
+3. Brief Justification  
+The sentence highlights significant repayments that “decrease debt,” signaling an improved leverage position that is favorable for profitability.
+
+Context use: Not necessary (the sentence alone provides the needed evidence)."
+99b91a9c3285d062d6263ce625b6041f,"The decrease from December 31, 2020 resulted from higher share repurchases of treasury stock, the March 2021 early redemption via make-whole call offers of $450 million in debt, and the November 2021 repayment of 600 million euros aggregate principal amount, partially offset by strong cash flow from operations.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly mentions two actions involving debt: “early redemption … of $450 million in debt” and “repayment of 600 million euros aggregate principal amount.”  
+   • Both actions reduce outstanding debt, lowering leverage and future interest expense—typically favorable for profitability (Guideline 4: look for changes over time; reduced debt = positive).  
+   • No counter-balancing negative cues about debt are given; the only “offset” mentioned is “strong cash flow from operations,” which is also favorable.  
+   • Therefore, the dominant context is a beneficial reduction in debt.
+
+2. Stance: Positive
+
+3. Brief Justification: The company redeemed $450 million and repaid €600 million of debt, reducing leverage and signaling a favorable debt position.  
+
+Context use: Not necessary—sentence alone clearly indicates debt reduction."
+66c7e675207330b5dcf9f0b354ba76a5,Current portion of long-term debt increased based on underlying debt maturities while accounts payable also increased as a result of increased operating activity from that of late 2020 partially offset by foreign currency translation impacts.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly says “current portion of long-term debt increased,” meaning the company now faces larger near-term debt obligations.  
+   • Guideline 4 (changes over time) notes that an increase in debt is typically unfavorable because it can strain liquidity and profitability.  
+   • No accompanying statement suggests this increase is beneficial or mitigated; it is merely “partially offset” by currency effects, which still leaves a net increase.  
+   • Therefore, the dominant signal is an unfavorable development regarding debt.  
+   • The broader 10-K context is not needed; the sentence alone provides the necessary information.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that the current portion of long-term debt has risen, indicating higher short-term debt burdens that are generally detrimental to profitability."
+1ca1ac42773ab77f4cd352a9a9a3abfb,"2020 Debt Activity: Decreases in debt related to the repayment of debt primarily consisting of the aggregate $445 million principal amount of Third Lien Notes and the 650 million euros and $500 million aggregate principal amount of floating-rate medium-term notes that matured in May 2020 and August 2020, respectively.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence specifically discusses debt and states there were “decreases in debt” due to repayments.  
+   • A reduction of outstanding notes lowers leverage and future interest expense, which is typically favorable for profitability (Guideline 4: changes over time that improve financial position).  
+   • No conflicting cues are present; the dominant message is that debt went down.  
+   • Therefore, the stance toward debt is Positive.  
+   • The 10-K context is not required to interpret this isolated fact; the sentence contains all needed information.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports a decrease in debt through the repayment of several notes, signaling an improvement in the company’s leverage and thus a favorable outlook for profitability. (Context: not necessary)"
+9dfdc52963ce68fd8ae86976194c814a,Increases in debt were related to the March 2020 issuance of $1.75 billion in registered notes.,MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that the company’s debt “increases,” triggered by a $1.75 billion note issuance.  
+   • Guideline #4 says changes over time in debt levels are key cues; Guideline #1 notes that higher debt generally constrains profitability (more interest expense, leverage risk).  
+   • There is no qualifying language suggesting the new debt will boost earnings or otherwise offset the added leverage.  
+   • Therefore, the dominant signal is an unfavorable rise in debt.  
+   • The broader 10-K context is not needed to interpret this standalone statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports an increase in debt due to a $1.75 billion note issuance, indicating higher leverage and thus a negative stance toward debt.
+
+Context usefulness: Not necessary."
+7c11ac8c394502f092371f21303c3556,"Outstanding commercial paper decreased $150 million from December 31, 2019 to December 31, 2020.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses debt: “Outstanding commercial paper decreased $150 million…”.  
+   • Commercial paper is a short-term borrowing instrument; a decrease means the company has less short-term debt outstanding.  
+   • Per Guideline 4 (changes over time) and Guideline 1 (focus on debt), a reduction in debt generally lessens leverage and interest expense, supporting profitability.  
+   • No negative or offsetting information is present, so the dominant cue is favorable.  
+   • Therefore, the stance toward debt is Positive.  
+   • The broader MD&A context confirms 3M’s overall net-debt reduction, but the single sentence alone is sufficient for classification (context not strictly necessary).
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports a $150 million decline in outstanding commercial paper, indicating reduced short-term debt and thus an improved debt position."
+a4e34389d7ce5cf95f63031b05657180,"Inconnection with the transaction, the Food Safety business will incur new debt and fund to 3M consideration valued at approximately $1 billion, subject toclosing and other adjustments.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The key phrase is “will incur new debt,” which signals an upcoming increase in leverage.  
+   • Per Guideline 4 (“changes over time”), taking on additional debt is typically an unfavorable development because it raises interest expense and financial risk, thereby potentially hurting future profitability.  
+   • Although the sentence also mentions a $1 billion payment to 3M, the stance we judge is specifically toward debt, not toward cash inflows; the dominant cue remains the increase in debt.  
+   • No wording suggests that this new debt will reduce existing obligations or otherwise improve the company’s balance-sheet metrics, so the overall implication for debt is negative.  
+   • The broader MD&A context was not needed to interpret this specific sentence.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states the Food Safety business “will incur new debt,” indicating a rise in leverage that is generally unfavorable for profitability.  
+
+Context Use: Not necessary."
+1549c225d36c3f2f2276bcedc9882015,"In December 2021, 3M entered into a $1 billion debt financing commitment related to the intended Food Safety Division spin-off or split-off transactiondiscussed in Note 3.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence says the company “entered into a $1 billion debt financing commitment,” which means it is arranging to take on additional borrowing.  
+   • Per guideline 4 (“changes over time”), an increase in debt generally signals higher leverage and interest expense, which can weigh on profitability.  
+   • There is no wording that frames the new borrowing as especially favorable (e.g., lower rates) or offset by an immediate earnings benefit; therefore the dominant cue is “increased debt.”  
+   • Hence, the stance toward debt is judged as Negative.  
+   • The broader 10-K context was not needed to identify or interpret this cue.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports that 3M committed to an additional $1 billion in debt, implying higher leverage and potential interest costs that are unfavorable for profitability.  
+
+Context usefulness: Not necessary."
+7ebe420ab18cf56df76578541aae1ec7,"In March 2021, 3M, via a make-whole-call offer, redeemed $450 million principal amount of 2.75% notes due 2022.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly addresses debt, stating that the company “redeemed” (i.e., paid off) $450 million of notes.  
+   • Early redemption lowers outstanding debt and future interest expense, which typically supports profitability and strengthens the balance sheet (Guideline 4: strategic actions affecting debt).  
+   • No adverse consequences or conflicting cues are mentioned, so the dominant context is debt reduction.  
+   • Therefore, the stance toward debt is favorable.
+
+2. Stance: Positive
+
+3. Brief Justification: The company’s early redemption of $450 million in notes reduces outstanding debt and future interest costs, a favorable move for profitability.
+
+Context usefulness: Helpful – the “Debt and Leverage” subsection confirms this was part of a broader effort to lower net debt, reinforcing the positive interpretation, though the sentence alone was sufficient."
+345b4eadf23eda3f79f9629d8933456e,"In December 2020, 3M, via make-whole-call offers, repaid $1 billion aggregate principal amount of its outstanding notes.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The word “repaid” means the company retired (reduced) debt, directly addressing debt (Guideline 1).  
+   • A $1 billion repayment lowers outstanding principal, which generally improves leverage and reduces future interest expense— a favorable signal for profitability (Guidelines 4 & 5).  
+   • No conflicting cues are present; the action is unambiguously beneficial.  
+   • The context is not strictly required, as the sentence alone conveys the positive action, but it is consistent with the “net debt reduction” noted in the Financial Condition and Liquidity section.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that 3M repaid $1 billion of outstanding notes, indicating a reduction in debt that should improve leverage and future profitability."
+72fe438fb11607536a7c4646559db04e,"In August 2020, 3M repaid $500 aggregate principal amount of floating rate medium-term notes that matured.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that 3M “repaid $500 [million] … notes.”  
+   • Repayment means the company’s outstanding debt decreased.  
+   • Guideline 4 lists “reduced debt” as a signal of a favorable (Positive) stance because it can lower interest expense and improve leverage, supporting profitability.  
+   • No wording suggests any adverse effects (e.g., liquidity stress), so the dominant context is favorable.  
+   • Therefore, the stance toward debt is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence shows 3M reduced its debt by repaying $500 million of maturing notes, indicating an improved debt position that benefits profitability.
+
+Context use: Not necessary—the sentence alone provides enough information to classify the stance."
+67109199faad8f2a08fc475e9cadb356,"In 2019, 3M also assumed approximately $2.6 billion of debt in connection with the acquisitions of Acelity and M*Modal (See Note 3) of which $2.1 billion was immediately redeemed or paid at close.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence reports a past event: 3M “assumed approximately $2.6 billion of debt” tied to two acquisitions.  
+   • It immediately qualifies that “$2.1 billion was immediately redeemed or paid,” leaving only about $0.5 billion net.  
+   • No evaluative language indicates whether this action improved or hurt profitability; it simply states the transaction mechanics.  
+   • The simultaneous assumption and repayment of most of the debt balance provides mixed signals (increase then quick reduction), leading to no clear positive or negative stance.  
+   • According to Guideline 6, when debt information is factual without clear favorable or unfavorable judgment, classify as Neutral.  
+
+2. Stance: Neutral  
+
+3. Brief Justification: The sentence only states that 3M temporarily took on $2.6 billion of acquisition-related debt and repaid $2.1 billion immediately, giving no clear indication that this action positively or negatively affects profitability.  
+
+Context usage: Not necessary—the sentence alone contains sufficient information for classification."
+bef67e5817b517a0a901387c86e1ca58,"These swaps, as well as $700 million of notional amount in existing outstanding swaps had been designated as hedges against interest rate volatility associated with forecasted issuances of fixed rate debt.",MMM,,2021,Training-10-K-2021_MMM.txt,Train,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence talks about using interest-rate swaps “designated as hedges” for future fixed-rate debt.  
+   • Hedging interest-rate volatility is a risk-management action that aims to keep future borrowing costs predictable or lower, which supports profitability (Guideline 4: strategic actions affecting debt).  
+   • No wording suggests higher debt cost or other negative outcomes; the emphasis is on protection, so the net signal is favorable rather than neutral or negative.  
+   • The broader 10-K context is not needed to interpret this single risk-management statement.
+
+2. Stance: Positive  
+
+3. Brief Justification: The company is proactively hedging interest-rate risk on planned debt issuances, a step that should stabilize or lower future financing costs, indicating a favorable stance toward debt management.  
+
+Context usage: Not necessary."

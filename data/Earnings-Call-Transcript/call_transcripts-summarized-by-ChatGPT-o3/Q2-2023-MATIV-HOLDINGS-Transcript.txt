@@ -1,0 +1,42 @@
+# Mativ Holdings, Inc. – Q2 2023 Earnings Call Summary  
+
+Mativ reported second-quarter 2023 results that met the recovery trajectory outlined on its prior call and showcased a sharp sequential rebound from the strike-affected first quarter, even though end-market demand remained soft. Management also reiterated the strategic and financial benefits of the recently announced sale of the Engineered Papers (“EP”) segment.
+
+Second-Quarter Consolidated Performance  
+• Net sales were $667 million; organic revenue declined 8 percent year over year as 5 percent pricing gains only partially offset a 13 percent volume/mix reduction that reflected ongoing customer destocking and macro sluggishness. Currency was immaterial.  
+• Adjusted EBITDA rose to $87.2 million, up 33 percent versus Q1’s $65.7 million and only 10 percent below the exceptionally strong, pre-merger comparable of about $97 million in Q2 2022. The sequential improvement confirmed that strike disruptions in France and isolated plant inefficiencies have been resolved.  
+• The EBITDA margin held essentially flat year over year at 13.1 percent despite the sharp volume loss, demonstrating sustained pricing power, accelerated synergy capture and cost-out actions.  
+• Price versus input costs was a net positive $25 million. Realized pricing of roughly +$40 million more than offset a $14 million headwind from still-elevated (though easing) raw-material and energy costs. NBSK pulp fell 13 percent year over year; polypropylene also trended lower, with incremental P&L benefit expected to materialize in 2H23 and into 2024.  
+• Adjusted EPS came in at $0.51.  
+• Interest expense was $28 million; roughly 75 percent of total debt remains fixed-rate.  
+
+Segment Detail (comparable basis)  
+Advanced Technical Materials (ATM)  
+• Sequentially, EBITDA advanced 7 percent and margin expanded 150 bps; year over year, EBITDA declined 18 percent as the segment lapped an extraordinary Q2 2022.  
+• Release liners continued to be the most resilient product family, posting mid-single-digit sales growth. Industrial tapes/abrasives and premium specialty papers tied to construction and discretionary spending were the weakest categories.  
+
+Fiber-Based Solutions (FBS)  
+• EBITDA jumped more than 60 percent sequentially, with margin up 680 bps, reflecting the absence of French strike costs and better manufacturing efficiency.  
+• Year over year, EBITDA inched up 1 percent, with 130 bps of margin expansion despite volume headwinds in industrial packaging; healthcare and certain filtration grades remained solid.  
+
+Synergies, Cost Actions and Operational Initiatives  
+• One year after closing the SWM–Neenah merger, Mativ has delivered the first half of its $65 million synergy target—on pace with the plan to realize about $5 million in 2022, $25 million in 2023, $25 million in 2024 and the remaining $10 million by 1H 2025. Most benefits to date are in SG&A; procurement and supply-chain savings will ramp in 2H23 and 2024.  
+• Beyond synergies, the company implemented roughly $10 million per quarter of additional cost-outs (labor, maintenance, marketing and inventory optimization) and intensified its IMPACT operations-excellence program, which is delivering higher yields, productivity and lower waste.  
+• New revenue-generating capacity is being installed: a release-liner line in Mexico (online Q4 2023) and extra melt-blown filtration capacity (2024), together expected to add >$50 million of annual sales. In Protective Solutions, a newly launched optical film for ballistic-resistant applications should contribute >$10 million in the next 12 months.  
+
+Cash Flow, Capital Expenditure and Leverage  
+• Operating cash flow improved to $40 million versus a $12 million outflow in Q1, aided by EBITDA growth and a $10 million working-capital source (inventories were a $52 million use in Q1).  
+• CapEx was $23 million, yielding free cash flow of $17 million. Full-year CapEx is being tightly managed. Management cautioned that deliberate inventory draw-downs will support cash generation but may temporarily pressure EBITDA margins through lower fixed-cost absorption.  
+• Net leverage under the credit-agreement definition stood at 4.2× trailing 12-month EBITDA. Approximately 75 percent of debt is fixed-rate, moderating interest-rate risk.  
+
+Guidance and 2H 2023 Expectations  
+• Visibility on volumes remains limited; customer destocking appears to be easing but has not fully abated in construction-related and premium consumer channels. Mativ therefore forecasts second-half EBITDA roughly in line with Q2, with upside dependent on volume stabilization and accelerating synergies.  
+• Price–cost is expected to stay positive, although year-over-year price comps will narrow as 2022 increases anniversary, while falling pulp, polypropylene and other inputs should increasingly benefit margin.  
+
+Engineered Papers Divestiture and Post-Transaction Profile  
+• On 3 August, the company agreed to sell the EP segment for $620 million (≈6.5× trailing EBITDA), with net proceeds of about $575 million earmarked entirely for debt reduction. Closing is anticipated in Q4 2023 and will lower leverage by an estimated 0.3 turns immediately; management remains committed to 2.5-3.5× net leverage by year-end 2024.  
+• Pro forma for the sale, Mativ will be a ~$2.2 billion revenue company with roughly 13 percent EBITDA margins and a multi-year organic sales CAGR target of 3-5 percent. Quarterly EBITDA run-rate is expected to average ~$70 million. About 40 percent of sales will derive from the three growth platforms of filtration, release liners and protective solutions, allowing for increased reinvestment in higher-growth, higher-margin categories.  
+• Capital-allocation policy has been recalibrated: the annual dividend has been right-sized to ~25 percent of expected post-close cash flow, and a $30 million share-repurchase authorization was approved. Nevertheless, deleveraging remains the first call on cash; buybacks will be “opportunistic.”  
+
+Strategic and Qualitative Takeaways  
+Management emphasized that, although macro demand remains muted, the company is controlling what it can—pricing discipline, synergy delivery, cost reduction and targeted growth investments. Second-quarter performance confirmed these levers are working: margins held firm, sequential EBITDA rebounded sharply, and cash generation turned positive. With the EP divestiture accelerating deleveraging and sharpening the portfolio’s growth focus, Mativ believes it is positioned for improved operating leverage once volumes normalize and for sustainable value creation over the medium term.

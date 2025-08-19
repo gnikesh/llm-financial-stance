@@ -1,0 +1,428 @@
+sample_id,Instances,Company,Quarter,Year,filename,type,LLM_Stance_o3_pro,LLM_Reason_o3_pro
+5d097ca8eb3a0a20b03707eac30d4a84,"Net Loss and Net Loss per Share Net loss during the three months ended March 31, 2024 was $28.0 million, or $0.52 per diluted share, compared to net loss of $15.5 million, or $0.28 per diluted share, during the prior year period.",MATIV-HOLDINGS,Q1,2024,Training-10-K-2023_MATIV-HOLDINGS.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “net loss per diluted share” was –$0.52 this quarter versus –$0.28 in the prior-year quarter.  
+   • EPS has therefore moved further into negative territory (larger loss per share), signalling a deterioration in profitability (Guideline 1: focus on EPS changes; Guideline 4: changes over time).  
+   • A widening loss per share is an unfavorable indicator for shareholders.  
+   • No offsetting positive cue is provided, so the dominant context is negative (Guideline 5).  
+   • The 10-K context was not required to interpret this straightforward year-over-year EPS decline.
+
+2. Stance: Negative
+
+3. Brief Justification: The loss per diluted share worsened from –$0.28 to –$0.52, indicating a decline in EPS and profitability.  
+
+Context Usage: Not necessary."
+554fa92d6c3ea48039185901a62f0727,"Net Loss and Net Loss per Share Net loss during the three months ended June 30, 2024 was $1.4 million, or $0.03 per diluted share, compared with net loss of $14.3 million, or $0.26 per diluted share, during the prior-year quarter.",MATIV-HOLDINGS,Q2,2024,Training-10-K-2023_MATIV-HOLDINGS.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly compares diluted EPS for two periods (guideline #1).  
+   • EPS moved from a loss of ­$0.26 to a much smaller loss of ­$0.03 (guideline #4: changes over time).  
+   • A reduced loss per share signals improved profitability and a favorable trend for EPS (guideline #5: dominant context is improvement).  
+   • No contradictory cues are present.  
+   • The 10-K context is not needed to reach this conclusion; the sentence alone provides the evidence.
+
+2. Stance: Positive
+
+3. Brief Justification  
+EPS improved substantially (loss narrowed from ­$0.26 to ­$0.03 per share), indicating a favorable movement toward profitability.  (Context not necessary)"
+3ceee6adc16b8bf0f0c14cda0cef99b0,"Net Loss and Net Loss per Share Net loss during the six months ended June 30, 2024 was $29.4 million, or $0.54 per diluted share, compared to net loss of $29.8 million, or $0.55 per diluted share, during the prior year period.",MATIV-HOLDINGS,Q2,2024,Training-10-K-2023_MATIV-HOLDINGS.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states diluted EPS was a loss of $0.54 versus a larger loss of $0.55 in the prior-year period.  
+   • EPS has therefore improved (loss narrowed), which is a “rising EPS” signal under Guideline 4.  
+   • Although EPS is still negative, the dominant information is the year-over-year improvement.  
+   • Improvement in EPS is considered favorable for profitability, so the stance is Positive.  
+   • All necessary evidence is contained within the sentence; the broader MD&A context is not required.
+
+2. Stance: Positive
+
+3. Brief Justification: EPS loss narrowed from –$0.55 to –$0.54, indicating an improvement in per-share results, which is a favorable signal for profitability.  
+
+Context use: Not necessary."
+bd62b754984725b2d8f81284a4c78064,"Net Loss and Net Loss per Share Net loss during the three months ended September 30, 2024 was $20.8 million, or $0.38 per diluted share, compared with net loss of $464.3 million, or $8.50 perdiluted share, during the prior-year quarter.",MATIV-HOLDINGS,Q3,2024,Training-10-K-2023_MATIV-HOLDINGS.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly compares diluted EPS (net loss per share) for two periods.  
+   • Current-year quarter: -$0.38 EPS; prior-year quarter: -$8.50 EPS.  
+   • Although EPS is still negative, the loss per share has narrowed dramatically (less negative).  
+   • Guideline 4 (changes over time) says an improvement in EPS, even from negative toward zero, is a favorable signal for profitability.  
+   • No offsetting negative cues are present in the sentence.  
+   • Therefore, the dominant context indicates a Positive stance toward EPS.
+
+2. Stance: Positive
+
+3. Brief Justification: EPS improved from a loss of $8.50 to a much smaller loss of $0.38 per diluted share, indicating better profitability.
+
+Context Usage: Not necessary – the sentence alone provides the required EPS comparison."
+7f45582b7d31f4b7fee6db80755d347c,"Net Loss and Net Loss per Share Net loss during the nine months ended September 30, 2024 was $50.2 million, or $0.93 per diluted share, compared to net loss of $494.1 million, or $9.06 per dilutedshare, during the prior year period.",MATIV-HOLDINGS,Q3,2024,Training-10-K-2023_MATIV-HOLDINGS.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly presents diluted EPS figures for two periods.  
+   • EPS moved from a loss of $9.06 to a much smaller loss of $0.93.  
+   • This represents a large improvement in earnings per share (less negative → rising EPS).  
+   • Guideline #4 says rising or improving EPS signals a favorable outlook for profitability.  
+   • No conflicting cues are present.  
+
+2. Stance: Positive  
+
+3. Brief Justification: EPS improved markedly—from a loss of $9.06 to a loss of $0.93 per share—indicating better profitability. (Context not necessary for this determination.)"
+dfb9b0421929e609e1e09fadfae66fd0,A discussion related to the components of year-on-year changes in operating income margin and earnings per diluted share follows: 20,MMM,,2022,Training-10-K-2022_MMM.txt,Test,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence is purely introductory; it only states that a discussion of year-on-year changes in operating income margin and EPS will follow.  
+   • It provides no numbers, no direction (increase/decrease), no qualitative assessment, and no outlook.  
+   • Per Guideline 6, when EPS is merely referenced without indicating a favorable or unfavorable change, the correct label is Neutral.  
+   • The broader 10-K context was not needed, as the sentence itself contains no evaluative content.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence is a procedural statement announcing a forthcoming discussion and offers no positive or negative information about EPS."
+e31ff5c58337e60d5d5fed44e2fe4ba2,"In 2022, the following components impacted operating margins and earnings per diluted share year-on-year: Declines in disposable respirator demand year-on-year negatively impacted operating margins by 0.3 percent and earnings per share by $0.29.",MMM,,2022,Training-10-K-2022_MMM.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly quantifies a “negative” impact of –$0.29 on earnings per diluted share.  
+   • Per Guideline 4 (changes over time and financial indicators), a decline that reduces EPS is an unfavorable signal.  
+   • No conflicting cues are present, so the dominant context is clearly negative.  
+   • The surrounding Item 7 context is not needed to interpret this direct statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that lower disposable-respirator demand “negatively impacted … earnings per share by $0.29,” indicating a decrease in EPS.  
+
+Context Usefulness: Not necessary."
+c6e1a20cf5dac38a8bd9930475173006,"Remaining organic growth/productivity and other impacts resulted in a net year-on-year benefit $0.85 to earnings per share and 1.3 percent tooperating margins which was impacted by the following: Benefits from strong pricing, spending discipline and 2021 restructuring actions Manufacturing headwinds from global supply chain challenges; geopolitical impacts due to the Russia/Ukraine conflict as well asongoing COVID-related challenges in China Second quarter of 2021 benefit of $91 million pre-tax ($0.12 per share after tax) from the impact of the favorable decision of theBrazilian Supreme Court regarding the calculation of past social taxes Increased investments in growth, productivity and sustainability In 2021, organic volume growth and ongoing cost management increased operating income margins and earnings per diluted share year-on-year offsetby manufacturing headwinds from global supply chain challenges and increased compensation/benefit costs.",MMM,,2022,Training-10-K-2022_MMM.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly quantifies “a net year-on-year benefit $0.85 to earnings per share,” signalling EPS improvement.  
+   • Additional positives are cited: strong pricing, spending discipline, restructuring, and a $0.12 per-share gain from a Brazilian tax ruling.  
+   • Although headwinds (supply-chain, geopolitical, COVID, higher comp costs) are mentioned, the word “net” conveys that positives outweighed negatives for EPS.  
+   • Therefore, the dominant message is that EPS rose versus the prior year, indicating a favourable profitability impact.  
+   • The surrounding 10-K context is not required; the sentence itself provides the necessary EPS information.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states a “net year-on-year benefit $0.85 to earnings per share,” showing that EPS increased despite headwinds.  
+
+Context necessity: Not necessary."
+55cf36e9efb9477bbcb50aebd2feb0e1,"Shares of common stock outstanding: Lower shares outstanding increased earnings per share per diluted share for 2022, while higher shares outstanding decreased earnings per share dilutedshare for 2021.",MMM,,2022,Training-10-K-2022_MMM.txt,Test,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses the mechanical effect of share count on EPS: fewer shares in 2022 raised EPS (positive), while more shares in 2021 lowered EPS (negative).  
+   • Because it presents both a positive and a negative impact in equal measure, the overall sentiment is mixed rather than clearly favorable or unfavorable.  
+   • Guideline 5 says that when cues conflict, judge the dominant context; here no single stance dominates, so the net stance is Neutral.  
+   • The surrounding 10-K context is not needed to interpret this straightforward statement.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence simultaneously notes that EPS was boosted in 2022 and reduced in 2021 due to share-count changes, yielding no clear overall positive or negative direction.  
+
+Context helpful/necessary: Not necessary"
+fb517fd89f25fbc274cc35362538e4b0,"The income tax benefits attributable to the tax status of these subsidiaries are estimated to be $170 million (30 cents per diluted share) in 2022, $204 million (36 cents per diluted share) in 2021, and $163 million (28 cents per diluted share) in 2020.",MMM,,2022,Training-10-K-2022_MMM.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence quantifies income-tax “benefits,” which are additive to EPS.  
+   • Comparing the years shows the benefit fell from $0.36 per share in 2021 to $0.30 in 2022 (a 6-cent drop).  
+   • A decline in a component that boosts EPS signals a worsening contribution to profitability.  
+   • Although the benefit remains positive in absolute terms, the year-over-year reduction is the dominant cue (Guideline 4: changes over time).  
+   • Therefore, the stance toward EPS is negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+The tax benefit that lifts EPS shrank from $0.36 to $0.30 per share year-over-year, indicating a reduced positive impact on earnings.  
+
+Context use: Not necessary—the sentence alone provides sufficient information."
+897300ed607c5dcd316f2c85a073315e,"The 2022 performancecriteria for these performance shares (organic sales growth, free cash flow growth, and earnings per share growth) were selected because the Company believesthat they are important drivers of long-term stockholder value.",MMM,,2022,Training-10-K-2022_MMM.txt,Test,Neutral,"1. Chain-of-Thought Reasoning  
+   • Sentence merely lists the metrics (organic sales growth, free cash flow growth, EPS growth) that were chosen as performance criteria.  
+   • It does not state that EPS actually increased, will increase, or is expected to increase; it only says the company believes these metrics drive value.  
+   • According to Guideline 6, if EPS is only mentioned without conveying a clear positive or negative change, the stance is Neutral.  
+   • No conflicting cues are present, so the dominant (and only) cue is informational rather than directional.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only notes that EPS growth is one of several chosen performance metrics without indicating whether EPS is rising or falling, giving no clear positive or negative signal about profitability.
+
+Context use: Not necessary—the sentence alone provides enough information for classification."
+254424df02d36e71913ff842287ea381,A discussion related to the components of year-on-year changes in earnings (loss) per diluted share follows: Organic growth/productivity and other:,MMM,,2023,Training-10-K-2023_MMM.txt,Test,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence merely states that a discussion about year-on-year EPS changes will follow; it does not yet describe whether EPS increased, decreased, or remained flat.  
+   • There is no explicit or implicit indicator of favorable or unfavorable impact on profitability—no numbers, trends, or qualitative judgment.  
+   • According to Guideline 6, when EPS is only mentioned without conveying a stance, the correct label is Neutral.  
+   • The broader 10-K context is not needed to interpret this particular sentence because the sentence itself lacks evaluative content.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence is a procedural lead-in that references EPS but provides no information about its direction or impact, so it carries no positive or negative stance.
+
+Context use: Not necessary."
+38e116bc14af79e56be74950cb4099b7,"In 2023, the following components impacted operating margins and earnings (loss) per diluted share year-on-year: Declines in disposable respirator demand year-on-year and the 2022 exit of operations in Russia negatively impacted earnings (loss) per shareby $0.43.",MMM,,2023,Training-10-K-2023_MMM.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “earnings (loss) per diluted share.”  
+   • It states that declines in respirator demand and the Russia exit “negatively impacted” EPS by $0.43, which is a clear indicator of an unfavorable effect on profitability (Guideline 1 & 4: changes over time and financial indicators).  
+   • No conflicting cues are present; the dominant context is unequivocally adverse.  
+   • Therefore, the stance toward EPS is Negative.  
+   • The broader MD&A context is not required to make this determination because the sentence itself contains the needed information.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence says these factors “negatively impacted earnings (loss) per share by $0.43,” directly signaling a decline in EPS.  
+
+Context use: Not necessary."
+4ccccd4d3de20af3cd0b99f249ff3f85,"Remaining organic growth/productivity and other impacts resulted in a net year-on-year increase of $0.73 per share which was impacted bythe following: Benefits from spending discipline, sourcing actions, restructuring, higher selling prices and ongoing productivity actions Lower sales volumes (particularly electronics/consumer retail); investments in growth, productivity, and sustainability;manufacturing/supply chain headwinds; inflation impacts; China; and Europe's geopolitical impacts In 2022, the following components impacted earnings per diluted share year-on-year: Declines in disposable respirator demand year-on-year negatively impacted earnings per share by $0.29.",MMM,,2023,Training-10-K-2023_MMM.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly discusses “earnings per share” and quantifies a “net year-on-year increase of $0.73 per share,” which is an explicit improvement in EPS (Guideline 4: changes over time).  
+   • Although various headwinds are listed (lower volumes, inflation, geopolitical issues), they are framed as components affecting the total, and the overall result remains an increase (Guideline 5: weigh conflicting cues; dominant effect is positive).  
+   • A separate 2022 reference notes a –$0.29 impact from respirator demand, but this is historical context and does not override the stated net improvement for the current comparison period.  
+   • Therefore, the sentence signals a favorable outcome for profitability via higher EPS.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence states that EPS experienced a “net year-on-year increase of $0.73 per share,” indicating a positive impact despite some offsetting negatives.
+
+Context usage: Not necessary—the sentence alone provides sufficient information to classify the stance."
+5c9dfb71f0a1b7e3f306d7b63c962b57,"Remaining organic growth/productivity and other impacts resulted in a net year-on-year benefit $0.51 to earnings per share which wasimpacted by the following: Benefits from strong pricing, spending discipline and 2021 restructuring actions Manufacturing headwinds from global supply chain challenges; geopolitical impacts due to the Russia/Ukraine conflict as well asongoing COVID-related challenges in China 2021 benefit of $91 million pre-tax ($0.12 per share after tax) from the impact of the favorable decision of the Brazilian SupremeCourt regarding the calculation of past social taxes Increased investments in growth, productivity and sustainability In 2023, lower defined benefit pension and postretirement service cost decreased expense year-on-year.",MMM,,2023,Training-10-K-2023_MMM.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses EPS and quantifies a “net year-on-year benefit $0.51 to earnings per share.”  
+   • A benefit to EPS means profitability improved.  
+   • Although the sentence lists some headwinds (supply-chain, geopolitical, COVID), it clarifies that, after netting all factors, the effect on EPS is positive.  
+   • Guideline 4 (changes over time) says rising EPS or benefits to EPS signal a Positive stance. Therefore, the dominant context is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states there was a “net year-on-year benefit $0.51 to earnings per share,” indicating EPS increased, which is favorable for profitability.  
+
+Context necessity: Not necessary—the sentence alone contains the decisive information."
+14d925a2ada849cc72531f336c97380e,Shares of common stock outstanding: Lower shares outstanding increased earnings per share per diluted share for 2023 and 2022. 21,MMM,,2023,Training-10-K-2023_MMM.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that “Lower shares outstanding increased earnings per share” for both 2023 and 2022.  
+   • An increase in EPS is a direct indicator of improved profitability for shareholders.  
+   • No conflicting cues are present; the effect on EPS is clearly favorable.  
+   • Therefore, per Guideline #1 and #4 (changes over time and financial indicators), the stance toward EPS is Positive.  
+   • The broader 10-K context reiterates that reduced share count added +$0.21 to EPS, but this information is not required to interpret the sentence.
+
+   Context helpful/necessary: Not necessary (the sentence alone conveys the positive effect).
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that lower shares outstanding increased diluted earnings per share in 2023 and 2022, signaling a favorable impact on EPS."
+7b06457e1bf243ba6511ad46850b1ac9,"Net sales Sales change Operating income (loss) Operating income (loss) margin Income (loss) before taxes Provision (benefit) for income taxesEffective taxrate Net income(loss) attributable to 3M Earnings (loss) per diluted share Earnings (loss)per diluted share percent change Safety and Industrial GAAP amounts $ 2,324 21.2 % Adjustments for special items: Net costs for significant litigation 84 Total special items 84 Adjusted amounts (non-GAAP measures) $ 2,408 22.0 % Transportation and Electronics GAAP amounts $ 8,501 (4.5)% $ 1,312 15.4 % Adjustments for special items: Manufactured PFAS products (1,289) 205 Total special items (1,289) 205 Adjusted amounts (non-GAAP measures) $ 7,212 (4.5)% $ 1,517 21.0 % Total Company GAAP amounts $ 32,681 (4.5)% $ (9,128) (27.9)% $ (9,688) $ (2,691) 27.8 % $ (6,995) $ (12.63) N/M Adjustments for special items: Net costs for significant litigation 14,869 15,245 3,615 11,630 21.00 Manufactured PFAS products (1,289) 205 205 50 155 0.28 Gain on business divestitures (36) (36) (11) (25) (0.05) Russia exit charges (benefits) (18) (18) 3 (21) (0.04)",MMM,,2023,Training-10-K-2023_MMM.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “Earnings (loss) per diluted share … $(12.63)”, i.e., a GAAP loss per share.  
+   • A negative EPS clearly signals an unfavorable impact on profitability (Guideline 4: financial indicators/trends).  
+   • Although later lines show “adjustments for special items” that would lift an adjusted EPS figure, the dominant, headline number presented is the large GAAP loss; under Guideline 5, the negative cue outweighs the offsetting adjustment.  
+   • Therefore, the stance toward EPS is Negative.  
+   • The broader MD&A context merely confirms the same $(12.63) GAAP EPS figure, so it is not essential for the judgment.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence reports a GAAP loss of $(12.63) per diluted share, indicating a deterioration in profitability, hence a negative EPS outlook.  
+   Context necessity: Not necessary."
+1fbc98decb6e191c4b9be1b3ac462220,"The income tax benefits attributable to the tax status of these subsidiaries are estimated to be $112 million (20 cents per diluted share) in 2023, $170 million (30 cents per diluted share) in 2022, and $204 million (36 cents per diluted share) in 2021.",MMM,,2023,Training-10-K-2023_MMM.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence quantifies how much the company’s income-tax benefits added to diluted EPS in each of the past three years.  
+   • The contribution falls from $0.36 in 2021 to $0.30 in 2022 and further to $0.20 in 2023.  
+   • A shrinking tax benefit means a smaller positive impact on EPS, representing an unfavorable trend for profitability (Guideline 4: “changes over time”).  
+   • No offsetting positive cues are present, so the dominant signal is negative.  
+   • The wider 10-K context is not needed to interpret this downward trend.  
+
+2. Stance: Negative  
+
+3. Brief Justification: The tax benefit per diluted share declines from $0.36 (2021) to $0.30 (2022) to $0.20 (2023), signaling a diminishing contribution to EPS and therefore a negative implication for profitability.  
+
+Context Use: Not necessary."
+e6e98679c3d0c52f074400f8a9a777ca,"The2023 performance criteria for these performance shares (organic sales growth, free cash flow growth, and earnings per share growth) were selected because the Company believes that they are important drivers of long-term stockholder value.",MMM,,2023,Training-10-K-2023_MMM.txt,Test,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence simply lists the metrics the company chose for its performance-share plan, one of which is “earnings per share growth.”  
+   • It does not state whether EPS actually increased, decreased, or is expected to change—only that EPS growth is viewed as important.  
+   • Therefore, there is no clear positive or negative signal about current or future profitability tied to EPS; the statement is informational.  
+   • According to Guideline 6, if EPS is only tangentially referenced without indicating direction, the stance is Neutral.  
+   • The broader 10-K context is not needed to assess this specific sentence.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence merely identifies EPS growth as a performance metric without indicating any actual or expected change in EPS, providing no positive or negative implication for profitability.  
+
+Context necessity: Not necessary."
+63cbcdd669ea0f42104e698656e6f130,"In 2024, the following components impacted earnings (loss) from continuing operations per diluted share year-on-year: Year-on-year increase of $0.77 per share as a result of benefits from organic growth (including from new product launches), productivity,strong spending discipline and restructuring (including a $30 million cumulative translation adjustment restructuring benefit as certainentities were substantially liquidated in the fourth quarter of 2024) partially offset by growth investments Nonrecurring items including gain on property sales resulted in a net year-on-year increase of $0.08 per share Income from transition services agreements with Solventum (refer to Note 2 for additional discussion) resulted in a net year-on-year increaseof $0.08 per share.",MMM,,2024,Training-10-K-2024_MMM.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “earnings (loss) from continuing operations per diluted share,” i.e., EPS.  
+   • It quantifies several items that “resulted in a net year-on-year increase” to EPS:  
+     – +$0.77 per share from organic growth, productivity, spending discipline, and restructuring.  
+     – +$0.08 per share from non-recurring property-sale gains.  
+     – +$0.08 per share from transition-service income.  
+   • Although it mentions the positive impact was “partially offset by growth investments,” the dominant message is that EPS rose overall.  
+   • According to guideline 4 (changes over time) and guideline 5 (dominant context), a year-on-year increase in EPS components signals a favorable impact on profitability.  
+   • Therefore, the stance toward EPS is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence lists multiple factors that collectively raised EPS by roughly $0.93 per share year-on-year, indicating an overall positive effect on profitability.  
+
+Context use: Not necessary—the sentence alone provides sufficient information to classify the stance."
+82f6e1923b161e640bcb59e39f853227,"In 2023, the following components impacted earnings (loss) from continuing operations per diluted share year-on-year: Declines in disposable respirator demand year-on-year and the 2022 exit of operations in Russia negatively impacted earnings (loss) per share by $0.38.",MMM,,2024,Training-10-K-2024_MMM.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that certain factors “negatively impacted earnings (loss) per share by $0.38.”  
+   • A negative impact on EPS directly signals an unfavorable effect on profitability (Guideline 4: changes over time / financial indicators).  
+   • There is no offsetting positive information in the sentence, so the dominant context is clearly negative (Guideline 5).  
+   • The broader Item 7 context is not required to understand this direct statement.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence says that lower disposable-respirator demand and the Russia exit “negatively impacted … earnings (loss) per share by $0.38,” indicating a direct reduction in EPS.  
+
+Context Use: Not necessary."
+d3fc5e3b6de091561fc9fbab6a978b25,"Remaining organic growth/productivity and other impacts resulted in a net year-on-year increase of $0.61 per share which was impacted bythe following: Benefits from spending discipline, sourcing actions, restructuring, higher selling prices and ongoing productivity actions Lower sales volumes (particularly electronics/consumer retail); investments in growth, productivity, and sustainability;manufacturing/supply chain headwinds; inflation impacts; China; and Europe's geopolitical impacts In 2024 and 2023, lower defined benefit pension and postretirement service cost decreased expense year-on-year.",MMM,,2024,Training-10-K-2024_MMM.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “net year-on-year increase of $0.61 per share,” which is a direct, favorable change in per-share earnings (Guideline 4: changes over time).  
+   • Although both positive factors (spending discipline, higher prices, productivity) and negative factors (lower volumes, inflation, geopolitical impacts) are listed, the resulting overall effect is still an EPS increase (“net … increase”), so the dominant context is positive (Guideline 5: weigh conflicting cues).  
+   • Lower pension and post-retirement costs further “decreased expense,” another benefit to profitability.  
+   • Therefore, the stance toward EPS is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports a net year-on-year EPS rise of $0.61 per share, driven by cost discipline and productivity improvements, despite some headwinds.  
+
+Context necessity: Not necessary—the sentence itself contains all information needed to classify the EPS outlook."
+f4936d570b358159b52521d5c3c8861d,Shares of common stock outstanding: Shares outstanding impacted earnings (loss) from continuing operations per share year-on-year.,MMM,,2024,Training-10-K-2024_MMM.txt,Test,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence does mention EPS (“earnings (loss) from continuing operations per share”).  
+   • It merely states that the change in shares outstanding affected that EPS metric “year-on-year.”  
+   • There is no indication whether the effect was an increase or a decrease, nor any evaluative wording implying benefit or harm.  
+   • Per Guideline 6, when EPS is mentioned without a clear favorable or unfavorable signal, the stance is Neutral.  
+   • The broader 10-K context is not required to infer direction because the sentence itself gives no directional clue.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only notes that changes in share count influenced EPS year-on-year without specifying whether the impact was positive or negative, so it conveys no clear profitability stance.  
+
+Context helpful/necessary? Not necessary."
+0717debad68bf8ff2f596febd0c0c43b,"The continuing income tax benefits attributable to the tax status of these subsidiaries are estimated to be $87 million (16 cents per dilutedshare) in 2024, $100 million (18 cents per diluted share) in 2023, and $142 million (25 cents per diluted share) in 2022.",MMM,,2024,Training-10-K-2024_MMM.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly quantifies a component of diluted EPS (“cents per diluted share”).  
+   • It shows a clear downward trend: $0.25 in 2022 → $0.18 in 2023 → $0.16 in 2024.  
+   • Declining tax benefits mean less positive impact on future EPS, signalling an unfavourable development.  
+   • No other information in the sentence offsets this negative direction; thus the dominant context is adverse.  
+   • The 10-K context was not needed to interpret this specific trend.
+
+2. Stance: Negative
+
+3. Brief Justification: The per-share tax benefit shrinks from 25¢ (2022) to 16¢ (2024), reducing a source of EPS support and indicating a negative outlook for profitability.  
+
+Context use: Not necessary."
+b373261141379a7412725f2c772d1269,"The2024 performance criteria for these performance shares (organic sales growth, free cash flow growth, and earnings per share growth) were selected because theCompany believes that they are important drivers of long-term stockholder value.",MMM,,2024,Training-10-K-2024_MMM.txt,Test,Neutral,"1. Chain-of-Thought Reasoning  
+   • Guideline 1: Look for how EPS is portrayed—here the sentence only mentions “earnings per share growth” as one of several performance-share metrics.  
+   • It does not state that EPS has grown, will grow, or is expected to grow; it merely identifies EPS growth as a desired metric.  
+   • Guideline 6: When EPS is only mentioned tangentially without any quantified trend or outlook, classify as Neutral.  
+   • No conflicting cues exist; therefore dominant context is non-committal regarding actual EPS performance.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only notes that EPS growth is used as a performance criterion, without indicating any actual or projected change in EPS, so it provides no positive or negative signal about profitability.  
+
+Context Usefulness: Not necessary—the stance can be determined from the sentence alone."
+a0a7e49538846fe38b2099bb79591fca,"Discontinued Operations Net income from discontinued operations in the year ended December 31, 2023 was $198.2 million, or $3.64 per diluted share, compared to net income of $62.3 million, or $1.46 per diluted share, during the prior year period.",MATIV-HOLDINGS,,2023,Training-10-K-2023_MATIV-HOLDINGS.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly compares diluted EPS from discontinued operations between 2023 ($3.64) and 2022 ($1.46).  
+   • EPS has more than doubled year-over-year, indicating a substantial improvement in profitability for that component.  
+   • According to Guideline 4 (changes over time) and Guideline 1 (focus on EPS), a rising EPS constitutes a favorable signal.  
+   • No conflicting cues are present, so the dominant context is clearly positive.
+
+2. Stance: Positive  
+
+3. Brief Justification: Diluted EPS from discontinued operations rose sharply to $3.64 in 2023 from $1.46 in 2022, signaling improved profitability.  
+
+Context use: Not necessary—the sentence alone provides all information needed for classification."
+6eb06131769581a3293c6421579a88bb,"COVID-19 and its variants may continue to have a material adverse impact on our business operations and our financial results, including our net sales, earnings, and cash flows in the upcoming quarters.",NEENAH,,2021,Training-10-K-2021_NEENAH.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly warns that COVID-19 “may continue to have a material adverse impact” on business operations and “our financial results, including … earnings.”  
+   • “Adverse impact” signals a deterioration or downside risk to earnings; lower earnings translate directly into lower EPS.  
+   • According to Guideline 4 (projections and forward guidance), a forward-looking statement predicting harm to earnings is a Negative cue.  
+   • No offsetting positive information is provided, so the dominant context is unfavorable for EPS.  
+   • The broader 10-K context is not required to interpret this sentence; the negative wording alone suffices.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence forecasts that COVID-19 could “have a material adverse impact” on earnings, indicating a likely decline in EPS. (Context not necessary)"
+84297a6cdf2fcfdc84bb5738841b21d3,"With respect to our variable-rate debt outstanding at December 31, 2023, a 100 basis point increase in interest rates would result in a $2.6 million decrease to our future annual pre-tax earnings, taking into account the effect of the interest rate hedge transactions the Company has entered into as of December 31, 2023.",MATIV-HOLDINGS,,2023,Training-10-K-2023_MATIV-HOLDINGS.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence performs a sensitivity analysis on interest-rate risk (Guideline 4, market-risk indicator).  
+   • It explicitly states that a 100-basis-point rate increase would “result in a $2.6 million decrease to our future annual pre-tax earnings.”  
+   • Lower pre-tax earnings translate directly into lower net income and therefore lower EPS (Guideline 2: indirect cue).  
+   • The statement is clearly unfavorable for profitability; no offsetting positive cues are given.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+A 100 bp rise in rates would cut future pre-tax earnings by $2.6 million, implying a drag on EPS.  
+
+Context usefulness: Not necessary – the sentence alone contains all information needed."
+9ab2a299ff56bfc97bf69f8d341d9864,"Excluding potential impacts from raw material price movements, the Company generally projects near and long-term profit growth in the ATM segment as a result of expected organic sales growth, as well as near-term (one to three years)",MATIV-HOLDINGS,,2022,Training-10-K-2022_MATIV-HOLDINGS.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence provides forward guidance: “projects near and long-term profit growth in the ATM segment.” (Guideline 4: projections and forward guidance signal stance.)  
+   • Profit growth in a major segment normally translates into higher net income and therefore higher earnings per share. (Guideline 2: indirect cues—profit affects EPS.)  
+   • Although the projection is “excluding potential impacts from raw material price movements,” the dominant message is still an expectation of growth; the caveat does not reverse the positive direction. (Guideline 5: weigh dominant context.)  
+   • The MD&A Outlook section confirms that management expects the ATM segment to outpace GDP, reinforcing the positive implication for profitability, but the sentence alone is sufficient for classification.  
+
+   Context usefulness: Helpful but not strictly necessary; the Outlook section supports the same positive view.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence states that management “projects near and long-term profit growth” in the ATM segment, implying an expected increase in profitability and thus a favorable outlook for EPS."
+0125f117b6f1633f2954082a58a6f866,"With respect to our variable-rate debt outstanding at December 31, 2021, a 100 basis point increase in interest rates would result in a $4.4 million decrease to our future annual pre-tax earnings, taking into account the effect of the interest rate hedge transactions the Company has entered into as of December 31, 2021.",SCHWEITZER-MAUDUIT,,2021,Training-10-K-2021_SCHWEITZER-MAUDUIT.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence quantifies a sensitivity: a 100-bp rise in interest rates would cut future annual pre-tax earnings by $4.4 million.  
+   • Lower earnings translate directly into lower EPS (Guideline 4: financial indicators/trends).  
+   • No offsetting positive information is presented, so the dominant signal is unfavorable (Guideline 5).  
+   • Therefore, the stance toward EPS is negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   A 100-basis-point interest-rate increase is projected to reduce annual pre-tax earnings by $4.4 million, implying a detrimental impact on EPS.  
+
+Context use: Not necessary—the sentence itself provides the needed information."
+fe0616aa4aa92f8cbf5079f6bf699f27,"With respect to our commodity price risk, a hypothetical 10% change in per ton resin prices would impact our future annual pre-tax earnings by approximately $21.4 million, assuming no compensating change in our selling prices.",MATIV-HOLDINGS,,2023,Training-10-K-2023_MATIV-HOLDINGS.txt,Test,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence presents a sensitivity analysis (“a hypothetical 10 % change”) rather than an actual or expected movement in costs or profits.  
+   • It does not specify whether resin prices rise or fall, only that earnings would be affected by $21.4 million if no price pass-through occurs.  
+   • Because the direction of the effect on earnings (and therefore EPS) is indeterminate, the statement conveys no clear positive or negative outlook.  
+   • Per Guideline 6, when the impact on EPS is ambiguous or merely hypothetical, the appropriate stance is Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only quantifies a hypothetical sensitivity to commodity prices without indicating an actual increase or decrease in earnings, giving no clear positive or negative signal for EPS.  
+
+Context use: Not necessary – the sentence alone provides all information needed for classification."
+2dd7751d0d29c3f83c7b4402b7094e6e,"Despite the mature nature of the industry and expectation for continued market attrition, the Company believes it can deliver profit stability, and potentially growth, through a continued focus on high-value products, cost and efficiency improvements, innovation, and diversification.",SCHWEITZER-MAUDUIT,,2021,Training-10-K-2021_SCHWEITZER-MAUDUIT.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence expresses management’s outlook that it “can deliver profit stability, and potentially growth.”  
+   • Profit stability or growth implies maintaining or increasing earnings, which generally translates into sustaining or rising EPS.  
+   • Although it acknowledges industry maturity and attrition (a potential negative), the dominant message is confidence in achieving better profitability through high-value products, cost/efficiency actions, innovation and diversification—clear positive drivers under Guideline 4 (strategic actions affecting EPS).  
+   • Therefore, the overall stance toward EPS is favorable.  
+   • The broader MD&A context was not required to interpret this specific forward-looking statement.
+
+2. Stance: Positive
+
+3. Brief Justification: The company expects to maintain or grow profits through efficiency, innovation and diversification, signaling a favorable outlook for EPS.
+
+Context Usefulness: Not necessary"
+773378242fb1b3dae02e5128bbefcfe1,"With respect to our purchased energy price risk, a hypothetical 10% change in per unit prices would impact our future annual pre-tax earnings by approximately $6.0 million, assuming no compensating change in our selling prices.",MATIV-HOLDINGS,,2023,Training-10-K-2023_MATIV-HOLDINGS.txt,Test,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence presents a sensitivity analysis: a 10 % change in energy prices would affect future pre-tax earnings by ≈ $6 million.  
+   • It does not say whether energy prices will rise or fall, nor that such a change is expected—only that earnings are exposed.  
+   • Because no definite positive or negative outcome is asserted, the impact on EPS could be either favorable or unfavorable.  
+   • Per Guideline 6, when the effect on EPS is unclear or merely hypothetical, the stance is Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence merely quantifies a hypothetical sensitivity to energy-price movements without stating an expected increase or decrease, thus conveying no clear positive or negative outlook for EPS.
+
+Context usefulness: Not necessary—the neutrality is evident from the sentence alone."
+d1c127021846de130c911023f15f6603,"Net Income (Loss) and Loss per Share Net loss in the year ended December 31, 2022 was $6.6 million, or $0.18 per diluted share, compared to net income of $88.9 million, or $2.80 per diluted share, during the prior year period.",MATIV-HOLDINGS,,2022,Training-10-K-2022_MATIV-HOLDINGS.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly compares EPS year-over-year: the company moved from earnings of $2.80 per diluted share to a loss of $0.18 per diluted share.  
+   • According to Guideline 4 (changes over time) and Guideline 5 (dominant context), a decline in EPS signals a deterioration in profitability.  
+   • No contradictory information is present; therefore the stance toward EPS is clearly unfavorable.  
+   • The broader 10-K context is not required to interpret this sentence because the negative change is stated directly.
+
+2. Stance: Negative
+
+3. Brief Justification: EPS swung from a positive $2.80 to a loss of $0.18 per share, indicating a sharp deterioration in profitability.  
+Context use: Not necessary."
+92f166f561bae7d16d28adecc159b102,"Therefore, as we experienced in 2021, an increase in transportation costs could adversely affect earnings if prices for our products are not increased or if such increases significantly trail the increases in transportation costs.",NEENAH,,2021,Training-10-K-2021_NEENAH.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly links higher transportation costs to a potential adverse (i.e., negative) impact on “earnings.”  
+   • “Earnings” directly drive EPS; if earnings are hurt, EPS will decline (Guideline 1 & 4).  
+   • The conditional phrasing (“could adversely affect”) signals a negative risk rather than a neutral or positive outlook.  
+   • No offsetting positive factors are presented, so the dominant context is unfavorable (Guideline 5).  
+   • The information contained in the sentence alone is sufficient; the broader 10-K context is not required to infer this relationship.
+
+2. Stance: Negative
+
+3. Brief Justification  
+The sentence warns that rising transportation costs can “adversely affect earnings” if product price increases do not keep pace, indicating a negative outlook for EPS.  
+
+Context use: Not necessary."
+77d14f65576646a9c1dcd199766a203c,"Net Income and Income per Share Net income in the year ended December 31, 2021, was $88.9 million, or $2.80 per diluted share, compared with $83.8 million, or $2.66 per diluted share, during the prior year period.",SCHWEITZER-MAUDUIT,,2021,Training-10-K-2021_SCHWEITZER-MAUDUIT.txt,Test,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly compares diluted EPS for 2021 ($2.80) with the prior year ($2.66).  
+   • The EPS has increased year-over-year (+$0.14), signaling improved profitability per share.  
+   • Guideline 4 (“changes over time”) says an increase in EPS is a positive indicator.  
+   • There are no conflicting cues; the stance is clearly favorable.  
+   • The broader MD&A context was not needed, as the sentence alone provides the EPS trend.
+
+2. Stance: Positive
+
+3. Brief Justification: EPS rose from $2.66 to $2.80 year-over-year, indicating improved profitability. (Context not necessary)"
+ede0ea58c5855fb37a08ed576fcdc8ff,"In addition, as a result of the loss for the years ended December 31, 2021 and 2020, incremental shares of 15,553 and 20,576, respectively, resulting from the dilutive options and PSUs, were excluded from the diluted earnings per share calculation as the effect would have been anti-dilutive.",NEENAH,,2021,Training-10-K-2021_NEENAH.txt,Test,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “diluted earnings per share.”  
+   • It states that the company had a “loss for the years ended December 31, 2021 and 2020.”  
+   • Because of this loss, additional shares from options and PSUs were excluded since their inclusion would be anti-dilutive.  
+   • A loss (negative net income) directly worsens EPS; the need to exclude shares to avoid further dilution underscores an unfavorable earnings situation.  
+   • Therefore, the stance toward EPS in this sentence is negative (Guideline 4: changes in profitability metrics; Guideline 5: dominant negative cue is the reported loss).  
+   • The broader 10-K context is not required to infer this negativity, as the sentence alone provides sufficient information.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence reports net losses in 2021 and 2020 that made additional shares anti-dilutive, signaling deteriorated earnings and thus a negative outlook for EPS (context not necessary)."

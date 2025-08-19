@@ -1,0 +1,465 @@
+# Item 7.Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following is a discussion of our financial condition and results of operations. This discussion should be read in conjunction with our consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K and the selected financial data included in Part II, Item 6, "Selected Financial Data" of this Annual Report on Form 10-K. The discussion of our financial condition and results of operations includes various forward-looking statements about our markets, the demand for our products and our future prospects. These statements are based on certain assumptions that we consider reasonable. For information about risks and exposures relating to us and our business, you should read the sections entitled "Factors That May Affect Future Results," in Part I, Item 1A of this Annual Report on Form 10-K and "Forward Looking Statements" at the end of this Item 7. Unless the context indicates otherwise, references to "SWM," the "Company," "we," "us," "our," or similar terms include Schweitzer-Mauduit International, Inc. and our consolidated subsidiaries.
+
+This Management's Discussion and Analysis of Financial Condition and Results of Operations is designed to provide a reader of our financial statements with an understanding of our recent performance, our financial condition and our prospects. The following will be discussed and analyzed:
+
+• SUMMARY;
+• CRITICAL ACCOUNTING POLICIES AND ESTIMATES;
+• RECENT ACCOUNTING PRONOUNCEMENTS;
+• RESULTS OF OPERATIONS;
+• LIQUIDITY AND CAPITAL RESOURCES;
+• OTHER FACTORS AFFECTING LIQUIDITY AND CAPITAL RESOURCES;
+• OUTLOOK; and
+• FORWARD-LOOKING STATEMENTS.
+
+# SUMMARY
+In 2019, SWM reported net income of $85.8 million on total net sales of $1,022.8 million. Compared to the prior year, net sales decreased $18.5 million, however excluding negative currency impact, net sales would have increased $2.7 million due primarily to an increase in organic sales in the AMS segment.
+
+Net income decreased to $85.8 million in 2019 compared to $94.5 million in 2018. Outside of typical business drivers, several large one-time items affect the yearover-year comparison. In 2019, these items included $6.6 million (after- tax) of expenses related to Brazil tax assessments, and in 2018 included a $15.0 million (after-tax) impairment of the Company’s interest in one of its joint ventures in China, a $7.7 million (after-tax) favorable revaluation of a contingent consideration liability related to the Conwed acquisition, and a favorable $13.0 million tax adjustment related to the Tax Act. Business trends that were key drivers of year-overyear financial performance included sales growth in AMS, positive price/mix benefits in EP, cost reduction activities in both segments, and an improved raw materials cost environment across the business.
+
+Cash provided by operations was $160.3 million in 2019 up from $139.1 million in 2018. Uses of cash during 2019 included $80.5 million in net debt repayments, $54.4 million in cash dividends paid to SWM stockholders and $28.6 million of capital spending.
+
+# CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+
+We disclose those accounting policies that we consider to be significant in determining the amounts to be utilized for communicating our consolidated financial position, results of operations and cash flows in the first note to our consolidated financial statements included elsewhere herein. Our discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements. Our consolidated financial statements are prepared in conformity with accounting principles generally accepted in the U.S., which require management to make estimates that affect the amounts of revenues, expenses, assets and liabilities reported and disclosure of contingencies. Changes in these estimates could have a material impact on our financial position, results of operations, and cash flows. We discussed with the Audit Committee of the Board of Directors the estimates and judgments made for each of the following items and our accounting for and presentation of these items in the accompanying financial statements:  
+
+## Accounting for Income Taxes 
+
+Our income tax expense, deferred tax assets and liabilities, and liabilities for unrecognized tax benefits reflect management’s best estimate of current and future taxes to be paid. We are subject to income taxes in the U.S. and numerous foreign jurisdictions. The complexity of our global structure requires significant judgments and estimates in determining the allocation of income to each of these jurisdictions and consolidated income tax expense. 
+
+Deferred income taxes arise from temporary differences between the tax basis of assets and liabilities and their reported amounts in the financial statements, which will result in taxable or deductible amounts in the future. In evaluating our ability to recover our deferred tax assets in the jurisdiction from which they arise, we consider all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax-planning strategies, and results of recent operations. In projecting future taxable income, we begin with historical results adjusted for the results of discontinued operations and incorporate assumptions about the amount of future state, federal, and foreign pretax operating income adjusted for items that do not have tax consequences. The assumptions about future taxable income require the use of significant judgment and are consistent with the plans and estimates we are using to manage the underlying businesses. In evaluating the objective evidence that historical results provide, we consider three years of cumulative operating income (loss). 
+
+The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax laws and regulations in a multitude of jurisdictions across our global operations. Accounting Standards Codification Topic No. 740, Income Taxes ("ASC 740"), states that a tax benefit from an uncertain tax position may be recognized when it is more likely than not that the position will be sustained upon examination, including resolutions of any related appeals or litigation processes, on the basis of the technical merits. We (1) record unrecognized tax benefits as liabilities in accordance with ASC 740 and (2) adjust these liabilities when our judgment changes as a result of the evaluation of new information not previously available. Because of the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the unrecognized tax benefit liabilities. These differences will be reflected as increases or decreases to income tax expense in the period in which new information is available.
+
+On December 22, 2017, the Tax Cut and Jobs Act (the “Tax Act”) was enacted into law effective January 1, 2018. The new legislation contains several key tax provisions that affected the Company, and include but are not limited to a one-time deemed repatriation tax on post-1986 accumulated earnings and profits of the foreign subsidiary undistributed earnings (“transition tax”), a reduction of the federal corporate income tax rate from 35% to 21%, a new deduction for Foreign- Derived Intangible Income ("FDII"), and a new provision designed to tax Global Intangible Low Taxed Income (“GILTI”) of foreign subsidiaries effective January 1, 2018. As a result of the GILTI provision, the FASB issued Staff Q&A Topic 740, No. 5 “Accounting for Global Intangible Low-Taxed Income” requiring an entity to make an accounting policy election to either recognize deferred taxes for temporary basis differences expected to reverse as GILTI in future years or to provide for the tax expense related to GILTI in the year the tax is incurred as a period expense only. We have elected to account for GILTI as a current period expense when incurred. Management makes certain judgments in interpreting the manner in which complex key provisions of the Tax Act should be applied and in the determination of income tax expense and liabilities. 
+
+## Revenue Recognition 
+
+We have two main sources of revenue: product sales and materials conversion. We recognize product sales revenues when control of a product is transferred to the customer. For the majority of product sales, transfer of control occurs when the products are shipped from one of our manufacturing facilities to the customer. The cost of delivering finished goods to our customers is recorded as a component of cost of products sold. Those costs include the amounts paid to a third party to deliver the finished goods. Any freight costs billed to and paid by a customer are included in net sales. We also provide services to customers through the conversion of customer-owned raw materials into processed finished goods. In these transactions, we generally recognize revenue as processing is completed. 
+
+Revenue is recognized when performance obligations under the terms of a contract with a customer are satisfied, which generally occurs when control of the promised goods or services is transferred to the customer, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services. Generally, we consider collectability of amounts due under a contract to be probable upon inception of a sale based on an evaluation of the credit worthiness of each customer. If collectability is not considered to be probable, we defer recognition of revenue on satisfied performance obligations until the uncertainty is resolved. Any variable consideration, such as discounts or price concessions, is set forth in the terms of the contract at inception, and is included in the assessment of the transaction price at the outset of the arrangement. The transaction price is allocated to the individual performance obligations due under the contract based on the relative stand-alone fair value of the performance obligations identified in the contract. We typically use an observable price to determine the stand-alone selling price for separate performance obligations. 
+
+We do not typically include extended payment terms or significant financing components in our contracts with customers. Certain product sales contracts may include cash-based incentives (volume rebates or credits), which are accounted for as variable consideration. We estimate these amounts at least quarterly based on the expected forecast quantities to be provided to customers and reduce revenues recognized accordingly. Incidental items that are immaterial in the context of the contract are recognized as expense in the period incurred. We generally expense sales commissions when incurred because the amortization period is one year or less. These costs are recorded within sales and marketing expenses. We do not disclose the value of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which we recognize revenue at the amount to which we have the right to invoice for services performed. As a practical expedient, we treat shipping and handling activities that occur after control of the good transfers as fulfillment activities, and therefore, does not account for shipping and handling costs as a separate performance obligation. 
+
+## Accounting for Contingencies 
+
+We accrue an estimated loss by taking a charge to income when the likelihood that a future event, such as a legal proceeding, will result in a loss or the incurrence of a liability is probable and the amount of loss can be reasonably estimated. We disclose material contingencies if there is at least a reasonable possibility that a loss has been incurred. In determining whether a loss should be accrued, we evaluate, among other factors, the degree of probability of an unfavorable outcome and the ability to make a reasonable estimate of the amount of loss. Changes in these factors could materially impact our financial condition, results of operations, and our cash flows. 
+
+For further information, please see "Litigation" in Part I, Item 3, "Legal Proceedings" and Note 21. Commitments and Contingencies, of the Notes to Consolidated Financial Statements. 
+
+## Property, Plant and Equipment Valuation 
+
+Certain of our manufacturing processes are capital intensive; as a result, we make substantial investments in property, plant and equipment which are recorded at cost. Net property, plant and equipment comprised 22% of our total assets as of December 31, 2019. Property, plant and equipment is depreciated on the straightline method over the estimated useful lives of the assets. Production machines and related equipment are not subject to substantial technological changes rendering them obsolete and are generally depreciated over estimated useful lives of 10 to 20 years. When indications of impairment exist, we assess the likelihood of recovering the cost of long-lived assets based on our expectation of future profitability and undiscounted cash flow of the related asset group. These factors, along with management's plans with respect to the operations, are considered in assessing the recoverability of property, plant and equipment. Changes in management's estimates and plans could significantly impact our financial condition, results of operations and cash flows. 
+
+As a result of excess capacity in the tobacco-related papers industry and increased purchased material and operating costs experienced in the last several years, competitive selling prices for certain of our products are not sufficient to cover our costs with a reasonable margin. Such competitive pressures have resulted in downtime of certain paper machines and, in some cases, accelerated depreciation or impairment of certain equipment. We have also incurred restructuring costs in our AMS segment in pursuit of synergies from integrating our acquisitions. Over the past six years, we have restructured our operations to improve our competitiveness and profitability. As a result, we incurred significant charges related to asset impairments, accelerated depreciation and employee severances. 
+
+In 2011, the Company revised its plans for RTL expansion in Asia and suspended the construction of the Philippine Greenfield site. In 2015, the Company made the decision to dispose of the facility and related equipment. The Company reviewed these assets at each reporting period and recognized an impairment charge for the excess of carrying value of the assets over the fair value less any costs to sell. During 2017, the Company recognized impairment charges of $4.0 million related to the RTL Philippines assets. The Company did not record any additional impairment charges during 2018 or 2019. The legal entity and its related assets were sold on December 18, 2019 for total consideration of $13.3 million, and the Company recorded a net gain of $0.3 million. 
+
+Management continues to evaluate how to operate our production facilities more effectively. Further restructuring actions are possible that might require additional impairments or accelerated depreciation of some equipment. 
+
+## Business Combinations 
+
+Accounting for business combinations requires us to recognize, separately from goodwill, the assets acquired and the liabilities assumed ("net assets") at their acquisition date fair values. Goodwill is measured as the excess of consideration transferred over the net assets acquired at their respective fair values as of the acquisition date. The estimated fair values are based upon quoted market prices and widely accepted valuation techniques, which require significant estimates and assumptions including, but not limited to, estimating future cash flows and developing appropriate discount rates. While we use our best estimates and assumptions to accurately value assets acquired and liabilities assumed at the acquisition date, our estimates are inherently uncertain and subject to refinement. As a result, during the measurement period, which may be up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding adjustment to goodwill, based on new information obtained about the facts and circumstances that existed as of the acquisition date. Upon the conclusion of the measurement period or final determination of the values of net assets acquired, whichever comes first, any subsequent adjustments are recorded to our consolidated financial statements. See Note 5. Business Acquisitions, of the Notes to Consolidated Financial Statements for additional information. 
+
+## Investments in Equity Affiliates 
+
+Investments in companies which we do not control but over which we have the ability to exercise significant influence and that, in general, are at least 20 percentowned by us, are stated at cost plus equity in undistributed net income. These investments are evaluated for impairment when warranted. An impairment loss would be recorded whenever a decline in value of an equity investment below its carrying amount is determined to be other than temporary. In judging "other than temporary," we consider the length of time and extent to which the fair value of the equity company investment has been less than the carrying amount, the nearterm and longer-term operating and financial prospects of the equity company, and our longer-term intent of retaining the investment in the equity company. See Note 10. Joint Ventures, of the Notes to Consolidated Financial Statements for additional information. 
+
+## Goodwill and Unamortized Intangible Assets 
+
+Goodwill is not subject to amortization and is tested for impairment annually, or more frequently if events or changes in circumstances indicate that the asset may be impaired. Goodwill is measured as the excess of consideration transferred over the net assets acquired at their respective fair values as of the acquisition date. Goodwill is tested for impairment at the reporting unit level. Fair value of a reporting unit is typically based upon estimated future cash flows discounted at a rate commensurate with the risk involved or market-based comparables. If the carrying amount of the reporting unit’s net assets exceeds its fair value, then an analysis will be performed to compare the implied fair value of goodwill with the carrying amount of goodwill. An impairment loss will be recognized in an amount equal to the excess of the carrying amount over its implied fair value. After an impairment loss is recognized, the adjusted carrying amount of goodwill is its new accounting basis. The annual impairment tests performed on October 1, 2019 and 2018 did not indicate any impairment of goodwill. 
+
+Intangible assets with finite lives are amortized over their estimated useful lives and are reviewed for impairment whenever events or changes in circumstances indicate that their carrying amount may not be recoverable. An impairment loss would be indicated when estimated undiscounted future cash flows from the use of the asset are less than its carrying amount. An impairment loss would be measured as the difference between the fair value (based on discounted future cash flows) and the carrying amount of the asset. Estimated useful lives range from 10 to 23 years for customer relationships and 4 to 20 years for developed technology, patents and other intangible assets. Certain trade names are estimated to have indefinite useful lives and as such are not amortized. Intangible assets with indefinite lives are reviewed for impairment following a method similar to the impairment testing for Goodwill. Testing of these assets is performed annually and whenever events and circumstances indicate that impairment may have occurred. The annual impairment tests performed in the year of 2019 and 2018 did not indicate any impairment of intangible assets. 
+
+# RECENT ACCOUNTING PRONOUNCEMENTS 
+
+For a discussion regarding recent accounting pronouncements, see "Recent Accounting Pronouncements" included in Note 2. Summary of Significant Accounting Policies, of the Notes to Consolidated Financial Statements.
+
+# RESULTS OF OPERATIONS 
+
+| For the Years Ended December 31,                                                 | 2019    | 2018    | 2017(1) |
+|----------------------------------------------------------------------------------|---------|---------|---------|
+| ($ in millions, except per share amounts)                                        |         |         |         |
+| Net sales                                                                        | 1,022.8 | 1,041.3 | 982.1   |
+| Cost of products sold                                                            | 732.8   | 762.8   | 698.7   |
+| Gross profit                                                                     | 290.0   | 278.5   | 283.4   |
+| Selling expense                                                                  | 33.7    | 35.7    | 33.3    |
+| Research expense                                                                 | 13.5    | 15.2    | 17.8    |
+| General expense                                                                  | 105.1   | 90.9    | 95.9    |
+| Total nonmanufacturing expenses                                                  | 152.3   | 141.8   | 147.0   |
+| Restructuring and impairment expense                                             | 3.7     | 1.7     | 8.1     |
+| Operating profit                                                                 | 134.0   | 135.0   | 128.3   |
+| Interest expense                                                                 | 36.1    | 28.2    | 26.9    |
+| Other (expense) income, net                                                      | (1.0)   | 10.0    | 0.1     |
+| Income from continuing operations before income taxes and income from equity affiliates | 96.9    | 116.8   | 101.5   |
+| Provision for income taxes                                                       | 15.2    | 10.7    | 69.6    |
+| Income (loss) from equity affiliates, net of income taxes                        | 4.1     | (11.3)  | 2.5     |
+| Income from continuing operations                                                | 85.8    | 94.8    | 34.4    |
+| (Loss) gain from discontinued operations                                         | —       | (0.3)   | 0.1     |
+| Net income                                                                       | 85.8    | 94.5    | 34.5    |
+| Net income (loss) per share - basic:                                             |         |         |         |
+| Income per share from continuing operations                                      | 2.78    | 3.08    | 1.12    |
+| Loss per share from discontinued operations                                      | —       | (0.01)  | —       |
+| Net income per share - basic                                                     | 2.78    | 3.07    | 1.12    |
+| Net income (loss) per share - diluted:                                           |         |         |         |
+| Income per share from continuing operations                                      | 2.76    | 3.07    | 1.12    |
+| Loss per share from discontinued operations                                      | —       | (0.01)  | —       |
+| Net income per share - diluted                                                   | 2.76    | 3.06    | 1.12    |
+
+(1) Results during the year ended December 31, 2017 include Conwed from the January 20, 2017 acquisition date to December 31, 2017. 
+
+(2) In March 2017, the FASB issued ASU 2017-07, "Compensation - Retirement Benefits (Topic 715): Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost." The amendment requires an employer to report the service cost component in the same line item or line items as other compensation costs arising from services rendered by the pertinent employees during the period. The other components of net benefit cost are required to be presented in the income statement separately from the service cost component and outside a subtotal from operations. The Company adopted this ASU effective January 1, 2018, utilizing the retrospective transition approach upon adoption. The adoption of this guidance resulted in a reclassification of the components of net periodic pension cost, other than service cost, from Cost of products sold and General expense to Other income (expense), net, in the Consolidated Statements of Income. The reclassification of these costs affects only the EP segment, as there are no pension costs associated with the AMS segment. For the year ended December 31, 2017, $3.6 million in pension expense was reclassified from Operating profit to Other expense in the consolidated statement of income. The adoption of this guidance had no effect on Net income in the Consolidated Statements of Income and no effect on the other consolidated financial statements.
+
+Year Ended December 31, 2019 Compared with the Year Ended December 31, 2018 
+Net Sales (dollars in millions) 
+
+| Category                     | 2019   | 2018   | Change  | Percent Change |
+|------------------------------|--------|--------|---------|----------------|
+| Advanced Materials & Structures | $477.2 | $467.9 | $9.3    | 2.0%           |
+| Engineered Papers            | $545.6 | $573.4 | ($27.8) | (4.8%)         |
+| Total                        | $1,022.8 | $1,041.3 | ($18.5) | (1.8%)         |
+
+
+Net sales were $1,022.8 million in 2019 compared with $1,041.3 million in 2018. The decrease in net sales consisted of the following (dollars in millions): 
+
+| Description                                 | Amount   | Percent Change |
+|--------------------------------------------|----------|----------------|
+| Changes in currency exchange rates         | $(21.2)  | (2.1)%         |
+| Changes in royalties                       | $(0.3)   | —              |
+| Changes in product mix, selling prices, and sales volumes, net | $3.0     | 0.3%           |
+| Total                                      | $(18.5)  | (1.8)%         |
+
+AMS segment net sales were $477.2 million for 2019 compared to $467.9 million during 2018. The increase of $9.3 million or 2.0% was due primarily to growth in filtration, particularly for RO water filtration products, transportation, driven by surface protection films, and gains in medical. Infrastructure and construction and industrial sales were lower versus prior year. 
+
+The EP segment net sales were $545.6 million for 2019 compared to $573.4 million during 2018. The decreased of $27.8 million, or 4.8%, was primarily the result of the unfavorable net foreign currency impacts of $18.9 million, mainly from a weaker euro and the $8.7 million combined net unfavorable impact of changes in volumes, mix of products sold and average selling prices, in each case compared to the prior year. The Company benefited from a more favorable mix of products sold as a result of strong performance of LIP and wrapper and binder papers and de-emphasizing and/or exiting significant volumes of certain low-margin nontobacco papers. 
+
+## Gross Profit (dollars in millions) 
+
+| Category              | 2019     | 2018     | Change   | Percent Change | Percent of Net Sales (2019) | Percent of Net Sales (2018) |
+|-----------------------|----------|----------|----------|----------------|-----------------------------|-----------------------------|
+| Net sales             | $1,022.8 | $1,041.3 | $(18.5)  | (1.8)%         | 100.0%                      | 100.0%                      |
+| Cost of products sold | $732.8   | $762.8   | $(30.0)  | (3.9)%         | 71.6%                       | 73.3%                       |
+| Gross profit          | $290.0   | $278.5   | $11.5    | 4.1%           | 28.4%                       | 26.7%                       |
+
+
+Gross profit for the year ended December 31, 2019 increased by $11.5 million, or 4.1%, to $290 million from $278.5 million in the prior year. AMS gross profit increased by $12.8 million, primarily due to lower input costs, particularly resin, higher organic sales and improved manufacturing efficiencies and expenses associated with the closure of one site in 2018. In the EP segment, gross profit was flat. The favorable impact from lower wood pulp input costs and price and mix benefits was largely offset by negative impact from unfavorable currency movements and higher other input costs such as energy costs.
+
+## Nonmanufacturing Expenses (dollars in millions) 
+
+| Category               | 2019   | 2018   | Change | Percent Change | Percent of Net Sales (2019) | Percent of Net Sales (2018) |
+|------------------------|--------|--------|--------|----------------|-----------------------------|-----------------------------|
+| Selling expense        | $33.7  | $35.7  | $(2.0) | (5.6)%         | 3.3%                        | 3.4%                        |
+| Research expense       | $13.5  | $15.2  | $(1.7) | (11.2)%        | 1.3%                        | 1.5%                        |
+| General expense        | $105.1 | $90.9  | $14.2  | 15.6%          | 10.3%                       | 8.7%                        |
+| Nonmanufacturing expenses | $152.3 | $141.8 | $10.5  | 7.4%           | 14.9%                       | 13.6%                       |
+
+
+Nonmanufacturing expenses in the year ended December 31, 2019 increased by $10.5 million, or 7.4%, to $152.3 million from $141.8 million in the prior year due primarily to higher deferred compensation expenses, which was driven by a significant increase in the Company’s stock price throughout the year. Another key factor was increased IT spending. 
+
+## Restructuring and Impairment Expense (dollars in millions) 
+
+| Category                      | 2019  | 2018  | Change | Percent Change | Percent of Net Sales (2019) | Percent of Net Sales (2018) |
+|-------------------------------|-------|-------|--------|----------------|-----------------------------|-----------------------------|
+| Advanced Materials & Structures | $1.1  | $1.5  | $(0.4) | (26.7)%        | 0.2%                        | 0.3%                        |
+| Engineered Papers             | $2.6  | $0.2  | $2.4   | N.M.           | 0.5%                        | —                           |
+| Total                         | $3.7  | $1.7  | $2.0   | 117.6%         | 0.4%                        | 0.2%                        |
+
+The Company incurred total restructuring and impairment expense of $3.7 million in the year ended December 31, 2019, compared to $1.7 million in the year ended December 31, 2018, an increase of $2.0 million or 117.6%. In the year ended December 31, 2019, restructuring and impairment expenses consisted of $2.6 million in severance accruals for employees at our U.S., Brazilian and French manufacturing operations related to EP segment, as well as $1.1 million in impairment charges at our U.S. and Chinese manufacturing facilities related to our AMS segment. 
+
+In the year ended December 31, 2018, restructuring and impairment expenses consisted of $1.3 million in severance accruals for employees at our U.S. and French manufacturing operations, as well as $0.4 million in impairment charges at our U.S. manufacturing facilities.
+
+
+
+## Operating Profit (dollars in millions) 
+
+| Category                      | 2019   | 2018   | Change  | Percent Change | Return on Net Sales (2019) | Return on Net Sales (2018) |
+|-------------------------------|--------|--------|---------|----------------|----------------------------|----------------------------|
+| Advanced Materials & Structures | $64.3  | $49.5  | $14.8   | 29.9%          | 13.5%                      | 10.6%                      |
+| Engineered Papers             | $119.2 | $121.8 | $(2.6)  | (2.1)%         | 21.8%                      | 21.2%                      |
+| Unallocated expenses          | $(49.5)| $(36.3)| $(13.2) | (36.4)%        | -                          | -                          |
+| Total                         | $134.0 | $135.0 | $(1.0)  | (0.7)%         | 13.1%                      | 13.0%                      |
+
+Operating profit was $134.0 million in the year ended December 31, 2019 compared with $135.0 million during the prior year. 
+
+The AMS segment's operating profit in the year ended December 31, 2019 was $64.3 million compared to $49.5 million in the prior year period. The increase of $14.8 million in the AMS segment's operating profit during the year ended December 31, 2019 compared to the prior-year period was positively impacted by sales growth, cost reductions, and lower raw material input costs. 
+
+The EP segment's operating profit in the year ended December 31, 2019 was $119.2 million, a decrease of $2.6 million, or 2.1%, from $121.8 million in the prior year. The decrease was primarily due to higher restructuring and impairment expenses as well as expenses associated with the Brazil Tax Assessments, and negative currency impacts partially offset by positive price and mix shifts and cost reduction activities. 
+
+Unallocated expenses in the year ended December 31, 2019 were $49.5 million, up $13.2 million, or 36.4%, from the $36.3 million in the prior year period. The increase was primarily due to higher deferred compensation expenses as a result of positive stock price performance relative to 2018 and higher IT expenses to support growth initiatives. 
+
+## Non-Operating Expenses, Net 
+
+Interest expense was $36.1 million in the year ended December 31, 2019, an increase of $7.9 million from $28.2 million in the year ended December 31, 2018. The increase in interest expense is primarily due to $7.1 million of interest related to the Brazil tax assessments and a higher average interest rate compared to the prior year as a result of increases in market rates, partially offset by a lower total debt balance as of December 31, 2019 compared to the prior year. The weighted average effective interest rate on our debt facilities was approximately 4.42% and 4.20% for the years ended December 31, 2019 and 2018, respectively. 
+
+Other expense, net was $1.0 million during the year ended December 31, 2019 compared to $10.0 million Other income, net during the year ended December 31, 2018. The $11.0 million adverse change in Other (expense) income, net, was due primarily to the $10.2 million change in the fair value of the contingent consideration liability related to the Conwed acquisition in 2018, as discussed in Note 5. Business Acquisitions. 
+
+## Income Taxes 
+
+A $15.2 million and $10.7 million provision for income taxes in the years ended December 31, 2019 and 2018, respectively, resulted in an effective tax rate of 15.7% compared with 9.2% in the prior year. The Company’s effective tax rates differ from the statutory federal income tax rate of 21% due to varying tax rates in foreign jurisdictions, the relative amounts of income we earn in those jurisdictions and year over year adjustments of a $4.2 million reduction due to the one-time Brazil ICMS litigation accrual as compared to the prior year $13 million U.S. tax reform reduction. 
+
+## Income (Loss) from Equity 
+
+Affiliates Income from equity affiliates, net of income taxes, was $4.1 million in the year ended December 31, 2019 compared with a loss of $11.3 million during the prior year and reflected the results of operations of CTM and CTS. 2018 results included $15.0 million impairment of CTS, as discussed further in Note 10. Joint Ventures. 
+
+## Discontinued Operations 
+
+Because we closed our Philippines plant as previously reported, the results of this plant were reported as discontinued operations for all periods presented. Consequently, this plant's results have been removed from each line of the statements of income and the operating activities section of the statements of cash flow. In each case, a separate line has been added for the net results of the discontinued operation. Loss from discontinued operations was $0.0 million versus $0.3 million for the years ended December 31, 2019 and 2018, respectively. These amounts are primarily the result of the Company's efforts to dispose of the remaining assets and liabilities of the discontinued operations. 
+
+## Net Income and Income per Share 
+
+Net income in the year ended December 31, 2019 was $85.8 million, or $2.76 per diluted share, compared with $94.5 million, or $3.06 per diluted share, during the prior year period. The decrease in net income was primarily due to a $10.2 million decrease in Other income, net resulting from the 2018 change in the fair value of the Conwed contingent liability, a $7.9 million increase in interest expense, primarily related to the Brazil Tax Assessments, and a higher income tax expense of $4.5 million. Business trends that were key drivers of year-over-year financial performance included sales growth and lower resin input costs in the AMS segment, offset by lower sales volume and adverse currency movements in the EP segment. 
+
+For a comparison of the Company’s results of operations for the year ended December 31, 2017 to the year ended December 31, 2018, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations in the Company’s Annual Report on Form 10-K for the year ended December 31, 2018, which was filed with the U.S. Securities and Exchange Commission on March 1, 2019. 
+
+# LIQUIDITY AND CAPITAL RESOURCES 
+
+A major factor in our liquidity and capital resource planning is our generation of cash flow from operations, which is sensitive to changes in the mix of products sold, volume and pricing of our products, as well as changes in our production volumes, costs and working capital. Our liquidity is supplemented by funds available under our revolving credit facility with a syndicate of banks that is used as either operating conditions or strategic opportunities warrant. 
+
+## Cash Requirements 
+
+As of December 31, 2019, $60.3 million of our $103.0 million of cash and cash equivalents was held by foreign subsidiaries. Cash paid for income taxes (net of refunds) was $20.8 million for the year ended December 31, 2019. On December 22, 2017, the Tax Act was enacted into law. The Tax Act imposes a mandatory transition tax on accumulated foreign earnings and eliminates U.S. taxes on foreign subsidiary distributions. At December 31, 2017, we recorded a provisional tax liability of $48.7 million relating to the one-time mandatory transition tax on our accumulated foreign earnings, which we intend to pay over an eight-year payment schedule, as prescribed by the Tax Act. In the year ended December 31, 2018, we reduced the provisional tax liability by $13.0 million. We do not expect the payment of the transition taxes over the remaining years to adversely affect our liquidity and resource planning. Additionally, the Tax Act is not expected to adversely impact our debt covenant compliance. We believe that our sources of liquidity and capital, including cash on-hand, cash generated from operations and our existing credit facilities, will be sufficient to finance our continued operations and growth strategy. 
+
+Capital spending for 2020 is projected to be approximately $40.0 million to $45.0 million. We generally fund our capital projects using cash on-hand, cash generated from operations and our existing credit facilities, including the Credit Agreement, as defined below in "Debt Instruments and Related Covenants." 
+
+## Cash Provided by Operations 
+
+Net cash provided by operations was $160.3 million in the year ended December 31, 2019 compared with $139.1 million in the prior year. Our net cash provided by operations increased primarily due to a $22.5 million favorable year-over-year impact of net changes in operating working capital, which was primarily caused by lower accounts receivable balances versus prior year. Significant non-cash items that contributed to year-over-year changes in net income (and subsequently adjusted for calculate operating cash flow) include the Brazilian tax litigation accrual in 2019 and the impairment of an equity affiliate, a benefit related to the Tax Act, and the favorable revaluation of contingent consideration in 2018. 
+
+### Working Capital 
+
+As of December 31, 2019, we had net operating working capital of $168.8 million and cash and cash equivalents of $103.0 million, compared with net operating working capital of $195.2 million and cash and cash equivalents of $93.8 million as of December 31, 2018. Changes in the amounts that make up these balances also reflect the impacts of changes in currency exchange rates, which are included in the changes in operating working capital presented on the Consolidated Statements of Cash Flow. 
+
+In 2019, net changes in operating working capital decreased cash flow by $1.8 million. The improvement compared with prior year was driven primarily by lower accounts receivables and higher accrued expenses. 
+
+In 2018, net changes in operating working capital decreased cash flow by $24.3 million, driven primarily by higher accounts receivables associated with sales growth. 
+
+
+## Cash Used for Investing 
+
+Cash used for investing activities during 2019 was $14.8 million and consisted primarily of cash paid for capital spending partially offset by proceeds from the sale of RTL Philippines assets. 
+
+Cash used for investing activities during 2018 was $27.5 million and consisted primarily of cash paid for capital spending. 
+
+### Capital Spending 
+
+Capital spending was $28.6 million, and $27.0 million in 2019 and 2018, respectively. During 2019 and 2018 capital spending was primarily related to maintenance capital spending, capacity additions to support growth in filtration, transportation and infrastructure end-markets, construction on AMS manufacturing facilities in China and Poland, the development of new products, the rebuild of certain paper manufacturing lines, and IT infrastructure. 
+
+We incur capital spending as necessary to meet legal requirements and otherwise in connection with the protection of the environment at our facilities in the U.S., United Kingdom, France, Belgium, Brazil, Canada, China and Poland. For these purposes, we expect to incur capital expenditures of less than $1.0 million in each of 2020 and 2021, of which no material amount is expected to be the result of environmental fines or settlements. The foregoing capital expenditures are not expected to reduce our ability to invest in other appropriate and necessary capital projects and are not expected to have a material adverse effect on our financial condition or results of operations. 
+
+## Cash Used for Financing Activities 
+
+During 2019, financing activities consisted primarily of net repayments on borrowings of $80.5 million, cash dividends of $54.4 million paid to SWM stockholders and share repurchases of $0.9 million. 
+
+During 2018, financing activities consisted primarily of net repayments on borrowings of $61.1 million, cash dividends of $53.2 million paid to SWM stockholders, cash paid for debt issuance costs of $3.6 million and share repurchases of $3.0 million. 
+
+## Dividend Payments 
+
+We have declared and paid cash dividends on our common stock every fiscal quarter since the second quarter of 1996. On February 20, 2020, we announced a cash dividend of $0.44 per share payable on March 20, 2020 to stockholders of record as of the close of business on March 4, 2020. The covenants contained in our Indenture and Credit Agreement, each, as defined below in "Debt Instruments and Related Covenants," require that we maintain certain financial ratios, as disclosed in Note 15. Debt, of the Notes to Consolidated Financial Statements, none of which under normal business conditions materially limit our ability to pay such dividends. We will continue to assess our dividend policy in light of our overall strategy, cash generation, debt levels and ongoing requirements for cash to fund operations and to pursue possible strategic opportunities. 
+
+## Share Repurchases 
+
+In 2019 and 2018, we repurchased 25,297 shares and 75,395 shares, respectively, of our common stock at a cost of $0.9 million and $3.0 million, respectively, for the value of employees' stock-based compensation share awards surrendered to satisfy their personal statutory income tax withholding obligations. 
+
+## Debt Instruments and Related Covenants 
+
+| Debt Instruments and Related Covenants ($ in millions) | For the Years Ended December 31, |         |
+|-------------------------------------------------------|----------------------------------|---------|
+|                                                       | 2019                             | 2018    |
+| Changes in short-term debt                            | $(0.1)                           | $(1.3)  |
+| Proceeds from issuances of long-term debt             | $19.1                            | $634.2  |
+| Payments on long-term debt                            | $(99.5)                          | $(694.0)|
+| Net (repayments on) proceeds from borrowings          | $(80.5)                          | $(61.1) |
+
+
+Net repayments from borrowings were $80.5 million during 2019. Absent any substantial acquisition(s) or any share repurchases, the Company does not expect to incur any significant additional borrowings during 2020. 
+
+### Credit Agreement 
+
+On September 25, 2018, the Company entered into a $700.0 million credit agreement (the “Credit Agreement”), which replaced the Company’s previous senior secured credit facilities and provides for a five-year $500.0 million revolving line of credit (the “Revolving Credit Facility”) and a seven-year $200.0 million bank term loan facility (the “Term Loan Facility”). Subject to certain conditions, including the absence of a default or event of default under the Credit Agreement, the Company may request incremental loans to be extended under the Revolving Credit Facility or the Term Loan Facility so long as the Company is in pro forma compliance with the financial covenants set forth in the Credit Agreement and the aggregate of such increases does not exceed $400.0 million. See Note 15. Debt, of the Notes to Consolidated Financial Statements, for more information. 
+
+Borrowings under the Revolving Credit Facility will initially bear interest, at the Company’s option, at either (i) 1.75% in excess of a reserve adjusted London Interbank Offered Rate (“LIBOR”) or (ii) 0.75% in excess of an alternative base rate. Borrowings under the Term Loan Facility will initially bear interest, at the Company’s option, at either (i) 2.00% in excess of a reserve adjusted LIBOR rate or (ii) 1.00% in excess of an alternative base rate. The Term Loan amortizes at the rate of 1.0% per year and will mature on September 25, 2025. Unused borrowing capacity under the Credit Agreement was $495.5 million as of December 31, 2019. We also had availability under our bank overdraft facilities and lines of credit of $6.1 million as of December 31, 2019. 
+
+The Company was in compliance with all of its covenants under the Indenture and Credit Agreement at December 31, 2019. With the current level of borrowing and forecasted results, we expect to remain in compliance with our Credit Agreement financial covenants. 
+
+Our total debt to capital ratios, as calculated under the Credit Agreement, at December 31, 2019 and December 31, 2018 were 47.6% and 52.7%, respectively. 
+
+### Senior Secured Notes 
+
+On September 25, 2018, the Company closed a private offering of $350.0 million of 6.875% senior unsecured notes due 2026 (the “Notes”). The Notes are guaranteed on a senior unsecured basis by each of the Company’s existing and future wholly-owned subsidiaries that is a borrower under or that guarantees obligations under the Credit Agreement, as defined below, or that guarantees certain other indebtedness, subject to certain exceptions. 
+
+The Notes were issued pursuant to an Indenture (the “Indenture”), dated as of September 25, 2018, by and among the Company, the guarantors listed therein and Wilmington Trust, National Association, as trustee. The Indenture provides that interest on the Notes will accrue from September 25, 2018 and is payable semiannually in arrears on April 1 and October 1 of each year, beginning on April 1, 2019, and the Notes mature on October 1, 2026. 
+
+The Company may redeem some or all of the Notes at any time on or after October 1, 2021, at the redemption prices set forth in the Indenture, together with accrued and unpaid interest, if any, to, but excluding, the redemption date. Prior to October 1, 2021, the Company may redeem some or all of the Notes at a price equal to 100% of the principal amount thereof, plus a “make-whole” premium as set forth in the Indenture. The Company may redeem up to 35% of the original aggregate principal amount of the Notes on or prior to October 1, 2021 with the proceeds of certain equity offerings at a redemption price equal to 106.875% of the principal amount of the Notes. If the Company sells certain assets or consummates certain change of control transactions, the Company will be required to make an offer to repurchase the Notes, subject to certain conditions. 
+
+For a comparison of liquidity and capital resources and the Company’s cash flow activities for the fiscal year ended December 31, 2018 and 2017, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations in the Company’s Annual Report on Form 10-K for the year ended December 31, 2018, which was filed with the U.S. Securities and Exchange Commission on March 1, 2019. 
+
+## Off-Balance Sheet Arrangements 
+
+As of December 31, 2019, we did not have any significant off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K. 
+
+# OTHER FACTORS AFFECTING LIQUIDITY AND CAPITAL RESOURCES 
+
+The following table represents our future contractual cash requirements for the next five years and thereafter for our long-term debt obligations and other commitments ($ in millions): 
+
+| Contractual Obligations                   | Total   | 2020  | 2021  | 2022  | 2023  | 2024  | Thereafter |
+|-------------------------------------------|---------|-------|-------|-------|-------|-------|------------|
+| Current debt (1)                          | $2.8    | $2.8  | $—    | $—    | $—    | $—    | $—         |
+| Long-term debt (2)                        | $549.4  | $—    | $3.5  | $3.5  | $2.8  | $2.1  | $537.5     |
+| Debt interest (3)                         | $203.0  | $31.2 | $31.1 | $31.1 | $31.0 | $30.9 | $47.7      |
+| Restructuring obligations (4)             | $0.5    | $0.5  | $—    | $—    | $—    | $—    | $—         |
+| Minimum operating lease payments (5)      | $27.5   | $6.2  | $5.2  | $4.0  | $2.8  | $2.3  | $7.0       |
+| Purchase obligations - raw materials (6)  | $15.9   | $8.8  | $3.8  | $1.7  | $1.1  | $0.5  | $—         |
+| Purchase obligations - energy (7)         | $46.7   | $25.4 | $14.8 | $2.1  | $0.5  | $0.5  | $3.4       |
+| Tax Act transition obligation (8)         | $23.7   | $2.3  | $2.3  | $2.3  | $4.2  | $5.6  | $7.0       |
+| Other contractual obligations (9) (10) (11) | $0.4    | $0.4  | $—    | $—    | $—    | $—    | $—         |
+| Total                                     | $869.9  | $77.6 | $60.7 | $44.7 | $42.4 | $41.9 | $602.6     |
+
+(1) Current debt excludes debt issuance costs of $1.3 million; see Note 15. Debt, of the Notes to Consolidated Financial Statements. 
+
+(2) Long-term debt excludes debt issuance costs of $4.6 million and $6.9 million in unamortized discount on the senior unsecured notes; see additional information regarding long-term debt in Note 15. Debt, of the Notes to Consolidated Financial Statements. 
+
+(3) The amounts reflected in debt interest are based upon the short-term and long-term scheduled principal maturities and interest rates in effect as of December 31, 2019. Where specific maturities are not stated, such as for an overdraft line-of-credit, a repayment date coinciding with the end of the year was used for purposes of these calculations. With respect to our variable-rate debt outstanding at December 31, 2019, a 100 basis point increase in interest rates would increase our debt interest obligation by $3.7 million in 2020, taking into account the effect of the interest rate hedge transactions the Company has entered into as of December 31, 2019. For more information regarding our outstanding debt and associated interest rates, as well as hedging strategies in place which serve to fix the interest rate on a large portion of our debt, see Note 15. Debt, of the Notes to Consolidated Financial Statements. 
+
+(4) Restructuring obligations are more fully discussed in Note 14. Restructuring and Impairment Activities, of the Notes to Consolidated Financial Statements. 
+
+(5) Minimum operating lease payments relate to our future minimum obligations under non-cancelable operating leases having an initial or remaining term in excess of one year as of December 31, 2019. 
+
+(6) Purchase obligations for raw materials include our calcium carbonate purchase agreement at our plant in Quimperlé, France, in which a vendor operates an on-site calcium carbonate plant and our plant has minimum purchase quantities. See Note 21. Commitments and Contingencies, of the Notes to Consolidated Financial Statements for additional information.
+
+(7) Purchase obligations for energy include obligations under agreements with (1) an energy co-generation supplier at our plants in Quimperlé, France and Spay, France, to supply steam for which our plants have minimum purchase commitments, (2) a natural gas supplier to supply and distribute 100% of the natural gas needs of our three French plants, (3) an electricity supplier to supply and distribute the electricity needs of our three French plants, (4) an energy supplier to supply a constant supply of electricity for our Pirahy plant in Brazil, (5) an energy supplier to supply natural gas for our Pirahy plant in Brazil and (6) an energy supplier has a contract to provide biomass at our Spay, France facility for the next two years. See Note 21. Commitments and Contingencies, of the Notes to Consolidated Financial Statements for additional information. 
+
+(8) On December 22, 2017, the United States enacted the Tax Act into law, which requires a one-time transition tax on certain unrepatriated earnings of foreign subsidiaries. Companies may elect to pay the tax over eight years based on an installment schedule outlined in the Tax Act. We have made this election and have reflected our transition tax due by year as a contractual obligation. See Note. 18. Income Taxes, of the Notes to Consolidated Financial Statements for additional information. 
+
+(9) Other contractual obligations relate to commitments for capital projects. Other contractual obligations exclude $1.7 million of unrecognized tax benefits associated with uncertain tax positions for which there is no contractual obligation. We had no other long-term liabilities as defined for purposes of this disclosure by the SEC as of December 31, 2019. 
+
+(10) Other contractual obligations do not include any amounts for our pension obligations. The pension obligations are funded by our separate pension trusts, which held $127.0 million in assets at December 31, 2019. The combined projected benefit obligation ("PBO") of our U.S. and French pension plans was underfunded by $24.9 million and $26.6 million as of December 31, 2019 and 2018, respectively. We make contributions to our pension trusts based on many factors including regulatory guidelines, investment returns of the trusts and availability of cash for pension contributions versus other priorities. We expect 2020 funding to be in compliance with the Pension Protection Act of 2006. For information regarding our long-term pension obligations and trust assets, see Note 19. Postretirement and Other Benefits, of the Notes to Consolidated Financial Statements. 
+
+(11) Other contractual obligations do not include any amounts for our postretirement healthcare and life insurance benefits. Such payments are dependent upon our retirees incurring costs and filing claims; therefore, future payments are uncertain. Our net payments under these plans were approximately $0.0 million and $0.1 million in the years ended December 31, 2019 and 2018, respectively. Based on this past experience, we currently expect our share of the net payments to be less than $1.0 million during 2020 for these benefits. For more information regarding our retiree healthcare and life insurance benefit obligations, see Note 19. Postretirement and Other Benefits, of the Notes to Consolidated Financial Statements
+
+# OUTLOOK
+
+For the AMS segment, we expect our growth outlook to be driven by macro factors affecting our served end-markets, including filtration, transportation, infrastructure and construction, medical, and industrial, as well as industry demand for many of our key applications. We expect water and other specialty filtration applications, surface protection products within transportation, and our products for infrastructure and construction end-markets to deliver growth exceeding GDP, or other global growth benchmarks, over the long-term due to the relative strong demand for the specific products we provide. Generally, we believe that our sales into the industrial and medical end-markets will perform relatively in line with long-term broad economic growth in the U.S. and to some extent Europe and China. Excluding potential impacts from raw material price movements, the Company generally projects margin expansion in the AMS segment as a result of expected organic sales growth. For the EP segment, we expect our performance to be driven by macro factors, such as the expected long-term trend of reduced cigarette consumption and foreign exchange movements, and the potential regulatory changes in the tobacco industry such as approvals of various new reduced-risk tobacco products or tax-related price increases. In addition, cigarette industry consolidation may play a role in affecting trends in the tobacco industry. 
+
+# FORWARD-LOOKING STATEMENTS 
+
+This report contains forward-looking statements within the meaning of Private Securities Litigation Reform Act of 1995 that are subject to the safe harbor created by that Act and other legal protections. Forward-looking statements, include, without limitation, those regarding 2020 outlook and future performance, mergers and acquisitions, future market trends, future RTL sales and volume trends, smoking attrition rates, synergies or growth from acquisitions, incurrence of additional debt, adoption of LIP standards in new regions, reverse osmosis water filtration and global drinking water demands, integration, and growth prospects (including international growth), the deductibility of goodwill associated with the Conwed acquisition, impact of our restructuring actions, post-retirement healthcare and life insurance payments, impact of the LIP intellectual property litigation and opposition proceedings, the amount of capital spending and/or common stock repurchases, the profitability of CTS, pricing pressures (including related to LIP), future cash flows, benefits associated with our global asset realignment (including possible non-recurrence of one-time tax benefits, lower or higher effective tax rates), purchase accounting impacts, impacts of our ongoing operational excellence and other cost-reduction initiatives, increasing revenues coming from our non-tobacco operations, and other statements generally identified by words such as "believe," "expect," "intend," "plan," "potential," "anticipate," "project," "appear," "should," "could," "may," "will," "typically" and similar words. These statements are not guarantees of future performance and involve certain risks and uncertainties that may cause actual results to differ materially from our expectations as of the date of this report. These risks include, among other things, those set forth in Part I, Item 1A. Risk Factors of this report as well as the following factors: 
+
+• Changes in sales or production volumes, pricing and/or manufacturing costs of Recon products, cigarette paper (including for LIP cigarettes), including any change by our customers in their tobacco and tobacco-related blends for their cigarettes, their target inventory levels and/or the overall demand for their products, new technologies such as e-cigarettes, inventory adjustments and rebalancings in our EP segment. Additionally, competition and changes in AMS end-market products due to changing customer demands; 
+
+• Changes in the Chinese economy, including relating to the demand for reconstituted tobacco, premium cigarettes and netting; 
+
+• Risks associated with the implementation of our strategic growth initiatives, including diversification, and the Company's understanding of, and entry into, new industries and technologies; 
+
+• Changes in the source and intensity of competition in our commercial segments. We operate in highly competitive markets in which alternative supplies and technologies may attract our customers away from our products. In additional, our customers may, in some cases, produce for themselves the components that the Company sells to them for incorporation into their products, thus reducing or eliminating their purchases from us;
+
+• Our ability to attract and retain key personnel, due to our prior restructuring actions, the tobacco industry in which we operate or otherwise; 
+
+• Weather conditions, including potential impacts, if any, from climate change, known and unknown, seasonality factors that affect the demand for virgin tobacco leaf and natural disasters or unusual weather events; 
+
+• Seasonal or cyclical market and industry fluctuations which may result in reduced net sales and operating profits during certain periods; 
+
+• Increases in commodity prices and lack of availability of such commodities, including energy, wood pulp and resins, could impact the sales and profitability of our products; 
+
+• Adverse changes in the oil, gas, automotive, construction and infrastructure, and mining sectors impacting key AMS segment customers; 
+
+• Increases in operating costs due to inflation or otherwise, such as labor expense, compensation and benefits costs; 
+
+• Employee retention and labor shortages; 
+
+• Changes in employment, wage and hour laws and regulations in the U.S., France and elsewhere, including loi de Securisation de l'emploi, unionization rule and regulations by the National Labor Relations Board, equal pay initiatives, additional anti-discrimination rules or tests and different interpretations of exemptions from overtime laws; 
+
+• Labor strikes, stoppages, disruptions or other disruptions at our facilities; 
+
+• The impact of tariffs, and the imposition of any future tariffs and other trade barriers, and the effects of retaliatory trade measures; 
+
+• Existing and future governmental regulation and the enforcement thereof, for example relating to the tobacco industry, taxation and the environment (including the impact thereof on our Chinese joint ventures); 
+
+• New reports as to the effect of smoking on human health or the environment; 
+
+• Changes in general economic, financial and credit conditions in the U.S., Europe, China and elsewhere, including the impact thereof on currency exchange rates (including any weakening of the euro and Real) and on interest rates; 
+
+• Changes in the method pursuant to which LIBOR rates are determined and the potential phasing out of LIBOR after 2021; 
+
+• Changes in the manner in which we finance our debt and future capital needs, including potential acquisitions; 
+
+• The success of, and costs associated with, our current or future restructuring initiatives, including the granting of any needed governmental approvals and the occurrence of work stoppages or other labor disruptions; 
+
+• Changes in the discount rates, revenue growth, cash flow growth rates or other assumptions used by the Company in its assessment for impairment of assets and adverse economic conditions or other factors that would result in significant impairment charges; • The failure of one or more material suppliers, including energy, resin and pulp suppliers, to supply materials as needed to maintain our product plans and cost structure; 
+
+• International conflicts and disputes, such as those involving the Russian Federation, Korea and the Middle East, which restrict our ability to supply products into affected regions, due to the corresponding effects on demand, the application of international sanctions, or practical consequences on transportation, banking transactions, and other commercial activities in troubled regions; 
+
+• Events occurring in countries having a large share of the global economy (such as China, Japan, or the EU) can have an impact on economies that are interdependent and thereby affect those in which the Company primarily operates. For example, the impact of a slowdown of the Chinese economy due to the outbreak of a virus there on the global economy and our future results is uncertain. 
+
+• Compliance with the FCPA and other anti-corruption laws or trade control laws, as well as other laws governing our operations; 
+
+• The pace and extent of further international adoption of LIP cigarette standards and the nature of standards so adopted; 
+
+• Risks associated with our 50%-owned, non-U.S. joint ventures relating to control and decision-making, compliance, accounting standards, transparency and customer relations, among others; 
+
+• A failure in our risk management and/or currency or interest rate swaps and hedging programs, including the failures of any insurance company or counterparty; 
+
+• The number, type, outcomes (by judgment or settlement) and costs of legal, tax, regulatory or administrative proceedings, litigation and/or amnesty programs, including those in Brazil, France and Germany; 
+
+• The outcome and cost of LIP-related intellectual property infringement and validity litigation in Europe and the Glatz's German Patent Court invalidation proceedings; 
+
+• Risks associated with our technological advantages in our intellectual property and the likelihood that our current technological advantages are unable to continue indefinitely; 
+
+• Risks associated with acquisitions or other strategic transactions, including acquired liabilities and restrictions, retaining customers from businesses acquired, achieving any expected results or synergies from acquired businesses, complying with new regulatory frameworks, difficulties in integrating acquired businesses or implementing strategic transactions generally and risks associated with international acquisition transactions, including in countries where we do not currently have a material presence; 
+
+• Risks associated with dispositions, including post-closing claims being made against us, disruption to our other businesses during a sale process or thereafter, credit risks associated with any buyer of such disposed assets and our ability to collect funds due from any such buyer; 
+
+• Risks associated with our global asset realignment initiatives, including: changes in tax law, treaties, interpretations, or regulatory determinations; audits made by applicable regulatory authorities and/or our auditor; and our ability to operate our business in a manner consistent with the regulatory requirements for such realignment; 
+
+• Increased taxation on tobacco-related products; 
+
+• Costs and timing of implementation of any upgrades or changes to our information technology systems; 
+
+• Failure by us to comply with any privacy or data security laws or to protect against theft of customer, employee and corporate sensitive information; 56 
+
+• Changes in tax rates, the adoption of new U.S. or international tax legislation or exposure to additional tax liabilities; 
+
+• Changes in construction and infrastructure spending and its impact on demand for certain products; 
+
+• Potential loss of consumer awareness and demand for acquired companies’ products if it is decided to rebrand those products under the Company’s legacy brand names; and 
+
+• Other factors described elsewhere in this document and from time to time in documents that we file with the SEC. 
+
+All forward-looking statements made in this document are qualified by these cautionary statements. Forward-looking statements herein are made only as of the date of this document, and we do not undertake any obligation, other than as may be required by law, to update or revise any forward-looking or cautionary statements to reflect changes in assumptions, the occurrence of events, unanticipated or otherwise, or changes in future operating results over time or otherwise. 
+
+Comparisons of results for current and any prior periods are not intended to express any future trends or indications of future performance unless expressed as such, and should only be viewed as historical data. 
+
+# Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+## Foreign Currency Risk 
+
+Changes in foreign currency exchange rates may have an impact on our operating profit. Since we transact business in many countries, some of our sale and purchase transactions are denominated in a currency other than the local currency of our operations. As a result, changes in exchange rates between the currencies in which the transaction is denominated versus the local currency of our operation into which the transaction is being recorded can impact the amount of local currency recorded for such transaction. This can result in more or less local currency revenue or cost related to such transaction and thus have an effect on our operating profit. Currency transaction risk is mitigated partially in France as some of the revenue and expense transactions of our French subsidiaries are denominated in U.S. dollars, providing a degree of natural hedging. Our Brazilian and Polish operations are more fully exposed to currency transaction risk, especially as a result of U.S. dollar and euro denominated sales, respectively. 
+
+Additionally, changes in foreign currency exchange rates may have an impact on the amount reported in Other (expense) income, net. Once the above-indicated receivables and payables from the sale and purchase transactions have been recorded, to the extent currency exchange rates change prior to settlement of the balance, a gain or loss on the non-local currency denominated asset or liability balance may be experienced, in which case such gain or loss is included in Other (expense) income, net. 
+
+We utilize forward and swap contracts and, to a lesser extent, option contracts to selectively hedge our exposure to foreign currency transaction risk when it is practical and economical to do so. The use of these contracts minimizes transactional exposure to exchange rate changes because the gains or losses incurred on the derivative instrument will offset, in whole or in part, the loss or gain on the underlying foreign currency exposure. These instruments are entered into with money center banks, insurance companies or government agencies, collectively known as counterparties. We expect to continue to apply foreign currency hedging in our Brazilian and Polish operations in the foreseeable future. As of December 31, 2019, a 10% unfavorable change in the exchange rate of our functional currencies and those of our subsidiaries against the prevailing market rates of non-local currencies involving our transactional exposures would have resulted in a net pre-tax loss of approximately $3.2 million. These hypothetical gains or losses on foreign currency transactional exposures are based on the December 31, 2019 rates and the assumed rates. While we believe the above loss resulting from the hypothetical unfavorable changes in foreign currency exchange rates could be material to our results of operations, we reduce this risk by selectively hedging our exposure when it is practical and economical to do so. 
+
+## Interest Rate Risk 
+
+We may utilize a combination of variable-rate and fixed-rate debt consisting of short-term and long-term instruments. We selectively hedge our exposure to interest rate increases on our variable-rate, long-term debt when it is practical and economical to do so. We have utilized various forms of interest rate hedge agreements, including interest rate swap agreements and forward rate agreements. We utilize variable-to-fixed interest rate swap agreements, typically with contractual terms no longer than 60 months, which serve to convert a portion of our outstanding variable rate debt to a fixed rate. Various outstanding interestbearing instruments are sensitive to changes in interest rates. With respect to our variable-rate debt outstanding at December 31, 2019, a 100 basis point increase in interest rates would result in a $3.7 million decrease to our future annual pre-tax earnings, taking into account the effect of the interest rate hedge transactions the Company has entered into as of December 31, 2019. As of December 31, 2019, the percentage of the Company’s fixed and floating interest rate debt was 64% and 36%, respectively. The Company has entered into a number of interest rate hedge transactions to convert floating rate debt to fixed. On September 11, 2019, the Company entered into a pay-fixed, receive-variable interest rate swap with a maturity date of January 31, 2027. See Note 16. Derivatives, of the Notes to Consolidated Financial Statements for additional information. Including the impact of these transactions, as of December 31, 2019, the percentage of the Company’s debt subject to fixed and floating rates of interest was 97% and 3%, respectively.
+
+## Commodity Price Risk 
+
+We are subject to commodity price risks from our purchases of raw materials, including resin and wood pulp. Resin is the largest single component of raw material cost in the AMS segment and wood pulp is our largest single component of raw material cost in our EP segment. The per pound price of resin is volatile and may impact the future results of our AMS segment. Additionally, the per ton cost of wood pulp is cyclical in nature and more volatile than general inflation. During the period from January 2014 through December 2019, the U.S. list price of northern bleached softwood kraft pulp ("NBSK") a representative pulp grade that we use, increased by approximately 53%. We normally maintain approximately 50 to 90 days of inventories to support our operations. As a result, there is a lag in the impact of changes in the per ton list price of resin and wood pulp on our cost of products sold. 
+
+In our AMS segment, we utilize a variety of commodity grade and specialty resins, including a selection of specialized high temperature engineering grade resins. Certain of these specialty resins are significantly more expensive than commodity grade resins. Resin prices fluctuate significantly and can impact profitability. As we periodically enter into agreements with customers under which we agree to supply products at fixed prices, unanticipated increases in the costs of raw materials, or the lack of availability of such raw materials (due to force majeure or other reasons), can significantly impact our financial performance. Even where we do not have fixed-price agreements, we generally cannot pass through increases in raw material costs in a timely manner and in many instances are not able to pass through the entire increase to our customers. Further, some of the resins we use in our AMS segment are only available from a single supplier, or a limited number of suppliers. Consequently, such supplier(s) can control the availability and thus the cost of the resins we use, notwithstanding any changes in the cost of oil. It can be time consuming and costly, and occasionally impractical, to find replacement resins where such suppliers limit the availability or increase the cost of resins we use. Commodity grade resin prices typically correlate with crude oil prices while specialty resin prices often do not. To date, we have not utilized derivative instruments to manage this risk. With respect to our commodity price risk, a hypothetical 10% change in per ton resin prices would impact our future annual pretax earnings by approximately $13.5 million, assuming no compensating change in our selling prices. 
+
+Selling prices of our paper products are influenced, in part, by the market price for wood pulp, which is determined by worldwide industry supply and demand. Generally, over time, we have been able to increase our selling prices in response to increases in per ton wood pulp costs and have generally reduced our selling prices when wood pulp costs have significantly declined. Increases in prices of wood pulp could adversely impact our earnings if selling prices are not increased or if such increases do not fully compensate for or trail the increases in wood pulp prices. We have not utilized derivative instruments to manage this risk. With respect to our commodity price risk, a hypothetical 10% change in per ton wood pulp prices would impact our future annual pre-tax earnings by approximately $4.9 million, assuming no compensating change in our selling prices. 
+
+We believe that, while our exposure to commodity price risk is material to our results of operations, our customers understand such risk and over time changes in the price of the commodities used in our manufacturing processes are typically reflected in selling prices. 
+
+## Energy Supply and Cost Volatility 
+
+In France, Poland, China and in the U.S., availability of energy is generally reliable, although prices can fluctuate significantly based on variations in demand. In Brazil, where that country's production of electricity is heavily reliant upon hydroelectric plants, availability of electricity has been affected in the past by rain variations. Although our Brazilian business currently has a sufficient supply of energy to continue its current level of operation, there can be no assurance that we will have sufficient electricity in the future, or that costs will remain stable. 
+
+Due to the competitive pricing in the markets for most of our products, we are typically unable to fully pass through higher energy costs to our customers. With respect to our purchased energy price risk, a hypothetical 10% change in per unit prices would impact our future annual pre-tax earnings by approximately $4.8 million, assuming no compensating change in our selling prices.
+
+
+Periodically, when we believe it is appropriate to do so, we enter into agreements to procure a portion of our energy for future periods in order to reduce the uncertainty of future energy costs. However, in recent years this has only marginally slowed the increase in energy costs due to the volatile changes in energy prices we have experienced.
+
+

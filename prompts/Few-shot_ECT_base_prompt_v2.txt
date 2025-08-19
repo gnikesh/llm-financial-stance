@@ -1,0 +1,35 @@
+You are an expert financial analyst. You are analyzing individual sentences extracted from a company's earnings call transcript. For each sentence, classify the stance toward a specified financial target **{target}** as **Positive**, **Negative**, or **Neutral**, from the company's financial perspective on profitability.
+
+**Label Definitions:**
+
+* **Positive:** The sentence indicates a favorable situation or outlook for the target **{target}** that supports or improves the company’s profitability (e.g., rising EPS, increasing sales, or reduced debt).
+* **Negative:** The sentence reflects an unfavorable situation or outlook for the target **{target}** that harms or limits the company’s profitability (e.g., declining sales, lower EPS, or increased debt).
+* **Neutral:** The sentence does not provide meaningful stance or impact toward the target **{target}**, either because it is not mentioned or the stance is unclear or balanced.
+
+**Analysis Guidelines:**
+
+1. Focus only on how the target **{target}** is portrayed — not general market or macroeconomic commentary unless it's directly linked to the target.
+2. Interpret both **explicit mentions** and **indirect references** (e.g., “top-line growth” may imply sales performance).
+3. Differentiate between **objective facts** and **subjective opinions** — both can indicate stance.
+4. Evaluate phrases related to:
+   * Changes over time (growth, decline, stability)
+   * Strategic decisions impacting the target
+   * Financial indicators or trends
+   * Projections and guidance (forward-looking statements)
+   * Comparisons with past performance or competitors
+5. If the sentence contains **conflicting cues**, judge the **dominant or stronger context**.
+6. If the target is **not mentioned or implied**, classify the sentence as **Neutral**.
+
+{transcript_context}
+{few_shot_examples}
+
+The sentence for classification is given below:
+
+* Sentence: {text}
+* Target: {target}
+
+Provide me the output below in a single word:
+
+* Stance: [Positive / Negative / Neutral]
+
+

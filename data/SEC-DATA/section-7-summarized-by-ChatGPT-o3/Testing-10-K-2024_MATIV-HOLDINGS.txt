@@ -1,0 +1,159 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Executive Summary  
+
+This summary follows the order and headings of the original MD&A and retains all material quantitative and qualitative disclosures concerning sales, earnings, cash flows, capital structure, segment results, critical accounting estimates, and market-risk sensitivities.  
+
+---
+
+## Organizational Realignment Plan  
+
+Effective 1Q 2024 the Company reorganized into two reportable segments—Filtration & Advanced Materials (FAM) and Sustainable & Adhesive Solutions (SAS)—to streamline operations and sharpen market focus.  All 2023 data have been recast to this structure.
+
+## EP Divestiture  
+
+On 30 November 2023 Mativ sold its tobacco-related Engineered Papers (“EP”) business to Evergreen Hill Enterprise.  EP results are reflected as discontinued operations for all periods; the Company no longer participates in tobacco-based markets.
+
+---
+
+## Critical Accounting Estimates (Highlights)
+
+• Income taxes—valuation allowances and uncertain-tax-position reserves remain key; effective rate in 2024 benefited from the absence of the prior-year, non-deductible $401 million goodwill impairment.  
+• Goodwill—an interim 2023 test produced the $401 million non-cash impairment (now in SAS).  The 1 October 2024 annual test indicated no additional charge, though management will continue to monitor macro headwinds.  
+• Property, plant & equipment—25 % of total assets; no impairments recognized in 2024.  
+
+---
+
+## Summary of 2024 Results  
+
+In 2024 the Company recorded a net loss from continuing operations of **$48.7 million** (diluted EPS **–$0.90**) on **$1.981 billion** of net sales.
+
+Key drivers versus 2023:
+
+| Metric | 2024 | 2023 | Δ |
+| ----- | ---- | ---- | -- |
+| Net sales | $1,981.1 m | $2,026.0 m | –2.2 % |
+| Gross profit | $364.1 m | $355.8 m | +2.3 % (margin 18.4 % vs. 17.6 %) |
+| Operating profit (loss) | $6.3 m | –$413.9 m | +$420.2 m |
+| Net loss (cont. ops.) | –$48.7 m | –$507.7 m | +$459.0 m |
+| Diluted EPS (cont. ops.) | –$0.90 | –$9.33 | +$8.43 |
+| Restructuring & other impairment | $38.1 m | $22.6 m | +$15.5 m |
+| Interest expense | $74.7 m | $62.2 m | +$12.5 m |
+
+The dramatic earnings improvement stems primarily from the absence of the 2023 goodwill impairment.
+
+---
+
+## Results of Operations  
+
+### Net Sales by Segment  
+
+| 2024 | 2023 | $ Δ | % Δ |
+| --- | --- | --- | --- |
+| FAM | $766.5 m | $810.0 m | –$43.5 m | –5.4 % |
+| SAS | $1,214.6 m | $1,216.0 m | –$1.4 m | –0.1 % |
+| Total | $1,981.1 m | $2,026.0 m | –$44.9 m | –2.2 % |
+
+• FAM decline due to lower volumes (–3.7 %) and pricing (–1.9 %).  
+• SAS essentially flat; higher volumes (+2.3 %) offset by price pressure (–0.6 %) and the impact of closed/divested sites (–2.0 %).
+
+### Gross Profit  
+
+Gross profit increased to **$364.1 million**; margin widened 80 bps to 18.4 %, reflecting improved price–cost balance partially offset by volume/mix.  FAM gross profit fell $22.5 million (–11.4 %); SAS rose $30.8 million (+19.4 %).
+
+### Non-manufacturing Expenses  
+
+Selling, general & administrative fell $30.1 million (–11.4 %) to **$233.8 million**, driven by synergy capture and lower integration/divestiture costs.  R&D rose modestly to $23.0 million; intangible amortization was $62.9 million.
+
+### Restructuring & Other Impairment  
+
+Total 2024 charge: **$38.1 million** (1.9 % of sales) vs. $22.6 million in 2023.  
+• $16.4 million relates to the 2024 organizational realignment (severance), split $10.0 m SAS, $3.1 m FAM, $3.3 m unallocated.  
+• SAS also booked a $16.2 million impairment tied to the sale of the Eerbeek, Netherlands facility.
+
+### Operating Profit (Loss)  
+
+| 2024 | 2023 | Δ |
+| ---- | ---- | -- |
+| FAM | $70.0 m | $99.3 m | –$29.3 m |
+| SAS | $45.4 m | –$376.3 m | +$421.7 m |
+| Unallocated | –$109.1 m | –$136.9 m | +$27.8 m |
+| Total | $6.3 m | –$413.9 m | +$420.2 m |
+
+FAM decline stems from volume and unfavorable price–cost; SAS swing reflects prior-year goodwill impairment.
+
+### Interest, Taxes & EPS  
+
+• Interest expense: **$74.7 million**, up 20 %, on a 6.41 % blended rate (5.98 % in 2023) owing to higher floating-rate balances.  
+• Effective tax rate: 38.3 % benefit vs. –5.6 % expense in 2023; change driven by the absence of non-deductible impairment and valuation-allowance adjustments.  
+• Diluted EPS from continuing operations: **–$0.90** (vs. –$9.33).
+
+### Discontinued Operations  
+
+No activity in 2024.  The $198.2 million after-tax income in 2023 included a $170.0 million after-tax gain on the EP sale.
+
+---
+
+## Liquidity and Capital Resources  
+
+| 31 Dec 2024 | 31 Dec 2023 |
+| ----------- | ----------- |
+| Cash & equivalents | $94.3 m | $120.2 m |
+| Total debt | $1,089.3 m | $1,104.6 m |
+| Net leverage (Credit Agreement) | 4.4× | n/a |
+| Undrawn revolver availability | $356.4 m | n/a |
+
+• Nearest maturities: Revolver, Term Loan A and Delayed-Draw Term Loan, all due 6 May 2027.  
+• Company was in full covenant compliance; maximum permitted net-debt-to-EBITDA is 5.50×.  
+
+### Cash Flows  
+
+| ($ millions) | 2024 | 2023 |
+| ------------ | ---- | ---- |
+| Net cash from operations | 94.8 | 76.6 |
+| Investing (cap-ex) | (44.7) | (61.4) |
+| Financing | (55.9) | (662.0) |
+
+Financing outflows in 2024 reflect $554.7 million of debt repayments, $531.0 million revolver borrowings, and $21.6 million dividends.
+
+### Dividend  
+
+Quarterly cash dividend maintained; $0.10 per share declared 19 February 2025, payable 28 March 2025.
+
+### Share Repurchases  
+
+2024 activity immaterial; in 2023 the Company repurchased 659,146 shares for $10.7 million (including tax-withholding retirements).
+
+### Debt Capital Markets Activity  
+
+• 7 Oct 2024: issued **$400 million 8.000 % senior unsecured notes due 2029**; proceeds used to redeem the entire $350 million of 6.875 % notes due 2026 (loss on extinguishment: $7.3 million).  
+• Credit Agreement amended December 2024: increased pricing grid when net-debt-to-EBITDA ≥ 5.00×; maintains covenants of ≥ 2.50× interest coverage and ≤ 5.50× net leverage through 2025.
+
+---
+
+## Working Capital  
+
+Operating working capital (including cash) fell to **$386.2 million** from $433.9 million, mainly on lower cash balances.
+
+---
+
+## Outlook  
+
+Management expects:
+
+• FAM long-term growth above general economic trends in the U.S. and Europe; SAS growth roughly in line with broad GDP.  
+• Continued focus on synergy realization, price-cost discipline, and cash generation to delever toward targeted leverage metrics.  
+• Monitoring macro pressures (construction, automotive) that could trigger interim goodwill testing in 2025.
+
+---
+
+## Quantitative and Qualitative Disclosures about Market Risk  
+
+• Foreign currency: a 10 % unfavorable move would cut pre-tax earnings by ~$35.2 million; selective use of forward and swap contracts mitigates risk.  
+• Interest rates: after existing swaps, 89 % of debt is fixed; a 100 bp rate rise would lower annual pre-tax earnings by ~$1.2 million.  
+• Commodity prices: a 10 % rise in resin costs would reduce pre-tax earnings by ~$19.4 million; a similar pulp move would cut ~$14.1 million.  
+• Energy: a 10 % increase in purchased-energy prices would lower pre-tax earnings by ~$6.3 million.
+
+---
+
+## Forward-Looking Statements  
+
+The Company’s outlook and all statements other than historical fact are forward-looking and subject to the detailed risk factors enumerated in Item 1A, including supply-chain volatility, inflation, FX, geopolitical tensions, ESG pressures, and IT/cybersecurity threats.  Mativ undertakes no duty to update such statements except as required by law.

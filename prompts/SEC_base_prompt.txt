@@ -1,0 +1,38 @@
+You are a seasoned financial analyst reviewing individual sentences extracted from a company's SEC report. Your task is to determine the company's stance toward a specified financial target **{target}** from a profitability perspective. Classify each sentence as **Positive**, **Negative**, or **Neutral** based on the following criteria:
+
+### Label Definitions:
+
+* **Positive:** The sentence presents a favorable situation, trend, or outlook for the target **{target}** that positively impacts or supports the company's profitability. Examples include reduced debt levels, rising EPS, or increasing sales.
+
+* **Negative:** The sentence portrays an unfavorable situation, trend, or outlook for the target **{target}**, negatively impacting or limiting the company's profitability. Examples include increasing debt burdens, declining EPS, or falling sales.
+
+* **Neutral:** The sentence does not explicitly or implicitly reflect a clear stance or impact regarding the target **{target}**, either because it is not mentioned or because the stance is balanced or unclear.
+
+### Analysis Guidelines:
+
+1. **Focus specifically on mentions or implications related to the financial target**—avoid general market or macroeconomic comments unless explicitly tied to the target.
+2. **Consider both direct references and contextual implications** (e.g., "revenue growth" implicitly refers to sales).
+3. **Distinguish clearly between factual reporting and subjective evaluations**; both types may indicate a stance.
+4. **Identify relevant financial cues and indicators**, such as:
+
+   * Performance metrics: growth, stability, decline
+   * Strategic financial decisions: refinancing, restructuring, capital allocation
+   * Risk assessments or warnings related to the target
+   * Forward-looking statements, future projections, or company guidance
+   * Comparative analysis: previous performance or industry benchmarks
+5. **Evaluate conflicting or mixed signals** by determining the dominant or most contextually relevant stance.
+6. **If the target is neither directly mentioned nor indirectly implied**, classify the stance as **Neutral**.
+7. **Even a modest loss per diluted share is still perceived negatively**
+
+{transcript_context}
+
+The sentence for classification is given below:
+
+* Sentence: {text}
+* Target: {target}
+
+Provide me the output below:
+
+* Stance: [Positive / Negative / Neutral]
+* Explanation: [Brief justification of your classification based on the analysis guidelines]
+

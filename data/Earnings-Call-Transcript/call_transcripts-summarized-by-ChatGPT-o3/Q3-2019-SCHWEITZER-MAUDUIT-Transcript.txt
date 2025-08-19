@@ -1,0 +1,32 @@
+# Schweitzer-Mauduit International (SWM) – Q3 2019 Earnings Call Summary  
+
+Schweitzer-Mauduit International reported a third quarter characterised by strong margin expansion, healthy cash generation and continued deleveraging, enabling management to reaffirm full-year earnings guidance while preserving dry powder for future M&A.
+
+In the third quarter of 2019 the company generated net sales of roughly $256 million, 2 % below the prior-year period (essentially flat once currency headwinds are removed). Adjusted operating profit rose 14 % to $41.9 million and adjusted EBITDA increased 11 % to $51.4 million. Adjusted EPS reached $1.01, a 29 % improvement versus the $0.78 recorded a year ago; GAAP EPS fell to $0.90 from $1.33 due to non-recurring tax benefits and a contingent-liability write-down booked in 3Q18.
+
+Free cash flow was particularly robust at $95 million year-to-date, placing SWM within striking distance of its 2019 target of generating more than $100 million. Capital expenditures totalled $24 million over the first nine months, trending modestly below the company’s full-year budget of $35-40 million; some earmarked projects are now expected to slide into 2020. Balance-sheet leverage continued to improve: net debt/adjusted EBITDA stood at 2.3× at quarter-end, down from 2.5× at mid-year and comfortably within the limits of the credit facility. Management reiterated that capital allocation remains focused on the dividend (about $50 million annually) and further deleveraging, although the M&A pipeline remains “robust.”
+
+### Advanced Materials & Structures (AMS)  
+• Segment revenue rose 4 % to $126 million (+5 % in constant currency).  
+• Adjusted operating profit jumped 39 % to $24.4 million, with margin expanding 480 bp to a record 19.3 %.  
+• Roughly one-third of the margin gain stemmed from 5 % organic sales growth (transportation films, filtration and medical led; infrastructure/construction lagged); another third from cost-control initiatives (plant consolidations, lower fixed costs); and the final third from softer polypropylene resin pricing, which is expected to remain favourable near-term.  
+• Transportation was “particularly strong,” driven by double-digit growth in aftermarket paint-protection films. New capacity in Europe and a second production line being installed in Asia during 4Q19 should underpin further international expansion in this high-value niche.  
+• Glass-lamination films for ballistic-resistant and high-speed-rail applications posted high growth.  
+• Reverse-osmosis (RO) water filtration again delivered double-digit gains; introduction of an internally produced filtration paper (manufactured on EP assets, sold by the AMS team) now lets SWM supply three key components of RO modules, broadening its wallet share.  
+• Management continues to target 20 % segment operating margins “over the next several years” through Lean-Six-Sigma projects, business-intelligence tools and ongoing IT investments.
+
+### Engineered Papers (EP)  
+• Revenue declined 7 % to $130 million (-4 % ex-FX), but adjusted operating profit rose 7 % to $29.5 million as margin climbed 290 bp to 22.6 %.  
+• Price/mix was a positive 6 %, offsetting a 10 % volume decline. Volumes were intentionally reduced by exiting low-margin non-tobacco grades and by weaker recon/heat-not-burn orders; U.S. cigarette attrition accelerated as consumers tried vaping, and select customers drew down LIP (low-ignition-propensity) inventories. Even so, year-to-date LIP volumes were only “down slightly” thanks to market-share gains.  
+• Small-cigar wrapper and binder papers remain a “bright spot” and a key contributor to profitability.  
+• Falling wood-pulp prices, better manufacturing performance and strict cost control supported margins; management expects the favourable pulp tail-wind to persist into the coming quarters, though labour and energy inflation are emerging.  
+• Heat-not-burn volumes have lagged expectations, but new product launches under discussion could produce a rebound, albeit with lumpy pipeline fills during 2020.  
+• Leadership change: long-time EP head Michel Fievez will retire; Omar Hoek (ex-Ahlstrom) joins in January to drive commercial development and innovation.
+
+### Corporate & Other Items  
+Unallocated corporate expense rose to $12 million, largely due to deferred-compensation costs linked to year-over-year stock-price movements and ongoing ERP/IT modernisation. Stripping out deferred comp, this bucket would annualise at about $43 million.
+
+### Outlook & Guidance  
+Management reaffirmed 2019 adjusted EPS guidance of $3.40 – $3.60. Commodity-cost tail-winds, favourable price/mix and cost savings are expected to balance a weaker euro, higher deferred-compensation expense and U.S. smoking attrition. The full-year effective tax rate embedded in guidance is roughly 20 %. Free cash flow remains on track to exceed $100 million.  
+
+Fourth-quarter operating profit should be “at or slightly above” last year’s level, but EPS may run slightly lower because the 4Q18 comparison benefited from an unusually low tax rate and $0.14 per share of JV income. Seasonality and customer inventory patterns introduce additional volatility, particularly in December. For AMS, 4Q19 will lap a tough comparable (4Q18 segment sales were up 9 %), while the broader company still expects to improve leverage and maintain a strong liquidity position for disciplined, technology-adjacent acquisitions.

@@ -1,0 +1,46 @@
+# Schweitzer-Mauduit International (SWM) – Q1 2019 Earnings Call Summary  
+
+Schweitzer-Mauduit International opened 2019 with consolidated net sales of **$258 million** and **adjusted EPS of $0.68**, a result the Company said was “in line with plan,” allowing management to reaffirm full-year guidance.  Key non-operational headwinds—chiefly a $0.06 EPS hit from deferred-compensation accounting tied to the stock’s rebound, $0.04 of incremental interest expense from last year’s refinancing, $0.02 of higher IT investment, and a $0.02 currency drag—masked otherwise solid operating momentum, particularly in the Advanced Materials & Structures (AMS) segment.  
+
+### Consolidated Highlights  
+• Net sales slipped 1 % year over year (up 1 % ex-FX) to **$258 million**.  
+• Adjusted operating profit was **$35.5 million**, and adjusted EBITDA **$44.7 million** (both down yr/yr, chiefly on FX, deferred-comp accruals and higher interest).  
+• GAAP EPS was **$0.56** versus $0.68 a year ago; **adjusted EPS was $0.68 versus $0.83**.  
+• Normalized tax rate was **22.7 %**; management still expects a “slightly higher” full-year rate versus 2018.  
+• Q1 free cash flow was **$4 million** (seasonally weak quarter); full-year **> $100 million** FCF outlook and **$35-40 million** CapEx plan are unchanged.  
+• Net leverage (credit-facility definition) ticked up to **2.6× net-debt/adjusted-EBITDA** from 2.5× at FY-end 2018.  
+
+### Segment Performance  
+
+Advanced Materials & Structures (AMS)  
+• Net sales rose **5 % organically to $121 million**.  
+• Adjusted operating profit jumped **23 % to $20 million**; margin expanded **250 bp to 16.6 %**.  
+• Growth drivers: robust demand for transportation surface-protection films (outperforming global auto builds), strong filtration (RO water, specialty media), double-digit growth in medical products and stable infrastructure/construction.  
+• Tailwinds: full-quarter benefit of the **Austin plant closure** (footprint-optimization synergies) and lower polypropylene costs flowing through the P&L.  
+• Management expects the normal seasonality—stronger Q2/Q3, softer Q1/Q4—to hold; additional upside could come from resin deflation, though prices may rise modestly later in 2019.  
+
+Engineered Papers (EP)  
+• Net sales declined **6 % (-2 % ex-FX)** to roughly **$137 million**; euro weakness the principal FX culprit.  
+• Volume fell **9 %**, but **price/mix was a positive 7 %**, driven by contractual pulp-based escalators and stronger LIP (low-ignition-propensity) cigarette-paper mix.  
+• Heat-not-burn (HnB) recon paper volumes were down versus an exceptionally strong launch-driven Q1-18; management still views HnB as a long-term growth opportunity, but order patterns will remain “lumpy.”  
+• Non-tobacco declines (printing & writing papers, certain battery-separator grades) also pressured volume.  
+• Adjusted operating margin was **20.9 %**, down **220 bp** year over year; pulp escalators recouped most wood-pulp inflation, but lower volumes, higher energy and other material costs weighed on efficiency.  
+• Pulp: NBSK costs were still up yr/yr in Q1; modest easing could occur in Q2/Q3, but management is not counting on a sharp decline.  
+
+### Raw-Material Update  
+• Polypropylene peaked in Q3-18; Q1 benefited from lower-cost inventory, with another modest benefit expected in Q2. Biggest yr/yr raw-material tailwind should appear in Q3.  
+• Wood pulp prices remain above prior-year levels, though contractual pass-throughs offset most of the impact; management sees potential moderation later in the year but no meaningful deflator mechanisms on contract pricing.  
+
+### Strategic & Operational Developments  
+• The **new surface-protection film line in Europe** is in customer qualification; commercial shipments should ramp in 2H-19. A follow-on line in China is under evaluation.  
+• A **specialty filtration paper** developed by the EP mills and sold through AMS channels is gaining traction, illustrating cross-selling progress.  
+• M&A remains an active part of SWM’s capital-allocation strategy; no specific targets disclosed.  
+
+### Outlook & Guidance  
+Management reiterated all full-year targets:  
+• **Adjusted EPS range unchanged** (specific figure not restated on the call).  
+• **> $100 million free cash flow** and **$35-40 million CapEx**.  
+• Continued organic growth and margin expansion in AMS; stable-to-slightly lower volumes but healthier mix and pricing in EP.  
+• Net-debt/EBITDA expected to decline as free cash flow accelerates in seasonally stronger quarters.  
+
+In sum, SWM delivered Q1 results consistent with internal expectations, maintained leverage discipline, funded growth initiatives (IT upgrade, new film capacity) and kept 2019 financial guidance intact despite FX headwinds, deferred-comp volatility and higher interest expense from its 2018 refinancing.

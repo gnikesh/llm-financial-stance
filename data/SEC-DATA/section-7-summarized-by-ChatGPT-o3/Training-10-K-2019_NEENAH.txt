@@ -1,0 +1,106 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Summary  
+
+Below is a condensed, but detail-preserving, narrative of the Company’s MD&A for the years ended December 31 2019, 2018 and, where relevant, 2017.  The original sectional order has been retained and all material financial metrics—particularly those tied to sales, operating income, cash flow, debt, and shareholder returns—are included.
+
+---
+
+## Introduction  
+Management discusses historical performance, current financial condition and forward-looking prospects, focusing on: an overview of the business, segment results, consolidated operating results, liquidity and capital resources, recent accounting changes, and critical accounting estimates.
+
+---
+
+## Overview of Business  
+The Company is a global producer of specialty materials, operating through two primary segments—Technical Products (“TP”) and Fine Paper & Packaging (“FPP”).  It aims to hold leading positions in niche markets that value performance and image, responding to customer needs while controlling costs, optimally deploying capital, and managing macro-economic and input-cost risk.
+
+---
+
+## Business Segments  
+Technical Products manufactures filtration media, specialty tape and abrasive backings, label stock and other engineered substrates from six dedicated mills in the U.S. and Europe.  
+Fine Paper & Packaging supplies premium printing, packaging and other specialty papers from three dedicated mills in Wisconsin and Massachusetts, plus shared facilities.  
+
+Following the January 2019 divestiture of the Brattleboro, Vermont mill, the residual “Other” segment—$15.6 million of 2018 sales and $16.5 million of 2017 sales—was folded into Technical Products; prior-period segment data were recast accordingly.
+
+---
+
+## Results of Operations and Related Information  
+
+### Executive Summary  
+• 2019 consolidated net sales were $938.5 million, down $96.4 million (-9 %) from 2018 because of lower volumes (including the Brattleboro divestiture) and adverse currency, partly offset by higher selling prices and a richer TP mix.  
+• GAAP operating income rose 45 % to $78.3 million, largely due to the absence of the $31.1 million Brattleboro impairment recorded in 2018.  After adjusting for all notable items, 2019 operating income was $83.1 million, essentially flat (-2 %, or $1.7 million) versus the 2018 adjusted figure of $84.8 million.  
+• Operating cash flow improved $4.9 million to $97.6 million, benefitting from lower pension contributions despite softer earnings.  
+• Capital expenditures fell to $21.4 million from $38.1 million after completion of a large 2018 environmental project in Germany.
+
+### Net Sales  
+
+| Segment | 2019 ($ mm) | % of Total | 2018 ($ mm) | % of Total | Δ $ | Key Drivers |
+|---------|-------------|------------|-------------|------------|-----|-------------|
+| Technical Products | 541.6 | 58 % | 583.2 | 56 % | ‑41.6 | Volume declines (esp. tape backings in Asia) and currency, partially offset by price/mix gains |
+| Fine Paper & Packaging | 396.9 | 42 % | 445.8 | 43 % | ‑48.9 | Brattleboro sale (~½ of decline) and lower commercial print volumes; partly offset by price increases |
+| Other | — | — | 5.9 | 1 % | ‑5.9 | Elimination of the segment post-divestiture |
+| **Total** | **938.5** | **100 %** | **1,034.9** | **100 %** | **-96.4** | See above |
+
+Versus 2017, 2018 sales had risen $55.0 million (+6 %), driven chiefly by higher TP volumes (including the Nov-2017 Coldenhove acquisition) and price/mix gains.
+
+### Operating Income (GAAP)
+
+|  | 2019 ($ mm) | 2018 ($ mm) | Change | Principal Factors |
+|--|-------------|-------------|--------|-------------------|
+| Technical Products | 44.6 | 50.9 | ‑6.3 (-12 %) | Lower volume and fixed-cost absorption plus higher SG&A and currency; partly offset by price/mix and modestly lower input costs |
+| Fine Paper & Packaging | 53.2 | 29.4 | +23.8 (+81 %) | Lapping 2018 Brattleboro impairment and other one-offs; underlying improvement from price increases and cost control despite volume decline |
+| Other | 0.0 | ‑6.4 | +6.4 | Segment discontinued |
+| Unallocated Corporate | ‑19.5 | ‑19.8 | +0.3 | Slightly lower pension and restructuring charges |
+| **Consolidated** | **78.3** | **54.1** | **+24.2 (+45 %)** | Absence of 2018 impairment; underlying operating profit roughly flat after adjusting items |
+
+After normalizing for restructuring, impairment, pension, acquisition and other non-routine items, adjusted operating income equaled $83.1 million in 2019 versus $84.8 million in 2018.
+
+### Margin Profile  
+2019 gross margin improved to 19.5 % of sales from 17.7 % in 2018, as product mix and pricing outpaced modestly lower input costs; SG&A rose to 10.5 % of sales (from 9.3 %) on timing of expenses and lower top-line.
+
+### Other Income-Statement Items  
+• Interest expense declined to $11.8 million (from $13.0 million) due to $36.3 million of net revolver repayments and a shift to lower-rate euro borrowings.  
+• The effective tax rate increased to 17 % (2018: 9 %) because the prior year’s rate was depressed by U.S. tax-reform benefits and the Brattleboro impairment; 2019 benefited from R&D credits.  
+• EPS figures are not provided in the text; however, the changes in operating income, interest, and tax rates imply higher 2019 earnings from continuing operations.
+
+---
+
+## Liquidity and Capital Resources  
+
+| Cash-Flow Category | 2019 ($ mm) | 2018 ($ mm) | Commentary |
+|--------------------|-------------|-------------|------------|
+| Operating activities | 97.6 | 92.7 | Higher cash inflow on pension contribution reductions |
+| Investing activities | ‑23.3 | ‑34.3 | Capex down to $21.4 mm; 2018 contained $5 mm Brattleboro proceeds |
+| Financing activities | ‑75.2 | ‑52.6 | Greater net debt repayment ($38.1 mm vs. $12.8 mm) and higher dividends |
+| Net change in cash | ‑0.9 | +5.4 | Year-end cash $9.0 mm (U.S. $2.7 mm; non-U.S. $6.3 mm) |
+
+### Capital Structure and Debt  
+Total debt fell $38.3 million to $200.8 million at December 31 2019; net debt decreased by $37.4 million.  Availability under the $225 million global revolving credit facilities was $173.5 million, with only $21.6 million drawn (all euro-denominated, LIBOR-based).  Senior unsecured notes of $175 million mature in 2021.  German equipment loans totaled €6.4 million ($7.2 million) with $2.6 million scheduled for repayment in 2020.  Contractual obligations aggregate $373.1 million, of which $203.8 million relate to debt principal.
+
+### Dividends and Share Repurchases  
+Cash dividends paid were $0.45 per share ($30.5 million) in 2019 versus $0.41 per share ($27.8 million) in 2018; the Board approved a 4 % increase to $0.47 beginning March 2020.  Share buybacks totaled 79,676 shares for $4.9 million in 2019, and a new $25 million repurchase authorization takes effect in 2020.
+
+Management asserts that cash from operations and available borrowing capacity are sufficient for the next 12 months’ needs.
+
+---
+
+## Adoption of New Accounting Pronouncements  
+Key new standards—principally ASC 842 (Leases)—were adopted in 2019, resulting in recognition of right-of-use assets and lease liabilities; detailed disclosures appear in the financial statements.
+
+---
+
+## Critical Accounting Policies and Estimates  
+No methodology changed, but the discussion reiterates significant judgment areas: inventory valuation (LIFO vs. FIFO), income-tax uncertainties (liability of $7.8 million at year-end 2019), pension and post-retirement benefit assumptions (discount rate 2.98 % for obligations; expected asset return 5.91 %), and impairment testing for long-lived assets and goodwill (no impairments recorded in 2019).
+
+---
+
+## Quantitative and Qualitative Disclosures About Market Risk  
+
+• Foreign currency: a 10 % U.S.-dollar strengthening would cut pretax income by ~$3.8 million and reduce equity by ~$21 million via translation effects.  
+• Commodity pulp: every $100/ton price increase would raise annual cost by ~$23 million.  
+• Interest rates: 100 bp on $21.6 million of variable-rate debt would add ~$0.2 million to yearly interest expense.  
+
+Management employs operating tactics but does not broadly hedge these exposures with derivatives.
+
+---
+
+## Overall Financial Condition and Outlook  
+While 2019 sales contracted, pricing, mix enhancement and the absence of one-off charges kept adjusted operating income essentially stable.  Cash generation remained strong, leverage declined, and liquidity is ample.  Management targets capex of 2-4 % of net sales going forward and believes current resources will fund strategic initiatives, dividend increases and opportunistic share repurchases.

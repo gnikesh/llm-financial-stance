@@ -1,0 +1,157 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Summary
+
+The following summary condenses Mativ Holdings, Inc.’s 2023 Form 10-K MD&A while retaining all essential financial information, comparative data, strategic developments and forward-looking considerations.
+
+---
+
+## EP Divestiture  
+
+• On 1 August 2023 Mativ accepted Evergreen Hill Enterprise’s offer to purchase its Engineered Papers (“EP”) business for **$620 million cash** (subject to customary adjustments).  
+• Sale closed **30 November 2023**; the Company recorded a **pre-tax gain of $176.3 million ($170.0 million net)** in discontinued operations and exited all tobacco-based product markets.  
+• EP results are reported as discontinued operations; all MD&A figures below relate to continuing operations.
+
+---
+
+## Merger (Neenah)  
+
+• The Neenah, Inc. merger closed **6 July 2022**; Neenah is now a wholly-owned subsidiary.  
+• 2023 therefore reflects a **full-year contribution** from Neenah versus a partial-year contribution in 2022.
+
+---
+
+## Critical Accounting Estimates (highlights)  
+
+• Complex global tax calculations; valuation allowances and uncertain-tax positions are material.  
+• Goodwill and indefinite-lived intangibles are tested annually and when impairment indicators arise; a **$401.0 million non-cash goodwill impairment** was recorded in Q3 2023.  
+• Property, plant and equipment represents 25 % of total assets; impairment reviews accompany restructuring actions.  
+• Business-combination asset valuations rely on discounted-cash-flow and market multiples.
+
+---
+
+## Summary of 2023 Performance  
+
+| (Continuing ops, $ millions except per-share) | 2023 | 2022 | Δ % |
+|---|---|---|---|
+| Net sales | **2,026.0** | 1,636.9 | +23.8 |
+| Gross profit | 355.8 | 306.0 | +16.3 |
+| Operating loss | (413.9) | (40.2) | N/M |
+| Net loss from continuing ops | **(507.7)** | (68.9) | N/M |
+| Net loss attributable to common | (310.2) | (7.5) | N/M |
+| Diluted EPS (continuing) | **$(9.33)** | $(1.64) | N/M |
+
+Key drivers:  
+• Full-year Neenah revenue, price increases and favorable FX outweighed volume declines.  
+• Operating loss primarily reflects the **$401 million goodwill impairment**.  
+• Integration/divestiture costs were **$43.2 million** (2022: $72.7 million).  
+• Restructuring and other impairment charges totaled **$22.6 million** (2022: $19.1 million).
+
+---
+
+## Results of Operations  
+
+### Net Sales by Segment  
+
+| Segment | 2023 | 2022 | $ Δ | % Δ |
+|---|---|---|---|---|
+| Advanced Technical Materials (“ATM”) | **1,610.0** | 1,396.2 | +213.8 | +15.3 |
+| Fiber-Based Solutions (“FBS”) | **416.0** | 240.7 | +175.3 | +72.8 |
+| Total | 2,026.0 | 1,636.9 | +389.1 | +23.8 |
+
+• Growth derived almost entirely from the incremental Neenah revenues; base volumes declined.
+
+### Gross Profit  
+
+Gross margin slipped to **17.6 %** (2022: 18.7 %) as cost inflation outpaced pricing gains.
+
+### Non-manufacturing Expenses  
+
+Selling, R&D and general expenses rose **5.8 %** to **$346.1 million** (17.0 % of sales); increase tied to full-year Neenah integration.
+
+### Restructuring and Other Impairments  
+
+• **$22.6 million** in 2023 (ATM $12.4 m; FBS $9.9 m).  
+• ATM expense reflects fixed-asset impairments at facilities slated for 2024 closure or sale.  
+• FBS expense relates to asset impairments at Eerbeek, Netherlands after adverse market shifts.
+
+### Operating (Loss) / Profit by Segment  
+
+| Segment | 2023 | 2022 |
+|---|---|---|
+| ATM | **$(281.5) m** (includes $401 m impairment) | $98.8 m |
+| FBS | $4.6 m | $15.0 m |
+| Unallocated | $(137.0) m | $(154.0) m |
+
+### Interest Expense & Other  
+
+• Interest expense **$62.2 million** (up 8.6 %); weighted-average cost of debt **5.98 %** (2022: 5.11 %).  
+• Other income/expense was **$(4.8) million**, mainly legal and tax settlements.
+
+### Income Taxes  
+
+• **$26.8 million tax expense** produced an effective rate of **(5.6 %)** versus a 28.6 % benefit in 2022, driven by non-deductible impairment and valuation-allowance movements.
+
+### Discontinued Operations  
+
+• Net income **$198.2 million** (EPS $3.64) versus $62.3 million (EPS $1.46) in 2022, reflecting the EP sale gain.
+
+---
+
+## Liquidity and Capital Resources  
+
+### Liquidity & Debt Overview (31 Dec 2023)  
+
+| | Amount |
+|---|---|
+| Cash & cash equivalents | **$120.2 m** |
+| Total debt | **$1,104.6 m** (↓ $585.4 m YoY) |
+| Revolving facility | $600 m capacity; $333.6 m undrawn |
+| Net leverage (Credit Agreement) | **3.93×** (covenant 4.50×) |
+| Next maturity | 6.875 % senior notes, **2026** |
+
+Significant EP-sale proceeds were used to repay revolver, Term Loan A, Term Loan B and Delayed Draw Term Loan balances.
+
+### Cash Flows (2023 vs 2022)  
+
+| Cash flow | 2023 | 2022 | Key factors |
+|---|---|---|---|
+| Operating | **$76.6 m** | $124.6 m | Working-capital outflow; integration/divestiture costs |
+| Investing | **$(61.4) m** | $(469.3) m | 2023 capex; 2022 included Neenah cash consideration |
+| Financing | **$(662.0) m** | $332.5 m | $834.6 m debt repayments, $241 m revolver draws, $55.3 m dividends |
+
+### Capital Allocation  
+
+• **Capex** $61.4 m (2022: $45.6 m).  
+• **Dividends** $55.3 m; quarterly rate maintained at **$0.10 per share** (declared 21 Feb 2024).  
+• **Share repurchases** 659,146 shares for **$10.7 m** (including $8.0 m under August 2023 authorization).
+
+### Debt Instruments & Covenants (high-level)  
+
+• Credit Agreement provides $600 m revolver (matures 2027), Term Loans A & B and $650 m Delayed Draw Term Loan.  
+• Covenants: Net Debt/EBITDA ≤ 4.50× and Interest Coverage ≥ 3.00×; Mativ was in compliance at year-end.  
+• 6.875 % senior unsecured notes ($350 m) mature **1 Oct 2026**.  
+• Weighted debt profile after hedges: **77 % fixed / 23 % floating**.
+
+---
+
+## Outlook  
+
+Beginning Q1 2024 Mativ will report two new segments:  
+1. **Filtration & Advanced Materials (FAM)** – filtration, industrial netting, protective solutions; expected to outpace long-term economic growth in the U.S./Europe and withstand downturns better than GDP.  
+2. **Sustainable & Adhesive Solutions (SAS)** – tape, release liners, healthcare, packaging and specialty papers; growth expected roughly in line with long-term GDP.
+
+---
+
+## Market-Risk Highlights  
+
+• A 10 % adverse foreign-exchange move on transactional exposures would reduce pre-tax earnings by **≈ $44 million** (unhedged basis).  
+• A 100 bp rise in rates on current floating-rate debt (post-swap) would cut pre-tax earnings by **≈ $2.6 million**.  
+• Raw materials: every 10 % change equals **≈ $21.4 million** (resin) and **≈ $12.8 million** (wood pulp) impact on annual pre-tax earnings, absent pricing offsets.  
+• Energy: 10 % price swing affects annual pre-tax earnings by **≈ $6 million**.
+
+---
+
+## Forward-Looking Statements  
+
+The Form 10-K contains forward-looking statements regarding, among other things, liquidity, debt servicing, acquisition synergies, cost-reduction initiatives, growth prospects, commodity and energy costs, geopolitical impacts and ESG matters. Actual results could differ materially due to the risk factors enumerated in Item 1A.
+
+---

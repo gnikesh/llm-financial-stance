@@ -1,0 +1,1161 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is designed to provide a reader of 3M’s financial statements with a narrative from the perspective of management. 3M’s MD&A is presented in eight sections:
+
+- Overview
+- Results of Operations
+- Performance by Business Segment
+- Performance by Geographic Area
+- Critical Accounting Estimates
+- New Accounting Pronouncements
+- Financial Condition and Liquidity
+- Financial Instruments
+
+Forward-looking statements in Item 7 may involve risks and uncertainties that could cause results to differ materially from those projected (refer to the section entitled “Cautionary Note Concerning Factors That May Affect Future Results” in Item 1 and the risk factors provided in Item 1A for discussion of these risks and uncertainties).
+
+Additional information about results for year end 2018 and certain year-on-year comparisons between 2019 and 2018 can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections in the Company’s Annual Report on Form 10-K for the year ended December 31, 2019.
+
+## OVERVIEW
+
+3M is a diversified global manufacturer, technology innovator, and marketer of a wide variety of products and services. As more fully described in both the Performance by Business Segment section in MD&A and in Note 19, effective in the first quarter of 2020, the Company changed its business segment reporting in its continuing effort to improve the alignment of businesses around markets and customers. Additionally, the Company consolidated the way it presents geographic area net sales by providing an aggregate Americas geographic region (combining former United States and Latin America and Canada areas). Also, effective in the second quarter of 2020, the measure of segment operating performance used by 3M’s chief operating decision maker changed and, as a result, the Company’s disclosed measure of segment profit/loss has been updated. Business segment information presented herein reflects the impact of these changes for all periods presented.
+
+3M manages its operations in four operating business segments: Safety and Industrial; Transportation and Electronics; Health Care; and Consumer. From a geographic perspective, any references to EMEA refer to Europe, Middle East, and Africa on a combined basis.
+
+### Consideration of COVID-19:
+
+3M is impacted by the global pandemic and related effects associated with the coronavirus (COVID-19). The Company updated its risk factors with respect to COVID-19, which can be found in Item 1A “Risk Factors” in this document.
+
+Public and private sector policies and initiatives to reduce the transmission of COVID-19, such as the imposition of travel restrictions and the adoption of remote working, have impacted 3M’s operations. 3M continues to work to protect its employees and the public, maintain business continuity, and sustain its operations, including ensuring the safety and protection of people who work in its plants and distribution centers across the world, many of whom support the manufacturing and delivery of products that are critical in response to the global pandemic. COVID-19 has impacted 3M’s supply chains relative to global demand for products like respirators, surgical masks, and commercial cleaning solutions. As this situation continues, 3M also closely monitors and responds to potential impacts to the Company’s broader supply chain associated with other products. COVID-19 has also affected the ability of suppliers and vendors to provide products and services to 3M. Furthermore, COVID-19 has impacted the broader economies of affected countries, including negatively impacting economic growth.
+
+The Company has taken steps to help employees lead safe and productive lives during the outbreak including remote working; escalated procedures in factories related to personal safety, cleaning, and medical screening measures; and pandemic leave policies. 3M closely monitors how the spread of COVID-19 is affecting employees and business operations and has preparedness plans to help protect the safety of employees around the world while safely continuing business. While nearly all of our manufacturing locations and distribution centers are fully or partially operational, the Company implemented plant and/or line shutdowns during 2020 related to certain markets due to weaker customer demand or government mandates. Some of the above factors have increased the demand for 3M products, while others have decreased demand or made it more difficult for 3M to serve customers. Serving 3M customers is a priority and teams continue to communicate with individual customers about potential disruptions.
+
+3M’s total sales increased 0.1% for the full year 2020 when compared to 2019. Organic local-currency sales decreased 1.7% for the full year 2020 when compared to 2019. Given the diversity of 3M’s businesses, the impact of COVID-19 varied across the Company throughout 2020. 3M experienced strong sales growth in personal safety, as well as in other areas such as home improvement, general cleaning, semiconductor, data center, and biopharma filtration. COVID-related respirator sales are estimated to have impacted year-on-year organic local-currency sales growth by approximately 3 percent for the year ending December 31, 2020. Meanwhile, weakness in several end markets, while improving, contributed in part to sales declines in a number of 3M’s businesses with the biggest year-on-year total sales decreases in:
+
+| Business Area                        | % Decrease |
+|--------------------------------------|------------|
+| Oral care                          | 19%       |
+| Advanced materials                 | 17%       |
+| Automotive and aerospace           | 16%       |
+| Commercial solutions               | 14%       |
+| Stationery and office                | 11%       |
+| Closure and masking                | 11%       |
+| Automotive aftermarket             | 10%       |
+| Abrasives (general industrial)     | 15%       |
+| Industrial adhesives and tapes     | 5%        |
+
+3M’s operating income margins increased 3.1 percentage points year-on-year for the year ending December 31, 2020. Factoring out the impact on operating income of special items as described in the “Certain amounts adjusted for special items - (non-GAAP measures)” section below, operating income margins increased 0.1 points to 21.3% for the year ending December 31, 2020 when compared to 2019. Various COVID-19 implications contributed in part to these results.
+
+Overall, the impact of the COVID-19 pandemic on 3M’s consolidated results of operations was primarily driven by factors related to changes in demand for products and disruption in global supply chains as described above. While it is not feasible to identify or quantify all the other direct and indirect implications on 3M’s results of operations, below are factors that 3M believes have also affected its 2020 results:
+
+### Factors contributing to charges:
+- Period expenses of unabsorbed manufacturing costs and increased expected credit losses on customer receivables.
+- Restructuring actions addressing structural enterprise costs and operations in certain end markets as a result of the COVID-19 pandemic and related economic impacts resulting in a second quarter 2020 charge of $58 million (as further discussed in Note 5).
+- Committed financial support to various COVID-relief and medical research initiatives.
+- Charge of $22 million related to equity securities as discussed in the “Assets and Liabilities that are Measured at Fair Value on a Nonrecurring Basis” section of Note 15 that use the measurement alternative described therein in addition to an immaterial pre-tax charge related to impairment of certain indefinite lived tradenames in the first quarter of 2020. 3M continues to regularly consider if COVID-19 and other related market implications could indicate it is more likely than not the carrying amount of various applicable assets may be impaired and assess whether certain investments without readily determinable fair values may have been impacted.
+
+### Factors providing benefits or other impacts:
+- Decreased discretionary spending in areas such as travel, professional services, and advertising/merchandising as well as cost reduction efforts, hiring freezes, and maintaining only essential contract workers. 3M continues to monitor discretionary spending and deploy cost control efforts as the situation continues.
+- Government-sponsored COVID-response stimulus and relief initiatives, including certain employment retention benefits under the Coronavirus Aid, Relief, and Economic Security (CARES) Act in the United States.
+- Lower self-insured medical visit/instance expense during 2020.
+- Instituted accelerated vacation usage policies which benefited the second quarter of 2020 year-on-year, but provided a penalty in comparison to prior year in the second half of 2020.
+
+As previously disclosed, in light of circumstances, 3M took actions to ensure sources of cash may remain strong, including the March 2020 issuance of $1.75 billion of registered notes, suspension of share repurchases, and the decrease of its 2020 capital spending to approximately $1.5 billion. While capital spending decreased, it included additional expansion of respirator production capacity. 3M continues to have access to its commercial paper program and undrawn committed credit facility. Refer to the Financial Condition and Liquidity section below for more information on the Company’s liquidity position.
+# SEC Report of the Company
+
+The Company also continues to evaluate the extent to which it may avail itself of various government-sponsored COVID-response stimulus, relief, and production initiatives around the world, such as under the Defense Production Act (DPA) and CARES Act in the United States. During 2020 and into January 2021, 3M reached certain agreements with governments in the U.S. and other countries involving just over $250 million of asset funding to expand capacity to supply N-95 respirators.
+
+Due to the speed with which the COVID-19 situation is developing and evolving and the uncertainty of its duration and the timing of recovery, 3M is not able at this time to predict the extent to which the COVID-19 pandemic may have a material effect on its consolidated results of operations or financial condition.
+
+## Earnings per share (EPS) attributable to 3M common shareholders – diluted:
+
+The following table provides the increase (decrease) in diluted earnings per share for 2020 compared to the same period last year, in addition to 2019 compared to 2018. As applicable, certain items in the table reflect specific income tax rates associated therewith.
+
+| Year ended December 31, | Earnings per diluted share | 2020 | 2019 |
+|-------------------------|------------------------------|-------|-------|
+| Same period last year |                              | $7.81 | $8.89 |
+| Significant litigation-related charges/benefits | | 1.01 | 1.28 |
+| TCJA measurement period adjustment | | — | 0.29 |
+| Loss on deconsolidation of Venezuelan subsidiary | | 0.28 | — |
+| Gain/loss on sale of businesses | | (0.22) | (0.73) |
+| Divestiture-related restructuring actions | | — | 0.18 |
+| Same period last year, excluding special items | | $8.88 | $9.91 |
+| Increase/(decrease) in earnings per share - diluted, due to: | | | |
+| Organic growth/productivity and other | | (0.06) | (0.60) |
+| Non divestiture-related restructuring actions | | 0.12 | (0.41) |
+| Acquisitions/divestitures | | (0.10) | (0.24) |
+| Foreign exchange impacts | | (0.11) | — |
+| Income tax rate | | (0.03) | — |
+| Shares of common stock outstanding | | 0.04 | 0.22 |
+| Current period, excluding special items | | $8.74 | $8.88 |
+| Significant litigation-related charges/benefits | | 0.07 | (1.01) |
+| Loss on deconsolidation of Venezuelan subsidiary | | — | (0.28) |
+| Gain/loss on sale of businesses | | 0.52 | 0.22 |
+| Divestiture-related restructuring actions | | (0.08) | — |
+| Current period | | $9.25 | $7.81 |
+
+## Year 2020 EPS:
+
+For the year ended December 31, 2020, net income attributable to 3M was $5.384 billion, or $9.25 per diluted share, compared to $4.570 billion, or $7.81 per diluted share, for the year ended December 31, 2019, an increase of 18.4 percent on a per diluted share basis.
+
+The Company refers to various “adjusted” amounts or measures on an “adjusted basis”. These exclude special items. These non-GAAP measures are further described and reconciled to the most directly comparable GAAP financial measures in the **“Certain amounts adjusted for special items- (non-GAAP measures)”** section below.
+
+On an adjusted basis, net income attributable to 3M was $5.088 billion, or $8.74 per diluted share for 2020 compared to $5.193 billion, or $8.88 per diluted share in December 31, 2019, a decrease of 1.5 percent on a per diluted share basis.
+
+---
+
+### Additional discussion related to the components of the year-on-year change in earnings per diluted share follows:
+
+- **Organic growth/productivity and other:**
+  - Lower organic volume growth in 2020 as a result of significant COVID-19 related impacts, in addition to COVID-related net factors described in the preceding **Overview—Consideration of COVID-19** section, decreased earnings per diluted share year-on-year.
+  - 3M also experienced year-over-year increased costs as a result of the regular review of its respirator mask liabilities and certain follow-on accelerated depreciation following some of the restructuring described below.
+  - Partially offsetting this net decrease in earnings per share were year-on-year net gains related to certain property sales (in 2020 within Safety and Industrial and in 2019 within Corporate and Unallocated) in addition to benefits recognized in 2020 related to the restructuring and other actions taken in 2019 (and the adjustments thereto in 2020) along with continued cost management and productivity efforts.
+- **Higher defined benefit pension and postretirement service cost** increased expense year-on-year.
+- **Interest expense (net of interest income)** increased in 2020, as a result of higher U.S. average debt balances and lower year-over-year interest income driven by lower average interest rates on cash balances. 2020 interest expense also included an early debt extinguishment charge in conjunction with the repayment of notes in December 2020.
+- **Non divestiture-related restructuring actions:**
+  - 3M recorded non divestiture-related restructuring pre-tax charges aggregating $195 million in 2020. These included charges in the second quarter of 2020 to address certain COVID-related impacts and in the fourth quarter as 3M initiated actions to further enhance its operational and marketing capabilities.
+  - In 2019, charges included $282 million as the Company committed to actions in light of slower than expected 2019 sales and associated with realigning its organizational structure and operating model.
+  - The year-on-year impact of the non divestiture-related restructuring actions taken in 2020 and 2019 increased earnings per diluted share by 12 cents.
+- **Acquisitions/divestitures:**
+  - Acquisition impacts, measured for the first twelve months post-transaction, relate to the acquisitions of M*Modal (first quarter 2019), and Acelity (fourth quarter 2019). These collectively decreased earnings per diluted share by 7 for 2020.
+  - The net impacts related to these acquisitions included income from operations, more than offset by transaction and integration costs, as well as financing costs related to these acquisitions.
+  - Divestiture impacts include the lost operating income from divested businesses, which decreased earnings per diluted share by 3 cents in 2020, primarily related to the divestiture of the Company’s drug delivery business.
+- **Foreign exchange impacts:**
+  - Foreign currency impacts (net of hedging) decreased pre-tax earnings by approximately $81 million in 2020, which decreased earnings per diluted share by 11 cents, excluding the impact of foreign currency changes on tax rates.
+- **Income tax rate:**
+  - The overall effective tax rate for 2020 was 19.6 percent, a decrease of 0.2 percentage points versus 2019.
+  - On an adjusted basis, the effective tax rate increased 0.1 percentage points year-on-year for 2020.
+  - Factors that decreased the effective tax rate included geographical income mix and adjustments to uncertain tax positions. These decreases were partially offset by decreased benefit from stock options.
+- **Shares of common stock outstanding:**
+  - Lower shares outstanding increased earnings per share by 4 cents per diluted share for 2020.
+  - Weighted-average diluted shares outstanding in 2020 declined 0.5 percent year-on-year due to the Company’s purchase of $368 million of its own stock, prior to suspension of share repurchases under its board-approved stock repurchase program in late March 2020, with other repurchase activity limited to 3M’s stock compensation plans.
+
+## Year 2019 EPS:
+
+- **Organic growth/productivity and other:**
+  - Negative organic local-currency sales growth as a result of softness in certain end markets and channel inventory adjustments, along with actions taken by 3M in response to lower sales volumes and high inventory levels.
+  - These factors resulted in lower manufacturing and inventory absorption, reducing earnings per diluted share.
+  - Partially offsetting these impacts were benefits from restructuring actions taken in the second quarter of 2019.
+#
+
+- Defined benefit pension and postretirement service cost expense decreased expense year-on-year, which benefited earnings per diluted share.
+- Lower income related to non-service cost components of pension and postretirement expense increased expense year-on-year.
+- Interest expense (net of interest income) increased in 2019, as a result of higher U.S. average debt balances, partially offset by the increase in interest income driven by higher balances in cash, cash equivalents, and marketable securities during the year resulting from the proceeds from debt issuances in advance of the October 2019 Acelity acquisition.
+
+## Non divestiture-related restructuring actions:
+- During the second quarter of 2019, in light of slower than expected 2019 sales, and additionally in the fourth quarter to realign 3M’s organizational structure and operating model, management approved and committed to undertake certain restructuring actions. In aggregate, the Company recorded a full year 2019 combined pre-tax charge of $282 million, or 41 cents per diluted share. See Note 5 for additional details.
+
+## Acquisitions/divestitures:
+- Acquisition impacts, which are measured for the first twelve months post-transaction, relate to the acquisitions of *M*Modal (first quarter 2019), and Acelity (fourth quarter 2019). These items collectively decreased earnings per diluted share by 19 cents year-on-year for 2019. The net impacts related to these acquisitions included income from operations, more than offset by transaction and integration costs. Interest expense related to financing costs of these acquisitions is also included. Expenses related to the October 2019 acquisition of Acelity also include financing costs and the tax effect of repatriating funds in advance of the close of the acquisition.
+- Divestiture impacts collectively decreased earnings per diluted share by 5 cents year-on-year for 2019. They include remaining stranded costs and lost operating income related to the 2018 divestiture of the Communication Markets Division, which decreased earnings per diluted share by 4 cents year-on-year, and lost operating income from other divested businesses (primarily the Company’s gas and flame detection business), which decreased earnings per diluted share by 1 cent year-on-year.
+
+## Foreign exchange impacts:
+- Foreign currency impacts (net of hedging) were essentially flat year-on-year, excluding the impact of foreign currency changes on tax rates.
+
+## Income tax rate:
+- Certain items above reflect specific income tax rates associated therewith. Overall, the effective tax rate for 2019 was 19.8 percent, a decrease of 3.6 percentage points versus 2018.
+- On an adjusted basis (as discussed below), the effective tax rate increased 0.2 percentage points year-on-year for 2019.
+- Factors that decreased the effective tax rate on a GAAP basis for 2019 included prior year measurement period adjustments related to 2017 Tax Cuts and Jobs Act (TCJA), prior year resolution of the NRD lawsuit (as described in Note 16), and geographical income mix. These decreases were partially offset by the deconsolidation of the Venezuelan subsidiary, adjustments to uncertain tax positions, and significant litigation-related charges. Refer to Note 10 for additional details.
+
+## Shares of common stock outstanding:
+- Lower shares outstanding increased earnings per share year-on-year by 22 cents per diluted share for 2019. Weighted-average diluted shares outstanding in 2019 declined 2.8 percent year-on-year which benefited earnings per share. The decrease in the outstanding weighted-average diluted shares relates to the Company’s purchase of $1.4 billion of its own stock in 2019.
+
+# Certain amounts adjusted for special items - (non-GAAP measures):
+
+In addition to reporting financial results in accordance with U.S. GAAP, the Company also provides non-GAAP measures that adjust for the impacts of special items. For the periods presented, special items include the items described below. Beginning in 2020, the Company includes gain/loss on sale of businesses and divestiture-related restructuring actions as special items due to their potential distortion of underlying operating results. Information provided herein reflects the impact of this change for all periods presented.
+
+Operating income (measure of segment operating performance), income before taxes, net income, earnings per share, and the effective tax rate are all measures for which 3M provides the reported GAAP measure and a measure adjusted for special items. The adjusted measures are not in accordance with, nor are they a substitute for, GAAP measures. The Company considers these non-GAAP measures in evaluating and managing the Company’s operations. The Company believes that discussion of results adjusted for these items is meaningful to investors as it provides a useful analysis of ongoing underlying operating trends
+# SEC Report Extract
+
+During 2018, management approved and committed to undertake certain restructuring actions as further described in Note 5, related to addressing corporate functional costs following the Communication Markets Division divestiture resulting in a 2018 pre-tax charge of $127 million ($110 million after tax), net of adjustments for reductions in cost estimates of $10 million.
+
+Loss on deconsolidation of Venezuelan subsidiary:
+- In the second quarter of 2019, 3M recorded a pre-tax charge of $162 million related to the deconsolidation of the Company’s Venezuelan subsidiary as further discussed in Note 1.
+
+Measurement period accounting for TCJA:
+- 3M recorded a net tax expense of $176 million in 2018 as a measurement period adjustment to the enactment of the 2017 Tax Cuts and Jobs Act (TCJA). See Note 10 for additional information.
+
+| (Dollars in millions, except per share amounts) |             |                |            |             |            |            |             |             |                 |                 |              |               |              |              |
+|--------------------------------------------------|-------------|----------------|------------|-------------|------------|------------|-------------|-------------|-----------------|-----------------|--------------|--------------|--------------|--------------|
+|                                                  | Operating Income | Operating Margin | Income Before Taxes | Provision for Income Taxes | Effective Tax Rate | Net Income Attributable to 3M | Earnings Per Diluted Share | Earnings per diluted share % change |
+| Year ended December 31, 2018                     | $7,207      | 22.0%          | $7,000     | $1,637      | 23.4%      | $5,349     | $8.89       |               |
+| Adjustments for special items:                   |             |                |            |             |            |            |             |             |
+| - Significant litigation-related charges/benefits | 897         | 897            | 127        | 770         | 1.28       |             |             |               |
+| - Gain/loss on sale of businesses                | (547)       | (547)          | (107)      | (440)       | (0.73)     |             |             |               |
+| - Divestiture-related restructuring actions     | 127         | 127            | 17         | 110         | 0.18       |             |             |               |
+| - Measurement period accounting for TCJA         | —           | —              | (176)      | 176         | 0.29       |             |             |               |
+| 2018 Adjusted amounts (non-GAAP measures)        | $7,684      | 23.5%          | $7,477     | $1,498      | 20.0%      | $5,965     | $9.91       |               |
+
+| Year ended December 31, 2019                     | $6,174      | 19.2%          | $5,712     | $1,130      | 19.8%      | $4,570     | $7.81       | (12.1)%      |
+| Adjustments for special items:                   |             |                |            |             |            |            |             |             |
+| - Significant litigation-related charges/benefits | 762         | 762            | 172        | 590         | 1.01       |             |             |               |
+| - Gain/loss on sale of businesses                | (114)       | (114)          | 15         | (129)       | (0.22)     |             |             |               |
+| - Loss on deconsolidation of Venezuelan subsidiary | —        | 162            | —          | 162         | 0.28       |             |             |               |
+| 2019 Adjusted amounts (non-GAAP measures)        | $6,822      | 21.2%          | $6,522     | $1,317      | 20.2%      | $5,193     | $8.88       | (10.4)%      |
+
+| Year ended December 31, 2020                     | $7,161      | 22.3%          | $6,711     | $1,318      | 19.6%      | $5,384     | $9.25       | 18.4%        |
+| Adjustments for special items:                   |             |                |            |             |            |            |             |             |
+| - Significant litigation-related charges/benefits | 17          | 17             | 56         | (39)        | (0.07)     |             |             |               |
+| - Gain/loss on sale of businesses                | (389)       | (389)          | (86)       | (303)       | (0.52)     |             |             |               |
+| - Divestiture-related restructuring actions     | 55          | 55             | 9          | 46          | 0.08       |             |             |               |
+| 2020 Adjusted amounts (non-GAAP measures)        | $6,844      | 21.3%          | $6,394     | $1,297      | 20.3%      | $5,088     | $8.74       | (1.5)%       |
+
+# Year 2020 sales and operating income by business segment:
+
+The following tables contain sales and operating income results by business segment for the years ended December 31, 2020 and 2019. Refer to the section entitled “Performance by Business Segment” later in MD&A for additional discussion concerning 2020 versus 2019 results, including Corporate and Unallocated. Refer to Note 19 for additional information on business segments, including Elimination of Dual Credit.
+
+| Business Segment             | 2020 Sales | 2020 % of Total | 2020 Operating Income | 2019 Sales | 2019 % of Total | 2019 Operating Income | % Change in Net Sales | % Change in Operating Income |
+|------------------------------|--------------|-----------------|------------------------|------------|-----------------|------------------------|----------------------|------------------------------|
+| Safety and Industrial       | $11,767      | 36.6%           | $3,054                 | $11,514    | 35.8%            | $2,510                | 2.2%                 | 21.7%                       |
+| Transportation and Electronics| $8,827       | 27.4%           | $1,927                 | $9,591     | 29.8%            | $2,221                | (8.0%)               | (13.3%)                     |
+| Health Care                   | $8,345       | 25.9%           | $1,828                 | $7,431     | 23.1%            | $1,858                | 12.3%                | (1.6%)                      |
+| Consumer                      | $5,336       | 16.6%           | $1,249                 | $5,151     | 16.0%            | $1,124                | 3.6%                 | 11.2%                       |
+| Corporate and Unallocated     | —            | —               | ($363)                 | $110       | 0.3%             | ($1,130)              | —                    | —                           |
+| Elimination of Dual Credit    | ($2,090)     | (6.5%)          | ($534)                 | ($1,661)   | (5.0%)           | ($409)                | —                    | —                           |
+| **Total Company**             | $32,184      | 100.0%          | $7,161                 | $32,136    | 100.0%           | $6,174                | 0.1%                 | 16.0%                       |
+
+| Year ended December 31, 2020 (Change in Sales)            |                                      |
+|-----------------------------------------------------------|--------------------------------------|
+| Safety and Industrial       | 3.5%                  | —%           | (0.6)% | (0.7)% | 2.2%   |
+| Transportation and Electronics| (7.1)%                | —%           | (1.1)% | 0.2%   | (8.0)% |
+| Health Care                   | 1.0%                   | 15.5%        | (4.1)% | (0.1)% | 12.3%  |
+| Consumer                      | 4.1%                   | —%           | —      | (0.5)% | 3.6%   |
+| Total Company                 | (1.7)%                 | 3.5%         | (1.4)% | (0.3)% | 0.1%   |
+# Financial Results and Business Segment Analysis
+
+## 2020 Sales Results by Geographic Area / Business Segment
+
+Percent change information compares the year ended December 31, 2020, with the same period last year, unless otherwise indicated. Additional discussion of business segment results is provided in the Performance by Business Segment section.
+
+| Year ended December 31, 2020 | Europe, Asia Middle East Other | Americas | Pacific & Africa | Unallocated | Worldwide |
+|------------------------------|------------------------------|----------|------------------|--------------|-----------|
+| Net sales (millions)        | $16,525                      | $9,569  | $6,109          | $(19)       | $32,184  |
+| % of worldwide sales       | 51.3%                        | 29.7%   | 19.0%           | —           | 100.0%   |
+
+### Components of Net Sales Change
+
+|                          | Volume - organic | Price | Organic local-currency sales | Acquisitions | Divestitures | Translation | Total sales change |
+|--------------------------|-------------------|--------|------------------------------|--------------|--------------|--------------|-------------------|
+| Europe, Asia, Middle East, Other | (1.2)%             | 1.0    | (0.2)                         | 5.5          | (1.5)        | (1.3)        | 2.5%              |
+| Americas                 | (2.9)%             | (0.5)  | (3.4)                         | 0.7          | (0.2)        | 0.6          | (2.3)%            |
+| Pacific & Africa         | (4.0)%             | 1.2    | (2.8)                         | 2.8          | (2.9)        | 1.0          | (1.9)%            |
+| **Total**                | —                  | —      | —                            | —            | —            | —            | **0.1%**          |
+
+### Total Sales Change by Segments
+
+| Segment                        | % Change 2020 | % Change 2019 |
+|--------------------------------|--------------|--------------|
+| Safety and Industrial          | 2.8%         | (5.3)%      |
+| Transportation and Electronics | (15.4)%      | (3.8)%      |
+| Health Care                    | 20.5%        | 15.5%       |
+| Consumer                       | 5.2%         | 2.2%        |
+
+### Organic Local-Currency Sales Change by Segment
+
+| Segment                        | 2020 | 2019 |
+|--------------------------------|--------|--------|
+| Safety and Industrial          | 5.0%   | (3.3)% |
+| Transportation and Electronics | (11.4)%| (3.3)% |
+| Health Care                    | 3.9%   | 1.1%   |
+| Consumer                       | 6.3%   | 2.6%   |
+
+### Additional Information (2020)
+
+- In the Americas geographic area, U.S. total sales increased 6 percent, organic local-currency sales increased 1 percent. Total sales in Mexico decreased 14 percent, organic local-currency sales decreased 12 percent. In Canada, total sales decreased 1 percent, with organic local-currency sales decreasing 4 percent. In Brazil, total sales decreased 17 percent, while organic local-currency sales increased 7 percent.
+- In the Asia Pacific area, China total sales increased 4 percent, organic local-currency sales increased 3 percent. Japan’s total sales decreased 3 percent, organic local currency sales decreased 7 percent.
+- Foreign currency translation decreased sales by 0.3 percent; price growth was 0.6 percent for 2020, with price increases in EMEA and the Americas, while Asia Pacific decreased.
+
+## 2019 Sales Results by Geographic Area / Business Segment
+
+Percent change information compares the full year 2019 with 2018, unless otherwise indicated. Additional discussion of business segment results is provided in the Performance by Business Segment section.
+
+| Year ended December 31, 2019 | Europe, Asia Middle East Other | Americas | Pacific & Africa | Unallocated | Worldwide |
+|------------------------------|------------------------------|----------|------------------|--------------|-----------|
+| Net sales (millions)        | $16,124                      | $9,796  | $6,226          | $(10)       | $32,136  |
+| % of worldwide sales       | 50.1%                        | 30.5%   | 19.4%           | —           | 100.0%   |
+
+### Components of Net Sales Change
+
+|                          | Volume - organic | Price | Organic local-currency sales | Acquisitions | Divestitures | Translation | Total sales change |
+|--------------------------|-------------------|--------|------------------------------|--------------|--------------|--------------|-------------------|
+| Europe, Asia, Middle East, Other | (1.5)%             | 0.8    | (0.7)                         | 3.5          | (0.6)        | (0.6)        | 1.6%              |
+| Americas                 | (2.8)%             | (0.1)  | (2.9)                         | 0.3          | (0.2)        | (1.7)        | (4.5)%            |
+| Pacific & Africa         | (2.2)%             | 1.3    | (0.9)                         | 1.0          | (1.9)        | (4.6)        | (6.4)%            |
+| **Total**                | —                  | —      | —                            | —            | —            | —            | **(1.9)%**        |
+
+### Total Sales Change by Segments (2019)
+
+| Segment                        | % Change 2019 | % Change 2018 |
+|--------------------------------|--------------|--------------|
+| Safety and Industrial          | (5.3)%      | (7.6)%      |
+| Transportation and Electronics | (3.8)%      | (5.3)%      |
+| Health Care                    | 15.5%       | 2.5%        |
+| Consumer                       | 2.2%        | (2.8)%     |
+
+### Organic Local-Currency Sales Change by Segment (2019)
+
+| Segment                        | 2019 | 2018 |
+|--------------------------------|--------|--------|
+| Safety and Industrial          | (3.3)% | (4.7)% |
+| Transportation and Electronics | (3.3)% | (4.1)% |
+| Health Care                    | 1.1%   | 3.1%   |
+| Consumer                       | 2.6%   | (1.1)% |
+
+## Managing Currency Risks
+
+The stronger U.S. dollar had a negative impact on sales in full-year 2020 compared to the same period last year. Net of the Company’s hedging strategy, foreign currency negatively impacted earnings for full-year 2020 compared to the same period last year.
+
+3M utilizes a number of tools to hedge currency risk related to earnings. These include:
+
+- Natural hedges such as pricing, productivity, hard currency and hard-currency indexed billings, and localizing sources of supply.
+- Financial hedges to mitigate currency risk, with portion hedged depending on liquidity:
+  - For more liquid currencies, hedging occurs over 12, 24, or 36 months, depending on the currency.
+  - For less liquid currencies, hedging is more expensive and limited in tenor.
+
+This risk is largely managed via local operational actions using natural hedging tools as discussed above. In either case, 3M’s hedging approach aims to mitigate the impact of currency fluctuations on earnings.
+# SEC Report Extract
+
+---
+
+### Financial condition:
+3M generated $8.1 billion of operating cash flow in 2020, an increase of $1.0 billion when compared to 2019. This increase was primarily due to cost saving actions taken in response to COVID-19 and lower year-on-year significant litigation-related charges and the timing of associated payments. This followed an operating cash flow increase of $631 million when comparing 2019 to 2018. Refer to the section entitled “Financial Condition and Liquidity” later in MD&A for a discussion of items impacting cash flows.
+
+In November 2018, 3M’s Board of Directors replaced the Company’s February 2016 repurchase program with a new repurchase program. This new program authorizes the repurchase of up to $10 billion of 3M’s outstanding common stock, with no pre-established end date. 
+
+| Year | Stock Repurchased (in billion USD) | Remaining Authorization (in billion USD) |
+|--------|--------------------------------------|----------------------------------------|
+| 2020   | 0.4                                 | 7.8                                    |
+| 2019   | 1.4                                 | N/A                                    |
+
+In 2020, the Company purchased $0.4 billion of its own stock, compared to purchases of $1.4 billion in 2019. As of December 31, 2020, approximately $7.8 billion remained available under the authorization. 
+
+In the first quarter of 2020, the Company suspended repurchases under its board-approved share repurchase program with other repurchase activity limited to 3M’s stock compensation plans. The Company plans to resume share purchases in 2021. 
+
+In February 2021, 3M’s Board of Directors declared a first-quarter 2021 dividend of $1.48 per share, an increase of 1 percent. This marked the 63rd consecutive year of dividend increases for 3M.
+
+---
+
+### Raw materials:
+In 2020, the coronavirus (COVID-19) pandemic caused fluctuations in supply markets. Generally, as demand for certain COVID-related products surged, 3M saw a corresponding tightening in supply and some degree of price inflation in associated markets. 
+
+Within the supply chain of less-essential products, 3M experienced raw material price deflation as economies slowed and certain producers scaled back or idled operations. Conversely, as markets re-opened and demand increased, the Company experienced raw material price inflation with some level of stabilization late in the year.
+
+In response, the Company continued to deploy productivity projects to minimize the impact of raw material inflation and market supply challenges, including input management, reformulations, and multi-sourcing activities. Overall, on a consolidated basis, 3M experienced net raw material deflation in 2020. 
+
+To date, the Company is receiving sufficient quantities of all raw materials to meet its reasonably foreseeable production requirements. It is difficult to predict future shortages of raw materials or the impact any such shortages would have. 3M has avoided disruption to its manufacturing operations through careful management of existing raw material inventories, strategic relationships with key suppliers, and development as well as qualification of additional supply sources. 
+
+3M manages spend category price risks through negotiated supply contracts and price protection agreements. In addition, 3M evaluates suppliers’ conformance with environmental and social compliance requirements.
+
+---
+
+### Pension and postretirement defined benefit/contribution plans:
+On a worldwide basis, 3M’s pension and postretirement plans were 87 percent funded at year-end 2020. The primary U.S. qualified pension plan, which is approximately 67 percent of the worldwide pension obligation, was 91 percent funded and the international pension plans were 93 percent funded. The U.S. non-qualified pension plan is not funded due to tax considerations and other factors.
+
+| Plan Type | Funded Percentage | Asset Return (2020) |
+|--------------|----------------------|---------------------|
+| U.S. qualified | 91% | 13.6% |
+| International | 93% | N/A |
+| U.S. non-qualified | N/A | N/A |
+
+The asset returns in 2020 for the primary U.S. qualified pension plan were 13.6%, as 3M strategically invests in both growth assets and fixed income matching assets to manage its funded status. 
+
+For the primary U.S. qualified pension plan, the expected long-term rate of return on an annualized basis for 2021 is 6.50%. The primary U.S. qualified pension plan year-end 2020 discount rate was 2.55%, down 0.70 percentage points from the year-end 2019 discount rate of 3.25%. The decrease in U.S. discount rates resulted in an increased valuation of the projected benefit obligation (PBO).
+
+The primary U.S. qualified pension plan’s funded status decreased 1 percentage point in 2020 due to the higher PBO resulting from the discount rate decrease and partially offset by higher return on assets. 
+
+Additional detail and discussion of international plan asset returns and discount rates is provided in **Note 13 (Pension and Postretirement Benefit Plans)**.
+
+3M expects to contribute approximately $100 million to $200 million of cash to its global defined benefit pension and postretirement plans in 2021. The Company does not have a required minimum cash pension contribution obligation for its U.S. plans in 2021. 
+
+3M expects global defined benefit pension and postretirement expense in 2021 to decrease by approximately $40 million pre-tax when compared to 2020. Refer to **“Critical Accounting Estimates”** within MD&A and **Note 13** for additional information concerning 3M’s pension and post-retirement plans.
+
+---
+
+### Results of Operations
+
+#### Net Sales:
+Refer to the preceding “Overview” section and the “Performance by Business Segment” section later in MD&A for additional discussion of sales change.
+
+---
+
+### Operating Expenses:
+
+| Percent of Net Sales | 2020 | 2019 | 2020 versus 2019 |
+|-------------------------|---------|---------|------------------|
+| Cost of sales          | 51.6%   | 53.4%   | (1.8)%          |
+| SG&A                   | 21.5    | 21.9    | (0.4)            |
+| R&D                    | 5.8     | 5.9     | (0.1)            |
+| Gain on sale of businesses | (1.2) | (0.4) | (0.8)            |
+| Operating income margin | 22.3%   | 19.2%   | 3.1%             |
+
+Operating income margins increased year over year for 2020. The increase from 2019 to 2020 was primarily driven by lower significant litigation-related charges and higher gains on divestitures (net of divestiture-related restructuring actions). These items are further described in the **Certain amounts adjusted for special items - (non-GAAP measures)** section above.
+
+A number of factors impact the various income statement line items. Expanded discussion of each follows in the sections below.
+
+In 2020, the Company’s operating expenses were impacted by factors described in the preceding **Overview – Consideration of COVID-19** section.
+
+In 2020 and 2019, 3M approved and committed to certain restructuring actions that impacted cost of sales, SG&A, and R&D (see **Note 5** for additional details). 
+
+In addition to actions related to divestitures, for 2020 these included charges to address certain COVID-related impacts and actions to further enhance operational and marketing capabilities. 
+
+In 2019, charges included actions due to slower than expected sales in 2019 and realigning its organizational structure and operating model.
+
+Pension and postretirement service cost expense is recorded in cost of sales, SG&A, and R&D. The total increased by $31 million in 2020. Refer to **Note 13** for service cost components.
+
+The Company is investing in a **business transformation** initiative, impacting cost of sales, SG&A, and R&D. Business transformation involves the phased implementation of an enterprise resource planning (ERP) system globally, as well as process and service delivery changes.
+
+---
+
+### Cost of Sales:
+Cost of sales includes manufacturing, engineering, and freight costs.
+
+| Year | Cost of Sales (% of sales) | Change from previous year |
+|--------|----------------------------|---------------------------|
+| 2020   | 51.6%                     | Decreased by 1.8%        |
+| 2019   | 53.4%                     |                           |
+
+Cost of sales decreased during 2020 compared to 2019. Factors include lower litigation-related charges, COVID-related net impacts, higher restructuring charges, and increased selling prices by 0.6%. Lower raw material costs also contributed to the reduction as a percentage of sales.
+# Selling, General and Administrative Expenses:
+SG&A in dollars decreased slightly in 2020 when compared to 2019. The decrease was driven by cost saving actions taken in response to COVID-19, in addition to benefits from prior year restructuring (and adjustments thereto in 2020). Additional factors that decreased SG&A in 2020 also include lower year-on-year impact related to significant litigation-related charges. In terms of SG&A as a percent of sales, partially offsetting these decreases was the overall effect of the COVID-19 pandemic on sales that resulted in higher costs as a percent of sales. SG&A was also impacted by increased spending year-on-year related to Acelity, which was acquired in the fourth quarter of 2019.
+
+# Research, Development and Related Expenses:
+R&D in dollars decreased slightly in 2020 when compared to 2019 and remained relatively consistent as a percent of sales at 5.8% in 2020 compared to 5.9% in 2019. 3M continued to invest in its key initiatives, including R&D aimed at disruptive innovation programs with the potential to create entirely new markets and disrupt existing markets. Incremental R&D spending in 2020 included activities related to the Acelity business acquired in the fourth quarter of 2019. 3M also experienced lower year-on-year restructuring activities impacting R&D.
+
+# Gain on Sale of Businesses:
+During the first quarter of 2020, the Company recorded a pre-tax gain of $2 million ($1 million loss after tax) related to the sale of its advanced ballistic-protection business and recognition of certain contingent consideration.
+During the second quarter of 2020, the Company recorded a pre-tax gain of $387 million ($304 after tax) related to the sale of substantially all of its drug delivery business.
+
+During the first quarter of 2019, the Company sold certain oral care technology comprising a business and reflected an earnout on a previous divestiture resulting in a pre-tax gain of $8 million ($7 million gain after tax).
+In the third quarter of 2019, 3M recorded a gain related to the divestiture of the Company’s gas and flame detection business and an immaterial impact as a result of measuring a disposal group at the lower of its carrying amount or fair value less cost to sell, which in aggregate resulted in a pre-tax gain of $106 million ($79 million after tax). Refer to Note 3 for additional details on divestitures.
+
+# Operating Income Margin:
+3M uses operating income as one of its primary business segment performance measurement tools. Refer to the table below for a reconciliation of operating income margins for 2020 and 2019.
+
+| Year ended December 31 | 2020 | 2019 |
+|------------------------|-------|-------|
+| Same period last year | 19.2% | 22.0% |
+| Significant litigation-related charges/benefits | 2.4 | 2.7 |
+| Gain/loss on sale of businesses | (0.4) | (1.6) |
+| Divestiture-related restructuring actions | — | 0.4 |
+| Same period last year, excluding special items | 21.2% | 23.5% |
+| Increase/(decrease) in operating income margin, due to: | | |
+| Organic volume/productivity and other | (0.1) | (1.7) |
+| Non divestiture-related restructuring actions | 0.2 | (0.8) |
+| Acquisitions/divestitures | (0.5) | (0.6) |
+| Selling price and raw material impact | 0.7 | 0.4 |
+| Foreign exchange impacts | (0.2) | 0.4 |
+| Current period, excluding special items | 21.3% | 21.2% |
+| Significant litigation-related charges/benefits | — | (2.4) |
+| Gain/loss on sale of businesses | 1.2 | 0.4 |
+| Divestiture-related restructuring actions | (0.2) | — |
+| Current period | 22.3% | 19.2% |
+
+# Year 2020 Operating Income:
+Operating income margins increased 3.1 percentage points in 2020 when compared to 2019. Factoring out the impact on operating income of special items as described in the *Certain amounts adjusted for special items – (non-GAAP measures)* section above, operating margins increased 0.1 percentage points to 21.3 percent in 2020 when compared to 2019.
+
+Additional discussion related to the components of the year-on-year change in operating income margins follows:
+- **Organic volume/productivity and other:**  
+  Lower organic volume growth in 2020 as a result of significant COVID-19 related impacts, in addition to COVID-related net factors described in the preceding *Overview—Consideration of COVID-19* section, decreased operating income margins year-on-year. 3M also experienced increased costs from the regular review of its respirator mask liabilities and certain follow-on accelerated depreciation following some of the restructuring described below. Partially offsetting this net decrease were year-on-year net gains related to certain property sales (in 2020 with Safety and Industrial and in 2019 within Corporate and Unallocated) in addition to benefits recognized in 2020 related to the restructuring and other actions taken in 2019 (and the adjustments thereto in 2020) along with continued cost management and productivity efforts.
+- Operating income margins decreased year-on-year due to higher defined benefit pension and postretirement service cost expense.
+
+- **Non divestiture-related restructuring actions:**  
+  3M recorded non divestiture-related restructuring charges that impacted operating income aggregating $195 million in 2020. These included charges in the second quarter of 2020 to address certain COVID-related impacts and in the fourth quarter as 3M initiated actions to further enhance its operational and marketing capabilities. In 2019, charges included $246 million impacting operating income (and $36 million impacting other expense (income)) as the Company committed to actions in light of slower than expected 2019 sales and related to realigning its organizational structure and operating model. Refer to Note 5 for additional details.  
+  The impact of these restructuring charges increased operating income margins.
+
+- **Acquisitions/divestitures:**  
+  Acquisition-related impacts relate to the ongoing integration of M*Modal and Acelity, which decreased operating income margins year-on-year.  
+  Divestiture impacts, which include lost operating income from divested businesses, increased operating income margins year-on-year.
+
+- **Selling price and raw material impact:**  
+  Higher selling prices and lower raw material cost impacts benefited operating income margins year-on-year for 2020.
+
+- **Foreign exchange impacts:**  
+  Foreign currency effects (net of hedge gains) decreased operating income margins year-on-year.
+
+- **Significant litigation-related charges:**  
+  Operating income margins for 2020 and 2019 included the impacts of $17 million and $762 million, respectively, of significant litigation-related charges.
+
+- **Gain/loss on sale of businesses:**  
+  2020 and 2019 included gains of $389 million and $114 million, respectively, on sale of businesses. Refer to the *Certain amounts adjusted for special items - (non-GAAP measures)* section for more information.
+## Operating Income and Restructuring Actions
+
+### Year 2019 Operating Income
+- Operating income margins decreased 2.8 percentage points for the full year 2019 compared to 2018.
+- Factoring out special items, operating margins decreased 2.3 percentage points to 21.2% in 2019 compared to 2018.
+
+### Organic Volume/Productivity and Other
+- Negative organic local sales volume growth due to softness in certain end markets and channel inventory adjustments.
+- Actions taken by 3M in response to lower sales volumes and high inventory levels resulted in lower manufacturing and inventory absorption, reducing operating margins.
+- Restructuring benefits in the second quarter of 2019 partially offset these impacts.
+- Operating income margins increased year-on-year due to lower defined benefit pension and postretirement service cost expense.
+
+### Non-Divestiture-Related Restructuring Actions
+- During Q2 2019, management approved restructuring due to slower than expected 2019 sales and organizational realignment in Q4.
+- Restructuring charges included $246 million impacting operating income and $36 million impacting other expense (income). Refer to Note 5.
+
+### Acquisitions and Divestitures
+| Impact Type                          | Details                                                                                          |
+|--------------------------------------|--------------------------------------------------------------------------------------------------|
+| Acquisition-related                  | Ongoing integration of M*Modal and Acelity decreased operating income margins year-on-year.     |
+| Divestiture impact                  | Lost operating income from divested businesses, mainly due to divestiture of Communication Markets Division. |
+| Remaining stranded costs            | From 2018 divestiture of Communication Markets Division, further reducing operating margins.  |
+
+### Price and Raw Material Impact
+- Higher selling prices and raw material cost increases influenced operating income margins positively in 2019.
+
+### Foreign Exchange Impacts
+- Net of hedge gains, foreign currency effects increased operating income margins year-on-year.
+
+### Litigation-Related Charges
+- 2018 and 2019 margins included impacts of $897 million and $762 million respectively for significant litigation charges.
+
+---
+
+## Other Expense (Income), Net
+- See Note 6.
+- The decrease in 2020 was mainly due to the deconsolidation of the Venezuelan subsidiary in 2019.
+- Interest expense (net of interest income):
+  
+| Year | Factors                                                                                                   |
+|--------|-----------------------------------------------------------------------------------------------------------|
+| 2020 | Higher U.S. debt balances, lower interest income, early debt repurchase charges in December 2020.     |
+| 2019 | Higher U.S. debt balances offset by higher interest income due to proceeds from debt issuance prior to Acelity acquisition. |
+
+- Pension and postretirement net periodic benefits:
+  
+| Year | Notes                                              |
+|--------|-----------------------------------------------------|
+| 2020 | Lower benefits due to increased expense from lower December 31, 2019 discount rates. |
+| 2019 | Lower benefits due to pension settlement charges and retirement program. |
+
+---
+
+## Provision for Income Taxes
+
+| Year | Effective Tax Rate | Change                                       |
+|--------|---------------------|----------------------------------------------|
+| 2020 | 19.6%               | Decreased by 0.2 percentage points compared to 2019. |
+| 2019 | 19.8%               | Decreased from 23.4% in 2018 by 3.6 percentage points. |
+
+- Estimated effective tax rate for 2021: approximately 20-21%.
+- Tax rates vary due to discrete items (e.g., tax audits, laws) and recurring factors (e.g., geographic income mix).
+
+---
+
+## Income from Unconsolidated Subsidiaries, Net of Taxes
+
+| Year | Amount                                  | Comments                                                                 |
+|--------|-----------------------------------------|--------------------------------------------------------------------------|
+| 2020 | $ (5) million                         | Primarily attributable to Kindeva, following divestiture of drug delivery business. |
+| 2019 | $ —                                   | No significant income/loss.                                              |
+
+## Net Income Attributable to Noncontrolling Interest
+
+| Year | Amount | Comments                                       |
+|--------|--------|------------------------------------------------|
+| 2020 | $ 4 million | Income attributable to non-3M ownership interests. |
+| 2019 | $ 12 million | Same as above.                           |
+
+- Corresponds to income/loss attributable to entities like 3M India Limited (75% owned).
+
+---
+
+## Currency Effects
+
+| Year | Impact on Pre-tax Income | Impact on Transaction Effects |
+|--------|---------------------------|------------------------------|
+| 2020 | Decreased by $81 million | Decreased by approximately $21 million |
+| 2019 | Increased by $1 million  | Increased by approximately $201 million |
+
+- Includes effects from currency translation, transfer of goods, and derivatives.
+# Performance by Business Segment
+
+Item 1, Business Segments, provides an overview of 3M’s business segments. In addition, disclosures relating to 3M’s business segments are provided in Note 19. 
+
+Effective in the first quarter of 2020, the Company changed its business segment reporting in its continuing effort to improve the alignment of businesses around markets. Also, effective in the second quarter of 2020, the measure of segment operating performance used by 3M’s chief operating decision maker (CODM) changed and, as a result, 3M’s disclosed measure of segment profit/loss (business segment operating income) has been updated for all periods presented. The change to business segment operating income aligns with the update to how the CODM assesses performance and allocates resources for the Company’s business segments.
+
+As discussed in Note 19, 3M discloses business segment operating income as its measure of segment profit/loss, reconciled to both total 3M operating income and income before taxes. Business segment operating income includes dual credit for certain related operating income (as described below in “Elimination of Dual Credit”). Business segment operating income excludes certain expenses and income that are not allocated to business segments (as described below in “Corporate and Unallocated”). Additionally, the following special items are excluded from business segment operating income and, instead, are included within Corporate and Unallocated: significant litigation-related charges/benefits, gain/loss on sale of businesses, and divestiture-related restructuring actions.
+
+Information provided herein reflects the impact of these changes for all periods presented. 3M manages its operations in four business segments. The reportable segments are Safety and Industrial; Transportation and Electronics; Health Care; and Consumer.
+
+## Corporate and Unallocated
+
+In addition to these four business segments, 3M assigns certain costs to “Corporate and Unallocated,” which is presented separately in the preceding business segments table and in Note 19. Corporate and Unallocated includes a variety of miscellaneous items, such as:
+
+- corporate investment gains and losses
+- certain derivative gains and losses
+- certain insurance-related gains and losses
+- certain litigation and environmental expenses
+- corporate restructuring charges
+- certain under- or over-absorbed costs (e.g., pension, stock-based compensation) that the Company determines not to allocate directly to its business segments
+
+Additionally, Corporate and Unallocated operating income includes special items such as:
+
+- significant litigation-related charges/benefits
+- gain/loss on sale of businesses
+- divestiture-related restructuring costs
+
+Corporate and Unallocated also includes sales, costs, and income from contract manufacturing, transition services and other arrangements with the acquirer of the Communication Markets Division following its 2018 divestiture through 2019 and the acquirer of the former drug delivery business following its 2020 divestiture. Because this category includes a variety of miscellaneous items, it is subject to fluctuation on a quarterly and annual basis.
+
+**Corporate and Unallocated net operating loss decreased by $767 million in 2020 when compared to 2019.**
+
+## Special Items
+
+Refer to the "Certain amounts adjusted for special items - (non-GAAP measures)" section and Note 5 for additional details on the impact of significant litigation-related charges/benefits, gain/loss on sale of businesses, and divestiture-related restructuring actions that are reflected in Corporate and Unallocated.
+
+## Other Corporate Expense - Net
+
+Other corporate operating expenses increased in 2020. The increases were due to year-over-year increased net costs as a result of the regular review of 3M’s respirator mask liabilities, lower year-on-year gains from certain property sales reflected in Corporate and Unallocated, in addition to transition service and other arrangement costs, net of income, post-divestiture of the Company’s former drug delivery business in 2020, and increased legal expenses. These increases were partially offset by lower year-on-year non-divestiture-related restructuring costs reflected in Corporate and Unallocated.
+
+# Operating Business Segments
+
+Information related to 3M’s business segments is presented in the tables that follow. Organic local-currency sales include both organic volume impacts plus selling price impacts. Acquisition impacts, if any, are measured separately for the first twelve months post-transaction. The divestiture impacts, if any, foreign currency translation impacts and total sales change are also provided for each business segment. Any references to EMEA relate to Europe, Middle East and Africa on a combined basis.
+
+The following discusses total year results for 2020 compared to 2019 and 2019 compared to 2018, for each business segment. Refer to the preceding “Sales and operating income by geographic area” section for organic local-currency sales growth by business segment within major geographic areas.
+
+## Safety and Industrial Business (36.6% of consolidated sales)
+
+| Year     | Sales (millions) | % Change | Business Segment Operating Income (millions) | % Change | Percent of Sales |
+|----------|------------------|----------|----------------------------------------------|----------|------------------|
+| 2020     | $11,767          |          | $3,054                                       |          | 26.0%            |
+| 2019     | $11,514          |          | $2,510                                       |          | 21.8%            |
+
+### Sales (millions):
+
+| Year | Sales      | % Change      | Divestitures | Translation | Total Sales Change |
+|-------|------------|--------------|--------------|-------------|---------------------|
+| 2020  | $11,767    | 2.2%          | (0.6)       | (0.7)       | 2.2%               |
+| 2019  | $11,514    | -             | (1.7)       | (2.1)       | -7.2%              |
+
+### Business segment operating income:
+
+| Year | Operating Income (millions) | % Change  |
+|--------|------------------------------|------------|
+| 2020   | $3,054                       | 21.7%     |
+| 2019   | $2,510                       | -12.2%    |
+
+### Results for 2020:
+- Sales in Safety and Industrial totaled $11.8 billion, an increase of 2.2 percent compared to the same period last year.
+- Organic local-currency sales increased 3.5 percent, divestitures decreased sales by 0.6 percent, and foreign currency translation decreased sales by 0.7 percent.
+
+#### Organic local-currency sales increased in:
+- Personal safety and roofing granules.
+
+#### Sales declined in:
+- Industrial adhesives and tapes
+- Electrical markets
+- Closure and masking systems
+- Automotive aftermarket
+- Abrasives sales
+
+- The growth was driven by unprecedented demand for respirators due to COVID-19, partially offset by softness across most of the Company’s general industrial-related portfolio.
+
+### Divestitures:
+- 2018 divestitures that impacted 2019 results include the sale of certain personal safety product offerings focused on noise, environmental, and heat stress monitoring (first quarter 2018), and its abrasives glass products business (second quarter 2018).
+- In 2018, 3M completed the sale of its Communication Markets Division.
+- In August 2019, 3M completed the sale of its gas and flame detection business.
+
+### Business segment operating income:
+- Margins increased 4.2 percentage points, mainly due to productivity improvements, cost discipline, and benefits from property sale, 2019 restructuring, and other actions.
+# Year 2019 Results
+
+Sales in Safety and Industrial totaled $11.5 billion, down 7.2 percent in U.S. dollars, compared to full year 2018. Organic local-currency sales decreased 3.4 percent, divestitures decreased sales by 1.7 percent, and foreign currency translation decreased sales by 2.1 percent.
+
+On an organic local-currency sales basis:
+- Sales increased in roofing granules and personal safety, while electrical markets, industrial adhesives and tapes, abrasives, automotive aftermarket, and closure and masking systems declined year-on-year.
+
+Divestitures:
+- In February 2018, 3M closed on the sale of certain personal safety product offerings primarily focused on noise, environmental, and heat stress monitoring.
+- In May 2018, 3M divested an abrasives glass products business.
+- In 2018, 3M completed the sale of substantially all of its Communication Markets Division.
+- In August 2019, 3M completed the sale of its gas and flame detection business.
+
+Business segment operating income:
+- Operating income margins decreased 1.2 percentage points, primarily related to sales declines, particularly in Asia Pacific and the U.S, in addition to inventory reductions and restructuring impacts.
+
+## Transportation and Electronics Business (27.4% of consolidated sales)
+
+|            | 2020       | 2019       |
+|------------|------------|------------|
+| Sales (millions) | $8,827 | $9,591 |
+| Sales change analysis: | | |
+| Organic local-currency | (7.1)% | (3.6)% |
+| Divestitures | (1.1) | — |
+| Translation | 0.2 | (1.5) |
+| Total sales change | (8.0)% | (5.1)% |
+
+|                        | 2020       | 2019       |
+|------------------------|------------|------------|
+| Business segment operating income (millions) | $1,927 | $2,221 |
+| Percent change | (13.3)% | (16.0)% |
+| Percent of sales | 21.8% | 23.2% |
+
+### Year 2020 results:
+Sales in Transportation and Electronics totaled $8.8 billion, down 8.0 percent in U.S. dollars. Organic local-currency sales decreased 7.1 percent, divestitures decreased sales by 1.1 percent, and foreign currency translation increased sales by 0.2 percent.
+
+On an organic local-currency sales basis:
+- Sales declined in transportation safety, advanced materials, commercial solutions, and automotive and aerospace. Automotive and aerospace was primarily impacted by the decline in global car and light truck builds. Commercial solutions and transportation safety were impacted by soft-end markets such as hospitality, advertising, and highway infrastructure due to social distancing and work-from-home protocols as a result of COVID-19.
+- Sales increased in 3M’s electronics-related businesses. Electronics-related growth was led by demand for semiconductor, data center, and factory automation end-markets, and was partially offset by softness in the consumer electronics end-market.
+
+Divestitures:
+- In January 2020, 3M completed the sale of its advanced ballistic-protection business. Refer to Note 3 for details.
+
+Business segment operating income:
+- Business segment operating income margins decreased 1.4 percentage points, primarily related to lower sales and reduced productivity in key end-markets due to COVID-19 related impacts, partially offset by continued cost discipline and benefits from last year’s restructuring actions.
+
+## Year 2019 results:
+Sales in Transportation and Electronics totaled $9.6 billion, down 5.1 percent in U.S. dollars. Organic local-currency sales decreased 3.6 percent, and foreign currency translation decreased sales by 1.5 percent.
+
+On an organic local-currency sales basis:
+- Sales increased in advanced materials and transportation safety, while commercial solutions and automotive and aerospace solutions declined.
+- Automotive and aerospace was impacted by the decline in global car and light truck builds along with channel inventory reductions within its Automotive OEM business, particularly in China.
+- Sales decreased 6 percent in 3M’s electronics-related businesses, with decreases in both display materials and systems and electronics materials solutions. Electronics-related growth was impacted by soft consumer electronics and factory automation end markets in addition to channel inventory adjustments.
+- Sales decreased 4 percent in Asia Pacific, where 3M’s electronics business is concentrated.
+
+Business segment operating income:
+- Operating income margins decreased 3.0 percentage points, primarily impacted by continued sales declines, particularly in Asia Pacific and the U.S, in addition to inventory reductions. Operating income margins were also impacted by the restructuring charges initiated in 2019.
+
+# Health Care Business (25.9% of consolidated sales)
+
+|            | 2020       | 2019       |
+|------------|------------|------------|
+| Sales (millions) | $8,345 | $7,431 |
+| Sales change analysis: | | |
+| Organic local-currency | 1.0% | 1.5% |
+| Acquisitions | 15.5 | 9.4 |
+| Divestitures | (4.1) | — |
+| Translation | (0.1) | (2.0) |
+| Total sales change | 12.3% | 8.9% |
+
+|                        | 2020       | 2019       |
+|------------------------|------------|------------|
+| Business segment operating income (millions) | $1,828 | $1,858 |
+| Percent change | (1.6)% | (3.1)% |
+| Percent of sales | 21.9% | 25.0% |
+
+### Year 2020 results:
+Sales in Health Care totaled $8.3 billion, up 12.3 percent in U.S. dollars. Organic local-currency sales increased 1.0 percent, acquisitions increased sales by 15.5 percent, divestitures decreased sales by 4.1 percent, and foreign currency translation decreased sales by 0.1 percent.
+
+On an organic local-currency sales basis:
+- Sales increased in medical solutions, separation and purification sciences, and food safety, while sales decreased in health information systems and oral care.
+- Increases in healthcare volumes benefited both medical solutions and oral care after significant disruptions in the second quarter, with strong pandemic-related demand for disposable respirators resulting in increased sales for medical solutions, while oral care sales decreased year-on-year. In addition, health information systems decreased due to hospitals remaining cautious relative to their information technology investments.
+# Acquisitions:
+- In February 2019, 3M acquired M*Modal, a leading healthcare technology provider of cloud-based, conversational artificial intelligence-powered systems that help physicians efficiently capture and improve the patient narrative.
+- In October 2019, 3M completed the acquisition of Acelity Inc. and its KCI subsidiaries, a leading global medical technology company focused on advanced wound care and specialty surgical applications.
+
+# Divestitures:
+- In the first quarter of 2019, the Company sold certain oral care technology comprising a business.
+- In May 2020, 3M completed the sale of substantially all of its drug delivery business.
+
+# Business segment operating income:
+- Operating income margins decreased 3.1 percentage points year-on-year, driven by impacts related to the Acelity acquisition in addition to significant sales declines in oral care during the second quarter of 2020, partially offset by continued cost discipline and benefits from 2019 restructuring and other costs.
+
+# Year 2019 results:
+- Sales in Health Care totaled $7.4 billion, up 8.9 percent in U.S. dollars.
+- Organic local-currency sales increased 1.5 percent, acquisitions increased sales 9.4 percent, and foreign currency translation decreased sales by 2.0 percent.
+
+## On an organic local-currency sales basis:
+- Sales increased in health information systems, food safety, and medical solutions, while separation and purification sciences decreased, and oral care was flat.
+- Drug delivery declined year-on-year, as continued softness in the business negatively impacted overall Health Care organic growth.
+
+# Acquisitions:
+- In February 2019, 3M acquired M*Modal, a leading healthcare technology provider of cloud-based, conversational artificial intelligence-powered systems that help physicians efficiently capture and improve the patient narrative.
+- In October 2019, 3M completed the acquisition of Acelity Inc. and its KCI subsidiaries, a leading global medical technology company focused on advanced wound care and specialty surgical applications.
+
+# Divestitures:
+- In the first quarter of 2018, 3M completed the sale of its polymer additives compounding business.
+- In the first quarter of 2019, the Company sold certain oral care technology comprising a business.
+
+# Business segment operating income:
+- Operating income margins decreased 3.1 percentage points year-on-year.
+
+## Table of Contents
+| Year | Sales (millions) | Sales change analysis | Business segment operating income (millions) | Percent change | Percent of sales |
+|-------|------------------|------------------------|---------------------------------------------|----------------|------------------|
+| 2020 | $5,336 | Organic local-currency 4.1%, Translation -0.5 | $1,249 | 11.2% | 23.4% |
+| 2019 | $5,151 | Organic local-currency 1.7%, Translation -1.2 | $1,124 | 3.7% | 21.8% |
+
+# Year 2020 results:
+- Sales in Consumer totaled $5.3 billion, an increase of 3.6 percent in U.S. dollars.
+- Organic local-currency sales increased 4.1 percent and foreign currency translation decreased sales by 0.5 percent.
+
+## On an organic local-currency sales basis:
+- Sales grew in home improvement and home care, while consumer health care and stationery and office declined.
+- Stationery and office declined year-on-year as a result of many business offices and schools remaining partially or fully closed due to the pandemic.
+- Sales showed continued strength in the Company’s Command™, Filtrete™, Scotch Blue™, Scotch Brite™, and Meguiar’s™ brands.
+
+# Business segment operating income:
+- Operating income margins increased 1.6 percentage points year-on-year as a result of strong organic sales growth and continued cost discipline.
+
+# Year 2019 results:
+- Sales in Consumer totaled $5.2 billion, an increase of 0.5 percent in U.S. dollars.
+- Organic local-currency sales increased 1.7 percent and foreign currency translation decreased sales by 1.2 percent.
+
+## On an organic local-currency sales basis:
+- Sales grew in home improvement, while home care and stationery and office were flat.
+- Consumer health care decreased year on year.
+- Geographically, the U.S. showed particular strength in the Company’s Filtrete™ and Command™ brands, while Asia Pacific was impacted by lower consumer demand for respiratory solutions.
+
+# Business segment operating income:
+- Operating income margins increased 0.7 percentage points year-on-year.
+- Increases in operating income margins were primarily due to benefits from portfolio and footprint actions taken, partially offset by the restructuring charges initiated in 2019.
+
+# PERFORMANCE BY GEOGRAPHIC AREA
+While 3M manages its businesses globally and believes its business segment results are the most relevant measure of performance, the Company also utilizes geographic area data as a secondary performance measure. Export sales are generally reported within the geographic area where the final sales to 3M customers are made. A portion of the products or components sold by 3M’s operations to its customers are exported by these customers to different geographic areas. As customers move their operations from one geographic area to another, 3M’s results will follow. Thus, net sales in a particular geographic area are not indicative of end-user consumption in that geographic area. Financial information related to 3M operations in various geographic areas is provided in Note 2 and Note 19.
+# Overview
+
+Refer to the “Overview” section for a summary of net sales by geographic area and business segment.
+
+# Geographic Area Supplemental Information
+
+| Property, Plant and Equipment - net | Employees as of December 31 | Capital Spending as of December 31 | (Millions, except Employees) | 2020 | 2019 | 2018 | 2020 | 2019 | 2018 | 2020 | 2019 |   |
+| ---------------------------------- | -------------------------- | --------------------------------- | ------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | --- |
+| Americas                           |                            |                                   |                                | 56,042 | 56,027 | 53,661 | $943 | 1,218 | 1,044 | 5,752 | 5,873 |     |
+| Asia Pacific                       |                            |                                   |                                | 18,271 | 18,724 | 18,971 | 235 | 241 | 238 | 1,662 | 1,637 |   |
+| Europe, Middle East and Africa     |                            |                                   |                                | 20,674 | 21,412 | 20,884 | 323 | 240 | 295 | 2,007 | 1,823 |   |
+| **Total Company**                  |                            |                                   |                                | 94,987 | 96,163 | 93,516 | 1,501 | 1,699 | 1,577 | 9,421 | 9,333 |   |
+
+# Employment
+
+Employment decreased by approximately 1,200 positions in 2020 and increased by approximately 2,600 positions in 2019. The above table includes the impact of acquisitions (which involved approximately 5,500 positions in 2019), net of divestitures and other actions.
+
+# Capital Spending / Net Property, Plant, and Equipment
+
+Investments in property, plant, and equipment enable growth across many diverse markets, helping to meet product demand and increase manufacturing efficiency.  
+In 2020, 63 percent of 3M’s capital spending was within the Americas, followed by Europe, Middle East and Africa, and Asia Pacific. 3M is increasing its investment in manufacturing and sourcing capability to better align its product capabilities with sales in major geographic areas, aiming to serve customers worldwide with proprietary, automated, efficient, safe, and sustainable processes.  
+Capital spending is discussed in more detail later in MD&A in the section entitled “Cash Flows from Investing Activities.”
+
+# CRITICAL ACCOUNTING ESTIMATES
+
+Information regarding significant accounting policies is included in Note 1 of the consolidated financial statements. As stated in Note 1, the preparation of financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosures of contingent assets and liabilities. Management bases its estimates on historical experience and on various assumptions that are believed to be reasonable under the circumstances, with results that form the basis for judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates.
+
+The Company considers its most critical accounting estimates to be related to legal proceedings, pension and postretirement obligations, goodwill, certain long-lived assets, and uncertainties in income tax positions. Senior management has discussed the development, selection, and disclosure of these estimates with the Audit Committee of 3M’s Board of Directors.
+
+## Legal Proceedings
+
+Assessments of lawsuits and claims involve complex judgments about future events and rely heavily on estimates and assumptions. The Company accrues an estimated liability for legal proceedings that are both probable and estimable, following ASC 450, Contingencies.  
+
+Please refer to the section titled “Process for Disclosure and Recording of Liabilities Related to Legal Proceedings” (contained in “Legal Proceedings” in Note 16) for additional details.
+
+## Pension and Postretirement Obligations
+
+The Company makes estimates and judgments regarding its defined benefit pension and postretirement obligations.
+
+The benefit obligation represents the present value of future benefits employees are entitled to for services already rendered as of the measurement date.  
+The Company projects benefit payment cash flows for each future period and discounts them back to the December 31 measurement date using yields from a portfolio of high-quality, fixed-income debt instruments that produce cash flows sufficient in timing and amount to settle projected future benefits.  
+Service cost and interest cost are measured separately using the spot yield curve approach applied to each corresponding obligation. Service costs are determined based on duration-specific spot rates applied to the service cost cash flows.  
+Interest cost is calculated by applying duration-specific spot rates to the year-by-year projected benefit payments.  
+
+This methodology does not affect the measurement of the total benefit obligations as the change in service and interest costs offset in the actuarial gains and losses recorded in other comprehensive income.
+
+### Discount Rates (December 31, 2020)
+
+|                                          | Benefit Obligation | Net Periodic Benefit Cost Components |                              |
+| ---------------------------------------- | ------------------ | ----------------------------------- | ---------------------------- |
+| U.S. Qualified Pension                   | 2.55%              | Service cost: 2.84%                |                              |
+| International Pension (weighted average)| 1.38%              | Interest cost: 1.93%                |                              |
+| U.S. Postretirement Medical              | 2.35%              | 2.71% (Service), 1.68% (Interest) |                              |
+
+### Net Periodic Benefit Cost Components (2020)
+
+|                           | Service Cost | Interest Cost | Annual Rate (2021) |
+| ------------------------- | -------------- | --------------- | ------------------ |
+| U.S. Qualified Pension  | $456 million  | $50 million   | 6.50% (expected long-term rate, decreased from 6.75% in 2020) |
+| Non-service pension and postretirement costs | | | | 
+
+### Expected Return on Plan Assets
+
+The expected return on plan assets is based on strategic asset allocation, long-term capital market return expectations, and anticipated performance from active management.
+
+- For the primary U.S. qualified pension plan, the expected long-term rate of return for 2021 is 6.50%, down from 6.75% in 2020.  
+- For international pension and other post-retirement plans, the weighted average expected return is 4.36% for 2021, compared to 4.70% for 2020.  
+
+Refer to Note 13 for details on these rates.
+
+### Fair Value of Plan Assets
+
+3M follows ASC 820, Fair Value Measurements and Disclosures, to determine the fair value of plan assets.  
+While the valuation methods are considered appropriate and consistent with market practices, different methodologies or assumptions could result in different fair value estimates.
+
+### Pension and Postretirement Expense (2020)
+
+|                        | Amount          |
+| ---------------------- | --------------  |
+| Consolidated defined benefit pre-tax pension and postretirement service cost expense | $456 million |
+| Non-service pension and postretirement net benefit costs (after settlements, curtailments, and benefits) | $50 million |
+| **Total pension and postretirement expense** | **$406 million** (up from $357 million in 2019) |
+
+### Estimated Expenses for 2021
+
+- Pension and postretirement service cost expense: approximately $497 million  
+- Non-service pension and postretirement net benefit costs: anticipated to be a benefit of approximately $130 million  
+- **Total estimate for 2021:** $367 million, decreased by about $40 million compared to 2020
+
+### Effect of Rate Changes on 2021 Pension Expense
+
+|                        | Decrease (-) / Increase (+) | (Millions) |
+| ---------------------- | --------------------------- | ---------- |
+| Discount Rate (−0.25%) |  | $34 (U.S.), $27 (International) |
+| Discount Rate (+0.25%) |  | $(34) (U.S.), $(28) (International) |
+| Expected Return on Assets (−0.25%) |  | $39 (U.S.), $21 (International) |
+| Expected Return on Assets (+0.25%) |  | $(39) (U.S.), $(17) (International) |
+# Goodwill and Certain Long-Lived Assets
+
+The Company makes certain estimates and judgments in relation to goodwill and certain long-lived assets. Those include considerations made in the valuation of certain acquired identifiable definite-lived and indefinite-lived assets as a result of business combinations as well as considerations in the recoverability and impairment assessments of long-lived assets and goodwill.
+
+## Acquisition of Certain Identifiable Definite-Lived and Indefinite-Lived Assets
+
+In conjunction with an acquisition of a business, the Company records identifiable definite-lived and indefinite-lived intangible assets acquired at their respective fair values as of the date of acquisition. The corresponding fair value estimates for these assets acquired include projected future cash flows, associated discount rates used to calculate present value, asset life cycles, royalty rates, and customer retention rates. The fair value calculated for indefinite-lived intangible assets such as certain tradenames, in addition to intangible assets that are definite-lived such as patents, customer relationships, tradenames, and other technology-based assets, may change during the finalization of the purchase price allocation due to the significant estimates used in determining their fair value. As a result, the Company may make adjustments to the provisional amounts recorded for certain items as part of the purchase price allocation subsequent to the acquisition, not to exceed one year after the acquisition date, until the purchase accounting allocation is finalized.
+
+## Assessments of Long-Lived Assets and Goodwill
+
+As of December 31, 2020, net property, plant, and equipment totaled $9.4 billion and net identifiable intangible assets totaled $5.8 billion, of which $0.7 billion related to indefinite-lived tradenames. In addition, 3M goodwill totaled approximately $13.8 billion as of December 31, 2020.
+
+Long-lived assets with a definite life are tested for impairment whenever events or circumstances indicate that the carrying amount of an asset (asset group) may not be recoverable. An impairment loss is recognized when the carrying amount exceeds the estimated undiscounted cash flows from the asset’s or asset group’s ongoing use and eventual disposition. If an impairment is identified, the impairment loss recorded is calculated by the excess of the asset’s carrying value over its fair value. Fair value is generally determined using a discounted cash flow analysis. 
+
+Intangible assets with an indefinite life, namely certain tradenames, are not amortized. Indefinite-lived intangible assets are tested for impairment annually and between annual tests if an event occurs or circumstances change that would indicate impairment. An impairment loss is recognized when the fair value is less than the carrying value of the indefinite-lived intangible asset.
+
+Goodwill is tested for impairment annually in the fourth quarter, and between annual tests if an event occurs or circumstances change indicating potential impairment. Management estimates and assumptions are made in preparing the consolidated financial statements, with actual results emerging over long periods. These estimates include the recoverability of long-lived assets, and are periodically adjusted based on circumstances like asset use changes or performance fluctuations.
+
+Factors potentially leading to impairment include changes in global economic conditions, competitive environment, customer preferences, and currency fluctuations. Changes in the weighted average cost of capital can also impact impairment testing.
+
+As of December 31, 2020, the $0.7 billion of indefinite-lived tradenames mainly relate to Capital Safety (acquired in 2015), whose tradenames ($520 million at acquisition) have been in existence for over 60 years. The primary valuation technique used for these tradenames is a discounted cash flow approach applying a relief of royalty rate to estimated sales, then discounting the amount with a market/technology discount rate.
+
+In 2020, 3M reflected an immaterial impairment charge related to certain indefinite-lived assets, with no additional impairment indicated after the third quarter of 2020.
+
+3M’s goodwill totaled approximately $13.8 billion as of December 31, 2020. Annual goodwill impairment testing is performed in the fourth quarter at the reporting unit level, with all goodwill assigned to one level below the business segment, typically the division. 
+
+### Impairment Testing Methodology
+
+- **Reporting Units:** Correspond to divisions, not combined across segments unless similar in economic characteristics.
+- **Testing:** Impairment is recognized when the carrying amount exceeds the estimated fair value, determined via earnings multiplied by a comparable industry price/earnings ratio or discounted cash flow analysis.
+- **Approach Used:** The price/earnings ratio for stable/growing businesses with positive track records; discounted cash flow for startups, loss-making, declining businesses, or businesses needing additional review.
+- **Weighted Analysis:** For certain divisions, a weighted-average discounted cash flow analysis is used, factoring in different scenarios and their likelihoods.
+
+### Segment Changes and Impairment Assessment
+
+As of Note 19, in the first quarter of 2020, the Company changed its business segment reporting. The impact on goodwill was immaterial, and no impairment was indicated from this restructuring.
+
+By the fourth quarter of 2020, no goodwill impairment was indicated for any reporting units. As of October 1, 2020, 3M had 22 primary reporting units—ten accounting for approximately 93% of goodwill—encompassing divisions such as:
+
+- Advanced Materials
+- Display Materials and Systems
+- Electronics Materials Solutions
+- Health Information Systems
+- Industrial Adhesives and Tapes
+- Medical Solutions
+- Oral Care Solutions
+- Personal Safety
+- Separation and Purification Sciences
+- Transportation Safety
+
+### Additional Notes
+
+3M’s integrated enterprise structure and focus on R&D mean many businesses lack associated goodwill and are not easily sold separately. The company monitors reporting units and asset groups for triggers or indicators of impairment throughout 2021.
+
+# Uncertainty in Income Tax Positions
+
+3M’s operations involve complexities and judgments regarding tax regulations across various jurisdictions. Final taxes paid depend on negotiations with tax authorities and resolution of disputes from audits (federal, state, international). The Company recognizes potential liabilities and records tax liabilities based on estimates of additional taxes due, following guidance in ASC 740, Income Taxes.
+
+Reserves are adjusted as facts and circumstances evolve, but due to the complexity, the ultimate resolution may differ materially from current estimates. If estimates prove lower than actual assessments, additional charges are recorded; if payments are less than recorded liabilities, reversals result in tax benefits in the period when liabilities are no longer deemed necessary.
+
+# NEW ACCOUNTING PRONOUNCEMENTS
+
+Information on new accounting pronouncements is included in Note 1 to the Consolidated Financial Statements.
+# FINANCIAL CONDITION AND LIQUIDITY
+
+The strength and stability of 3M’s business model and strong free cash flow capability, together with proven capital markets access, provides financial flexibility and enables the Company to invest through business cycles. Investing in 3M’s business to drive organic growth and deliver strong returns on invested capital remains the first priority for capital deployment. This includes research and development, capital expenditures, and commercialization capability. Organic investments will be supplemented by complementary acquisitions. The Company also continues to actively manage its portfolio to maximize value for shareholders. Given uncertainty arising from COVID-19, the Company suspended repurchases under its board-approved share repurchase program effective March 2020 with other repurchase activity limited to 3M’s stock compensation plans. 3M will continue to return cash to shareholders through dividends and plans to resume share repurchases in 2021. 
+
+3M maintains strong liquidity and further added to its liquidity position through the issuance of $1.75 billion in registered notes in March 2020. To fund cash needs in the United States, the Company relies on ongoing cash flow from U.S. operations, access to capital markets, and repatriation of the earnings of its foreign affiliates that are not considered to be permanently reinvested. For those international earnings still considered to be reinvested indefinitely, the Company currently has no plans or intentions to repatriate these funds for U.S. operations. See Note 10 for further information on earnings considered to be reinvested indefinitely.
+
+3M’s primary short-term liquidity needs are met through cash on hand and U.S. commercial paper issuances. 3M believes it will have continuous access to the commercial paper market. 3M’s commercial paper program permits the Company to have a maximum of $5 billion outstanding with a maximum maturity of 397 days from date of issuance. At December 31, 2020, there was no commercial paper issued and outstanding.
+
+## Total Debt
+
+The strength of 3M’s credit profile and significant ongoing cash flows provide 3M proven access to capital markets. Additionally, the Company’s debt maturity profile is staggered to help ensure refinancing needs in any given year are reasonable in proportion to the total portfolio. 3M currently has an A1 credit rating with a negative outlook from Moody’s Investors Service and an A+ credit rating with negative outlook from Standard and Poor’s.
+
+The Company’s total debt was $1.5 billion lower at December 31, 2020 when compared to December 31, 2019. Decreases in debt are further described in Note 12 and include the repayment of aggregate $445 million principal amount of Third Lien Notes subject to in-substance defeasance, 650 million euros and $500 million aggregate principal amount of floating-rate medium-term notes that matured, the December 2020 repayment of $1 billion aggregate principal amount of notes related to make-whole-call offers, lower commercial paper balance, and the repayment of the 80 billion Japanese yen and 150 million euro credit facilities. These decreases were partially offset by the March 2020 issuance of $1.75 billion of registered notes. For discussion of repayments of and proceeds from debt refer to the following “Cash Flows from Financing Activities” section.
+
+In July 2017, the United Kingdom’s Financial Conduct Authority announced that it would no longer require banks to submit rates for the London Interbank Offered Rate (“LIBOR”) after 2021. In November 2020, the ICE Benchmark Administration (IBA), LIBOR’s administrator, proposed extending the publication of USD LIBOR through June 2023. The Company has reviewed its debt securities, bank facilities, and derivative instruments and continues to evaluate commercial contracts that may utilize LIBOR as the reference rate. 3M will continue its assessment and monitor regulatory developments during the transition period.
+
+Effective February 10, 2020, the Company updated its “well-known seasoned issuer” (WKSI) shelf registration statement, which registers an indeterminate amount of debt or equity securities for future issuance and sale. This replaced 3M’s previous shelf registration dated February 24, 2017. In May 2016, in connection with the WKSI shelf, 3M entered into an amended and restated distribution agreement relating to the future issuance and sale (from time to time) of the Company’s medium-term notes program (Series F), up to the aggregate principal amount of $18 billion, which was an increase from the previous aggregate principal amount up to $9 billion of the same Series.
+
+As of December 31, 2020, the total amount of debt issued as part of the medium-term notes program (Series F), inclusive of debt issued in February 2019 and prior years is approximately $17.6 billion (utilizing the foreign exchange rates applicable at the time of issuance for the euro-denominated debt). Additionally, the August 2019 and March 2020 debt was issued under the WKSI shelf registration, but not as part of the medium-term notes program (Series F). Information with respect to long-term debt issuances and maturities for the periods presented is included in Note 12.
+
+| Total Debt (Millions) | 2020      | 2019      | Change       |
+|------------------------|-----------|-----------|--------------|
+|                        | $18,795   | $20,313   | $(1,518)   |
+
+## Credit Facilities
+
+The Company has a $3.0 billion five-year revolving credit facility expiring in November 2024. The revolving credit agreement includes a provision under which 3M may request an increase of up to $1.0 billion (at lender’s discretion), bringing the total facility up to $4.0 billion. In addition, 3M entered into a $1.25 billion 364-day credit facility, which was renewed in November 2020 with an expiration date of November 2021. The 364-day credit agreement includes a provision under which 3M may convert any advances outstanding on the maturity date into term loans with a maturity date one year later. These credit facilities were undrawn at December 31, 2020. 
+
+Under both the $3.0 billion and $1.25 billion credit agreements, the Company is required to maintain its EBITDA to Interest Ratio as of the end of each fiscal quarter at not less than 3.0 to 1. This is calculated (as defined in the agreement) as the ratio of consolidated total EBITDA for the four consecutive quarters then ended to total interest expense on all funded debt for the same period. At December 31, 2020, this ratio was approximately 17 to 1. Debt covenants do not restrict the payment of dividends.
+
+Apart from the committed credit facilities described above, in September 2019, 3M entered into a credit facility initially expiring in July 2020 that was further extended to August 2021 in the amount of 80 billion Japanese yen. In November 2019, 3M entered into a credit facility expiring in November 2020 in the amount of 150 million euros. During the third quarter of 2020, the Company paid the outstanding balances and closed these credit facilities. The Company also had $273 million in stand-alone letters of credit and bank guarantees issued and outstanding at December 31, 2020. These instruments are utilized in connection with normal business activities.
+
+## Cash, Cash Equivalents and Marketable Securities
+
+At December 31, 2020, 3M had $5.1 billion of cash, cash equivalents, and marketable securities, of which approximately $2.8 billion was held by the Company’s foreign subsidiaries and approximately $2.3 billion was held by the United States. These balances are invested in bank instruments and other high-quality fixed income securities. At December 31, 2019, 3M had $2.5 billion of cash, cash equivalents, and marketable securities, of which approximately $2.4 billion was held by the Company’s foreign subsidiaries and approximately $100 million was held by the United States. The increase from December 31, 2019 primarily resulted from strong cash flow from operations, reduced capital expenditures, and lower share repurchases.
+
+## Net Debt (non-GAAP measure)
+
+Net debt is not defined under U.S. GAAP and may not be computed the same as similarly titled measures used by other companies. The Company defines net debt as total debt less the total of cash, cash equivalents, and current and long-term marketable securities. 3M believes net debt is meaningful to investors as it is an important indicator of liquidity and financial position. 
+
+| (Millions) | 2020   | 2019    | 2019    |
+|--------------|--------|---------|---------|
+| Total debt | 18,795 | 20,313  | (1,518) |
+| Less: Cash, cash equivalents, and marketable securities |  5,068  |  2,494  |  2,574  |
+| Net debt (non-GAAP measure) | 13,727 | 17,819  | (4,092) |
+
+## Balance Sheet
+
+3M’s strong balance sheet and liquidity provide the Company with significant flexibility to fund its numerous opportunities going forward. The Company will continue to invest in its operations to drive growth, including continual review of acquisition opportunities. 
+
+The Company uses working capital measures that place emphasis and focus on certain
+## Working Capital (non-GAAP measure):
+
+| December 31, | 2020 | 2019 | 2019 |
+|----------------|-------|-------|-------|
+| Current assets | $ 14,982 | $ 12,971 | $ 2,011 |
+| Less: Current liabilities | 7,948 | 9,222 | (1,274) |
+| Working capital (non-GAAP measure) | $ 7,034 | $ 3,749 | $ 3,285 |
+
+Various assets and liabilities, including cash and short-term debt, can fluctuate significantly from month to month depending on short-term liquidity needs. Working capital is not defined under U.S. generally accepted accounting principles and may not be computed the same as similarly titled measures used by other companies. The Company defines working capital as current assets minus current liabilities. 3M believes working capital is meaningful to investors as a measure of operational efficiency and short-term financial health.
+
+Working capital increased $3.3 billion compared with December 31, 2019. Balance changes in current assets increased working capital by $2.0 billion, driven by increases in cash and cash equivalents and inventory, partially offset by decreases in accounts receivable. Balance changes in current liabilities increased working capital by $1.3 billion, primarily due to decreases in short-term borrowing and the current portion of long-term debt.
+
+- Accounts receivable decreased $86 million from December 31, 2019, primarily due to ongoing collection management and increased expected credit losses on customer receivables related to COVID-19 uncertainty.
+- Inventory increased $105 million from December 31, 2019 primarily as a result of foreign currency impacts. These increases were partially offset by inventory decreases as a result of the divestiture of the drug delivery business.
+
+## Return on Invested Capital (non-GAAP measure):
+
+Return on Invested Capital (ROIC) is not defined under U.S. generally accepted accounting principles. Therefore, ROIC should not be considered a substitute for other measures prepared in accordance with
+## Cash Flows from Operating Activities:
+| Years Ended December 31 | (Millions) | 2020  | 2019  |
+|-------------------------|--------------|--------|--------|
+| Net income including noncontrolling interest | | $ 5,388 | $ 4,582 |
+| Depreciation and amortization | | 1,911  | 1,593  |
+| Company pension and postretirement contributions | | (156) | (210) |
+| Company pension and postretirement expense | | 406   | 357   |
+| Stock-based compensation expense | | 262   | 278   |
+| Gain on sale of businesses | | (389)  | (111) |
+| Income taxes (deferred and accrued income taxes) | | (33)   | (68)  |
+| Loss on deconsolidation of Venezuelan subsidiary | | —     | 162   |
+| Accounts receivable | | 165    | 345   |
+| Inventories | | (91)   | 370   |
+| Accounts payable | | 252    | (117) |
+| Other — net | | 398    | (111) |
+| **Net cash provided by operating activities** | | **$ 8,113** | **$ 7,070** |
+
+Cash flows from operating activities can fluctuate significantly from period to period, as pension funding decisions, tax timing differences, and other items can significantly impact cash flows.
+
+In 2020, cash flows provided by operating activities increased $1.0 billion compared to the same period last year, primarily due to cost-saving actions taken in response to COVID-19 and lower significant litigation-related charges and timing of related payments. The combination of accounts receivable, inventories, and accounts payable improved operating cash flow by $326 million in 2020, compared to an improvement of $598 million in 2019. Additional discussion on working capital changes is provided earlier in the "Financial Condition and Liquidity" section.
+
+## Cash Flows from Investing Activities:
+| Years Ended December 31 | (Millions) | 2020  | 2019  |
+|-------------------------|--------------|--------|--------|
+| Purchases of property, plant and equipment (PP&E) | | (1,501) | (1,699) |
+| Proceeds from sale of PP&E and other assets | | 128 | 123 |
+| Acquisitions, net of cash acquired | | (25) | (4,984) |
+| Purchases and proceeds from maturities and sale of marketable securities and investments, net | | 232 | (192) |
+| Proceeds from sale of businesses, net of cash sold | | 576 | 236 |
+| Other — net | | 10 | 72 |
+| **Net cash provided by (used in) investing activities** | | **$(580)** | **$(6,444)** |
+
+Investments in property, plant, and equipment enable growth across many diverse markets, helping to meet product demand and increase manufacturing efficiency. In 2020, 3M reduced overall spending in light of COVID-19 uncertainty but continued investing to expand production of respiratory products. The Company expects 2021 capital spending to be approximately $1.8 billion to $2.0 billion.
+
+3M records capital-related government grants earned as reductions to the cost of property, plant, and equipment; associated unpaid liabilities and grant proceeds receivable are considered non-cash changes.
+
+3M invests in renewal and maintenance programs focusing on cost reduction, cycle time, capacity maintenance, pollution elimination, and compliance. Costs related to maintenance, repairs, and certain other items are expensed. The Company also invests in growth through expansion of current facilities and new facilities, as well as investments in IT, laboratories, and sustainability initiatives.
+
+Refer to Note 3 for information on acquisitions and divestitures. The Company is actively considering additional acquisitions, investments, and strategic alliances and may divest certain businesses. In 2020, acquisitions primarily relate to contingent consideration for the Acelity acquisition. Proceeds from sale of businesses in 2020 mainly relate to the sales of the advanced ballistic-protection business and the drug delivery business. In 2019, acquisitions included M*Modal and Acelity Inc.; sale proceeds related to oral care technology and flame detection businesses.
+
+Purchases and sales of marketable securities primarily involve certificates of deposit, commercial paper, and other securities classified as available-for-sale, including the maturity of a debt security purchased to satisfy the redemption of the Third Lien Notes.
+
+## Cash Flows from Financing Activities:
+| Years Ended December 31 | (Millions) | 2020  | 2019  |
+|-------------------------|--------------|--------|--------|
+| Change in short-term debt — net | | (143) | (316) |
+| Repayment of debt (maturities > 90 days) | | (3,482) | (2,716) |
+| Proceeds from debt (maturities > 90 days) | | 1,750 | 6,281 |
+| **Total cash change in debt** | | **(1,875)** | **3,249** |
+| Purchases of treasury stock | | (368) | (1,407) |
+| Proceeds from issuances of treasury stock | | 429 | 547 |
+| Dividends paid to stockholders | | (3,388) | (3,316) |
+| Other — net | | (98) | (197) |
+| **Net cash used in financing activities** | | **$(5,300)** | **$(1,124)** |
+
+### 2020 Debt Activity:
+Total debt was approximately $18.8 billion at December 31, 2020, and $20.3 billion at December 31, 2019. Repayments included $445 million of Third Lien Notes and €650 million and $500 million of floating-rate medium-term notes maturing in May and August 2020, respectively. During Q3 2020, the outstanding balances on Japanese yen and euro credit facilities were paid. Additionally, $1.0 billion of notes maturing in September 2021 were repaid via make-whole-call offers. Increases included a $1.75 billion issuance of registered notes in March 2020.
+
+At December 31, 2020, there was no outstanding commercial paper, compared to $150 million at December 31, 2019.
+
+### 2019 Debt Activity:
+Total debt increased by approximately $5.7 billion compared to December 31, 2018. This included $2.25 billion of medium-term notes, $3.25 billion of other registered notes, ¥69 billion Japanese yen (about $632 million), €150 million (about $168 million), and $0.5 billion assumed from acquisitions. Debt repayment primarily involved $625 million of maturing fixed-rate notes and debt assumed and repaid during acquisitions. Outstanding commercial paper decreased by $285 million from 2018 to 2019.
+
+**Note:** All currency conversions are approximate based on relevant exchange rates at the time.
+## Repurchases of Common Stock:
+Repurchases of common stock are made to support the Company’s stock-based employee compensation plans and for other corporate purposes. In November 2018, 3M’s Board of Directors replaced the Company’s February 2016 repurchase program with a new repurchase program. This new program authorizes the repurchase of up to $10 billion of 3M’s outstanding common stock, with no pre-established end date. In 2020, the Company purchased $0.4 billion of its own stock, compared to purchases of $1.4 billion in 2019. As of December 31, 2020, approximately $7.8 billion remained available under the authorization. In the first quarter of 2020, the Company suspended repurchases under its board-approved share repurchase program with other repurchase activity limited to 3M’s stock compensation plans. The Company plans to resume share purchases in 2021. For more information, refer to the table titled **“Issuer Purchases of Equity Securities”** in Part II, Item 5. The Company does not utilize derivative instruments linked to the Company’s stock.
+
+## Dividends Paid to Shareholders:
+Cash dividends paid to shareholders totaled $3.388 billion ($5.88 per share) in 2020, $3.316 billion ($5.76 per share) in 2019, and $3.193 billion ($5.44 per share) in 2018. 3M has paid dividends since 1916. In February 2021, 3M’s Board of Directors declared a first-quarter 2021 dividend of $1.48 per share, an increase of 1 percent. This is equivalent to an annual dividend of $5.92 per share and marked the 63rd consecutive year of dividend increases.
+
+Other cash flows from financing activities may include various other items, such as cash paid associated with certain derivative instruments, distributions to or sales of noncontrolling interests, changes in cash overdraft balances, and principal payments for finance leases.
+
+## Free Cash Flow (non-GAAP measure):
+Free cash flow and free cash flow conversion are not defined under U.S. generally accepted accounting principles (GAAP). Therefore, they should not be considered a substitute for income or cash flow data prepared in accordance with U.S. GAAP and may not
+## Terms and Commitments
+
+Terms in excess of one year and normal ongoing purchase obligations with terms of less than one year. Many of these commitments relate to take-or-pay contracts, in which 3M guarantees payment to ensure availability of products or services that are sold to customers. The Company expects to receive consideration (products or services) for these unconditional purchase obligations.
+
+Contractual capital commitments are included in the preceding table, but these commitments represent a small part of the Company’s expected capital spending. The purchase obligation amounts do not represent the entire anticipated purchases in the future but represent only those items for which the Company is contractually obligated. The majority of 3M’s products and services are purchased as needed, with no unconditional commitment. For this reason, these amounts will not provide a reliable indicator of the Company’s expected future cash outflows on a stand-alone basis.
+
+## Other Obligations
+
+Included in the preceding table within the caption entitled “Unconditional purchase obligations and other” include the current portion of the liability for uncertain tax positions under ASC 740, which is expected to be paid out in cash in the next 12 months, when applicable. The Company is not able to reasonably estimate the timing of the long-term payments, or the amount by which the liability will increase or decrease over time; therefore, the long-term portion of the total net tax liability of $933 million is excluded from the preceding table. In addition, the transition tax prescribed under the Tax Cuts and Jobs Act (TCJA) is separately included in the table above. Refer to Note 10 for further details.
+
+Additionally, included within the caption entitled “Unconditional purchase obligations and other” are operating lease commitments that have not yet commenced, which as of December 31, 2020, totaled approximately $18 million. These commitments pertain to 3M’s right of use buildings.
+
+As discussed in Note 13, the Company does not have a required minimum cash pension contribution obligation for its U.S. plans in 2021 and Company contributions to its U.S. and international pension plans are expected to be largely discretionary in future years; therefore, amounts related to these plans are not included in the preceding table.
+
+## Financial Instruments
+
+The Company enters into foreign exchange forward contracts, options, and swaps to hedge against the effect of exchange rate fluctuations on cash flows denominated in foreign currencies and to offset, in part, the impacts of changes in value of various non-functional currency denominated items including certain intercompany financing balances. The Company manages interest rate risks using a mix of fixed and floating rate debt. To help manage borrowing costs, the Company may enter into interest rate swaps. Under these arrangements, the Company agrees to exchange, at specified intervals, the difference between fixed and floating interest amounts calculated by reference to an agreed-upon notional principal amount. The Company manages commodity price risks through negotiated supply contracts and price protection agreements.
+
+Refer to Item 7A, “Quantitative and Qualitative Disclosures About Market Risk,” for further discussion of foreign exchange rates risk, interest rates risk, commodity prices risk, and value at risk analysis.
+
+## Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+In the context of Item 7A, 3M is exposed to market risk due to the risk of loss arising from adverse changes in foreign currency exchange rates, interest rates, and commodity prices. Changes in those factors could impact the Company’s results of operations and financial condition. Senior management provides oversight for risk management and derivative activities, determines certain of the Company’s financial risk policies and objectives, and provides guidelines for derivative instrument utilization. Senior management also establishes certain associated procedures relative to control and valuation, risk analysis, counterparty credit approval, and ongoing monitoring and reporting.
+
+The Company is exposed to credit loss in the event of nonperformance by counterparties in interest rate swaps, currency swaps, and forward and option contracts. However, the Company’s risk is limited to the fair value of the instruments. The Company actively monitors its exposure to credit risk through the use of credit approvals and credit limits, and by selecting major international banks and financial institutions as counterparties. The Company does not anticipate nonperformance by any of these counterparties.
+
+## Foreign Exchange Rates Risk
+
+Foreign currency exchange rates and fluctuations in those rates may affect the Company’s net investment in foreign subsidiaries and may cause fluctuations in cash flows related to foreign denominated transactions. 3M is also exposed to the translation of foreign currency earnings to the U.S. dollar. The Company enters into foreign exchange forward and option contracts to hedge against the effect of exchange rate fluctuations on cash flows denominated in foreign currencies. These transactions are designated as cash flow hedges. 3M may de-designate these cash flow hedge relationships in advance of the occurrence of the forecasted transaction. The maximum length of time over which 3M hedges its exposure to the variability in future cash flows of the forecasted transactions is 36 months. In addition, 3M enters into foreign currency contracts that are not designated in hedging relationships to offset, in part, the impacts of changes in value of various non-functional currency denominated items including certain intercompany financing balances. As circumstances warrant, the Company also uses foreign currency forward contracts and foreign currency denominated debt as hedging instruments to hedge portions of the Company’s net investments in foreign operations. 
+
+The dollar equivalent gross notional amount of the Company’s foreign exchange forward and option contracts designated as either cash flow hedges or net investment hedges was **$2.3 billion** at December 31, 2020. The dollar equivalent gross notional amount of the Company’s foreign exchange forward and option contracts not designated as hedging instruments was **$3.2 billion** at December 31, 2020. In addition, as of December 31, 2020, the Company had **3.5 billion Euros** in principal amount of foreign currency denominated debt designated as non-derivative hedging instruments in certain net investment hedges as discussed in Note 14 in the “Net Investment Hedges” section.
+
+## Interest Rates Risk
+
+The Company may be impacted by interest rate volatility with respect to existing debt and future debt issuances. 3M manages interest rate risk and expense using a mix of fixed and floating rate debt. In addition, the Company may enter into interest rate swaps that are designated and qualify as fair value hedges. Under these arrangements, the Company agrees to exchange, at specified intervals, the difference between fixed and floating interest amounts calculated by reference to an agreed-upon notional principal amount. 
+
+The dollar equivalent (based on inception date foreign currency exchange rates) gross notional amount of the Company’s interest rate swaps at December 31, 2020 was **$403 million**. Additional details about 3M’s long-term debt can be found in Note 12, including references to information regarding derivatives and/or hedging instruments, further discussed in Note 14, associated with the Company’s long-term debt.
+
+## Commodity Prices Risk
+
+The Company manages commodity price risks through negotiated supply contracts and price protection agreements. The related mark-to-market gain or loss on qualifying hedges was included in other comprehensive income to the extent effective, and reclassified into cost of sales in the period during which the hedged transaction affected earnings.
+
+## Value At Risk
+
+The value at risk analysis is performed annually to assess the Company’s sensitivity to changes in currency rates, interest rates, and commodity prices. A Monte Carlo simulation technique was used to test the impact on after-tax earnings related to debt instruments, interest rate derivatives, and underlying foreign exchange and commodity exposures outstanding at December 31, 2020. The model (third-party bank dataset) used a **95 percent confidence level** over a 12-month time horizon. The exposure to changes in currency rates model used nine currencies, interest rates related to two currencies, and commodity prices related to five commodities. This model does not purport to represent what actually will be experienced by the Company. This model does not include foreign currency hedges, because the Company believes their inclusion would not materially impact the results. 
+
+The following table summarizes the possible adverse and positive impacts to after-tax earnings:
+
+|                     | 2020 | 2019 | 2020 | 2019 |                        |
+|---------------------|-------|-------|-------|-------|------------------------|
+| **Foreign exchange rates** | $(169) | $(133) | 175 | 137 | **Millions**         |
+| **Interest rates** | $(1) | $(11) | 2 | 10 |                        |
+| **Commodity prices** | — | $(2) | — | 1 |                        |
+
+An analysis of the global exposures related to purchased components and materials is performed at each year-end. A 1% price change would result in a pre-tax cost or savings of approximately $70 million per year. The global energy exposure is such that a ten percent price change would result in a pre-tax cost or savings of approximately $40 million per year. Global energy exposure includes energy costs used in 3M production and other facilities, primarily electricity and natural gas.

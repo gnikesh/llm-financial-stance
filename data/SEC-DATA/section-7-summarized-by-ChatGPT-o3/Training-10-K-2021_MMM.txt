@@ -1,0 +1,132 @@
+# ITEM 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations  
+
+
+3M’s MD&A continues to be organized in eight subsections—Overview; Results of Operations; Performance by Business Segment; Performance by Geographic Area; Critical Accounting Estimates; New Accounting Pronouncements; Financial Condition and Liquidity; and Financial Instruments.  The following paragraphs condense 2021 information while preserving all material financial metrics, trends and qualitative comments.
+
+---
+
+## Overview  
+
+• 3M delivered broad-based organic growth despite pandemic-related supply-chain volatility.  
+• Reported net sales rose 9.9 % to **$35.355 billion** (2020: $32.184 billion); organic sales were up 8.8 %.  
+• Diluted EPS was **$10.12** (GAAP and Adjusted) versus $9.36 in 2020 (GAAP) and $8.85 (adjusted).  
+• Operating income margin decreased 1.5 pp to **20.8 %**; on a special-item-adjusted basis the decline was 0.5 pp.  
+• COVID-19 had mixed effects: 2021 respirator revenue growth lagged the remainder of the portfolio (–0.2 pp drag on organic growth). Rising raw-material and logistics costs plus Winter Storm Uri created additional headwinds.  
+• A favorable Brazilian Supreme Court ruling cut historical social-tax expense, boosting 2021 pretax income by **$91 million** ($0.12 per share).
+
+---
+
+## Results of Operations  
+
+| (dollars in billions, except per-share data) | 2021 | 2020 | % Change |
+|----------------------------------------------|------|------|---------|
+| Net sales | **$35.355** | $32.184 | 9.9 % |
+| Operating income | **$7.369** | $7.161 | 2.9 % |
+| Operating margin | **20.8 %** | 22.3 % | –1.5 pp |
+| Net income attributable to 3M | **$5.921** | $5.449 | 8.7 % |
+| Diluted EPS (GAAP) | **$10.12** | $9.36 | 8.1 % |
+| Diluted EPS (Adj.) | **$10.12** | $8.85 | 14.4 % |
+| Effective tax rate (GAAP) | **17.8 %** | 19.7 % | –1.9 pp |
+
+Cost-of-sales ratio climbed to 53.2 % (+1.6 pp) owing to inflation in raw materials, freight and outsourced manufacturing. SG&A leverage improved (20.4 % vs. 21.5 %) and R&D fell slightly to 5.6 % of sales. Non-service pension and post-retirement income increased $163 million.
+
+---
+
+## Performance by Business Segment  
+
+| 2021 ($ in billions) | Net Sales | Y/Y % | Organic % | Operating Income | Margin |
+|----------------------|-----------|-------|-----------|------------------|--------|
+| Safety & Industrial | **12.880** | +9.8 % | +7.8 % | 2.692 | 20.9 % |
+| Transportation & Electronics | **9.769** | +10.6 | +9.0 | 2.008 | 20.6 |
+| Health Care | **9.050** | +8.4 | +8.6 | 2.150 | 23.8 |
+| Consumer | **5.856** | +10.3 | +9.3 | 1.248 | 21.3 |
+| Corporate/Elims. | (2.200) | — | — | (0.729) | — |
+| **Total** | **35.355** | +9.9 % | +8.8 % | **7.369** | 20.8 % |
+
+Key qualitative drivers  
+• Safety & Industrial grew in abrasives, adhesives, electrical markets, etc., but personal-safety sales declined after the 2020 respirator surge. Margin contracted 2.8 pp mainly on inflation and litigation costs.  
+• Transportation & Electronics rebounded across auto, electronics, and data-center markets; semiconductor shortages constrained upside. Margin expanded 0.1 pp.  
+• Health Care saw stronger oral-care, separation & purification (biopharma filtration), and medical-solutions demand; divestiture of the drug-delivery business trimmed reported growth by 1.9 pp. Margin increased 2.3 pp.  
+• Consumer benefited from ongoing home-improvement strength (Command™, Filtrete™, Scotch™), with operating margin down 1.3 pp due to cost inflation.
+
+---
+
+## Performance by Geographic Area  
+
+| 2021 sales ($ bn) | % of Total | Total Change | Organic |
+|-------------------|------------|--------------|---------|
+| Americas | **18.097** | +9.5 % | +9.8 % |
+|  • United States | — | +8 % | +8 % |
+| Asia Pacific | **10.600** | +10.8 | +8.5 |
+|  • China | — | +17 | +11 |
+| Europe, Middle East & Africa | **6.660** | +9.0 | +6.3 |
+| Worldwide | **35.355** | +9.9 | +8.8 |
+
+A weaker U.S. dollar added 1.6 pp to 2021 global growth; 3M mitigated currency volatility through natural hedges and forward contracts.
+
+---
+
+## Critical Accounting Estimates (highlights)  
+
+• **Legal contingencies:** accruals follow ASC 450; PFAS and respirator litigation remain the principal exposures.  
+• **Pension/Post-retirement:** discount rate 2.89 % (U.S. qualified plan); expected long-term asset return lowered to 6.00 % for 2022. Plans were 93 % funded worldwide (U.S. 97 %). 2021 pretax defined-benefit expense was $206 million; projected 2022 expense is ~$185 million.  
+• **Goodwill:** $13.5 billion carrying amount; 2021 impairment testing indicated no write-downs.  
+• **Uncertain tax positions:** global complexity continues; reserves adjusted as audits evolve.
+
+---
+
+## New Accounting Pronouncements  
+
+No recently-issued standards are expected to materially affect 3M’s consolidated financial statements.
+
+---
+
+## Financial Condition and Liquidity  
+
+### Cash & Investments  
+• Cash, cash equivalents and marketable securities as of 12/31/21: **$4.792 billion** (foreign $3.1 billion; U.S. $1.7 billion).  
+• Free cash flow was **$5.851 billion** (FCF conversion 99 %).  
+
+### Debt and Leverage  
+| ($ billions) | 2021 | 2020 |
+|--------------|------|------|
+| Total debt | **17.363** | 18.795 |
+| Net debt | **12.571** | 13.727 |
+| Debt-to-capital (approx.) | 53 % | 56 % |
+
+Actions in 2021:  
+• Early redemption of $450 million U.S. notes; maturity of €600 million bonds; no year-end commercial paper outstanding.  
+• Entered interest-rate swaps converting portions of 2049 and 2050 notes to floating rates through mid-2028.  
+Credit ratings remain A1 (Moody’s) / A+ (S&P), both with negative outlook.
+
+### Cash Flow (2021 vs 2020)  
+• Operating: **$7.454 billion** (–$0.659 billion) as working-capital needs increased $507 million.  
+• Investing: **$(1.317) billion**, chiefly $1.603 billion of capex (up $102 million).  
+• Financing: **$(6.145) billion**, reflecting $2.199 billion share repurchases, $3.420 billion dividends (annual dividend per share: **$5.96**, 64th straight yearly increase) and net debt reduction of $1.145 billion.
+
+### Return on Invested Capital  
+ROIC improved to **19.5 %** (2020: 18.4 %) driven by higher earnings and lower average debt.
+
+---
+
+## Financial Instruments and Market Risk  
+
+• Hedging portfolio at 12/31/21: $2.6 billion notional cash-flow or net-investment FX hedges; $3.7 billion economic FX hedges; $800 million interest-rate swaps.  
+• 95 %-confidence Monte Carlo VaR (12-month horizon) showed potential after-tax earnings swings of ±$147 million (FX), ±$2 million (interest), and –$21 million/+ $14 million (commodities).  
+• A 1 % move in purchased-materials prices ≈ $90 million annual pretax impact; a 10 % energy price shift ≈ $40 million.
+
+---
+
+## ITEM 7A – Quantitative and Qualitative Disclosures About Market Risk  
+The Company’s risk-management framework, counterparties, and hedge tenors remain unchanged. LIBOR transition analysis continues; existing contracts contain fallback language.
+
+---
+
+## ITEM 8 – Financial Statements and Supplementary Data  
+Key statements for 2019-2021 are unchanged other than items discussed above; see pages referenced in the Form 10-K index.
+
+---
+
+### Concluding Perspective  
+
+3M exited 2021 with stronger sales, higher earnings, disciplined capital allocation, and lower net leverage, yet faces inflationary cost pressures and ongoing legal exposures. Management reiterated its commitment to fund innovation, execute portfolio actions, sustain dividend growth, and maintain a robust balance sheet.
