@@ -1,0 +1,107 @@
+# Meta Platforms, Inc. – Q1 2024 Earnings Call Summary  
+
+Meta reported a strong first quarter, highlighted by double-digit top-line growth and expanding profitability, but management stressed that a multi-year, capital-intensive AI investment cycle is now under way.  
+
+Management on the call: CEO Mark Zuckerberg, CFO Susan Li, Director of IR Kenneth Dorell.  
+
+---
+
+### 1. Consolidated Q1 2024 Results  
+
+• Revenue was $36.46 billion, up 27 % year-over-year (constant currency growth identical).  
+• GAAP expenses totaled $22.64 billion (+6 % y/y).  
+• Operating income was $13.80 billion; operating margin expanded to 38 % (vs. 25 % a year ago).  
+• Effective tax rate: 13 %.  
+• Net income reached $12.37 billion, translating to diluted EPS of $4.71 (up 114 % y/y).  
+• Free cash flow came in at $12.49 billion.  
+• Capital expenditures (cash plus finance-lease principal) were $6.75 billion, driven by servers, data-centre build-outs and network gear.  
+• Balance sheet: $58.1 billion in cash & marketable securities against $18.4 billion of debt.  
+• Shareholder returns: $14.6 billion of share buybacks plus $1.3 billion of dividends during the quarter.  
+• Headcount ended at ≈69,300, up 3 % sequentially but still well below pre-Efficiency-Year levels.  
+
+---
+
+### 2. Segment Performance  
+
+Family of Apps (FoA)  
+• Revenue: $36.02 billion (+27 % y/y).  
+• Advertising revenue: $35.64 billion (+27 %; +26 % c.c.).  
+    – Impressions +20 %; average price per ad +6 %.  
+    – Online commerce was the largest incremental vertical, followed by gaming, entertainment & media.  
+    – Regional ad-revenue growth: Rest-of-World +40 %, Europe +33 %, APAC +25 %, North America +22 %.  
+• Other FoA revenue (mainly WhatsApp Business messaging): $380 million (+85 %).  
+• Expenses: $18.4 billion (+7 %).  
+• Operating income: $17.72 billion; operating margin 49 %.  
+• Community metrics: 3.24 billion Daily Active People; U.S. engagement called out as “healthy.”  
+
+Reality Labs (RL)  
+• Revenue: $440 million (+30 %), helped by Quest headset sales.  
+• Expenses: $4.32 billion (-1 %, lapping prior-year inventory write-downs).  
+• Operating loss: ‑$3.85 billion (management reiterates RL losses will “increase meaningfully” in 2024).  
+
+---
+
+### 3. Guidance & Outlook  
+
+Revenue  
+• Q2 2024 guidance: $36.5 – $39.0 billion. FX assumed to be a 1 ppt headwind to y/y growth.  
+
+Expenses  
+• 2024 total expense outlook raised to $96 – $99 billion (from $94 – $99 billion) due to higher infrastructure and legal costs.  
+• Reality Labs losses to widen “meaningfully.”  
+
+Capital Expenditures  
+• 2024 CapEx guidance lifted to $35 – $40 billion (was $30 – $37 billion), reflecting accelerated AI infrastructure build-out.  
+• CapEx expected to “continue to increase next year” as Meta invests aggressively in AI research, training and inference capacity.  
+
+Tax  
+• Full-year 2024 effective tax rate expected in the mid-teens.  
+
+---
+
+### 4. Strategic & Operational Highlights  
+
+Artificial Intelligence  
+• Meta AI, powered by newly released Llama 3 (8-billion & 70-billion-parameter models now, 400-billion model in training), rolled out last week. Tens of millions have tried it; expansion to additional languages/markets coming in months.  
+• Goal: build “the world’s leading AI assistant” and scale usage across WhatsApp, Messenger, Instagram, Facebook and Ray-Ban Meta smart-glasses.  
+• AI-recommended content now constitutes >30 % of Facebook Feed posts (double two years ago) and >50 % of Instagram content.  
+• End-to-end AI ad-buying tools Advantage+ Shopping and App Campaigns: revenue flowing through them has more than doubled y/y.  
+• Meta Lattice ads-ranking architecture and new unified recommendation model driving 8-10 % watch-time lift for Facebook Reels.  
+• CapEx ramp driven by GPUs/ASICs, data-centre redesigns (liquid cooling), and Meta’s in-house MTIA inference/training silicon.  
+
+Metaverse / Reality Labs  
+• Ray-Ban Meta smart-glasses remain supply-constrained; new Cat-Eye “Skyler” design launched. Glasses now support multimodal Meta AI with vision.  
+• Meta Horizon OS opened to third-party headset OEMs (ASUS ROG, Lenovo, Xbox/ Microsoft), reflecting a more open ecosystem strategy.  
+• Zuckerberg notes increasing overlap between RL hardware and AI (e.g., glasses as “ideal device for an AI assistant”).  
+
+Video & Engagement Trends  
+• Reels accounts for 50 % of time spent on Instagram; video overall >60 % of time on both Facebook and Instagram.  
+• New unified, full-screen Facebook video player (Reels + long-form + Live) launched in U.S./Canada.  
+• Threads surpassed 150 million monthly active users.  
+
+Business Messaging & Monetization Potential  
+• WhatsApp Business Platform drove 85 % “Other” revenue growth; business-messaging AI agents now in early testing to scale commerce & support.  
+• Management sees future monetization vectors: business messaging fees, ads/paid content inside AI interactions, subscription tiers for higher-compute AI usage.  
+
+---
+
+### 5. Capital Allocation & Balance-Sheet Discipline  
+
+• Despite larger AI/infra budgets, Meta reiterated commitment to “operating discipline,” slow headcount growth and continued share repurchases & dividends.  
+• Company highlighted fungibility of compute capacity across products to maximize ROI.  
+
+---
+
+### 6. Regulatory & Legal Matters  
+
+• Meta faces “increasing legal and regulatory headwinds,” especially in the EU and U.S.; a Texas facial-recognition jury trial is scheduled for June and could result in a material loss.  
+
+---
+
+### 7. Key Takeaways  
+
+1. Core ad business remains robust—FoA revenue +27 %, price per ad stabilizing, conversion growth outpacing impressions.  
+2. A pronounced spending up-cycle is beginning: 2024 CapEx guide raised by up to $10 billion, driven almost entirely by AI infrastructure.  
+3. Management’s ambition for AI has grown; Meta believes it can build “industry-leading” models and is prepared to spend ahead of revenue.  
+4. Reality Labs losses will deepen, but Zuckerberg argues that glasses and mixed-reality headsets will converge with AI to create future computing platforms.  
+5. Balance sheet (net cash ≈$40 billion) affords flexibility to fund elevated CapEx, absorb regulatory costs and maintain shareholder returns.

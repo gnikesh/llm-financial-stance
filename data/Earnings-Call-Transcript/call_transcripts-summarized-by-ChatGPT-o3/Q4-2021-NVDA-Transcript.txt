@@ -1,0 +1,65 @@
+# NVIDIA Q4 FY 2021 Earnings Call – Comprehensive Financial Summary  
+
+NVIDIA ended fiscal 2021 with record‐setting results, propelled by surging demand in Gaming and sustained strength in Data Center. Management also provided detailed guidance for Q1 FY 2022, discussed crypto-currency dynamics, supply constraints, and gave an update on the pending Arm acquisition.
+
+### Consolidated Financial Performance  
+• Q4 FY 2021 revenue reached $5.00 billion, up 61 % year-on-year (YoY) and above $5 billion for the first time.  
+• FY 2021 revenue was $16.68 billion, rising 53 % YoY.  
+• GAAP gross margin for Q4 came in at 63.1 %; non-GAAP gross margin was 65.5 % (flat sequentially, +10 bp YoY).  
+• Q4 GAAP EPS was $2.31 (+51 % YoY); non-GAAP EPS was $3.10 (+64 % YoY).  
+• Operating cash flow in Q4 hit a record $2.07 billion.  
+
+### Segment Results – Q4 and FY 2021  
+Gaming  
+• Q4 revenue: $2.50 billion (-inventory still “well below channel needs”), +10 % sequentially and +67 % YoY.  
+• FY 2021 Gaming revenue: $7.76 billion, +41 % YoY.  
+• Demand for GeForce RTX 30 (Ampere) desktop and laptop GPUs is “incredible”; channel inventory likely to remain tight through Q1 despite higher production.  
+• Crypto-mining estimated to have contributed $100–300 million to Q4 Gaming revenue.  
+• New Cryptocurrency Mining Processor (CMP) line expected to generate about $50 million in Q1.  
+
+Data Center  
+• Q4 revenue: $1.90 billion, up 97 % YoY and roughly flat sequentially; compute revenue grew >45 % YoY, offsetting a sequential dip in Mellanox revenue.  
+• FY 2021 Data Center revenue: $6.70 billion, +125 % YoY.  
+• A100 adoption broad-based: all major cloud service providers (CSPs) plus strong vertical uptake (supercomputing, financial services, higher education, consumer Internet).  
+• Mellanox revenue was up >30 % versus the stand-alone quarter a year ago; company expects a return to sequential growth in Q1 on ConnectX adapter and HDR InfiniBand demand.  
+• Management reiterated a “multi-billion-dollar” design-win pipeline for BlueField-2 DPUs, with meaningful revenue inflection expected in the second half of calendar 2021.  
+
+Professional Visualization (Pro Viz)  
+• Q4 revenue: $307 million, +30 % sequentially, ‑10 % YoY; FY 2021 revenue: ~$1.1 billion (-13 % YoY).  
+• Recovery driven by desktop workstation rebound; notebook GPUs reached record levels on remote-work demand.  
+
+Automotive  
+• Q4 revenue: $145 million, +16 % sequentially, ‑11 % YoY.  
+• FY 2021 revenue: $536 million (-23 % YoY).  
+• Pipeline for DRIVE Orin and AI cockpit solutions now totals several billion dollars; ramp with Mercedes-Benz, NIO, SAIC, Li Auto, Xpeng, Zoox and Einride highlighted.  
+
+### Balance-Sheet & Capital Allocation  
+• No new debt metrics were disclosed; cash generation remained strong ($2.07 billion in Q4).  
+
+### Q1 FY 2022 Outlook (ending April 2021)  
+• Revenue guided to $5.30 billion ± 2 % with “most” sequential growth from Gaming, but Data Center also expected to rise QoQ.  
+• GAAP / non-GAAP gross margin: 63.8 % / 66.0 % ± 50 bp.  
+• GAAP / non-GAAP opex: ~$1.67 billion / $1.20 billion; full-year non-GAAP opex to grow in the “mid-20 %” range.  
+• Other income/expense: ~$50 million expense.  
+• Effective tax rate: ~10 % ± 1 % (GAAP & non-GAAP).  
+• Capital expenditures: $300–325 million.  
+• CMP expected to contribute ~$50 million to Q1 revenue.  
+
+### Supply, Crypto, and Inventory Commentary  
+• Company-wide demand exceeds supply; cycle-time improvements and allocation discipline are expected to allow sequential growth each quarter.  
+• New software driver halves Ethereum hash-rate on GeForce RTX 3060 cards to steer supply toward gamers.  
+• CMPs (lacking display outputs, optimized for mining) target “industrial” miners, offering transparency into crypto-related revenues.  
+
+### Strategic & Qualitative Highlights  
+• Adoption of RTX ray-tracing remains early: only ~15 % of the 200 million-plus GeForce desktop installed base owns an RTX-class GPU, leaving substantial upgrade runway.  
+• GeForce NOW cloud gaming surpassed 6 million members; library now 800+ PC games from 300+ publishers.  
+• Omniverse real-time 3-D collaboration platform entered open beta; over 500 creators/professionals already testing.  
+• BlueField DPUs and the EGX / Aerial 5G edge stack underpin NVIDIA’s view that every data-center node will ultimately include a DPU for security and networking offload.  
+• Management touts “Phase 3” of AI: the “smartphone moment for every industry,” where connected, autonomous devices (cars, warehouses, factories, retail stores) run AI workloads linked to cloud services.  
+
+### Arm Acquisition Status  
+• Regulatory reviews in the U.S., U.K., EU, China and others progressing “as expected”; closing still targeted within the original 18-month window (announced Sept 2020).  
+• NVIDIA reiterated commitments to Arm’s open-licensing model and increased R&D investment to expand Arm’s roadmap, aiming to offer a compelling alternative CPU ecosystem for data centers, mobile and embedded markets.  
+
+### Management’s Closing Tone  
+CEO Jensen Huang characterized FY 2021 as a “break-out” year, with secular trends—AI adoption, gaming as mainstream entertainment, industrial automation and cloud computing—setting the stage for continued growth. The company believes it is “perfectly positioned” for a post-Moore’s-Law era in which accelerated computing, DPUs, and AI span from the data center to the autonomous edge.

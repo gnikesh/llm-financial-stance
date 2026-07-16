@@ -1,0 +1,36 @@
+# Alphabet Inc. – Q2 2025 Earnings Call Summary  
+
+Alphabet reported another quarter of broad-based strength, underpinned by rapid adoption of the company’s AI stack, continued momentum in Search, YouTube and Cloud, and disciplined expense management.
+
+Alphabet’s consolidated revenue reached $96.4 billion, up 14 percent year-on-year (13 percent in constant currency). Operating income rose the same 14 percent to $31.3 billion, yielding an operating margin of 32.4 percent despite a $1.4 billion legal settlement charge and sharply higher depreciation. Net income increased 19 percent to $28.2 billion and diluted EPS grew 22 percent to $2.31. Free cash flow was $5.3 billion for the quarter and $66.7 billion for the trailing twelve months. The balance sheet ended with $95 billion of cash and marketable securities and no net debt. Alphabet repurchased $13.6 billion of stock and paid $2.5 billion in dividends during the quarter.
+
+Google Services revenue rose 12 percent to $82.5 billion.  
+• Search and Other delivered $54.2 billion, rising 12 percent on growth across all verticals, led by retail and financial services.  
+• YouTube advertising revenue grew 13 percent to $9.8 billion, driven first by direct-response ads and then by brand spend; Shorts now averages 200 billion daily views and, in the U.S., earns as much ad revenue per watch hour as in-stream video.  
+• Network advertising revenue slipped 1 percent to $7.4 billion.  
+• Subscription, Platforms & Devices revenue jumped 20 percent to $11.2 billion on continued traction in YouTube TV, Premium, Music and Google One, including the new Gemini AI Pro and Ultra plans.  
+Google Services operating income climbed 11 percent to $33.1 billion with a 40.1 percent margin, flat year-on-year.
+
+Google Cloud turned in another standout quarter. Revenue surged 32 percent to $13.6 billion, with Google Cloud Platform (core and AI products) again growing faster than the segment overall and Workspace posting gains in both average revenue per seat and seats. Operating income more than doubled to $2.8 billion, expanding margin from 11.3 percent to 20.7 percent. Cloud backlog reached a record $106 billion, up 38 percent year-over-year and 18 percent sequentially. Management signed as many $1-billion-plus deals in the first half of 2025 as in all of 2024, and deals above $250 million doubled. Nevertheless, supply remains tight; Alphabet now expects supply constraints to persist into 2026 even as it accelerates capacity additions.
+
+Other Bets generated $373 million of revenue and incurred a $1.2 billion operating loss. Waymo’s autonomous-driving service has now logged over 100 million public-road miles, entered Atlanta, doubled its Austin footprint, and expanded territories in Los Angeles and the San Francisco Bay Area by roughly 50 percent.
+
+Total cost of revenue rose 10 percent to $39 billion; TAC grew 10 percent to $14.7 billion, and other cost of revenue rose 10 percent to $24.3 billion, mainly reflecting YouTube content acquisition costs and higher depreciation. Operating expenses increased 20 percent to $26.1 billion, driven by the legal charge, 16 percent growth in R&D (compensation and depreciation) and a 5 percent rise in sales and marketing.
+
+Capital expenditures were $22.4 billion in Q2—roughly two-thirds for servers and one-third for data centers and networking. Owing to surging demand for AI infrastructure, Alphabet raised its full-year 2025 CapEx outlook from $75 billion to about $85 billion and signaled a further step-up in 2026. Depreciation rose 35 percent to $5 billion and will accelerate again in Q3. Headcount will increase sequentially in Q3, partly because of the annual influx of university graduates, and the August launch of a new Pixel family will add to near-term expenses.
+
+Strategic and product highlights  
+
+• AI is permeating every layer of the company’s “full-stack” approach—custom TPUs and GPUs, models, tools, products and platforms. Gemini 2.5 models deliver top-tier performance across benchmarks; the Gemini app now has over 450 million monthly active users and daily requests have risen 50 percent since Q1. Alphabet’s surfaces cumulatively process more than 980 trillion tokens each month, double the figure reported at I/O in May.  
+
+• Search posted double-digit revenue growth and continues to accelerate usage: AI Overviews (powered by Gemini 2.5) display in 40 languages, serve more than 2 billion users, and are generating 10 percent more queries for the classes of searches where they appear. The new end-to-end AI Mode—already at 100 million monthly active users in the U.S. and India—improves answer quality on longer, more complex queries. Visual search via Google Lens has grown 70 percent year-over-year, and Circle to Search is live on more than 300 million Android devices. Early monetization tests indicate AI Overviews monetize at “approximately the same rate” as traditional search ads.  
+
+• YouTube remains the #1 streaming destination by U.S. watch-time according to Nielsen’s Gauge report, reaching a record 12.8 percent share of total TV viewing in June. Shorts viewership is growing rapidly; AI is raising recommendation quality and boosting cross-language reach through auto-dubbing. Premium Light expanded to 15 more countries.  
+
+• Google Cloud’s annual revenue run-rate now exceeds $50 billion. High-profile wins include LVMH, Salesforce, DBS Bank, Wayfair, Target and Capgemini, among others. More than 85,000 enterprises are building with Gemini, and Gemini usage inside Cloud is up 35-fold year-over-year. Innovations such as Anywhere Cache (up to 70 percent lower inference latency) and Rapid Storage (5× latency improvement versus peers) are sharpening Cloud’s cost-performance edge. An open-source agent development kit has been downloaded over 1 million times, and Agentspace has booked more than 1 million pre-launch subscriptions.  
+
+• Waymo is scaling its robotaxi operations aggressively and testing in 10 U.S. cities; the Waymo Driver has now self-driven 100 million miles.  
+
+Outlook  
+
+Management is “pleased with momentum” but cautioned that advertising comparisons will become more difficult in the back half of 2025 because of last year’s strength in financial-services spend and U.S. election advertising, particularly on YouTube. At current spot rates FX could be a tail-wind in Q3, but currency volatility remains a risk. CapEx will climb to roughly $85 billion this year and rise further in 2026 to alleviate persistent capacity constraints. Depreciation expense growth will accelerate in Q3; headcount will rise modestly; and the Pixel launch will lift near-term marketing and cost of revenue. Despite these investments, Alphabet reiterated confidence that its expanding margin in Cloud, healthy ROI on AI-related CapEx, low customer churn, and balanced mix of advertising and subscription revenue position the company for durable earnings and cash-flow growth.

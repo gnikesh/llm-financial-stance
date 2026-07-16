@@ -1,0 +1,131 @@
+## ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS – SUMMARY  
+
+### Overview  
+NVIDIA, headquartered in Santa Clara, California, invented accelerated computing and now addresses Gaming, Professional Visualization, Data Center, Automotive, OEM & Other markets. Beginning in fiscal 2021 the company reports through two segments:  
+
+* **Graphics** – GeForce GPUs and services for gaming/PCs, NVIDIA RTX/Quadro for workstations, vGPU software, automotive infotainment.  
+* **Compute & Networking** – Data Center AI/HPC platforms, Mellanox networking, automotive AI cockpit & autonomous driving solutions, Jetson embedded/robotics.  
+
+### Recent Developments, Future Objectives and Challenges  
+
+#### Pending Acquisition of Arm Limited  
+• Announced September 13 2020; total value ≈ $40 billion.  
+• Consideration: $2 billion cash paid at signing; at closing NVIDIA will pay $10 billion cash and issue 44.3 million shares (≈ $21.5 billion).  
+• Earn-out of up to $5 billion (cash or 10.3 million shares) tied to Arm’s FY22 performance; up to $1.5 billion in RSUs for Arm employees post-close.  
+• If the agreement is terminated under specified conditions, $1.25 billion of the $2 billion Signing Consideration will be refunded.  
+• Subject to regulatory approvals in the U.S., U.K., EU, China and other jurisdictions; closing is expected in Q1 CY 2022.  
+
+#### Demand and Supply Dynamics  
+Lead-times remain long; NVIDIA may place non-cancellable orders, pay premiums or deposits to secure capacity. Gaming GPUs are sensitive to cryptocurrency-driven demand volatility. COVID-19–driven work-from-home trends have boosted Gaming and Data Center demand but complicate forecasting.
+
+#### COVID-19  
+Most employees have worked remotely since March 2020. Gaming and Data Center platforms experienced stronger demand; Professional Visualization desktop demand is recovering; Automotive is largely normalized. Supply-chain tightness, especially for Gaming, persists. Management believes existing cash, equivalents and marketable securities plus short-term facilities are sufficient for ongoing liquidity needs.
+
+### Fiscal Year 2021 Summary  
+
+| ($ in millions, except per-share data) | FY 2021 | FY 2020 | % Δ |
+|---------------------------------------|---------|---------|-----|
+| Revenue                               | $16,675 | $10,918 | +53 % |
+| Gross margin                          | 62.3 %  | 62.0 %  | +30 bp |
+| Operating expenses                    | $5,864  | $3,922  | +50 % |
+| Income from operations                | $4,532  | $2,846  | +59 % |
+| Net income                            | $4,332  | $2,796  | +55 % |
+| Diluted EPS                           | $6.90   | $4.52   | +53 % |
+
+• Record revenue of $16.68 billion; Gaming +41 %, Data Center +124 %, Professional Visualization –13 %, Automotive –23 %, OEM & Other +25 %.  
+• Mellanox contributed ≈ 10 % of total revenue.  
+• Gross margin improved slightly to 62.3 %, benefiting from richer Data Center mix, partly offset by acquisition-related charges (inventory step-up $161 million; intangible amortization $263 million).  
+• Operating expenses rose to $5.86 billion (R&D $3.92 billion, 23.5 % of revenue; SG&A $1.94 billion, 11.6 % of revenue) mainly due to Mellanox integration, head-count growth and $411 million of acquisition-related costs (including $40 million for the Arm transaction).  
+• Effective tax rate fell to 1.7 % (vs 5.9 %) on favorable geographic mix and higher stock-based compensation benefits.
+
+### Market Platform Highlights  
+Gaming launched GeForce RTX 30-Series GPUs (Ampere), Reflex, Broadcast and expanded GeForce NOW.  
+Professional Visualization introduced new mobile workstations, Quadro View and AI partnerships (e.g., Adobe, Autodesk).  
+Data Center unveiled the A100 GPU/DGX A100, BlueField-2 DPU, EGX Edge AI platform, VMware partnership; powered most TOP500 supercomputers; set 16 MLPerf records.  
+Automotive secured design wins with Mercedes-Benz (software-defined vehicles from 2024), Hyundai, SAIC, Nio, Li Auto, Xpeng, Zoox and Einride.
+
+### Critical Accounting Policies and Estimates (condensed)  
+Key areas requiring significant judgment include business-combination purchase-price allocations (notably Mellanox and pending Arm), inventory valuation, revenue recognition for product and license/development contracts, income-tax valuation allowances ($728 million), and annual goodwill impairment testing (no impairment; $4.19 billion goodwill allocated $0.35 billion Graphics / $3.85 billion Compute & Networking).
+
+### Results of Operations  
+
+#### Revenue by Segment  
+
+| ($ in millions) | FY 2021 | FY 2020 | $ Δ | % Δ |
+|-----------------|---------|---------|-----|-----|
+| Graphics        | 9,834   | 7,639   | +2,195 | +29 % |
+| Compute & Networking | 6,841 | 3,279 | +3,562 | +109 % |
+| Total           | 16,675  | 10,918  | +5,757 | +53 % |
+
+Graphics growth stemmed from GeForce GPUs and console SoCs; workstation GPUs declined. Compute & Networking more than doubled on Mellanox consolidation and Ampere ramp.
+
+#### Gross Profit  
+Gross margin rose to 62.3 %. Inventory provisions were $116 million (vs $161 million); sales of previously written-down inventory were $145 million in both years, netting an insignificant gross-margin effect.
+
+#### Operating Expenses  
+R&D increased 39 % to $3.92 billion; SG&A increased 77 % to $1.94 billion, both driven by Mellanox and higher compensation costs.
+
+#### Other Income (Expense)  
+Interest income fell to $57 million (lower rates). Interest expense rose to $184 million due to March 2020 note issuances. Net other expense was $114 million.
+
+#### Income Taxes  
+Tax expense of $77 million; effective tax rate 1.7 %, well below U.S. statutory 21 % because of lower-tax jurisdictions, U.S. R&D credits and stock-based compensation excess benefits.
+
+### Liquidity and Capital Resources  
+
+| ($ in millions) | 31 Jan 2021 | 26 Jan 2020 |
+|-----------------|-------------|-------------|
+| Cash & cash equivalents | 847 | 10,896 |
+| Marketable securities   |10,714|     1 |
+| Total liquidity         |11,561|10,897 |
+
+Cash grew $664 million despite $2 billion paid toward Arm signing consideration and the $7.13 billion Mellanox acquisition (closed April 27 2020).  
+
+FY 2021 cash flows:  
+• Operating activities $5.82 billion (↑).  
+• Investing activities –$19.68 billion (acquisitions, marketable-security purchases, cap-ex).  
+• Financing activities $3.80 billion (issuance of $5 billion senior notes offset by equity-related tax payments and dividends).
+
+Management expects FY 2022 cap-ex of $1.0–$1.2 billion (new Santa Clara building). Approximately $1.38 billion of cash held abroad is not tax-accrued for U.S. repatriation; the remainder is freely available.
+
+### Capital Return to Shareholders  
+• Dividends: $395 million paid in FY 2021; quarterly dividend policy continues subject to Board approval.  
+• Share repurchase authorization: $7.24 billion remaining through December 2022; no shares repurchased in FY 2021.
+
+### Outstanding Indebtedness and Credit Facilities  
+Fixed-rate senior notes outstanding:  
+
+| Issue (coupon) | Amount |
+|----------------|--------|
+| 2.20 % Notes due 2021 | $1.0 billion |
+| 3.20 % Notes due 2026 | $1.0 billion |
+| 2.85 % Notes due 2030 | $1.5 billion |
+| 3.50 % Notes due 2040 | $1.0 billion |
+| 3.70 % Notes due 2050 | $2.0 billion |
+| 3.80 % Notes due 2060 | $0.5 billion |
+
+Revolving credit facility: up to $575 million (unused). Commercial-paper program: $575 million (none issued).
+
+Long-term tax liabilities include $157 million for Mellanox basis differences and $395 million unrecognized tax benefits (with $43 million interest/penalties).
+
+### Contractual Obligations  
+Refer to Notes 3, 12, 13 and 14 for detailed lease, purchase, debt and tax commitments.
+
+### Adoption of New Accounting Pronouncements  
+No recently adopted or issued standards materially affected FY 2021 results; see Note 1 for detail.
+
+---
+
+## ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK – SUMMARY  
+
+### Investment and Interest-Rate Risk  
+A ±0.5 % parallel shift in the yield curve would change the fair value of the fixed-rate investment portfolio by –$24 million / +$8 million. All outstanding notes are fixed-rate; therefore, reported interest expense is not rate-sensitive.
+
+### Foreign Exchange Risk  
+Sales, manufacturing contracts and debt are U.S.-dollar-denominated; direct FX exposure is limited. NVIDIA hedges forecast operating expenses and monetary assets/liabilities with forward contracts:  
+• A 10 % U.S.-dollar strengthening would lower pre-tax AOCI on designated cash-flow hedges by ≈ $84 million (31 Jan 2021) and ≈ $43 million (26 Jan 2020).  
+• A 10 % adverse move on balance-sheet hedges would reduce income before tax by ≈ $44 million (2021) and ≈ $29 million (2020); the effect is offset by re-measurement of the underlying positions.
+
+---  
+
+Overall, fiscal 2021 delivered record revenue, EPS, cash flow and data-center scale, while the balance sheet was fortified with $5 billion of long-term notes and $11.56 billion of cash and marketable securities. Management remains focused on closing the $40 billion Arm acquisition, navigating supply-chain constraints, and investing aggressively in R&D and infrastructure while returning capital through dividends and authorized buybacks.

@@ -1,0 +1,77 @@
+# Meta Platforms, Inc. – Q3 2022 Earnings Call Summary
+
+Meta’s third-quarter results underscored resilient user growth and early monetisation progress in Reels and business messaging, but also highlighted ongoing revenue softness, rising costs and heavy capital and Reality Labs (RL) outlays. Management reiterated its commitment to three investment priorities—AI-driven discovery, ads & business messaging, and the metaverse—while promising tighter expense control and flat head-count in 2023.
+
+### Consolidated Q3 2022 Financials  
+• Revenue was $27.71 billion, down 4 % YoY (but up 2 % in constant currency; FX head-wind cost c.$1.8 billion).  
+• GAAP operating income fell to $5.66 billion, for a 20 % operating margin.  
+• Net income declined to $4.40 billion; diluted EPS was $1.64.  
+• Total expenses rose 19 % YoY to $22.05 billion and include a $413 million lease-impairment charge.  
+• CapEx (including finance-lease principal) reached $9.52 billion; full-year 2022 CapEx is guided to $32–$33 billion.  
+• Free cash flow was only $173 million.  
+• Cash & marketable securities ended at $41.8 billion; Meta also issued $10 billion of inaugural debt.  
+• Share repurchases totalled $6.5 billion in Q3.
+
+### Segment Detail  
+Family of Apps (FoA)  
+• FoA revenue: $27.43 billion (-4 % YoY).  
+• FoA expenses: $18.07 billion (82 % of company total).  
+• FoA operating income: $9.29 billion, 34 % margin.  
+• Advertising revenue: $27.24 billion (-4 % headline, +3 % ex-FX).  
+  – Ad impressions +17 % YoY; average price ‑18 %.  
+  – Vertical strength in healthcare and travel; weakness in online commerce, gaming, financials, CPG.  
+  – Asia-Pac ad revenue +6 %; Rest-of-World +3 %; North America ‑3 %; Europe ‑16 %.  
+  – ATT head-wind has now lapped; macro softness is the main drag.  
+• FoA other revenue: $192 million, +9 %, driven by WhatsApp business messaging.  
+
+Reality Labs  
+• RL revenue: $285 million (-49 % YoY on lower Quest 2 sales).  
+• RL expenses: $4.01 billion (+24 %).  
+• RL operating loss widened to $3.67 billion; management cautions RL losses will “grow significantly” in 2023, driven by next-gen consumer Quest launch and a full year of 2022 hires.
+
+### Users & Engagement  
+• Family Daily Active People (DAP): 2.93 billion in September (+4 %).  
+• Family Monthly Active People (MAP): 3.71 billion (+4 %).  
+• Facebook DAUs: 1.98 billion (+54 million, +3 %), representing 67 % of 2.96 billion MAUs (+2 %).  
+• Reels plays now exceed 140 billion per day (+50 % vs. six months ago) and are incremental to overall time spent on both Facebook and Instagram.
+
+### Monetisation Initiatives & Run-Rates  
+• Reels combined revenue run-rate (Instagram + Facebook) has accelerated to $3 billion (vs. $1 billion on Instagram alone three months ago). Reels remains a $500 million quarterly revenue head-wind because it monetises below Feed/Stories; management expects parity within 12-18 months.  
+• Click-to-messaging ads (Facebook & Instagram → Messenger/WhatsApp/IG Direct) now exceed a $9 billion annual run-rate; click-to-WhatsApp alone is at $1.5 billion (+80 % YoY).  
+• Paid messaging is small but “continues to grow quickly,” bolstered by partnerships such as Salesforce and the end-to-end JioMart-on-WhatsApp pilot in India.
+
+### 2022 & 2023 Outlook  
+Revenue  
+• Q4 2022 revenue guidance: $30.0 – $32.5 billion; assumes a 7 % YoY FX head-wind.  
+• Management “believes” revenue will return to healthier growth in 2023, but macro visibility remains low.  
+
+Expenses & CapEx  
+• 2022 total expense guidance tightened to $85 – $87 billion (includes roughly $900 million of Q4 office-consolidation charges).  
+• 2023 total expenses projected at $96 – $101 billion, including ~$2 billion of additional real-estate rationalisation charges.  
+  – Slight majority of dollar growth will be in OpEx; cost-of-revenue growth will accelerate on depreciation and Quest hardware.  
+  – Head-count expected to end 2023 “roughly flat” with Q3 2022; many teams will stay flat or shrink.  
+• 2022 CapEx: $32 – $33 billion; 2023 CapEx: $34 – $39 billion—almost entirely driven by AI infrastructure (higher-end servers, new AI-centric data centres).  
+  – Management will “pace” AI spending based on measurable ROI; non-AI data-centre spend should become more efficient over time.  
+• Long-term: CapEx should fall as a percentage of revenue; Reality Labs spend will be moderated to ensure consolidated operating-income growth.
+
+Tax & Other  
+• Q3 effective tax rate: 21 %; similar rate expected for Q4 2022 and full-year 2023.  
+• Meta continues to monitor EU–US data-transfer developments.
+
+### Strategic & Qualitative Highlights  
+1. Investment Priorities:  
+ a. AI discovery engine powering Reels and broader recommendations.  
+ b. Advertising & business-messaging monetisation.  
+ c. Metaverse (VR, AR, Horizon platform, neural interfaces).  
+2. Reels, combined with improved AI recommendations, is driving both higher engagement and share gain vs. TikTok; Meta aims to blend AI-recommended content with friends/family posts for differentiation.  
+3. Metaverse Progress: Quest Pro (high-end mixed-reality headset) has begun shipping; major productivity partnerships announced (Microsoft, Adobe, Autodesk, Zoom, Accenture). Over 200 million PCs are sold annually for work, and Meta targets that market segment for future Quest Pro iterations.  
+4. Capital Allocation: Profits from FoA will continue to subsidise future-focused bets, but Meta also intends to enlarge capital returns to shareholders over time (already repurchased $6.5 billion in Q3).  
+5. Leadership Transition: Dave Wehner becomes Chief Strategy Officer after ten years at Meta; Susan Li (current VP Finance) becomes CFO.
+
+### Key Takeaways for Investors  
+• Q3 revenue decline was milder on a constant-currency basis, but margins are under pressure from both structural (Reality Labs) and discretionary (AI/CapEx) spending.  
+• Management is signalling sharper cost discipline—flat head-count, slower OpEx growth, heightened ROI hurdles—while refusing to scale back priority long-term investments.  
+• Near-term catalysts include Reels monetisation convergence, further scaling of click-to-message and paid messaging, and easing ATT comps; macro conditions remain the principal wildcard.  
+• Reality Labs will remain a sizeable drag in 2023, yet Meta asserts that these foundational technologies are critical for long-term competitive differentiation and value creation.
+
+Overall, Meta exited Q3 with record engagement, substantial cash liquidity and multiple nascent revenue streams, but also with heavier spending commitments and heightened macro/FX head-winds. Management expects stronger top-line growth and improved efficiency in 2023, yet investors must weigh those prospects against continued large losses in Reality Labs and elevated capital intensity.

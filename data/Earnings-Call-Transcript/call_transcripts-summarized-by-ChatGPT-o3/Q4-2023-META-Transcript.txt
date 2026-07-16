@@ -1,0 +1,97 @@
+# Meta Platforms, Inc. – Q4 2023 & Full-Year 2023 Earnings Call Summary  
+
+Meta ended 2023 with a strong fourth quarter that combined a return to solid top-line growth with sharply improved profitability and disciplined spending. Management reiterated its dual long-term priorities—artificial intelligence and the metaverse—while keeping a tight focus on near-term execution in the Family of Apps advertising and messaging businesses.
+
+Meta’s community continued to expand, with more than 3.1 billion people using at least one Meta app every day. Although the company will stop disclosing Facebook-only DAU/MAU statistics, it will keep reporting Family Daily Active People and will add regional ad-impression and price data beginning in 1Q24.
+
+## Consolidated Q4 2023 results  
+
+• Revenue reached $40.11 billion, up 25 percent year-over-year (22 percent in constant currency).  
+• GAAP operating income rose to $16.40 billion, delivering a 41 percent operating margin versus 20 percent a year ago.  
+• Net income jumped to $14.02 billion, and diluted EPS more than tripled to $5.33.  
+• Total expenses fell 8 percent to $23.71 billion, reflecting lower restructuring charges, reduced marketing and G&A, and tight head-count control. Meta ended the year with 67,317 employees, down 22 percent Y/Y but 2 percent above Q3 as limited hiring resumed.  
+• Free cash flow was $11.46 billion; full-year FCF reached $43.0 billion.  
+• Cash and marketable securities stood at $65.4 billion against $18.4 billion of debt.
+
+## Segment detail  
+
+Family of Apps (FoA)  
+• Q4 revenue: $39.02 billion, +24 percent Y/Y.  
+• Q4 operating income: $21.04 billion, 54 percent margin.  
+• Ad impressions grew 21 percent; average price per ad increased 2 percent. Impression gains were led by Asia-Pacific and Rest-of-World; European and RoW regions posted the strongest ad-revenue growth (33 percent and 32 percent, respectively).  
+• Other FoA revenue (largely WhatsApp business messaging) rose 82 percent to $334 million.  
+• China-based advertisers contributed 10 percent of Meta’s 2023 revenue and accounted for 5 percentage points of worldwide growth.
+
+Reality Labs (RL)  
+• Q4 revenue surged 47 percent to $1.07 billion, driven by Quest 3 holiday demand.  
+• Q4 operating loss widened to $4.65 billion; management reaffirmed that RL losses will “increase meaningfully” in 2024 as investment in AR/VR and mixed-reality continues.  
+• Quest headsets generated the first $1 billion RL revenue quarter; Quest was the most-downloaded iOS app on Christmas Day.  
+• Ray-Ban Meta smart-glasses demand exceeded initial production plans, with higher engagement and retention than the first-generation glasses.
+
+## Full-year 2023 highlights  
+
+• Revenue: $134.90 billion (+16 percent); FoA ad revenue: $131.94 billion (+16 percent).  
+• Operating income: $46.75 billion; operating margin rebounded to 35 percent from 20 percent in 2022.  
+• Net income: $39.10 billion; EPS: $14.87.  
+• Total expenses: $88.15 billion (-13 percent).  
+• Capital expenditures: $28.92 billion; principal finance-lease repayments: $3.68 billion.  
+• Share repurchases: $20.0 billion; $30.9 billion remained on the prior authorization as of 31 Dec. The Board has now approved an additional $50 billion buy-back capacity and initiated a quarterly cash dividend of $0.50 per share, beginning with Q1 2024.
+
+## Guidance & outlook  
+
+Revenue  
+• Q1 2024 revenue is projected between $34.5 billion and $37.0 billion, implying 20 – 29 percent growth despite a tougher comparison and assuming FX is neutral. February 29 gives a modest one-day benefit.
+
+Expenses  
+• 2024 total expenses remain forecast at $94 – $99 billion. Drivers include:  
+  – Higher depreciation and operating costs from the enlarged data-center footprint;  
+  – A resumption of selective hiring, shifting the mix toward higher-cost technical talent;  
+  – An appreciable increase in Reality Labs operating losses.
+
+Capital Expenditures  
+• 2024 CapEx outlook is lifted to $30 – $37 billion (up $2 billion at the high end). Incremental spending targets servers (AI and non-AI) and construction of new, AI-optimized data-center architecture. Management signaled that ambitious AI research will likely necessitate “growing infrastructure investments beyond this year.”
+
+Tax  
+• Meta expects a 2024 GAAP tax rate in the mid-teens, absent U.S. tax-law changes.
+
+## Strategy & operational themes  
+
+Year of Efficiency achievements  
+Mark Zuckerberg credited 2023’s “year of efficiency” with making Meta a leaner, faster-moving technology company and restoring profitability. He intends to preserve this operating discipline even as revenue recovers; new head-count additions will remain “relatively minimal.”
+
+Artificial Intelligence  
+• Meta’s goal is to build world-class AI assistants for users, creators, and businesses, underpinned by full general intelligence.  
+• The company will have about 350,000 Nvidia H100 GPUs by year-end 2024—roughly 600,000 H100-equivalent GPUs when including other chips—after learning from prior under-investment during the Reels rollout.  
+• Open sourcing remains core: Llama 3 is now training, and future models (Llama 4–7) are mapped out. Meta argues that open source improves safety, efficiency, adoption, and talent recruitment without eroding product differentiation.  
+• AI product rollout follows Meta’s classic playbook: limited tests (Meta AI assistant, Creator/Business AIs, smart-glasses integration) followed by iterative tuning, then large-scale deployment and, finally, monetization.  
+• Near-term revenue potential lies in AI-driven ad tools (Advantage+ suite, Text Variations, Image Expansion, Background Generation). Longer term, conversational AIs in messaging could open sizable monetization avenues.
+
+Metaverse & devices  
+• Quest 3 is “the most popular mixed-reality device,” while Horizon Worlds has entered Quest’s top-ten apps and will focus on mobile expansion in 2024.  
+• Smart-glasses equipped with multimodal AI are viewed as a precursor to full AR; Meta and EssilorLuxottica are increasing production to meet demand.
+
+Advertising & messaging  
+• Reels sharing averages 3.5 billion re-shares daily; unifying recommendation systems across video formats is the next growth lever.  
+• WhatsApp is gaining traction in the U.S.; Channels has surpassed 500 million MAUs since September launch.  
+• Messaging monetization advances through click-to-message ads (strong growth with purchase optimization) and paid marketing messages on WhatsApp; Flows enables richer in-thread commerce experiences.  
+• Shops ads surpassed a $2 billion annual run-rate following broader availability and a new Buy-with-Prime pilot with Amazon.
+
+Capital allocation  
+• Besides rising CapEx for AI clusters and data centers, Meta will continue sizable buy-backs and now a regular dividend, providing a “more balanced” return program.  
+• Management acknowledged intensifying regulatory and legal headwinds, highlighting the FTC’s attempt to expand Meta’s consent decree as a significant risk.
+
+## Key financial metrics (GAAP unless stated)  
+
+| Metric | Q4 2023 | Y/Y Change | FY 2023 | Y/Y Change |
+|---|---|---|---|---|
+| Revenue | $40.11 B | +25 % | $134.90 B | +16 % |
+| Operating Income | $16.40 B | +156 % | $46.75 B | +62 % |
+| Operating Margin | 41 % | +21 ppt | 35 % | +15 ppt |
+| Net Income | $14.02 B | +201 % | $39.10 B | +69 % |
+| Diluted EPS | $5.33 | +203 % | $14.87 | +72 % |
+| CapEx (inc. leases) | $7.86 B | +1 % | $28.92 B | – |
+| Free Cash Flow | $11.46 B | +81 % | $42.99 B | +188 % |
+| Cash & Investments | $65.4 B | – | – | – |
+| Debt | $18.4 B | – | – | – |
+
+**Bottom line:** Meta exited 2023 with revived revenue momentum, markedly higher margins, and a fortress balance sheet. Management will keep tight cost discipline while accelerating AI and metaverse investments. The 2024 financial framework calls for mid-teens expense growth, a higher CapEx ceiling of $37 billion, larger Reality Labs losses, and sustained shareholder returns via both repurchases and a new dividend—all while aiming to scale AI products, deepen messaging monetization, and maintain leadership in social engagement.

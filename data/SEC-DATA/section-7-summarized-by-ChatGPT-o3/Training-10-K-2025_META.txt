@@ -1,0 +1,135 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Summary  
+
+The following narrative condenses the company’s 2024 Form 10-K “MD&A” while retaining all essential quantitative and qualitative information on revenue, earnings, cash flows, capital structure, operational drivers, risks and forward-looking items. Section titles mirror the original document, and all figures are stated in U.S. dollars.
+
+---
+
+## Executive Overview of Full-Year 2024 Results  
+
+Management’s stated mission is “to build the future of human connection and the technology that makes it possible.”  
+• Total revenue reached **$164.50 billion**, a year-over-year increase of **22 %** (23 % on a constant-currency basis).  
+• Advertising remained the dominant source of growth: ad impressions across the Family of Apps (FoA) rose **11 %** while average price per ad improved **10 %**.  
+• Income from operations was **$69.38 billion**, up **48 %** from 2023 despite higher infrastructure and compensation expense.  
+• Net income stood at **$62.36 billion** and diluted EPS at **$23.86**.  
+• The company generated **$91.33 billion** in operating cash flow and spent **$39.23 billion** on capital expenditures (inclusive of finance-lease principal).  
+• Cash, cash equivalents and marketable securities totaled **$77.81 billion** at year-end; long-term debt was **$28.83 billion**.  
+• The effective tax rate fell to **12 %** (from 18 % in 2023) owing chiefly to excess tax benefits on share-based compensation and larger research credits.  
+• Headcount increased **10 %** to 74,067.  
+
+### Capital Return and Dividend  
+Management repurchased **65 million** Class A shares for **$29.75 billion** and initiated a quarterly cash dividend of **$0.50 per share**, paying **$5.07 billion** in total during 2024. The board still has **$51.28 billion** authorized for additional buybacks.
+
+### Key FoA Usage Metrics  
+• Family daily active people (DAP) averaged **3.35 billion** in December 2024, up **5 %**.  
+• Annual worldwide average revenue per person (ARPP) rose **15 %** to **$49.63**.
+
+---
+
+## Consolidated and Segment Results  
+
+| 2024 vs. 2023 | Family of Apps | Reality Labs | Total |
+|---|---|---|---|
+| Revenue | $162.36 B (+22 %) | $2.15 B (+13 %) | **$164.50 B (+22 %)** |
+| Costs & expenses | $75.25 B (+7 %) | $19.88 B (+10 %) | $95.12 B (+8 %) |
+| Income (loss) from ops | $87.11 B (+39 %) | $(17.73) B (loss ↑10 %) | **$69.38 B (+48 %)** |
+| Operating margin | 54 % | (826 %) | 42 % |
+
+Reality Labs (RL) widened its operating loss to **$17.73 billion**; management expects RL losses to increase further in 2025.
+
+---
+
+## Developments in Advertising  
+
+Virtually all revenue derives from ads on Facebook and Instagram. Legislative and platform privacy changes in the EU, U.S. states, Apple’s iOS and Google’s ecosystem have constrained targeting and measurement, pressuring marketer budgets. The company is mitigating these effects through:  
+• privacy-enhancing technologies,  
+• first-party data tools,  
+• new formats such as Reels ads and business-messaging ads, and  
+• heavy investment in artificial intelligence, including generative AI, to restore ad performance.  
+Management nevertheless warns that regulatory and platform headwinds will “continue to adversely impact advertising revenue for the foreseeable future.”
+
+---
+
+## Other Business, Macroeconomic and Competitive Conditions  
+
+Inflation, high interest rates and geopolitical uncertainty have periodically reduced advertiser spending. Feed competitors and shifting user demographics (especially among younger audiences) continue to weigh on engagement. Reels usage is growing but monetizes below Feed and Stories, a trend management does not expect to reverse soon.
+
+---
+
+## Investment Philosophy  
+
+Operating discipline begun in 2022 continues, but the company is still “investing in significant opportunities”:  
+• FoA spends 79 % of total costs, largely on AI-driven discovery, advertising tools and data infrastructure.  
+• RL absorbs 21 % of costs for metaverse, AR/VR hardware (e.g., Quest, Ray-Ban Meta) and related software. Many RL projects are long-dated, with monetization expected next decade.
+
+---
+
+## Revenue by Geography  
+
+Revenue rose across all regions: **U.S./Canada +18 %**, **Europe +26 %**, **Asia-Pacific +22 %**, and **Rest of World +31 %**. Growth is skewed toward lower-monetizing geographies, tempering average price gains.
+
+---
+
+## Detailed Components of Results of Operations  
+
+### Revenue Composition  
+• Advertising: **$160.63 billion** (+22 %).  
+• FoA Other: **$1.72 billion** (+63 %), driven chiefly by WhatsApp Business Platform.  
+• RL hardware/software: **$2.15 billion** (+13 %).  
+Seasonality persists, with Q4 materially stronger than Q1. Currency movements reduced 2024 revenue by approximately **$0.87 billion** versus constant-currency levels.
+
+### Cost Structure  
+• Cost of revenue increased **16 %** to **$30.16 billion**, reflecting higher depreciation on servers and data centers.  
+• R&D rose **14 %** to **$43.87 billion** owing to AI and RL hiring; R&D is 27 % of revenue.  
+• Marketing and sales fell **8 %** to **$11.35 billion** as restructuring charges and headcount declined.  
+• General and administrative expense dropped **15 %** to **$9.74 billion** after lower legal costs.
+
+### Interest, Other Income and Taxes  
+• Net interest and other income was **$1.28 billion**, almost double 2023, as higher rates lifted interest income despite rising interest expense on debt.  
+• The effective tax rate decreased to **12 %**; management anticipates a 12-15 % rate for 2025 under current law.
+
+---
+
+## Liquidity and Capital Resources  
+
+| 12 months ended 12/31/24 | Cash Flow |
+|---|---|
+| Operating activities | **$91.33 B** |
+| Investing activities | **$(47.15) B** |
+| Financing activities | **$(40.78) B** |
+| Free cash flow (non-GAAP) | **$52.10 B** |
+
+Capital spending was **$37.26 billion** for property and equipment plus **$1.97 billion** of finance-lease principal. Management projects **$60 – $65 billion** of capex in 2025, primarily to support generative-AI infrastructure.
+
+### Debt Profile  
+Senior unsecured notes outstanding total **$29.0 billion**, maturing between 2027 and 2064; related future interest obligations are $29.49 billion.
+
+### Material Cash Needs  
+Anticipated liquidity is deemed sufficient to fund operations, planned capex, buybacks and dividends for the “next 12 months and thereafter.” Significant commitments include operating leases for data centers/offices, content licensing, and contractual hardware purchases.
+
+---
+
+## Critical Accounting Estimates  
+
+Management highlights three areas of heightened judgment:  
+1. Loss contingencies (legal and regulatory matters),  
+2. Income taxes (uncertain tax positions of **$9.99 billion**), and  
+3. Valuation of assets (long-lived assets and non-marketable equity securities).  
+
+Additionally, beginning in 2025 the useful life of certain servers and network assets extends to 5.5 years, expected to **reduce 2025 depreciation by ~$2.9 billion**.
+
+---
+
+## Market Risk Disclosures (Item 7A)  
+
+• Foreign currency: A stronger dollar dampened 2024 results; a program to hedge FX has not yet been adopted.  
+• Interest rate: A hypothetical 100-bp rate rise would lower the market value of available-for-sale debt securities by **$680 million**.  
+• Equity price: Public equity holdings of **$1.23 billion** would fall **$123 million** under a 10 % adverse move; non-marketable securities carry a $6.07 billion book value subject to impairment risk.
+
+---
+
+### Outlook Highlights  
+
+Management re-emphasizes that:  
+• Regulatory/privacy changes, macro uncertainty, competition and RL investment will weigh on margins.  
+• AI infrastructure demands will drive record capex in 2025.  
+• Cash generation and balance-sheet strength are expected to fund ongoing buybacks, dividends and metaverse initiatives without additional external financing.

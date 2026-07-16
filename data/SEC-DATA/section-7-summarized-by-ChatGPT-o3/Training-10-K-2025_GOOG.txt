@@ -1,0 +1,154 @@
+# ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS — SUMMARY
+
+Please read this condensed discussion together with the company’s risk factors, consolidated financial statements and related notes. All figures are stated in U.S. dollars.
+
+## Understanding Alphabet’s Financial Results
+
+Alphabet reports three operating segments — Google Services, Google Cloud and Other Bets — plus Alphabet-level activities. For the year ended 31 December 2024:
+
+* Consolidated revenue reached **$350.0 billion**, up **14 %** (15 % in constant currency) versus 2023.  
+* Diluted EPS rose **39 %** to **$8.04**.  
+* Net income increased **36 %** to **$100.1 billion**.  
+* Operating income was **$112.4 billion**; operating margin expanded from 27 % to **32 %**.
+
+## Trends in the Business and Their Financial Effect
+
+Management continues to highlight:  
+1. Ongoing but moderating shift of users and advertisers online amid intensifying competition, including from AI-based offerings.  
+2. Diversified device usage, which lifts revenue yet pressures margins through higher TAC and lower mobile margins.  
+3. Expansion of AI functionality in Search and other products that may alter monetisation patterns.  
+4. Growing revenue contribution from emerging markets that initially monetise at lower rates and are sensitive to FX swings.  
+5. Rapidly growing non-advertising revenues (cloud, subscriptions, devices) that typically carry lower margins.  
+6. Substantial future operating and capital spending — especially on AI-supportive technical infrastructure — alongside continued M&A.  
+7. A complex, evolving regulatory landscape potentially affecting costs, practices and results.  
+8. Ongoing investment in global workforce.
+
+## Executive Overview of 2024 versus 2023 (in millions except per-share data)
+
+| Metric | 2023 | 2024 | $ Change | % Change |
+|--------|------|------|----------|----------|
+| Revenues | 307,394 | **350,018** | 42,624 | 14 % |
+| Cost of revenues | 133,332 | **146,306** | 12,974 | 10 % |
+| Operating expenses | 89,769 | **91,322** | 1,553 | 2 % |
+| Operating income | 84,293 | **112,390** | 28,097 | 33 % |
+| Net income | 73,795 | **100,118** | 26,323 | 36 % |
+| Diluted EPS | 5.80 | **8.04** | 2.24 | 39 % |
+| Operating cash flow | 101,746 | **125,299** | 23,553 | 23 % |
+| Capital expenditures | 32,300 | **52,500** | 20,200 | 63 % |
+
+Dividend payments totalled **$7.4 billion** in 2024 (first year of the programme). Share repurchases reached **$62.0 billion**; $44.7 billion remains authorised.
+
+### Headcount  
+Alphabet employed **183,323** people at year-end 2024.
+
+## Revenues
+
+### By Source (in millions)
+
+| 2023 | 2024 |
+|------|------|
+| Google Search & other | 175,033 | **198,084** |
+| YouTube ads | 31,510 | **36,147** |
+| Google Network | 31,312 | **30,359** |
+| Google advertising total | 237,855 | **264,590** |
+| Google subscriptions, platforms & devices | 34,688 | **40,340** |
+| Google Services total | 272,543 | **304,930** |
+| Google Cloud | 33,088 | **43,229** |
+| Other Bets | 1,527 | **1,648** |
+| Hedging gains (losses) | 236 | 211 |
+| Consolidated revenues | 307,394 | **350,018** |
+
+Key drivers:  
+• Search growth of $23.1 billion fuelled by mobile usage and advertiser spend.  
+• YouTube ads up $4.6 billion, led by brand advertising.  
+• Google Network down $0.95 billion; FX headwinds and lower Ad Manager and AdMob revenue.  
+• Subscriptions, platforms & devices up $5.7 billion; paid subscribers for YouTube services and Google One drove most of the increase.  
+• Google Cloud revenue climbed $10.1 billion (31 %), mainly from infrastructure services.
+
+### Monetisation Metrics 2024 vs 2023
+
+* Paid clicks on Search & other: +5 %; cost-per-click: +7 %.  
+* Impressions on Google Network: -11 %; cost-per-impression: +10 %.
+
+### Geographic Mix (share of revenue)
+
+U.S. 49 %, EMEA 29 %, APAC 16 %, Other Americas 6 %. Constant-currency growth was 17 % in the U.S.; 12 % in EMEA; 13 % in APAC; 20 % in Other Americas.
+
+## Costs and Expenses
+
+### Cost of Revenues  
+
+Total cost of revenues rose **10 %** to **$146.3 billion**.  
+• TAC increased $4.0 billion to **$54.9 billion**; TAC rate fell to 20.7 % (lower Network mix) despite higher mobile TAC.  
+• Other costs grew $9.0 billion, led by YouTube content acquisition, depreciation and data-centre operations.
+
+### Operating Expenses
+
+| Category | 2023 | 2024 | YoY Change |
+|----------|------|------|------------|
+| R&D | 45,427 | **49,326** | +3,899 |
+| Sales & Marketing | 27,917 | **27,808** | ‑109 |
+| General & Administrative | 16,425 | **14,188** | ‑2,237 |
+
+R&D rose on higher SBC, depreciation and external services; severance and office optimisation charges declined. G&A fell mainly on lower legal accruals and headcount.
+
+## Segment Profitability (operating income in millions)
+
+| Segment | 2023 | 2024 | Change |
+|---------|------|------|--------|
+| Google Services | 95,858 | **121,263** | +25,405 |
+| Google Cloud | 1,716 | **6,112** | +4,396 |
+| Other Bets | (4,095) | **(4,444)** | ‑349 |
+| Alphabet-level activities | (9,186) | **(10,541)** | ‑1,355 |
+| Consolidated | 84,293 | **112,390** | +28,097 |
+
+Services margin growth reflected revenue gains and lower compensation; Cloud turned sharply more profitable despite infrastructure spend.
+
+## Other Income (Expense), Net
+
+OI&E swung from **$1.4 billion** to **$7.4 billion**, principally on $3.7 billion net gains in equity securities and reduced FX losses. Interest income also increased to $4.5 billion. A subsequent $8 billion unrealised gain on a private investment was recognised in January 2025.
+
+## Taxes
+
+Income tax provision rose to **$19.7 billion**; the effective tax rate climbed to **16.4 %** (from 13.9 %) owing to IRS rule changes on foreign tax credits and R&D amortisation, partly offset by higher SBC-related benefits.
+
+## Financial Condition and Liquidity
+
+* Cash, cash equivalents and short-term marketable securities: **$95.7 billion**.  
+* Operating cash flow: **$125.3 billion** (+23 %).  
+* Investing cash outflow: **$45.5 billion**, driven by $52.5 billion of capex (mainly technical infrastructure).  
+* Financing cash outflow: **$79.7 billion**, reflecting $62.0 billion share buybacks and $7.4 billion dividends.  
+* Short-term commercial paper outstanding: **$2.3 billion**.  
+* Long-term senior notes: **$11.9 billion**.  
+* Revolving credit facilities: $10.0 billion unused.
+
+### Capital Expenditures and Leases
+
+Capex jumped to **$52.5 billion** (vs $32.3 billion) and is expected to rise further in 2025 for AI-oriented servers, network gear and data centres. Future operating lease obligations total $17.0 billion; finance lease obligations total $1.9 billion.
+
+### Commitments and Contingencies
+
+Purchase commitments and other contractual obligations stand at **$55.4 billion** ($32.5 billion short-term). Income taxes payable include $2.7 billion under the 2017 U.S. transition tax and $8.8 billion for uncertain positions.
+
+### European Commission Matters
+
+In Q3 2024 Alphabet paid **$3.0 billion** for the 2017 EC shopping fine after its final appeal failed. A €1.5 billion fine related to 2019 was annulled; the EC has appealed. Outstanding EC fines remain accrued.
+
+## Shareholder Returns
+
+During 2024 Alphabet repurchased **379 million** shares for **$62.0 billion** (73 million Class A; 306 million Class C). The Board authorised an additional **$70.0 billion** repurchase programme in April 2024. Quarterly dividends began in June 2024; total 2024 payouts were **$7.4 billion**.
+
+## Quantitative and Qualitative Disclosures about Market Risk
+
+* A 10 % adverse FX move on net monetary positions would have reduced 2024 pre-tax income by **$135 million** after hedges (vs $503 million in 2023).  
+* A 10 % U.S.-dollar weakening would lower AOCI by **$1.6 billion** for cash-flow hedges and **$0.66 billion** for net-investment hedges.  
+* One-day 95 % VaR on the fixed-income portfolio was **$208 million** at year-end 2024 (down from $296 million in 2023).  
+* A 10 % drop in the value of marketable equity securities would cut their fair value by **$508 million**. Non-marketable equity securities carried at $35.5 billion are subject to valuation volatility and potential impairment.
+
+## Critical Accounting Estimates
+
+Alphabet’s most significant judgments involve:  
+• Fair-value measurements of non-marketable equity securities under the measurement-alternative method;  
+• Useful-life assessments for rapidly evolving technical infrastructure;  
+• Recognition and measurement of uncertain tax positions; and  
+• Estimating loss contingencies in complex, often multi-jurisdictional legal and regulatory matters.

@@ -1,0 +1,85 @@
+# Meta Platforms Q3 2025 Earnings Call – Financial & Business Highlights
+
+Meta delivered another quarter of strong top-line growth while embarking on a markedly heavier investment cycle to prepare for frontier AI and future hardware platforms. Management stressed that near-term profitability will be pressured by an acceleration in capital expenditures and operating costs, yet argued that returns on compute and AI talent should be significant for both the core ad franchise and new product lines.
+
+Management participants: CEO Mark Zuckerberg, CFO Susan Li.
+
+---
+
+Meta’s Family of Apps (FoA) reach  
+• Daily active people (DAP): > 3.5 billion, +7 % YoY  
+• Instagram MAU: 3 billion (new milestone)  
+• Threads DAU: > 150 million (+10 % QoQ time-spent, direct messaging now live)  
+
+---
+
+Q3 2025 GAAP results (YoY comparisons unless noted)  
+• Total revenue: **$51.2 bn**, +26 % (25 % ex-FX)  
+  – FoA ad revenue: **$50.1 bn**, +26 % (impressions +14 %, price / ad +10 %)  
+  – FoA “other” revenue (WhatsApp paid messaging + Meta Verified): **$0.69 bn**, +59 %  
+  – Reality Labs (RL) revenue: **$0.47 bn**, +74 % (retail stocking of Quest, strong AI-glasses demand)  
+• Total expenses: **$30.7 bn**, +32 % (legal accruals, AI talent, infra opex)  
+• Operating income: **$20.5 bn**; operating margin **40 %**  
+• Interest & other income: **$1.1 bn** (mark-to-market gains)  
+• Effective tax rate: **87 %** (one-time U.S. tax-law charge). Ex-charge tax rate would have been 14 %.  
+• Net income: **$2.7 bn**, **$1.05 EPS** GAAP; excluding the tax charge **$18.6 bn** and **$7.25 EPS**  
+• Free cash flow: **$10.6 bn**  
+• Capital expenditures (including finance leases): **$19.4 bn** (servers, data centres, network)  
+• Cash & marketable securities: **$44.4 bn**  
+• Debt: **$28.8 bn**  
+• Shareholder returns: **$3.2 bn** in buybacks, **$1.3 bn** in dividends  
+• Headcount: **78,400**, +8 % YoY (hiring concentrated in monetisation, infra, Reality Labs, Meta Superintelligence Labs, compliance)
+
+---
+
+Guidance & Outlook  
+• Q4 2025 revenue: **$56–59 bn** (≈1 % FX tailwind); Reality Labs revenue expected **down YoY** (no new Quest launch; holiday channel fill occurred in Q3).  
+• FY-25 total expenses: **$116–118 bn** (was $114–118 bn), +22 – 24 % YoY.  
+• FY-25 CapEx: **$70–72 bn** (was $66–72 bn).  
+• Q4 tax rate expected 12 – 15 % ex-one-time items.  
+• 2026 preview: CapEx dollar growth will be “notably larger” than in 2025; total expenses to grow at a “significantly faster percentage rate” than in 2025. Main drivers: accelerated self-build data-centre footprint, higher third-party cloud commitments, rising depreciation, and a full year of 2025 AI hires. Employee comp will be the second-largest incremental cost.  
+• Legal / regulatory headwinds noted, especially EU advertising constraints and upcoming U.S. youth-safety litigation.
+
+---
+
+Strategic & Operating Highlights  
+
+Artificial Intelligence  
+• Meta Superintelligence Labs (MSL) formed; management claims industry-leading talent density.  
+• Three giant transformers (Facebook, Instagram, Ads) are being unified into a single model to run “trillions of daily recommendations.”  
+• End-to-end AI-powered ad tools now above **$60 bn** annualised run-rate revenue.  
+• Reels time-spent on Instagram +30 % YoY; Reels monetisation run-rate exceeds **$50 bn**.  
+• Advantage+ automation: $60 bn run-rate; Advantage+ lead campaigns deliver 14 % lower cost-per-lead; Lattice architecture has consolidated ~100 specialised ads models, with another 200 slated for integration.  
+• Click-to-WhatsApp ads revenue +60 % YoY; Business AI pilots scaled to all eligible firms in Mexico & Philippines, now available for merchant websites in the U.S.  
+• Meta AI assistant used by > 1 billion MAUs; engagement rises with each model upgrade (currently post-training Llama 4). Frontier model integration is next milestone.  
+• Media generation: 20 billion images created; Vibes tool multiplied AI media generation >10× since September launch.
+
+Hardware & Reality Labs  
+• Ray-Ban Meta 2025 and Oakley Meta Vanguard AI glasses “sold out in almost every store within 48 hours”; display-equipped “Meta Ray-Ban” plus Neural Band entering production scale-up.  
+• Quest 3S benefit moved to Q3; no new headset in Q4.  
+• Longer-term AR glasses (Orion) and neural interfaces remain in development; Meta views hundreds-of-millions unit scale as prerequisite for “extremely profitable” wearables segment.
+
+Capital Allocation & Financing  
+• Primary use of capital is to secure “industry-leading” compute for AI. Management prefers to “front-load” build-out to avoid capacity shortfalls if super­intelligence arrives sooner than expected.  
+• Meta is “perennially compute-starved” for both research and core-ads inference, implying high ROIC on incremental servers/GPUs.  
+• Combined on-balance-sheet CapEx with off-balance-sheet partnerships (e.g., joint venture with Blue Owl on Louisiana data centre) to preserve flexibility; Meta will fund ~20 % of remaining construction costs, booked as other investing cash flows rather than CapEx.  
+• Strong existing liquidity plus access to “cost-efficient external capital” underpin the spending plan.
+
+---
+
+Key Engagement Metrics  
+• Time spent: +5 % on Facebook, +10 % on Threads in Q3; U.S. time spent on Facebook & Instagram grew double-digits YoY.  
+• Video remains a “bright spot”; systems now surface 2× more same-day Reels on Facebook vs. start of year.  
+• Impression growth in lower-monetising regions partially offset by rising ad prices (+10 %).
+
+---
+
+Risks & Regulatory  
+• EU Digital Markets Act: potential further limitations on personalised ads could hurt European revenue “as early as this quarter.”  
+• U.S. youth-safety lawsuits set for 2026 could lead to “material loss.”  
+• Ongoing legal expenses already elevated; Q3 saw higher charges versus prior periods.
+
+---
+
+Takeaways  
+Meta’s core ad engine continues to compound, powered by AI-driven gains in relevance and automation, while newer surfaces (Reels, WhatsApp, Threads) add incremental ad inventory. Management is deliberately sacrificing near-term margin to secure compute capacity and talent needed for frontier AI models, expanded data-centre infrastructure, and emerging hardware ecosystems. Liquidity remains strong, but investors should brace for materially higher CapEx and opex in 2026 before seeing full revenue benefits from superintelligence-level models, Business AI, and AI-enhanced consumer products.

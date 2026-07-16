@@ -1,0 +1,141 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations  
+
+---
+
+## Overview  
+
+### Our Company and Our Businesses  
+NVIDIA remains focused on accelerated computing across Graphics and Compute & Networking. GPU architecture is now applied to gaming, scientific computing, AI, data science, autonomous vehicles, robotics, and digital-twin workloads.
+
+## Recent Developments, Future Objectives and Challenges  
+
+### Demand and Supply  
+Fiscal 2025 revenue growth was led by Data Center compute and networking platforms, particularly the Hopper architecture; production shipments of the new Blackwell architecture began in Q4 FY 2025. To secure long-term capacity, NVIDIA entered additional prepaid manufacturing and capacity agreements, increasing supply-chain complexity and the risk of inventory provisions if demand estimates prove inaccurate.
+
+### Product Transitions and New Product Introductions  
+NVIDIA has adopted an annual cadence of new Data Center architectures, simultaneously selling prior and current generations. Increased launch frequency heightens challenges in forecasting demand, managing inventory, and controlling warranty or quality costs.
+
+### Global Trade  
+U.S. export-control actions in 2022–2024 restrict shipment of high-performance GPUs (A100, H100, A800, H800, L4, L40/L40S, RTX 4090 and Blackwell family) to China and other designated regions without a license; to date no licenses have been granted. An “AI Diffusion” interim final rule published January 15 2025 will impose worldwide licensing on future shipments of products classified under ECCN 3A090.a/4A090.a after a 120-day grace period. NVIDIA has released Chinese-specific Data Center products outside the licensing thresholds; China Data Center revenue grew YoY but remains below pre-October-2023 levels.
+
+### Macroeconomic Factors  
+Inflation, interest-rate shifts, capital-market volatility, tariffs, and geopolitical issues affect manufacturing costs, wages, and component pricing, although NVIDIA generally does not re-price products in response to short-term cost swings.
+
+### Israel and Regional Conflicts  
+Approximately 4,700 employees are based in Israel; while some are on extended military duty, there has been no material disruption to networking product R&D or supply chain to date.
+
+## Fiscal Year 2025 Summary  
+
+| ($ in millions, except per-share data) | FY 2025 | FY 2024 | Change |
+| --- | --- | --- | --- |
+| Revenue | $130,497 | $60,922 | ↑ 114 % |
+| Gross margin | 75.0 % | 72.7 % | ↑ 2.3 pts |
+| Operating expenses | $16,405 | $11,329 | ↑ 45 % |
+| Operating income | $81,453 | $32,972 | ↑ 147 % |
+| Net income | $72,880 | $29,760 | ↑ 145 % |
+| Diluted EPS | $2.94 | $1.19 | ↑ 147 % |
+
+• Data Center revenue ↑ 142 % on Hopper-driven demand for LLMs, recommender systems and generative AI; initial Blackwell shipments commenced Q4.  
+• Gaming revenue ↑ 9 % on GeForce RTX 40-series.  
+• Professional Visualization revenue ↑ 21 % as Ada-based workstations ramped.  
+• Automotive revenue ↑ 55 % on self-driving platform sales.  
+• Higher Data Center mix boosted gross margin; opex rose mainly from head-count, compensation, compute, and engineering spend.
+
+## Critical Accounting Estimates  
+
+– Inventories: inventory provisions negatively impacted FY 2025 gross margin by 2.3 % (vs. 2.7 % in FY 2024).  
+– Income Taxes: valuation allowances and uncertain-tax-position liabilities are assessed continually; effective rate may decline upon potential release of certain state valuation allowances.  
+– Revenue Recognition: adjustments for returns, rebates, MDFs, and multi-element arrangements require ongoing judgement.
+
+## Results of Operations  
+
+| Consolidated Income Statement (% of revenue) | FY 2025 | FY 2024 |
+| --- | --- | --- |
+| Gross margin | 75.0 % | 72.7 % |
+| R&D | 9.9 % | 14.2 % |
+| SG&A | 2.7 % | 4.4 % |
+| Operating income | 62.4 % | 54.1 % |
+| Net income | 55.8 % | 48.9 % |
+
+## Reportable Segments  
+
+### Revenue  
+
+| Segment ($ mm) | FY 2025 | FY 2024 | $Δ | %Δ |
+| --- | --- | --- | --- | --- |
+| Compute & Networking | 116,193 | 47,405 | +68,788 | +145 % |
+| Graphics | 14,304 | 13,517 | +787 | +6 % |
+| Total | **130,497** | **60,922** | **+69,575** | **+114 %** |
+
+### Operating Income  
+
+| Segment ($ mm) | FY 2025 | FY 2024 | $Δ | %Δ |
+| --- | --- | --- | --- | --- |
+| Compute & Networking | 82,875 | 32,016 | +50,859 | +159 % |
+| Graphics | 5,085 | 5,846 | −761 | −13 % |
+| All Other | (6,507) | (4,890) | −1,617 | +33 % |
+| Total | **81,453** | **32,972** | **+48,481** | **+147 %** |
+
+Compute & Networking growth stemmed from 162 % higher Data Center compute sales and 51 % higher networking revenue (inclusive of Spectrum-X Ethernet for AI). Graphics growth reflects strong RTX 40 sales; segment operating income fell because opex grew 44 %.
+
+## Concentration of Revenue  
+
+Direct customers accounting for ≥10 % of revenue:  
+• Customer A 12 %, Customer B 11 %, Customer C 11 % (FY 2025).  
+An indirect hyperscale customer purchasing largely through Customer B also exceeded 10 % of total revenue. Revenue outside the U.S. constituted 53 % of FY 2025 sales.
+
+## Gross Profit and Gross Margin  
+
+Higher Data Center mix lifted margin to 75.0 %. Inventory and excess-purchase provisions totaled $3.7 bn (release of $0.69 bn), unfavorably impacting margin by 2.3 %.
+
+## Operating Expenses  
+
+| ($ mm) | FY 2025 | FY 2024 | %Δ |
+| --- | --- | --- | --- |
+| R&D | 12,914 | 8,675 | +49 % |
+| SG&A | 3,491 | 2,654 | +32 % |
+| Total opex | **16,405** | **11,329** | **+45 %** |
+
+Drivers: 32 % rise in compensation and benefits (including stock-based pay), 100 % increase in compute & infrastructure, and 234 % jump in engineering development tied to new product introductions.
+
+## Other Income (Expense), Net  
+
+Other income increased to $2.57 bn (vs. $0.85 bn) on higher interest income ($1.79 bn) from larger cash balances and $1.03 bn of gains on equity investments and FX effects. Net interest expense on debt remained modest ($0.25 bn).
+
+## Income Taxes  
+
+Income-tax expense was $11.1 bn; effective tax rate rose to 13.3 % (from 12.0 %) due to higher pretax income and absence of prior-year audit benefit. Rates remain below the 21 % U.S. statutory level because of FDII, stock-comp benefits, R&D tax credits, and lower-tax foreign earnings.
+
+## Liquidity and Capital Resources  
+
+| Liquidity ($ bn) | 1/26/25 | 1/28/24 |
+| --- | --- | --- |
+| Cash & cash equivalents | 8.6 | 7.3 |
+| Marketable securities | 34.6 | 18.7 |
+| Total liquidity | **43.2** | **26.0** |
+
+Operating cash flow reached $64.1 bn (vs. $28.1 bn). Investing cash outflow rose to $20.4 bn on higher purchases of marketable securities and $3.4 bn of cap-ex (FY 2024 cap-ex: $1.1 bn). Financing outflow of $42.4 bn reflects $34.0 bn of share buybacks, higher RSU-tax payments, and $0.83 bn dividends.
+
+### Capital Return  
+In August 2024 the Board added $50 bn to the share-repurchase program (no expiration). FY 2025 repurchases: 310 m shares for $34.0 bn; authorization remaining at year-end: $38.7 bn. Dividends paid: $834 mm. Post-year-end (to Feb 21 2025) additional 29 m shares repurchased for $3.7 bn.
+
+### Outstanding Indebtedness  
+Fixed-rate senior notes: $8.5 bn face value (net carrying amount $8.46 bn). Maturities: $2.25 bn in 1–5 yrs, $2.75 bn in 5–10 yrs, $3.5 bn beyond 10 yrs. Commercial-paper program ($575 mm) unused.
+
+### Material Cash Requirements  
+FY 2025 cap-ex $3.4 bn; FY 2026 cap-ex expected to increase. Unrecognized tax benefits: $2.2 bn (incl. $0.25 bn interest/penalties). Purchase obligations, leases, and debt detailed in Notes 11–17.
+
+## Climate Change  
+No material financial impact from sustainability regulations or renewable-energy sourcing to date.
+
+## Market Risk Disclosures  
+
+### Investment and Interest Rate Risk  
+A ±50 bp parallel yield-curve shift would change investment-portfolio fair value by ~$238 mm. Fixed-rate notes generate no P&L exposure to rate moves.
+
+### Foreign Exchange Rate Risk  
+Because sales are mostly U.S.-dollar denominated and hedges are in place, direct FX exposure is minimal. A 10 % strengthening of the USD would lower AOCI related to hedges by $136 mm; a 10 % adverse move on balance-sheet hedges would reduce pretax income by ~$129 mm, offset by remeasurement gains on underlying positions.
+
+---
+
+**In summary**, NVIDIA’s FY 2025 featured an unprecedented 114 % revenue surge to $130.5 bn, driven by 142 % Data Center growth, lifting gross margin to 75 % and diluted EPS to $2.94. Cash from operations more than doubled, liquidity reached $43.2 bn, and the company returned $34.8 bn to shareholders via repurchases and dividends while maintaining $8.5 bn of long-term debt and entering FY 2026 with ample authorization for additional buybacks and elevated capital-expenditure plans. Export-control restrictions, rapid product cadences, and macro/geopolitical uncertainties remain key ongoing challenges.

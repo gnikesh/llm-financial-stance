@@ -1,0 +1,62 @@
+# Meta Platforms, Inc. – Q3 2023 Earnings Call Summary
+
+Meta delivered a strong third quarter marked by accelerating top-line growth, widening margins, robust cash generation and continued cost discipline, while outlining heavier AI-driven investment plans for 2024 and acknowledging a more volatile macro and regulatory backdrop.
+
+Revenue, Profitability & Cash  
+• GAAP revenue grew 23 % YoY (21 % CC) to **$34.15 bn**, the fastest pace since mid-2021.  
+• GAAP operating income rose 142 % to **$13.72 bn**, lifting the operating margin to **40 %**, the highest in two years.  
+• Net income more than doubled to **$11.58 bn**, with diluted EPS of **$4.39** (vs. $1.64 a year ago).  
+• Free cash flow was **$13.64 bn** (helped by Q3 tax deferral; taxes were paid in Q4).  
+• Cash & marketable securities stood at **$61.1 bn**; total debt was **$18.4 bn**.  
+• The company repurchased **$3.7 bn** of stock in the quarter.
+
+Segment Detail  
+Family of Apps (FoA)  
+• Revenue: **$33.93 bn** (+24 %).  
+• Advertising revenue: **$33.64 bn** (+24 %; +21 % CC).  
+  – Ad impressions +31 %; average price per ad –6 %.  
+  – Online commerce was the largest growth driver, followed by CPG and gaming.  
+  – Regionally, Rest of World and Europe grew fastest (+36 % and +35 %).  
+• Other FoA revenue (mostly WhatsApp Business messaging): **$293 mn** (+53 %).  
+• FoA expenses fell 9 % to **$16.4 bn**; operating income **$17.5 bn** (52 % margin).  
+• Community metrics:  
+  – Family DAUs 3.14 bn (+7 %); MAUs 3.96 bn (+7 %).  
+  – Facebook DAUs 2.09 bn (+5 %); Facebook MAUs 3.05 bn (+3 %).  
+• Engagement tailwinds: AI-driven feed recommendations added 7 % more time spent on Facebook and 6 % on Instagram YTD. Reels boosted Instagram time spent >40 % and is now “net-neutral” to total ad revenue.
+
+Reality Labs (RL)  
+• Revenue: **$210 mn** (–26 %) on lower Quest 2 sales.  
+• Expenses: **$4.0 bn** (flat YoY).  
+• Operating loss: **$3.74 bn**; Meta reiterated RL losses will “increase meaningfully” in 2024 as it scales AR/VR product development (Quest 3, Ray-Ban Meta smart glasses, Horizon software, avatars).
+
+Costs, CapEx & Headcount  
+• Total expenses declined 7 % YoY to **$20.40 bn**; includes **$3.5 bn** of 2023 restructuring charges.  
+• Q3 capex (cash & finance leases) was **$6.77 bn**, mainly servers, data-centers, networks; full-year 2023 capex guided to **$27–29 bn** (narrowed).  
+• 2024 capex expected at **$30–35 bn**, driven by AI and non-AI servers plus new modular data-center architecture.  
+• Headcount was **66,185** at quarter-end (–7 % QoQ, –24 % YoY); Meta still carries a “hiring backlog” and foresees “meaningfully higher” end-2024 headcount, though long-term HC growth will slow.
+
+Guidance & Outlook  
+Revenue  
+• Q4 2023 revenue outlook: **$36.5–40.0 bn** (implies 13 – 25 % YoY growth; ~2 % FX tailwind).  
+• Management flagged “greater volatility” after softer ad demand early Q4 coincident with the Israel–Hamas conflict.
+
+Expenses  
+• 2023 total expense guidance trimmed to **$87–89 bn** (prior $88–91 bn).  
+• 2024 total expenses preliminarily **$94–99 bn**:  
+  – Higher depreciation and opex from larger AI/compute footprint.  
+  – Payroll growth as 2023 hiring freeze spill-over and mix shifts toward higher-cost technical talent.  
+  – Larger Reality Labs losses.
+
+Tax  
+• Effective tax rate expected to remain near Q3’s 17 % for Q4-23 and full-year 2024, absent U.S. tax-law changes.
+
+Strategic & Product Highlights  
+• AI is “the biggest investment theme for 2024.” Meta AI assistant, AI Studio, Emu image model, Advantage+ ads tools, and business- and creator-oriented chatbots are rolling out.  
+• Reels has “graduated” to a core product; focus pivots to monetizing overall video.  
+• Business messaging: >600 mn daily people-to-business conversations; click-to-WhatsApp ads at multi-billion-dollar run-rate; AI-powered business agents in early alpha.  
+• Threads reached “just under 100 mn” MAUs three months post-launch; long-term goal is a positive “billion-person public conversation” app.  
+• Hardware: Quest 3 launched as first mainstream mixed-reality headset; Ray-Ban Meta smart glasses now include Meta AI and livestreaming.  
+• Regulatory: Meta moving to a consent-based ads model in the EU/EEA; continues to contest potential FTC order modifications; acknowledges “increasing legal and regulatory headwinds.”
+
+Balance of Profitability & Investment  
+CEO Mark Zuckerberg underscored 2023’s “Year of Efficiency” success—returning to 40 % margins—while reiterating that Meta must “earn the right” to invest heavily in long-term bets (AI, metaverse) by sustaining consolidated operating-income growth.

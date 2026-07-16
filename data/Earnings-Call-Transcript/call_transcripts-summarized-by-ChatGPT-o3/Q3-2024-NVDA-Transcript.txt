@@ -1,0 +1,62 @@
+# NVIDIA FY24 Q3 Earnings Call – Financial & Strategic Highlights
+
+NVIDIA delivered another record quarter, with management emphasising both exceptional near-term financial performance and a long pipeline of growth drivers in data-center AI, networking, software and accelerated computing.
+
+NVIDIA’s fiscal calendar: FY24 Q3 ended 29 Oct 2023; “Q4” guidance refers to the current quarter (Nov-Jan). All growth rates are year-on-year (YoY) unless noted.
+
+---
+
+In Q3 FY24 the company generated revenue of $18.12 billion, beating the $16 billion outlook by ~$2 billion. Revenue rose 34 % sequentially and 206 % YoY. Data Center once again dominated results:
+
+• Data Center revenue hit an all-time-high $14.51 billion, up 41 % sequentially and 279 % YoY.  
+ – Compute sales “quadrupled” YoY, while Networking revenue “nearly tripled.”  
+ – Consumer-internet and enterprise customers together represented roughly half of Data Center sales and grew faster than the segment as a whole; hyperscale/cloud service providers (CSPs) made up the other half.  
+ – China-plus-“other affected destinations” have recently accounted for ~20-25 % of Data Center revenue, but U.S. export-control rules imposed in October will sharply curtail Q4 shipments. NVIDIA expects the loss to be “more than offset” by strength in other geographies, yet visibility remains low; the firm is designing compliant alternative products, though management does not expect them to be material in Q4.
+
+• Networking has surpassed a $10 billion annualised run-rate. InfiniBand demand grew five-fold YoY; Spectrum-X (Ethernet solution for AI workloads) launches in Q1 FY25 with Dell, HPE and Lenovo as initial OEM partners.
+
+• Gaming revenue was $2.86 billion, up 15 % sequentially and 81 % YoY, driven by “back-to-school” and broad RTX adoption. Gaming remains ~2× pre-COVID levels despite a soft PC backdrop.
+
+• Professional Visualization (ProVis) revenue reached $416 million, +10 % sequential, +108 % YoY as RTX-based workstations ramped.
+
+• Automotive revenue was $261 million, +3 % sequential, +4 % YoY, led by DRIVE Orin ADAS/AI-cockpit programmes and the Foxconn ODM partnership.
+
+Margins and costs:
+
+• GAAP gross margin expanded to 74.0 % (vs 71.2 % prior quarter); non-GAAP gross margin was 75.0 %. Improvement stemmed from higher Data Center mix and a 1 ppt benefit from releasing prior Ampere inventory reserves.
+
+• GAAP operating expenses were $3.03 billion (+12 % QoQ); non-GAAP opex was $2.13 billion (+10 % QoQ), primarily higher compensation.
+
+• GAAP operating income totalled $10.42 billion versus $1.54 billion a year earlier; GAAP net income was $9.24 billion, or $3.71 diluted EPS (EPS figures were released earlier in the day, although not reiterated on the call).
+
+Balance-sheet / supply:
+
+• Purchase commitments continued to climb (exact figure not specified on call), reflecting “significantly” higher future capacity for H100, GH200 and networking products. Jensen Huang stated supply will increase every quarter through calendar-2024 and beyond; lead-times remain elevated but are improving.
+
+Q4 FY24 outlook (Nov 2023–Jan 2024):
+
+• Revenue of $20 billion ±2 %. Growth will be led by Data Center; Gaming is expected to decline sequentially following notebook seasonality.
+
+• GAAP gross margin 74.5 % ±50 bps; non-GAAP 75.5 % ±50 bps.
+
+• GAAP opex ~$3.17 billion; non-GAAP opex ~$2.20 billion.
+
+• Other income (GAAP & non-GAAP) about $200 million; tax rate 15 % ±1 %.
+
+Management commentary and strategic themes
+
+1.  Generative-AI TAM explosion: Huang called generative AI “the largest TAM expansion in several decades,” driving a transition from retrieval-based to generative computing and requiring a new class of “AI factories.” Inference is now “a major workload,” and NVIDIA claims H100 plus TensorRT-LLM halves LLM inference cost, while the newly announced H200 with HBM3e will double inference throughput again. Combined, inference cost per token falls 4× in a year.
+
+2.  Product cadence accelerating: The flagship HGX platform (H100 today, H200 in 1H CY24) will move from a two-year to one-year launch cycle, with broader segmentation (training-optimised, inference-optimised, CPU+GPU Grace Hopper variants). The GH200 Grace Hopper Superchip entered first-time revenue in Q3; the GH family is “ramping into a multi-billion-dollar product line” in CY24. Grace (CPU-only) systems target HPC and ARM-based CSPs.
+
+3.  Sovereign & regional AI clouds: Governments and national carriers (e.g., India’s Infosys/Reliance/Tata, France’s Scaleway) are building domestic compute capacity, representing a “multi-billion-dollar opportunity over the next few years.”
+
+4.  Enterprise AI adoption: SAP, ServiceNow, Snowflake, Adobe, Dropbox and others are embedding “copilots/assistants.” NVIDIA positions itself as an “AI foundry” via DGX Cloud (training/tuning) plus NVIDIA AI Enterprise runtime licences ($4,500 per GPU per year). Recurring software, support and services are on pace for a $1 billion annualised run-rate exiting FY24.
+
+5.  Export control response: The company is designing multiple China-compliant GPUs across the three U.S. regulatory tiers (no-notice, prior-notification, licence-required). Licence pursuit for high-performance parts is under way but success is uncertain.
+
+6.  Visibility & growth runway: Management “absolutely” expects Data Center revenue to grow through CY2025, citing rising supply, new products, expanding customer set (GPU-specialised CSPs, enterprise, sovereign clouds) and ongoing secular shift to accelerated computing.
+
+Upcoming investor events: UBS Tech (Nov 28), Wells Fargo TMT (Nov 29), Arete Virtual (Dec 7), J.P. Morgan Healthcare (Jan 8). Q4/FY24 results will be reported on 21 Feb 2024.
+
+In summary, NVIDIA’s Q3 FY24 showcased extraordinary top-line expansion (+206 % YoY), industry-leading gross margins and rapid uptake of its Hopper-based AI platforms. Despite impending export-control headwinds to China, the company guided to another sequential revenue record while reiterating multi-year growth ambitions driven by a richer product cadence, a $10 billion+ networking franchise, a nascent $1 billion software/services stream and global escalation of generative-AI infrastructure.

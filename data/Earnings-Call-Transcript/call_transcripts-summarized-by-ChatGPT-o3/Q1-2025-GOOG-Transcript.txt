@@ -1,0 +1,60 @@
+# Alphabet Inc. – Q1 2025 Earnings Call Summary
+
+Alphabet reported another quarter of broad-based, double-digit growth, expanded margins and continued heavy investment in AI infrastructure. Management emphasised that AI is already propelling user engagement (e.g., 1.5 billion monthly AI Overview users) while still monetising “at approximately the same rate” as traditional Search ads.
+
+### Consolidated results  
+- Revenue: **$90.2 billion**, up **12 % YoY** (14 % in constant currency).  
+- Operating income: **$31.0 billion**, up **20 % YoY**; operating margin **33.9 %** (+2.3 pp).  
+- Net income: **$34.5 billion**, up **46 % YoY**; **EPS $2.81** (+49 %).  
+- Free cash flow: **$19.0 billion** in Q1; **$74.9 billion** TTM.  
+- Cash & marketable securities: **$95 billion**; no material commentary on debt.  
+
+### Segment performance  
+
+| Segment (GAAP) | Revenue | YoY Δ | Operating Income | Margin |
+| --- | --- | --- | --- | --- |
+| Google Services | $77.3 bn | +10 % | $32.7 bn | 42.3 % (↑280 bp) |
+|  • Search & Other Ads | $50.7 bn | +10 % | — | — |
+|  • YouTube Ads | $8.9 bn | +10 % | — | — |
+|  • Network Ads | $7.3 bn | –2 % | — | — |
+|  • Subscriptions/Platforms/Devices | $10.4 bn | +19 % | — | — |
+| Google Cloud | $12.3 bn | +28 % | $2.2 bn | 17.8 % (↑840 bp) |
+| Other Bets | $0.45 bn | – | –$1.2 bn | — |
+
+Key cost items  
+- Traffic-acquisition costs (TAC): **$13.7 bn**, up 6 %; TAC rate fell on mix shift away from network ads.  
+- Other cost of revenue: **$22.6 bn**, up 9 % (led by YouTube content acquisition and higher depreciation).  
+- Depreciation up **31 % YoY**; management warns the growth rate will “accelerate throughout 2025” as 2024–25 CapEx enters service.  
+
+### Capital allocation  
+- **CapEx Q1 25:** **$17.2 bn** (servers > data centres); FY 2025 still forecast at **≈ $75 bn**, with quarterly phasing dependent on construction and component deliveries.  
+- **Shareholder returns Q1:** $15.1 bn buybacks + $2.4 bn dividends.  
+- Board authorised a new **$70 bn** repurchase and raised the quarterly dividend **5 %**.
+
+### Operating & strategic highlights  
+
+AI & product momentum  
+- Gemini 2.5 Pro and Flash deemed “state-of-the-art”; active users of AI Studio & Gemini API up **200 %** YTD.  
+- All 15 Google products with ≥500 million users now incorporate Gemini.  
+- **AI Overviews:** >1.5 bn monthly users; feature now in 15+ languages, 140 countries. Monetisation rate remains comparable to classic Search.  
+- Experimental **AI Mode** queries are 2× longer than traditional search, reflecting deeper engagement.  
+- **Subscriptions:** 270 m paid subscribers across Google; YouTube Music & Premium hit **125 m** (incl. trials).  
+- **YouTube:** TV is largest device in the U.S.; holds #1 share in streaming watch-time (Nielsen). Shorts engaged views +20 % YoY; reservation-based ad revenue more than doubled.  
+- **Lens/Circle to Search:** 5 bn more monthly visual searches since Oct.; Circle now on 250 m devices (+40 % QoQ).
+
+Cloud  
+- Revenue growth driven by GCP AI workloads; demand exceeds near-term capacity.  
+- Operating margin nearly doubled to 17.8 %.  
+- Agent Development Kit and Agent Designer unveiled; AI agent use-cases with KPMG, Verizon, Lowe’s, etc.  
+- Announced intent to acquire Wiz to strengthen multi-cloud cybersecurity.
+
+Waymo  
+- >250,000 paid rides per week (5× YoY); expanded to Silicon Valley, Austin (via Uber) and planning Atlanta (2024) & Washington, DC/Miami (2026). Working on airport pickups and freeway driving. Management remains “laser-focused” on perfecting the driver while building a partner ecosystem.
+
+### Outlook & guidance (management commentary)  
+- **Advertising:** Expect tougher comps in financial-services vertical (lapped strength) and modest headwind in APAC from changes to U.S. de-minimis import rules.  
+- **Cloud:** Growth may “vary quarter-to-quarter” because revenue is linked to timing of capacity additions; heavier deployments are weighted toward late-2025.  
+- **Expenses:** Headcount will grow only in “key investment areas”; ongoing efforts to moderate compensation, consolidate real estate, and apply internal AI tools to lift productivity.  
+- **CapEx & depreciation:** ~$75 bn 2025 CapEx unwavering; rising depreciation is the primary P&L headwind.  
+
+Management reiterated confidence that efficiency initiatives and revenue mix shifts can support margins even as infrastructure depreciation accelerates, while continued AI adoption and product innovation are expected to sustain top-line momentum across Search, YouTube and Cloud.

@@ -1,0 +1,124 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Condensed Narrative Summary
+
+(Prepared in accordance with the user’s instructions to preserve all critical financial metrics, targets and qualitative commentary, while maintaining the original document’s logical structure.)
+
+---
+
+## Executive Overview of Full-Year 2022 Results
+
+Meta generated total revenue of **$116.61 billion** in 2022, down 1 % from 2021, reflecting a **$5.96 billion** foreign-currency headwind.  Constant-currency revenue would have been **$122.57 billion** (up 4 %).  Advertising demand softened in a difficult macro-environment, new iOS privacy changes limited targeting, and the average price per ad fell **16 %**, partly offset by an **18 %** rise in ad impressions.
+
+Income from operations declined **38 %** to **$28.94 billion**, driven by a 20 % increase in headcount, higher infrastructure costs and **$4.61 billion** of restructuring charges recorded in 3Q–4Q22.  Net income was **$23.20 billion** and diluted EPS equalled **$8.59**.  The effective tax rate was **19.5 %** (versus 16.7 % in 2021).
+
+Cash, cash equivalents and marketable securities stood at **$40.74 billion** on 31 December 2022.  Meta issued **$10 billion** of fixed-rate senior notes in August, raising long-term debt to **$9.92 billion**.  Capital expenditures including finance-lease principal payments reached **$32.04 billion**; 2023 cap-ex guidance is **$30–33 billion**.
+
+---
+
+## Consolidated and Segment Results
+
+| 2022 (in $ millions) | Family of Apps | Reality Labs | Total |
+|----------------------|---------------:|-------------:|------:|
+| Revenue              | 114,450 (-1 %) | 2,159 (-5 %) | 116,609 (-1 %) |
+| Costs & expenses     | 71,789 (+22 %) | 15,876 (+27 %) | 87,665 (+23 %) |
+| Income/(loss) from operations | 42,661 (-25 %) | (13,717) (-35 %) | 28,944 (-38 %) |
+| Operating margin     | 37 %           | (635 %)      | 25 % |
+
+Reality Labs’ loss widened to **$13.72 billion** as Meta continued heavy investment in augmented/virtual-reality hardware, software and content.  Family of Apps remained strongly profitable, but its operating margin compressed to **37 %** from 49 %.
+
+---
+
+## Restructuring Activities
+
+In late 2022 Meta launched a broad efficiency programme:  subleasing or abandoning offices, cancelling data-center projects and laying off c. 11,000 employees.  The **$4.61 billion** restructuring charge comprised:
+
+| (in $ millions) | Facilities | Severance & personnel | Data-center assets | Total |
+|-----------------|-----------:|----------------------:|-------------------:|------:|
+| Cost of revenue | 154 | – | 1,341 | 1,495 |
+| R&D             | 1,311 | 408 | – | 1,719 |
+| Marketing & sales| 404 | 234 | – |   638 |
+| G&A             | 426 | 333 | – |   759 |
+| **Total**       | **2,295** | **975** | **1,341** | **4,611** |
+
+The charges reduced the 2022 consolidated operating margin by four percentage points and diluted EPS by **$1.34**.  Management expects additional restructuring costs in 2023.
+
+---
+
+## Family of Apps and Facebook User Metrics
+
+•  Family daily active people (DAP) averaged **2.96 billion** in December 2022 (+5 % Y/Y);  family monthly active people (MAP) reached **3.74 billion** (+4 %).  
+•  Facebook DAUs averaged **2.00 billion** (+4 %);  MAUs rose to **2.96 billion** (+2 %).  
+•  Worldwide Family average revenue per person (ARPP) was **$31.79** in 2022 (-6 %).  
+•  Facebook ARPU was **$39.63** (-3 %);  U.S./Canada ARPU remained >11× Asia-Pacific ARPU.  
+•  Ad impressions grew 18 % while average price fell 16 %.
+
+---
+
+## Developments in Advertising
+
+Substantially all revenue still derives from ads on Facebook and Instagram.  Regulatory changes (GDPR, CPRA, Digital Markets Act), platform privacy moves (Apple iOS ATT, anticipated Google changes) and macro weakness have constrained targeting capabilities and advertiser budgets.  Meta is therefore investing in privacy-enhancing technologies, first-party data tools, AI-driven delivery and newer formats such as Reels ads and business messaging.  Management warns that these headwinds will persist “for the foreseeable future.”
+
+---
+
+## Other Business, Macroeconomic and Competitive Conditions
+
+Inflation, rising rates, war in Ukraine (leading to a Russian ban on Facebook/Instagram) and post-pandemic shifts back to offline activity all weighed on 2022 ad demand.  Competition (e.g., TikTok) is prompting investment in AI-powered content discovery and Reels, which currently monetize below Feed/Stories.  
+
+---
+
+## Investment Philosophy
+
+Spending priorities remain:  
+(i) privacy, safety, security;  
+(ii) new user experiences;  
+(iii) business tools for advertisers;  
+(iv) transparent communication.  
+
+Meta continues large capital outlays on data centers, infrastructure and headcount, with **82 %** of 2022 costs in FoA and **18 %** in RL.  RL is expected to “operate at a loss for the foreseeable future,” funded by FoA cash flows.
+
+---
+
+## Selected Components of Results of Operations
+
+### Revenue Drivers  
+Advertising revenue fell **1 %** to **$113.64 billion** because a lower average price per ad outweighed impression growth.  Reality Labs revenue contracted **5 %** to **$2.16 billion** as Quest volumes declined.
+
+### Expense Drivers  
+Cost of revenue climbed **11 %** to **$25.25 billion**, reflecting data-center and infrastructure spend plus $1.34 billion of data-center abandonment charges, partly offset by server-life extensions that cut depreciation by **$860 million**.
+
+Research & development expenses surged **43 %** to **$35.34 billion** on headcount growth and **$1.31 billion** lease impairments.  Marketing & sales rose **9 %** to **$15.26 billion**;  G&A rose **20 %** to **$11.82 billion**, both including office-space impairments.
+
+### Interest, Other Income/Expense  
+A **$125 million** net expense (vs. $531 million income in 2021) reflects higher unrealized equity losses and interest expense on the new notes.
+
+### Taxes  
+Provision for income taxes was **$5.62 billion**;  the effective rate increased to **19.5 %** due to lower excess-tax benefits on share-based compensation and new U.S. foreign-tax-credit regulations.  Mandatory R&D capitalization under the 2017 Tax Act raised 2022 cash taxes but reduced the effective rate; deferral of that rule would cut 2023 cash taxes by “several billion dollars” but lift the rate.
+
+---
+
+## Liquidity and Capital Resources
+
+Operating cash flow was **$50.48 billion** (vs. $57.68 billion in 2021).  Free cash flow, defined as operating cash flow minus cap-ex and finance-lease principal, fell to **$18.44 billion** (from $38.44 billion).  Meta repurchased **161 million** Class A shares for **$27.93 billion** in 2022;  $10.87 billion remained authorised at year-end and a further **$40 billion** was added in January 2023.
+
+Long-term debt consists solely of the **$10 billion** fixed-rate notes (maturing 2027-2062);  scheduled interest obligations total **$8.10 billion** over the life of the notes.
+
+Management expects existing cash, investments and cash flow to cover operating needs, cap-ex and share repurchases “for at least the next twelve months and thereafter for the foreseeable future.”
+
+---
+
+## Market-Risk Disclosures
+
+•  A hypothetical 100-bp parallel rate rise would lower the fair value of Meta’s available-for-sale debt securities and cash equivalents by **$558 million**.  
+•  Net foreign-exchange transaction losses were **$81 million** in 2022.  
+•  Non-marketable equity securities carried at cost minus impairments totalled **$6.20 billion**; valuations remain inherently uncertain.
+
+---
+
+## Critical Accounting Policies and Estimates (Highlights)
+
+Management emphasises judgmental areas: gross vs. net revenue recognition, valuation of non-marketable equity securities, income-tax contingencies, loss contingencies, and useful-life estimates for long-lived assets.  In 2022 Meta extended useful lives for servers and network assets, trimming depreciation by **$860 million** and boosting net income by **$693 million** ($0.26 per share).
+
+---
+
+## Outlook
+
+Management foresees continued expense growth in 2023, further restructuring charges and sustained losses at Reality Labs.  Capital expenditures are guided to **$30–33 billion**.  The company intends to fund those needs while maintaining an active share-repurchase programme and supporting long-term metaverse investments through cash generated by Family of Apps.

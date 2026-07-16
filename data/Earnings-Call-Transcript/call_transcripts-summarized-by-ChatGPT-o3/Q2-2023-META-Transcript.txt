@@ -1,0 +1,91 @@
+# Meta Platforms Q2 2023 Earnings Call – Financial and Strategic Summary
+
+Meta delivered a significantly improved second-quarter while continuing to spend heavily on AI infrastructure and Reality Labs (RL). Management reiterated that near-term capital priorities are “AI in the short run, the Metaverse in the long run,” and raised full-year revenue guidance, but also warned that RL operating losses will “increase meaningfully” again in 2024.
+
+## Consolidated Q2 2023 results  
+Meta generated revenue of **$32.0 billion**, up **11 % YoY** (up 12 % in constant currency). Total expenses increased 10 % to **$22.6 billion**, producing:
+
+• Operating income **$9.4 billion** and operating margin **29 %**.  
+• Net income **$7.8 billion**; diluted EPS **$2.98**.  
+• Effective tax rate **16 %** (helped by a higher share price and the associated tax deduction).  
+• Free cash flow **$11 billion**, boosted by income-tax payments deferred to Q4.  
+• CapEx (cash plus finance-lease principal) **$6.4 billion** in the quarter; **$27-30 billion** expected for full-year 2023 (down from prior $30-33 billion).  
+• Cash and marketable securities **$53.4 billion** and net cash still positive despite a second bond issuance in May; **$793 million** of shares repurchased in Q2.  
+• Headcount **71,400** (-7 % QoQ); Q3 headcount will exclude almost all of the ~10,000 employees affected by 2023 layoffs.
+
+## Segment performance  
+
+Family of Apps (FoA)  
+– Revenue **$31.7 billion** (+12 %).  
+– Advertising revenue **$31.5 billion** (+12 %, +13 % cc).  
+ • Impressions +34 %; average price per ad –16 %.  
+ • Online commerce was the largest vertical contributor, followed by entertainment/media and CPG.  
+ • Regional ad-revenue growth: Rest-of-World +16 %, Europe +14 %, North America +11 %, APAC +10 %.  
+– Other FoA revenue **$225 million** (+3 %) driven by WhatsApp business messaging.  
+– FoA expenses **$18.6 billion** (+8 %); FoA operating income **$13.1 billion**, margin **41 %**.  
+
+Key FoA usage metrics  
+– Monthly active people across all apps **3.88 billion**; daily **3.07 billion**.  
+– Facebook MAU passed **3 billion** (3.03 billion, +3 % YoY); DAU **2.06 billion** (+5 %), DAU/MAU 68 %.  
+– Reels plays exceed **200 billion per day**; Reels revenue run-rate now **>$10 billion** (vs. $3 billion last fall).  
+– AI-based content recommendations from unfollowed accounts have added **7 %** to overall time spent on Facebook.  
+– More than **¾ of advertisers** now use Reels ads.  
+– WhatsApp Business app has **200 million** monthly users; daily click-to-WhatsApp ads revenue is growing **>80 % YoY**; the number of businesses paying for messaging has doubled.  
+
+Reality Labs (RL)  
+– Revenue **$276 million** (-39 % YoY) on lower Quest 2 sales.  
+– Expenses **$4.0 billion** (+23 %).  
+– Operating loss **$3.7 billion**; company guided that RL losses will **increase YoY in 2023** and “increase meaningfully” again in 2024.  
+– Quest 3 mixed-reality headset ships this fall: 40 % thinner than Quest 2, double graphics performance; Quest 3 expected to be the first “mainstream” MR device.
+
+## 2023 and preliminary 2024 outlook  
+
+Revenue  
+– Q3 2023 revenue guided to **$32.0-34.5 billion**; guidance embeds a **3 % FX tail-wind**.  
+
+Expenses  
+– 2023 total expense guidance **$88-91 billion** (raised by $2 billion due to Q2 legal accruals). Includes ~**$4 billion** of restructuring charges (severance and facilities).  
+– 2024 expenses will be driven by:  
+ 1. Higher infrastructure depreciation from recent CapEx,  
+ 2. Higher payroll as the mix shifts toward higher-cost technical talent,  
+ 3. Much larger RL operating losses tied to AR/VR and neural-interface R&D.  
+
+Capital Expenditures  
+– 2023 CapEx **$27-30 billion** (cuts reflect non-AI server savings and project/equipment delays that shift spend into 2024).  
+– CapEx expected to **grow in 2024** as Meta ramps both data-center construction (new architecture announced in late 2022) and servers “particularly in support of our AI work.”  
+
+Tax and debt  
+– Tax rate expected to remain similar to Q2 (≈16 %) absent U.S. tax-law changes.  
+– Management intends to “modestly evolve” capital structure, adding debt at a measured pace while keeping a neutral-to-positive net cash position.
+
+## Strategic highlights and qualitative commentary  
+
+Year of Efficiency & Headcount  
+– Major lay-off rounds are complete; remainder of 2023 will focus on removing internal bottlenecks, rolling out AI-powered productivity tools, and keeping the organization “as lean as possible.”  
+– New hiring in 2024 will be limited and focused on high-priority technical roles; some 2023 back-fills will spill into next year.
+
+Artificial Intelligence  
+– Billions spent on AI infrastructure are “clearly paying off.” Meta Advantage/Advantage+ AI ads suite is now used by “almost all” advertisers; Meta Lattice new model architecture improves performance prediction; AI Sandbox pilots generative-ad tools (text variation, background generation, out-cropping).  
+– Open-sourced **Llama 2** with Microsoft for both research and commercial use. Large-language-model community improvements expected to enhance model safety, efficiency, and Meta’s own products.  
+– Meta will unveil consumer-facing generative-AI products and “agents” at the **Connect** conference (27 Sept); CEO projects that every business could eventually operate an AI agent for messaging.  
+– Uncertainty around AI product adoption speed makes 2024 AI CapEx requirements difficult to forecast; Meta wants sufficient capacity should growth accelerate quickly.
+
+Metaverse  
+– Meta remains “fully committed” to its Metaverse vision; sees AI and Metaverse work as “overlapping and complementary.”  
+– Roblox open beta launched on Quest; Horizon team prioritising retention; avatars are improving and will bridge mobile and VR environments.
+
+Threads  
+– Launched in early July by a “relatively small team”; achieved “unprecedented” early adoption and stronger-than-expected daily retention. Focus is now on core features and stability; growth will be pursued once retention is proven, monetisation only after scale is achieved. Management views Threads as an example of the efficiencies achieved in 2023.
+
+Regulation  
+– EU–US Data Privacy Framework adequacy decision allows continued data transfers, but Meta still faces “increasing legal and regulatory headwinds” in both the EU and U.S. that could materially affect results.
+
+## Takeaways for investors  
+
+1. Core ad business is re-accelerating: constant-currency growth improved to 13 % in Q2 and guidance points to ~20 % YoY in Q3 on easier comps, an FX tail-wind, continuing Reels monetisation progress and stronger ad-performance from AI targeting.  
+2. Meta is holding operating margins near 30 % in the first full year of its “efficiency” drive while still funding AI and RL at scale.  
+3. Capital intensity is being managed, but 2024 CapEx and RL losses will climb as AI clusters, data-centers and Quest 3/AR road-maps ramp; management nonetheless pledges to “keep the company as lean as possible.”  
+4. Debt issuance will continue “at a measured pace” to lower cost-of-capital while maintaining a neutral net cash position; no change to the absence of a dividend.  
+5. AI and business messaging (particularly click-to-WhatsApp) are emerging as incremental growth vectors, while Threads represents a new optionality lever built on Meta’s existing social graph and infrastructure.
+
+Management insists the long-term Metaverse bet is essential despite cumulative RL losses now exceeding **$40 billion**; investors will need to weigh accelerating near-term cash-flow growth against that multi-year investment drag.

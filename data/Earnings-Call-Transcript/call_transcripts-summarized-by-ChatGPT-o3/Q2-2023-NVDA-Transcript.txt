@@ -1,0 +1,40 @@
+# NVIDIA Q2 FY 2023 Earnings Call – Financial Summary
+
+NVIDIA reported a difficult second quarter, with results well below its May outlook, primarily because of a sharp, unexpected slowdown in consumer-facing businesses and lingering supply-chain bottlenecks. Management emphasized that the long-term demand drivers for Gaming, Data Center, Automotive and Omniverse remain intact, but near-term visibility is clouded and the company is deliberately under-shipping in Gaming and Pro Visualization to let channel inventories normalize ahead of next-generation product launches.
+
+NVIDIA’s key Q2 financial metrics are as follows:
+• Total revenue was $6.70 billion, down 19 % sequentially and up 3 % year over year, versus the company’s prior outlook of $8.10 billion.  
+• GAAP gross margin declined to 43.5 % (non-GAAP 45.9 %), including $1.22 billion of inventory and related reserves and a $122 million warranty reserve.  
+• GAAP operating expenses were $2.37 billion (up 36 % YoY, down 32 % QoQ because Q1 contained the $1.35 billion ARM termination charge). Non-GAAP opex rose 38 % YoY and 9 % QoQ to $1.75 billion, driven by added head-count, wage inflation and continued R&D.  
+• GAAP EPS was not disclosed on the call; full reconciliation appears in the company’s filings.  
+• NVIDIA returned $5.5 billion to shareholders (repurchases + dividends) in 1H FY 2023 and still has nearly $12 billion authorized through December 2023.  
+• The balance sheet carries no material long-term debt; liquidity was not raised as a concern.
+
+Segment results underscore the divergent macro environment:
+Gaming: Revenue fell to $2.04 billion, down 44 % QoQ and 33 % YoY, hit by weaker European demand (war in Ukraine), COVID lockdowns in China, collapsing consumer sentiment, lower ASPs, excess channel inventories and fading crypto-mining activity. Estimated combined sell-through for Q2+Q3 is roughly $5 billion; NVIDIA is deliberately shipping “well below” that level over the next two quarters, discounting current Ampere GPUs and “price-positioning” the channel for the imminent next-generation architecture. Long-term fundamentals remain robust: GeForce sell-through is more than 70 % above pre-pandemic levels, concurrent Steam users are up a similar amount, and GeForce NOW membership exceeds 20 million.
+
+Professional Visualization: Revenue was $496 million, down 20 % QoQ and 4 % YoY as enterprise work-station demand slowed and OEMs cut inventories. Management expects similar weakness in Q3. Nonetheless, AI and Omniverse-related workloads have meaningfully broadened the addressable market since 2020, and hybrid work is expected to keep structural demand healthy longer term.
+
+Data Center: Revenue reached a record $3.81 billion, up 1 % QoQ and 61 % YoY but “somewhat short” of internal targets because of supply-chain kitting constraints. U.S. hyperscale and cloud sales rose sequentially, almost doubling YoY, but were offset by a pronounced slowdown at Chinese hyperscalers. Vertical-industry revenue grew sequentially and YoY. Networking (Ethernet adapters, Spectrum-4 switches, ConnectX-6/7) led segment growth. NVIDIA highlighted strong new workloads—large-language-model (LLM) training/inference, deep-learning recommendation, and autonomous-vehicle fleet processing—and said GPU rental demand in the cloud “far exceeds current supply.” Hopper-architecture H100 production has begun; substantial shipments should start in Q4, alongside the Grace CPU and Grace-Hopper Superchip launches.
+
+Automotive: Revenue jumped to $220 million, up 59 % QoQ and 45 % YoY, marking an “inflection point” as Orin-based ADAS/AV programs ramp at NIO, Li Auto, JIDU, Human Horizons and Pony.ai. The $11 billion design-win pipeline supports continued sequential growth, and management reiterated its expectation that Automotive will become NVIDIA’s next $1-billion-plus annual business.
+
+Inventory write-downs and margins: The $1.22 billion inventory charge primarily covers prior-generation Gaming and Data Center components procured during the supply crunch of 2021–2022 whose demand outlook has since diminished. Management said the write-down reflects both immediate Q2/Q3 needs and a longer-term recalibration; no additional write-offs are anticipated in Q3 guidance. Hopper-related inventory was not impaired, and expectations for the new generation have increased because Transformers and LLMs are scaling faster than originally forecast.
+
+Q3 FY 2023 outlook (ending October 2022) reflects continued inventory digestion and phased launches:
+• Revenue: $5.90 billion ±2 %.  
+• GAAP gross margin: 62.4 % ±50 bp; non-GAAP: 65.0 % ±50 bp (no benefit assumed from selling written-down inventory).  
+• GAAP opex: ~$2.59 billion; non-GAAP opex: ~$1.82 billion.  
+• Other expense: ~$10 million.  
+• Tax rate: ~9.5 % ±1 %.  
+• Capex: $550–600 million.  
+Gaming and ProViz are expected to decline further QoQ, roughly a 3:1 split in absolute dollars, while Data Center should rise modestly (similar to the Q1-to-Q2 dollar increase) and Automotive is projected to grow sequentially. Management reiterated that it is selling below market demand in Gaming to restore healthy channel inventories by year-end.
+
+Strategic highlights and qualitative comments:
+• NVIDIA’s GPUs now power 72 % of Top500 supercomputers and 22 of the 30 most energy-efficient Green500 systems.  
+• Software advances have delivered 6× performance gains on A100 platforms in two years; the updated NeMo Megatron framework cuts LLM training time by up to 30 %.  
+• Omniverse continues to gain traction, bolstered by a new partnership with Siemens Xcelerator and the launch of Avatar Cloud Engine and 11 additional USD connectors (total: 112).  
+• Jensen Huang repeated that GeForce ASPs should trend toward premium game-console price points (~$500) as the platform’s utility broadens to content creation and cloud gaming.  
+• The company has slowed the pace of opex expansion but still expects full-year non-GAAP expenses to grow “over 30 %,” balancing near-term profitability with long-term innovation.
+
+Management concluded by acknowledging the near-term turbulence but stressed confidence that new products—Ada-generation GeForce GPUs, Hopper/Grace for Data Center, and Orin/DRIVE for Automotive—plus structural AI and metaverse adoption will restore growth as inventory normalizes, supply constraints ease and macro headwinds subside.

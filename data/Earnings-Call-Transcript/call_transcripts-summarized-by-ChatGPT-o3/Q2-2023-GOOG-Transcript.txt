@@ -1,0 +1,33 @@
+# Alphabet Inc. – Q2 2023 Earnings Call Summary  
+
+Alphabet reported a stronger-than-expected second quarter, driven by accelerating Search advertising, stabilising YouTube ads and continued double-digit growth at Google Cloud, while management emphasised rapid progress in generative AI, disciplined cost control and higher forthcoming capital spending.
+
+Alphabet-level performance  
+Alphabet generated revenue of $74.6 billion, a 7 % year-over-year increase (9 % in constant currency). Operating income grew 12 % to $21.8 billion, lifting the operating margin to 29 %. Net income reached $18.4 billion and quarterly free cash flow was $21.8 billion; free cash flow for the trailing twelve months totalled $71 billion. The company ended June with $118 billion in cash and marketable securities. Total cost of revenues rose 6 % (to $31.9 billion) and operating expenses rose 4 % (to $20.9 billion), reflecting ongoing expense discipline after Q1 workforce reductions and real-estate rationalisation.  
+
+Segment results  
+• Google Services revenue grew 5 % to $66.3 billion. Search & Other advertising advanced 5 % to $42.6 billion, led by the retail vertical. YouTube advertising rose 4 % to $7.7 billion as brand spend out-paced direct response and signs of broader advertiser stabilisation continued. Network advertising declined 5 % to $7.9 billion. “Google Other” revenue climbed 24 % to $8.1 billion, fuelled by YouTube subscriptions and the Pixel 7a launch. Traffic-acquisition-costs were $12.5 billion (+3 %). Services operating income was $23.5 billion (+8 %) for a 35 % margin.  
+
+• Google Cloud revenue increased 28 % to $8.0 billion. While consumption growth is moderating as customers optimise spend, GCP still outgrew the overall segment and Workspace continued to benefit from seat additions and higher ARPU. Cloud delivered its second consecutive quarterly profit: operating income was $395 million (5 % margin). Alphabet highlighted that more than 70 % of generative-AI “unicorns” are Google Cloud customers, over 80 large-language models are already available on Vertex/Conversational AI, and new A3 supercomputers with NVIDIA H100 GPUs offer ~2× better price-performance.  
+
+• Other Bets produced $285 million in revenue and a reduced operating loss of $813 million, helped by lower valuation-based compensation charges.  
+
+Capital allocation, cost base and outlook  
+Capital expenditures remain dominated by servers and AI-focused compute. Q2 capex was lighter than expected because of slower office build-outs and data-centre construction delays, but management reiterated that “elevated” investment will ramp through 2H 23 and “continue to grow in 2024”, primarily to fund GPUs, proprietary TPUs and additional data-centre capacity for AI workloads. Alphabet is “durably re-engineering” its cost base: headcount growth has slowed, real-estate is being optimised, and existing staff are being redeployed into high-priority areas such as Bard, Search Generative Experience (SGE) and Cloud AI.  
+
+Corporate leadership  
+CFO Ruth Porat will assume the newly created role of President and Chief Investment Officer, overseeing 2024 planning and long-range investment strategy, while retaining CFO duties until a successor is named.  
+
+Product, AI and advertising highlights  
+• Artificial Intelligence: Alphabet framed 2023 as a “next major evolution” in Search. The Search Generative Experience—built on PaLM 2 and to be enhanced by the forthcoming multimodal Gemini model—reduces snapshot latency by half and is now testing ads inside AI overviews with encouraging early results. Bard has expanded to more than 40 languages and most countries, now integrates Google Lens and can read answers aloud; Duet AI features are in preview with 750 000 Workspace users.  
+
+• Google Ads: Nearly 80 % of advertisers already use at least one AI-powered Search ad product. Generative AI is “supercharging” ads: Google Ads now offers a conversational campaign-setup flow; Performance Max includes revamped asset-creation, asset and search-term insights and new customer lifecycle goals; automatically-created assets will soon use gen-AI to tailor creative to queries; new Demand Gen and Video View campaigns (including Shorts inventory) enhance mid-funnel reach.  
+
+• Retail: Profitability-focused retailers adopted AI-driven omnibidding and P-Max; Ace Hardware, for example, saw 87 % YoY omni-revenue growth around Memorial Day. Google also launched gen-AI virtual try-on tools, free Product Studio image generation and “Merchant Center Next”, whose user count doubled in two years.  
+
+• YouTube: Over the 12 months to March YouTube generated “nearly $40 billion” in revenue. Shorts engagement keeps accelerating—now topping 2 billion logged-in monthly users versus 1.5 billion a year ago—and watch-time on connected TVs remains the fastest-growing screen; 150 million US viewers watch YouTube on CTV. New 30-second unskippable ads for YouTube Select and pause-screen ad experiments aim to capture TV budgets; measurement partners continue to show YouTube delivers higher ROI than linear TV and other online video. Subscription momentum continues: YouTube Music & Premium subscribers already exceed 80 million, and NFL Sunday Ticket sales on YouTube TV commenced in April.  
+
+• Hardware and Android: Pixel device sales stayed strong; new Pixel Fold, Pixel Tablet and Pixel 7a were well received. Android 14 will embed generative-AI personalisation.  
+
+Financial guidance themes  
+Management expects Search to remain the largest growth contributor, YouTube ads to benefit from quality-consumption initiatives in Shorts and living-room, and YouTube subscription pricing increases to support “Google Other” revenue. Q3 hardware revenue will face a tough compare because Pixel 7a shipped in Q2 versus Pixel 6a in Q3 22. Cloud demand for AI infrastructure is high but consumption optimisation headwinds persist; the company will “invest aggressively while remaining focused on profitable growth.” Alphabet reiterated its commitment to keep revenue growth ahead of expense growth and to use cost savings to fund AI-driven opportunities.

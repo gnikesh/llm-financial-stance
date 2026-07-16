@@ -1,0 +1,83 @@
+# Meta Platforms, Inc. – Q4 and Full-Year 2025 Earnings Call Summary (28 Jan 2026)
+
+Meta ended 2025 with record engagement—over 3.5 billion people use at least one Meta app daily—and turned in its strongest holiday quarter to date. Management framed 2026 as an “AI acceleration year” that will require heavy capital outlays but is expected to keep absolute operating income above 2025 levels. The company remains compute-constrained, yet confident it can finance the coming capex wave with internally generated cash and selective debt.
+
+---
+
+### Consolidated Financial Performance (GAAP, unless noted)
+
+• Q4 revenue rose 24 % YoY to **$59.9 billion** (+23 % cc), driven almost entirely by the Family of Apps (FoA).  
+• Q4 expenses jumped 40 % YoY to **$35.1 billion** on higher technical headcount, legal charges, and infrastructure spend.  
+• Operating income reached **$24.7 billion** (41 % margin).  
+• Net income was **$22.8 billion**, equating to **EPS of $8.88**.  
+• Free cash flow was **$14.1 billion**; year-end cash and marketable securities totaled **$81.6 billion** against **$58.7 billion of debt**.  
+• Capex (incl. finance-lease principal) ran **$22.1 billion** in Q4, centered on data centers, servers and networking gear.  
+• Headcount ended 2025 at ~78,800, up 6 % YoY as Meta hired aggressively in AI, infrastructure, monetization and compliance.
+
+---
+
+### Segment Detail
+
+Family of Apps (FoA)  
+• Q4 FoA revenue grew 25 % YoY to **$58.9 billion**.  
+ – Advertising revenue was **$58.1 billion** (+24 %; +23 % cc).  
+  • Ad impressions +18 %; price per ad +6 %.  
+ – “Other” FoA revenue (WhatsApp paid messaging, Meta Verified) surged 54 % to **$0.8 billion**.  
+
+Reality Labs (RL)  
+• Q4 revenue fell 12 % YoY to **$955 million**, reflecting tough Quest 3S comps and channel fill that occurred in Q3.  
+• Management reiterated RL operating losses in 2026 should be “similar to 2025” and likely represent the loss peak; spend will skew toward glasses and wearables while Horizon is pushed to mobile and VR is steered toward profitability over the “coming years.”
+
+---
+
+### Key Operating & Product Metrics
+
+• Daily active users: >3.5 bn across the family; >2 bn each on Facebook and WhatsApp; Instagram just under 2 bn.  
+• Instagram Reels U.S. watch-time grew >30 % YoY; ~10 % of all Reels views now come from the new Edits app.  
+• Facebook video time grew double-digits YoY in the U.S.; Q4 ranking tweaks lifted organic feed/video views 7 %.  
+• Threads time spent rose 20 % QoQ after recommendation upgrades; ads will expand to the UK, EU and Brazil in Q1 26.  
+• Paid messaging on WhatsApp exceeded a **$2 billion annual run-rate**; Business AIs now handle >1 million weekly chats in early markets.  
+• Video-generation ad-creative tools reached a **$10 billion revenue run-rate**, growing almost triple the pace of overall ads.  
+• AI translated/dubbed video (9 languages) is viewed by “hundreds of millions” daily, driving incremental Instagram time.
+
+---
+
+### AI, Compute & Infrastructure
+
+• Meta rebuilt its AI stack in 2025 and is preparing to ship new frontier models via Meta Superintelligence Labs (MSL) in 2026; first releases will “show the rapid trajectory we’re on.”  
+• Internal GEM, Lattice, Andromeda and new sequence-learning architectures collectively drove:  
+ – +3.5 % ad clicks on Facebook and +1 % conversions on Instagram in Q4.  
+ – +3 % Instagram conversions from a new run-time model.  
+ – +12 % ad-quality lift from model unification on Facebook.  
+• Even after doubling GPU capacity for GEM, Meta remains “capacity-constrained” and will lean on cloud in early 2026 until new company-owned sites come online.  
+• Long-term “Meta Compute” initiative aims to lower cost per gigawatt via in-house silicon (MTIA), flexible data-center designs, strategic partnerships, and novel ownership structures.
+
+---
+
+### Capital Allocation & Balance Sheet
+
+• 2026 capex guidance: **$115–135 billion** (vs. $92 bn spent in 2025), primarily to fund AI training and inference. Meta expects to finance this through robust operating cash flow and “prudent amounts” of external financing; management is comfortable eventually holding a net-debt position.  
+• 2026 total expense guidance: **$162–169 billion**, driven chiefly by infrastructure costs (cloud, depreciation, ops) and technical hiring.  
+• Despite the step-up, Meta projects **2026 operating income will exceed 2025’s absolute dollars**; full-year tax rate is forecast at 13–16 %.  
+• No share repurchases occurred in Q4. Buybacks remain on hold while AI investment carries top priority, but management said they will stay “opportunistic.”
+
+---
+
+### Near-Term Outlook & Risks
+
+• Q1 2026 revenue guided to **$53.5–56.5 billion**, implying continued double-digit growth and a ~4 ppt foreign-exchange tailwind.  
+• Management expects constant-currency growth to decelerate later in 2026 as FX tailwinds fade, tougher comps emerge, and an EU “Less-Personalized Ads” regime rolls out.  
+• Legal and regulatory headlines (youth safety, EU privacy, antitrust) remain potential sources of “material loss.”  
+• Compute constraints persist through most of 2026, but Meta believes model efficiency gains and incremental cloud capacity will prevent material business impact.
+
+---
+
+### Strategic Priorities for 2026
+
+1. Deliver “personal super-intelligence” agents that leverage Meta’s unique social context.  
+2. Fuse large language models with existing recommendation engines to raise engagement and ad performance.  
+3. Build immersive, interactive content formats and expand Horizon to mobile; continue ramping AI-enabled smart glasses after 2025 unit sales tripled.  
+4. Scale business messaging, agentic shopping tools, and new ad products (Advantage+, incremental attribution, creative generation) to diversify and deepen monetization.  
+5. Flatten org structure and deploy AI-native tooling internally; AI coding agents have already boosted output per engineer 30 % (80 % for power users).
+
+Meta enters 2026 with solid top-line momentum, unprecedented capex plans, and a strategy anchored on proprietary frontier AI and the infrastructure required to run it at planetary scale.

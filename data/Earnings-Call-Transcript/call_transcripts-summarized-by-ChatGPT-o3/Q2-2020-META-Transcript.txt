@@ -1,0 +1,50 @@
+# Facebook, Inc. Q2 2020 Earnings Call Summary  
+
+Facebook (ticker: FB) reported a better-than-expected second quarter of 2020, helped by surging user engagement during COVID-19 and a rebound in advertising demand from May onward. Management emphasised that the company’s growth is driven primarily by millions of small and medium-sized businesses (SMBs) rather than a handful of large brands, and outlined an aggressive roadmap in e-commerce, messaging and remote work.  
+
+Revenue, Earnings and Cash  
+•  Q2 total revenue was $18.69 billion, up 11 % year-on-year (12 % in constant currency).  
+•  Advertising revenue contributed $18.32 billion, up 10 % YoY; “Other” revenue (mainly Oculus and Portal devices) reached $366 million, up 40 %.  
+•  Net income was $5.18 billion, translating to diluted EPS of $1.80.  
+•  Operating income totalled $6.00 billion, producing a 32 % operating margin.  
+•  Free cash flow was $514 million; Q2 included the $5 billion FTC settlement cash payment booked as an expense last year.  
+•  The balance sheet showed $58.2 billion in cash and marketable securities at quarter-end; in July Facebook paid roughly $5.8 billion in cash for its stake in India’s Jio Platforms. The company carries no net debt.  
+•  Share repurchases were $1.4 billion during the quarter.  
+•  Effective tax rate in Q2 was 16 %; full-year 2020 tax rate expected to stay in the mid-teens.  
+
+User and Engagement Metrics  
+•  Facebook DAUs reached 1.79 billion (+12 % YoY).  
+•  Facebook MAUs reached 2.70 billion (+12 % YoY); DAU/MAU ratio held at 66 %.  
+•  Across the “Family of Apps” (Facebook, Instagram, Messenger, WhatsApp) an estimated 2.5 billion people used at least one service daily and 3.1 billion monthly.  
+•  Management noted “signs of normalisation” as lockdowns ease and expects Facebook DAUs/MAUs to be flat or slightly down sequentially in Q3.  
+
+Advertising Dynamics  
+•  Total ad impressions rose 40 % YoY, while average price per ad fell 21 %—reflecting pandemic-driven softness in early Q2 and mix-shift toward developing markets and direct-response formats.  
+•  Top-100 advertisers represented only 16 % of Q2 ad revenue, down from a year ago, underscoring diversification.  
+•  Roughly 9 million advertisers were active across Facebook’s services, with particular strength from online commerce and services.  
+•  Brand boycotts in July are factored into Q3 guidance; management stressed that SMB advertising is a far larger revenue driver than large-brand spending.  
+
+Expense Profile and Workforce  
+•  Q2 total expenses were $12.72 billion, up 4 % YoY; excluding last year’s $2 billion FTC accrual, expenses rose 24 %.  
+   –  Cost of revenue +16 % (data-centre depreciation).  
+   –  R&D +35 % (core products, AR/VR).  
+   –  Marketing & sales +18 %.  
+   –  G&A +30 % (legal).  
+•  Capital expenditures were $3.39 billion (–11 % YoY) as some data-centre projects were temporarily paused; 2020 capex now guided to roughly $16 billion (top end of prior $15-16 billion range).  
+•  Headcount climbed 32 % YoY to 52,534 after a record 4,200 net hires in Q2.  
+•  Up to 50 % of employees could work remotely within 5-10 years; the move is driven by talent-pool expansion rather than cost savings.  
+
+Guidance and Outlook  
+•  Through the first three weeks of July, ad revenue growth remained about 10 % YoY, in line with Q2; management expects Q3 ad-revenue growth to be “roughly similar.”  
+•  2020 total expenses are now pegged at $52-55 billion (narrowed from $52-56 billion).  
+•  Key H2 headwinds: macro uncertainty tied to expiring U.S. stimulus, potential COVID flare-ups, brand-advertiser pauses, and increasing ad-measurement frictions (notably Apple’s iOS 14 IDFA changes and privacy regulations such as CCPA).  
+
+Strategic & Operational Highlights  
+•  Commerce: Facebook Shops launched in May, letting any business create a unified storefront across Facebook and Instagram; management sees ads plus integrated checkout—supported by Facebook Pay—as the primary monetisation path.  
+•  Messaging Commerce: WhatsApp Business users surged from ~5 million last year to ~50 million; Facebook is integrating click-to-message ads and commerce APIs, with India (in partnership with Jio) and Brazil targeted for payments roll-outs once regulatory approvals are secured.  
+•  SMB Support: Over 180 million businesses use Facebook’s free tools each month, and the company has announced $200 million in grants—half allocated specifically to Black-owned businesses, creators and non-profits.  
+•  Content & Safety: Facebook states AI now proactively catches ~90 % of hate speech removals; independent audits by the Media Rating Council and civil-rights groups are under way.  
+•  Remote Work Products: Messenger Rooms, an expanded Messenger Kids (now in 143 markets), and stronger Oculus and Portal sales reflect demand for remote-presence tools; Oculus Quest is now the most-used headset in Facebook’s VR ecosystem.  
+
+Management Commentary  
+CEO Mark Zuckerberg underscored that “the biggest part of our business is serving small businesses,” criticised potential broad restrictions on personalised ads during a recession, and reaffirmed long-term investment in AR/VR and remote-presence technologies. COO Sheryl Sandberg reiterated that personalised, measurable advertising is a “lifeline” for SMBs and that Facebook intends to keep improving hate-speech enforcement “not because of advertiser pressure but because it is the right thing to do.” CFO Dave Wehner highlighted accelerated digital adoption but cautioned that pricing, regulatory and macroeconomic pressures could intensify later in the year.

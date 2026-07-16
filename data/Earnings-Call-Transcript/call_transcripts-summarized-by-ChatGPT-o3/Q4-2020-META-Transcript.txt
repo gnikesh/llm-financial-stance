@@ -1,0 +1,89 @@
+# Facebook, Inc. – Q4 and Full-Year 2020 Earnings Call Summary  
+
+Facebook (Nasdaq: FB) reported solid year-end results, highlighted by accelerating revenue growth, record profitability, expanding cash balances and continued investment in long-term strategic themes: communities, private messaging, commerce and immersive computing (AR/VR). Management also detailed looming ad-targeting headwinds from Apple’s iOS 14 changes and tougher revenue comparisons in 2H 2021.
+
+## Key Consolidated Financial Metrics  
+
+• Q4 revenue was **$28.07 billion**, up **33 % YoY** (32 % constant currency).  
+ – Advertising revenue: **$27.19 billion**, +31 %.  
+ – “Other” revenue (driven by Oculus Quest 2 hardware): **$885 million**, +156 %.  
+
+• Q4 operating income: **$12.76 billion**; operating margin **46 %** (versus 42 % a year ago).  
+
+• Q4 net income: **$11.22 billion**, delivering **EPS of $3.88** (diluted).  
+
+• FY 2020 revenue: **$85.97 billion**, up **22 %**; full-year operating margin **38 %**.  
+
+• Free cash flow in Q4: **$9.22 billion**; year-end cash & marketable securities: **$62 billion**; the company carries **no material debt**.  
+
+• Shareholder returns: 2020 repurchases totaled **$6.3 billion**; Board authorized an additional **$25 billion** buy-back.  
+
+## Users & Engagement  
+
+• Family Daily Active People (DAP): **2.6 billion**; Family Monthly Active People (MAP): **3.3 billion**.  
+
+• Facebook DAUs: **1.84 billion** (+11 % YoY); DAU/MAU ratio held at **66 %**.  
+ – U.S./Canada DAUs fell **1 million** sequentially as usage normalized post-lockdown.  
+
+• Facebook MAUs: **2.80 billion** (+12 % YoY).  
+
+• Platform utilisation: >**200 million** businesses use free tools; >**175 million** people message a WhatsApp business account daily; >**600 million** users belong to a “meaningful” Facebook Group.  
+
+## Advertising Dynamics  
+
+• Q4 ad impressions grew **25 %** YoY; average price per ad rose **5 %** (first positive pricing comp in several quarters).  
+
+• Regional ad-revenue growth: Europe +35 %, U.S./Canada +31 %, APAC +29 %, Rest of World +25 % (currency headwinds persist).  
+
+• Direct-response performance improved notably in Instagram Stories; Facebook mobile feed remains the main driver of pricing gains.  
+
+## 2021 Outlook & Guidance  
+
+• Revenue: Expect YoY growth rates to remain “stable or modestly accelerate” in Q1–Q2 21 (lapping COVID-depressed 1H 2020). Growth will “significantly decelerate” in 2H 2021 as comps toughen and ad-targeting headwinds mount.  
+
+• iOS 14 / privacy: Management anticipates “high opt-out rates” when Apple’s ATT prompt arrives (likely late Q1) and calls it a **significant headwind**, especially for SMB advertisers and for Audience Network on iOS.  
+
+• Expense guidance unchanged: **$68–73 billion** in 2021 (versus $53 billion in 2020), driven by talent and infrastructure.  
+
+• Capital expenditures forecast **$21–23 billion** (data centres, servers, network, offices; includes 2020 projects delayed by the pandemic).  
+
+• Effective tax rate projected in the “high-teens %” for 2021.  
+
+## Strategic & Product Highlights  
+
+1. Communities  
+   • More tools will help admins run self-sustaining groups (fund-raising, merchandise, memberships).  
+   • Civic & political groups removed from recommendations in the U.S.; policy now extended globally. Facebook is also testing reductions of political content in News Feed.  
+
+2. Private Messaging & Privacy  
+   • Continued push toward end-to-end encryption, message ephemerality and cross-app interoperability (Messenger, Instagram Direct, WhatsApp).  
+   • Zuckerberg positioned **Apple** as a primary competitor, citing iMessage’s platform advantages and Apple’s forthcoming privacy changes that hamper targeted ads.  
+
+3. Commerce for SMEs  
+   • Facebook Shops can now be created once and surfaced across Facebook and Instagram; Checkout expanded to all U.S. merchants. Integration with WhatsApp and Messenger is underway.  
+   • Business Suite, Paid Online Events and shopping functionality in Instagram Reels/Stories aim to streamline digital storefront management.  
+
+4. Next Computing Platform (AR/VR)  
+   • **Oculus Quest 2** “on track to be the first mainstream VR headset”; strong holiday demand lifted other revenue. >**60** developers are already generating multi-million-dollar revenue.  
+   • First Ray-Ban branded smart glasses, co-developed with Luxottica, expected in 2021; full AR glasses “still years away.”  
+   • Portal devices saw elevated usage for remote family gatherings; expanding into enterprise collaboration in 2021.  
+
+## Operating Metrics & Workforce  
+
+• Headcount: **58,604** full-time employees at year-end, up **30 %** YoY (+13,600 net hires, meeting the goal of 10,000 new tech/product roles).  
+
+## Regulatory & Policy Commentary  
+
+• Facebook continues to advocate updated, clear internet rules: broader reforms to Section 230, harmonised privacy legislation and explicit election-integrity standards.  
+
+• FTC & state antitrust suits: management offered no substantive comment but reiterated belief that its acquisitions were lawful and beneficial to consumers and businesses.  
+
+• Trans-Atlantic data-transfer uncertainty (Schrems II) remains a risk the company is “closely monitoring.”  
+
+## Capital Allocation & Liquidity  
+
+• With **$62 billion** in cash/marketables, robust free cash flow and no significant debt, Facebook plans to continue heavy capex, R&D funding and aggressive share repurchases while retaining balance-sheet flexibility.  
+
+---
+
+Facebook finished 2020 with record revenue and earnings momentum, buoyed by a pandemic-driven surge in e-commerce advertising and the successful launch of Quest 2. Management cautions that iOS privacy changes and post-pandemic spending mix shifts will pressure growth in late 2021, yet believes ongoing investment in messaging privacy, SME commerce tools and AR/VR platforms will sustain long-term value creation.

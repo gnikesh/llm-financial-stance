@@ -1,0 +1,76 @@
+# Alphabet Inc. – Q4 2025 Earnings Call Summary
+
+Alphabet closed 2025 with record‐high revenue, accelerating growth in every major business and announcing an unprecedented capital-investment plan to meet surging AI demand. Management emphasised three themes: rapid commercialisation of Gemini-based AI, continued strength in Search, YouTube and Cloud, and disciplined – though dramatically larger – investment in technical infrastructure.
+
+## Consolidated financial performance
+
+• 2025 full-year revenue reached **$403 billion**, up **15 %** year on year.  
+• Q4 revenue was **$113.8 billion**, up **18 %** (17 % cc).  
+• Operating income grew **16 %** to **$35.9 billion**; operating margin was **31.6 %** despite a one-time **$2.1 billion** stock-based-compensation charge tied to Waymo’s new funding round.  
+• Net income rose **30 %** to **$34.5 billion**; diluted EPS increased **31 %** to **$2.82**.  
+• Operating cash flow was **$52.4 billion** in Q4 (**$164.7 billion** FY); free cash flow **$24.6 billion** in Q4 (**$73.3 billion** FY).  
+• Alphabet ended the year with **$126.8 billion** in cash and marketable securities against **$46.5 billion** of long-term debt.  
+• Shareholder returns in Q4: **$5.5 billion** of buy-backs and **$2.5 billion** of dividends.
+
+## Segment detail
+
+### Google Services  
+• Revenue **$95.5 billion** (+14 %).  
+  – Search & Other ads: **$63.1 billion**, up **17 %**; every major vertical grew, retail led.  
+  – YouTube ads: **$11.4 billion**, up **9 %**; direct-response strength offset by lapping 2024 U.S. election spend on brand.  
+  – Network ads: **$7.8 billion**, down **2 %**.  
+  – Subscriptions, Platforms & Devices: **$13.6 billion**, up **17 %**, driven by YouTube Music/Premium and Google One AI plans.  
+• Services operating income **$40.1 billion**; margin **41.9 %**.
+
+Key usage highlights  
+– Search AI Mode queries per U.S. user have doubled since launch; Gemini-powered AI Overviews now default.  
+– AI Mode queries are 3× longer than traditional searches; 1 in 6 involve voice or images.  
+– Paid consumer subscriptions exceeded **325 million**; Gemini App MAUs passed **750 million** in Q4 with sharply higher engagement.  
+
+### Google Cloud  
+• Revenue **$17.7 billion**, up **48 %**; annualised run-rate now **>$70 billion**.  
+• Operating income **$5.3 billion**, more than double y/y; margin expanded from **17.5 %** to **30.1 %**.  
+• Backlog **$240 billion**, up **55 %** quarter-over-quarter and >2× y/y – fuelled by enterprise AI.  
+• 2025 saw twice the new-customer velocity of Q1 and more >$1 billion deals than the prior three years combined.  
+• Over **120,000** enterprises – incl. 95 % of the top-20 SaaS firms – are using Gemini; **8 million** paid seats of Gemini Enterprise sold to **2,800** companies.  
+• 14 individual Cloud product lines now exceed **$1 billion** in annual revenue.  
+• Alphabet will be Apple’s preferred cloud partner for developing next-gen Apple Foundation Models based on Gemini.
+
+### Other Bets  
+• Revenue **$370 million**; operating loss **$3.6 billion** (includes the $2.1 billion Waymo SBC charge).  
+• Waymo surpassed **20 million** fully autonomous rides, providing **400,000** trips weekly, expanded to its sixth market (Miami) and raised **$16 billion**, largely funded by Alphabet.
+
+## Capital expenditure and balance-sheet outlook
+
+• 2025 CapEx totalled **$91.4 billion** (Q4: **$27.9 billion**); ~60 % spent on servers/ML accelerators, ~40 % on data centres and networking.  
+• 2026 CapEx guidance is **$175–185 billion**, ramping through the year to alleviate persistent compute and power constraints.  
+• Depreciation rose 38 % in 2025 to **$21.1 billion** and will “meaningfully increase” again in 2026 as new capacity comes online. Just over half of 2026 ML compute is earmarked for Cloud.
+
+## Strategic and operational highlights
+
+AI & Infrastructure  
+• Gemini 3 Pro is now embedded across Search, Cloud and Workspace; model-serving unit cost fell **78 %** during 2025.  
+• First-party models process **>10 billion tokens per minute** via direct API calls, up from 7 billion last quarter.  
+• Back-end GPU diversity broadened: Alphabet will be first to offer NVIDIA’s Vera Rubin GPUs and is acquiring Intersect for data-centre and energy infrastructure.
+
+Search & Advertising  
+• Over 250 AI-driven product updates shipped in Q4 alone. Gemini improves ad relevance, unlocks monetisation of longer, more complex and non-English queries, and is generating millions of creative assets for advertisers via AI Max and Performance Max.  
+• Early commercial pilots inside AI Mode include ads beneath AI responses and “Direct Offers” that surface merchant-specific promotions; Universal Commerce Protocol unveiled with retail partners to enable seamless agentic checkout.
+
+YouTube  
+• Combined ad & subscription revenue breached **$60 billion** for the year.  
+• Shorts: **200 billion** daily views; in several markets now monetises at a higher rate per watch hour than in-stream.  
+• Subscriptions momentum continues (Music, Premium, YouTube TV); NFL Sunday Ticket achieved its highest paid subscriber base ever.  
+• 1 million+ creator channels used new AI creation tools daily in December; 20 million viewers used the Ask-with-Gemini feature.
+
+Waymo  
+• Public service extended to airports/freeways; poised for further U.S., U.K. and Japan launches after record funding round.
+
+## Guidance and management commentary
+
+• Q1 2026 expected to benefit from an FX tail-wind at current rates; standard seasonal ad patterns still apply.  
+• High demand for AI compute means 2026 will remain “supply-constrained”; management is prioritising long-lead investments in energy, land and chips.  
+• Hiring will continue in AI and Cloud while company-wide efficiency programmes (coding agents now write ~50 % of Alphabet’s code) and AI-powered back-office automation aim to partially offset opex pressure.  
+• Management reiterated its “highly rigorous” capital-allocation framework: balance near-term ROI, long-term growth, free-cash-flow generation and a strong balance sheet while still returning capital to shareholders.
+
+Alphabet ends 2025 larger, more profitable and more cash-generative than ever, yet plans to nearly double capital spending in 2026 to secure compute capacity for Gemini, Google DeepMind and Cloud customers. Management’s central message: AI is already monetising across Search, YouTube and Cloud, and the company is prepared to invest aggressively – but responsibly – to extend its lead.

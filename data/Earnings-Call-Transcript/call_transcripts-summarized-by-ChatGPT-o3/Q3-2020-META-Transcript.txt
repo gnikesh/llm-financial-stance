@@ -1,0 +1,50 @@
+# Facebook, Inc. – Q3 2020 Earnings Call Summary
+
+Facebook delivered a stronger-than-expected third quarter, lifted by pandemic-driven acceleration of e-commerce and robust small-business advertising demand, while warning that 2021 will bring higher expenses and meaningful headwinds from iOS 14, regulation and tough comps.
+
+Revenue & Profitability  
+• Total revenue grew 22 % year-over-year to $21.47 billion (21 % at constant currency).  
+• Advertising revenue was $21.22 billion, also up 22 % YoY; Other revenue fell 7 % to $249 million, reflecting the transition to the newly launched Oculus Quest 2 (shipments start in Q4).  
+• Global ad impressions rose 35 %, while average ad price fell 9 % (a smaller decline than Q2 thanks to demand recovery).  
+• Regional ad-revenue growth rebounded everywhere versus Q2: Asia-Pacific +30 %, Europe +25 %, U.S./Canada +20 %, Rest-of-World +12 %; FX provided a modest tailwind except in RoW.  
+• GAAP operating income was $8.04 billion, yielding a 37 % operating margin.  
+• GAAP net income was $7.85 billion and diluted EPS $2.71; the very low 4 % effective tax rate included a one-time R&D capitalization election that lifted EPS by $0.31.  
+• Free cash flow reached $5.87 billion.  
+• Facebook repurchased $1.7 billion of Class A shares and closed the previously announced $5.8 billion investment in Jio Platforms.  
+• Cash and marketable securities ended at $55.6 billion with zero debt.
+
+User & Engagement Metrics  
+• Family daily active people (DAP) averaged 2.54 billion (+15 % YoY); family monthly active people (MAP) were 3.21 billion.  
+• Facebook DAUs were 1.82 billion (+12 %, 66 % of MAUs); MAUs were 2.74 billion (+12 %).  
+• Usage that spiked early in the pandemic is normalizing: U.S./Canada DAU and MAU slipped QoQ and are expected to be flat or slightly down in Q4.
+
+Cost Structure & Hiring  
+• Total expenses rose 28 % to $13.43 billion: cost of revenue +33 %, R&D +34 %, G&A +33 %, marketing & sales +11 %.  
+• Headcount grew 32 % YoY to 56,653 after adding 4,100 net employees in Q3, mainly technical talent.  
+• Capex was $3.88 billion; management reiterated ~$16 billion for full-year 2020 and guided $21–23 billion for 2021 (data centers, servers, network and offices, including spend delayed by COVID-19).  
+• 2020 expense guidance was narrowed to $53–54 billion; 2021 expenses are projected at $68–73 billion, reflecting continued hiring, Facebook Reality Labs (AR/VR), messaging, commerce, Reels, and a rebound in office operations and travel (~$1.5 billion of 2020 savings will unwind).
+
+Q4 & 2021 Outlook  
+• Q4 ad-revenue growth rate will exceed Q3’s 22 % due to holiday demand; Quest 2 strength will lift Other revenue.  
+• 2021 headwinds:  
+  – Harder comps if offline-to-online commerce re-normalizes.  
+  – “Significant” targeting/measurement impacts from Apple’s iOS 14 (IDFA restrictions), plus evolving global privacy regulation and uncertainty over EU–U.S. data transfers.  
+• Tax rate: mid-teens in Q4 2020, high-teens for full-year 2021.
+
+Strategic & Product Highlights  
+• Advertising ecosystem: over 10 million active advertisers; e-commerce, retail and CPG remained the largest verticals. Political/Government ads were low-single-digit % of revenue and not a top-10 vertical.  
+• Commerce push: Facebook Shops, Instagram Checkout, Shop tab, Business Suite, Paid Online Events; WhatsApp adds shopping button and will integrate with Shops. Over 40 million users view WhatsApp business catalogs each month. Click-to-Message ads (linking FB/IG ads to Messenger or WhatsApp threads) are scaling rapidly.  
+• SMB reliance: more than 200 million businesses use at least one free Facebook tool each month; COVID-19 has accelerated the shift online—U.S. Census data show e-commerce’s share of retail jumped 4 ppts in Q2 (equal to four years of pre-pandemic growth).  
+• AR/VR: Oculus Quest 2 launched at $299; pre-orders exceeded the original Quest by “more than 5×.” Management continues to target 10 million active VR units as the threshold for a self-sustaining content ecosystem. Long-term AR efforts include smart glasses co-developed with Luxottica (Ray-Ban) for 2021 and ongoing work toward full-featured consumer AR glasses.  
+• Cross-app messaging interoperability began rolling out between Instagram and Messenger; WhatsApp to follow. WhatsApp alone now hosts ~100 billion messages daily.  
+• Short-form video: Reels expanded to 50+ countries with encouraging early engagement.  
+• Content moderation & election integrity: Facebook highlighted its evolving policies, removal statistics and ad-transparency tools ahead of the U.S. election; political ads were paused one week before and after Election Day.
+
+Policy & Regulatory Commentary  
+• Mark Zuckerberg reiterated support for updated internet regulation that balances personalized ads with privacy, cautioned that EU proposals and Apple’s platform changes could hurt small businesses, and outlined preferred reforms to Section 230 centered on transparency and prevalence-based metrics rather than strict takedown deadlines.
+
+Capital Allocation  
+• Priorities remain reinvesting in growth (core products, AR/VR, commerce, messaging) and opportunistic share repurchases; the company holds no debt and signaled no change to this philosophy even if U.S. tax policy shifts.
+
+Bottom Line  
+Facebook entered the holiday quarter with accelerating ad momentum, unprecedented cash generation and aggressive investment plans. Management sees durable opportunities in AR/VR, social commerce and messaging, but is preparing for higher expenses and sizeable advertising headwinds in 2021 as platform and regulatory changes take effect.

@@ -1,0 +1,150 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Summary  
+
+The following is a consolidated narrative summary of NVIDIA’s MD&A for fiscal year 2024, arranged in the same order and with the same major captions as the original text. All significant quantitative and qualitative disclosures, including those related to revenue, EPS, debt, liquidity, taxes, and market risks, have been retained.  
+
+---
+
+## Overview  
+
+### Our Company and Our Businesses  
+NVIDIA remains focused on accelerated computing, artificial intelligence, and high-performance graphics through two operating segments: Compute & Networking and Graphics. The company’s technologies now serve data-center, gaming, professional visualization, automotive, robotics, and metaverse workloads.  
+
+## Recent Developments, Future Objectives and Challenges  
+
+### Demand and Supply, Product Transitions, and New Products  
+• Data-center demand surged in fiscal 2024 and remains “very strong,” driven principally by AI and generative-AI workloads.  
+• The company has lengthened supply agreements, entered prepaid capacity contracts, and added vendors, resulting in larger purchase obligations and execution risk.  
+• Hopper-architecture supply is improving, but next-generation data-center products are expected to be supply-constrained.  
+• More rapid product-launch cadence—especially in data-center—magnifies transition risks, inventory provisions, and potential warranty or quality costs.  
+• New businesses such as DGX Cloud, Omniverse, and AI foundations carry uncertain long-term demand trajectories.  
+
+### Global Trade  
+• Expanded U.S. export-control licensing requirements now restrict shipments of high-end GPUs (A100, A800, H100, H800, L4, L40, L40S, RTX 4090) to China and certain other regions.  
+• Data-center revenue derived from China fell from 19 % of segment revenue in fiscal 2023 to 14 % in fiscal 2024 and was “mid-single-digit” percent in 4Q FY 2024.  
+• NVIDIA has begun shipping alternative, lower-performance products to China in small volumes, but future results remain sensitive to further rule changes.  
+
+### Macroeconomic Factors  
+Inflation, higher interest rates, capital-market volatility, and geopolitical developments could suppress demand, raise costs, and affect supply-chain reliability.  
+
+### Israel–Hamas Conflict  
+Approximately 3,700 employees in Israel support networking R&D and operations. No material supply-chain or financial impact has been recorded to date, but extended conflict could disrupt development activities.  
+
+---
+
+## Fiscal Year 2024 Summary  
+
+| Metric | FY 2024 | FY 2023 | Δ YoY |
+|---|---|---|---|
+| Revenue | $60.922 billion | $26.974 billion | +126 % |
+| Gross margin | 72.7 % | 56.9 % | +15.8 ppt |
+| Operating expenses | $11.329 billion | $11.132 billion | +2 % |
+| Operating income | $32.972 billion | $4.224 billion | +681 % |
+| Net income | $29.760 billion | $4.368 billion | +581 % |
+| Diluted EPS | $11.93 | $1.74 | +586 % |
+
+Revenue rose 126 % to $60.9 billion, led by data-center growth of 217 %. Gross margin expanded 1,580 basis points to 72.7 %, driven by richer data-center mix and lower inventory charges. Operating expenses rose only 2 % because FY 2023 included a $1.4 billion Arm-acquisition termination cost.  
+
+---
+
+## Market Platform Highlights  
+
+• Data Center: Revenue reached $47.5 billion (+217 %). About 40 % of segment revenue was AI inference. Large cloud providers accounted for more than half of 4Q FY 2024 data-center sales. Key launches included Grace Hopper, DGX Cloud, AI Foundations, and Spectrum-X networking.  
+
+• Gaming: Revenue grew 15 % to $10.4 billion as channel inventory normalized. New products included GeForce RTX 4060, 4070, and RTX 40-Series SUPER GPUs, plus DLSS 3.5 and TensorRT-LLM for Windows.  
+
+• Professional Visualization: Revenue grew 1 % to $1.6 billion; Omniverse Cloud on Microsoft Azure launched.  
+
+• Automotive: Revenue advanced 21 % to $1.1 billion, reflecting DRIVE adoption by multiple EV makers and a MediaTek partnership for SoCs.  
+
+---
+
+## Critical Accounting Estimates (Summarized)  
+
+• Inventories: Inventory and purchase-commitment provisions totaled $2.2 billion in both FY 2024 and FY 2023; the net margin drag fell to 2.7 % of revenue from 7.5 %.  
+• Income Taxes: Valuation allowance of $1.6 billion remains on certain deferred-tax assets.  
+• Revenue Recognition: Returns, channel rebates, development contracts, and multi-element arrangements continue to be areas requiring judgment.  
+• Change in Estimate: Server, storage, and network equipment useful life extended to 4–5 years (was 3 years); test equipment to 7 years (was 5). FY 2024 benefit: +$135 million operating income; +$0.05 EPS.  
+
+---
+
+## Results of Operations  
+
+### Consolidated Statement of Income (% of Revenue)  
+Gross margin rose to 72.7 % (from 56.9 %). Operating margin increased to 54.1 % (from 15.6 %). Net margin expanded to 48.9 % (from 16.2 %).  
+
+### Reportable Segments  
+
+| Segment | FY 2024 Revenue | FY 2023 Revenue | YoY % | FY 2024 OpInc | FY 2023 OpInc | YoY % |
+|---|---|---|---|---|---|---|
+| Compute & Networking | $47.405 b | $15.068 b | +215 % | $32.016 b | $5.083 b | +530 % |
+| Graphics | $13.517 b | $11.906 b | +14 % | $5.846 b | $4.552 b | +28 % |
+| All Other | — | — | — | $(4.890) b | $(5.411) b | –10 % |
+
+Compute growth was fueled by 266 % higher GPU compute shipments (Hopper) and 133 % higher InfiniBand networking. Graphics rose 15 %, reflecting gaming rebound.  
+
+### Operating Expenses  
+R&D rose 18 % to $8.675 billion (14.2 % of revenue). SG&A rose 9 % to $2.654 billion (4.4 % of revenue). FY 2023’s $1.353 billion Arm termination charge did not recur.  
+
+### Other Income (Expense)  
+Net other income swung to +$846 million from –$43 million, driven by $866 million interest income on larger cash balances and higher yields, stable interest expense of $257 million, and $237 million of gains on strategic investments and FX.  
+
+### Income Taxes  
+FY 2024 tax expense was $4.1 billion (12.0 % effective rate) versus FY 2023 tax benefit of $187 million (–4.5 %). The rate rose because pre-tax income surged faster than permanent benefits; partially offset by a $145 million benefit from resolution of 2018–19 IRS audit.  
+
+---
+
+## Liquidity and Capital Resources  
+
+### Cash, Investments, and Cash Flow  
+
+|  | 1/28/24 | 1/29/23 |
+|---|---|---|
+| Cash & cash equivalents | $7.28 b | $3.39 b |
+| Marketable securities | $18.70 b | $9.91 b |
+| Total liquidity | **$25.98 b** | **$13.30 b** |
+
+FY 2024 operating cash flow was $28.09 billion (up from $5.64 billion), aided by robust earnings and some early customer receipts. Investing activities used $10.57 billion, mainly for net purchases of marketable securities. Financing activities used $13.63 billion, driven by $9.7 billion of share repurchases, $395 million of dividends, higher RSU-related tax withholding, and scheduled debt repayment.  
+
+### Capital Allocation  
+• Shareholder returns: $9.7 billion repurchased (21 million shares) and $395 million dividends paid. In August 2023 the board added $25 billion to the repurchase authorization; $22.5 billion remained authorized as of Jan 28 2024.  
+• Planned FY 2025 capex: $3.5–$4.0 billion, to be funded from existing liquidity and cash flow.  
+
+### Debt  
+
+| Nominal Maturities | Amount |
+|---|---|
+| FY 2025 | $1.25 b |
+| FY 2026-FY 2029 | $2.25 b |
+| FY 2030-FY 2034 | $2.75 b |
+| FY 2035+ | $3.50 b |
+| Less: discount/issuance costs | $(0.041) b |
+| Net carrying amount | **$9.709 b** |
+| Current portion | $(1.25 b) |
+| Long-term portion | **$8.459 b** |
+
+No commercial paper outstanding on $575 million program. Company asserts sufficient liquidity to meet all obligations, including $1.3 billion note due in FY 2025.  
+
+### Other Obligations  
+Unrecognized tax benefits total $1.3 billion (including $140 million interest/penalties). Purchase obligations and leases are described in Notes 12-13.  
+
+---
+
+## Market Risk Disclosures  
+
+### Interest-Rate Risk  
+A ±50 bp parallel shift in the yield curve would change the fair value of the investment portfolio by approximately $93 million. Long-term notes are fixed-rate and therefore not exposed to rate changes on the income statement.  
+
+### Foreign-Exchange Risk  
+Sales are dollar-denominated; FX risk arises mainly from operating expenses. A 10 % U.S.-dollar strengthening would lower AOCI on hedges by $116 million and could produce a $60 million pre-tax loss on balance-sheet hedges, offset by remeasurement gains on underlying exposures.  
+
+---
+
+## Climate Change  
+Compliance and renewable-energy costs have not materially affected operations to date.  
+
+---
+
+## Accounting Pronouncements  
+No recently adopted or pending standards are expected to have a material effect beyond those already implemented (e.g., useful-life change).  
+
+---

@@ -1,0 +1,46 @@
+# Meta Platforms Q2 2022 Earnings Call – Financial & Strategic Summary
+
+Meta entered 2022’s second quarter with solid user growth but a markedly tougher advertising and macro‐economic backdrop that is weighing on revenue, margins and near-term guidance. Management outlined immediate cost-control measures, longer-dated investment priorities (AI discovery engine, Reels, new ads infrastructure, and the Metaverse) and several leadership changes.
+
+### Revenue and Mix  
+• Total Q2 revenue was **$28.82 billion**, down **1 % YoY** (-$0.3 billion); on a constant-currency basis revenue would have risen **3 %**. A stronger U.S. dollar reduced reported revenue by about **$1.3 billion**.  
+• Family of Apps (FoA) revenue fell **1 %** to **$28.18 billion**; Reality Labs revenue rose **48 %** to **$452 million** on continued Quest 2 sales.  
+• Advertising remains the core driver: ad impressions rose **15 %** YoY while average price per ad fell **14 %** as demand softened, mix shifted to lower-monetising formats/regions, and FX pressured pricing.
+
+### Profitability, Cash & Capital Returns  
+• Total expenses climbed **22 %** to **$20.46 billion** (Cost of Revenue –4 %, R&D +43 %, Marketing & Sales +10 %, G&A +53 %).  
+• Operating income fell to **$8.36 billion**; operating margin contracted to **29 %** (FoA margin 39 %, Reality Labs loss **$2.81 billion**).  
+• Net income was **$6.69 billion**; **diluted EPS $2.46**.  
+• Free cash flow reached **$4.46 billion**; quarter-end cash and marketable securities totalled **$40.5 billion**.  
+• Capital expenditures (including finance-lease principal) were **$7.75 billion**, driven largely by servers, data-centres and AI infrastructure.  
+• Share repurchases amounted to **$5.1 billion** in Q2; significant authorisation remains. Meta carries no meaningful balance-sheet debt.
+
+### Users and Engagement  
+• Family of Apps: **2.9 billion** people used at least one Meta service daily (DAP) and **3.6 billion** monthly (MAP).  
+• Facebook DAUs reached **1.97 billion** (+3 % YoY, +60 million) and MAUs **2.93 billion** (+39 million).  
+• AI-recommended content now represents ~15 % of time spent in Facebook feeds and slightly more on Instagram; Meta expects this to **double by end-2023**.  
+• Reels: makes up **>20 %** of Instagram time; time spent on Reels across Facebook and Instagram rose **>30 % QoQ**. Reels ads now exceed a **$1 billion** annual run-rate but monetize below Feed/Stories, creating a near-term revenue headwind.  
+• Click-to-Messaging ads are already a **multi-billion-dollar** business with strong double-digit growth; **40 %** of Meta advertisers now use the format, and **1 billion** users message a business each week.
+
+### Expense Discipline & Headcount  
+• Headcount ended Q2 at **83,553** (+32 % YoY) after adding 5,700 employees in the quarter; hiring will slow materially, and some teams will shrink to fund priority areas.  
+• Full-year 2022 expense outlook was lowered to **$85 – $88 billion** (from $87 – $92 billion).  
+• 2022 capex guidance narrowed to **$30 – $34 billion** (from $29 – $34 billion).
+
+### Guidance  
+• Q3 2022 revenue is expected between **$26 billion and $28.5 billion**, reflecting continued weak ad demand and an estimated **6 % FX headwind**. Reality Labs revenue will sequentially decline.  
+• Full-year effective tax rate projected in the “high-teens,” above Q2’s 18 %.
+
+### Strategic & Product Highlights  
+1. **AI-Driven Discovery Engine** – central to boosting engagement and ad relevance across all content types (video, text, images, links, groups).  
+2. **Reels** – product adoption is rapid; monetisation is improving faster than Stories did at the same point post-launch, yet remains dilutive until ad load and pricing converge with Feed/Stories.  
+3. **Ads Infrastructure Overhaul** – investment in privacy-preserving, first-party data solutions (e.g., Conversions API, Private Lift) to offset iOS signal loss.  
+4. **Business Messaging** – click-to-message ads, WhatsApp Business tools and paid messaging are high-growth, ROI-efficient channels, especially for SMBs in emerging markets but gaining traction in mature regions.  
+5. **Metaverse Build-out** – Horizon expansion (web version later in 2022), Avatar commerce, and high-end mixed-reality headset “Project Cambria” remain funded despite tighter budgets; Meta sees “hundreds of billions, if not trillions” in long-term economic upside.
+
+### Leadership Transitions  
+• COO Sheryl Sandberg will depart daily duties after 14 years but remain on the Board; Javier Olivan becomes COO.  
+• CFO Dave Wehner becomes **Chief Strategy Officer** in November; **Susan Li** (current VP Finance) will succeed him as CFO.  
+• Meta reiterated commitment to disciplined hiring, rigorous ROI measurement and long-term investment through the downturn, aiming to emerge “a stronger, more disciplined organisation.”
+
+Meta closed the quarter with robust liquidity, measurable progress on new ad formats and user engagement, but faces simultaneous pressures from FX, softer macro advertising demand, Reels monetisation dilution and ongoing Reality Labs losses. Management’s reduced expense outlook, slower headcount growth and focus on AI-driven monetisation are intended to protect EPS and cash flow while preserving strategic investment in the Metaverse and next-generation ad products.

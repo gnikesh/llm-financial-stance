@@ -1,0 +1,59 @@
+# Facebook, Inc. – Q1 2021 Earnings Call Summary
+
+Facebook reported a markedly stronger-than-expected first quarter, combining rapid top-line growth with continued expansion in user reach, high profitability and a reinforced investment agenda centred on augmented/virtual reality (AR/VR), commerce, business messaging and the creator economy.
+
+Management and participants  
+CEO Mark Zuckerberg, COO Sheryl Sandberg and CFO Dave Wehner led the call.
+
+Operations and strategy  
+• 2.7 billion people use at least one Facebook app every day and 3.4 billion every month; over 200 million businesses rely on the company’s tools.  
+• Zuckerberg framed 2021–2025 capital allocation around three themes:  
+  – “Next computing platform”: Quest 2 sales and engagement are outpacing expectations; wireless Air Link and 120Hz support were added. Investment is rising in hardware, software, neural interfaces and avatars.  
+  – “Modern commerce system”: Marketplace now reaches more than 1 billion monthly visitors; Facebook Shops hosts over 1 million active storefronts and records 250 million monthly visitors. WhatsApp Business traffic exceeds 100 million messages per day, while Click-to-Message ads on Messenger and WhatsApp have nearly 4 million combined advertisers. WhatsApp Pay is live in India and cleared to launch in Brazil. Acquisition of Kustomer remains under regulatory review.  
+  – “Creator economy”: Facebook is developing monetisation avenues such as subscriptions, tipping, commerce integrations and a suite of audio products (Live Audio Rooms, Soundbites, podcasts) plus an in-app Spotify player.  
+
+Key financial metrics (GAAP unless stated)  
+• Revenue: $26.171 billion, +48 % YoY (+44 % c.c.).  
+ – Advertising revenue: $25.439 billion, +46 % YoY; impressions +12 %, average price per ad +30 %.  
+ – Other revenue (primarily Oculus/Quest): $732 million, +146 % YoY.  
+• Operating expenses: $14.849 billion, +25 % YoY (cost of revenue +48 %; R&D +29 %; marketing & sales +2 %; G&A +2 %).  
+• Operating income: $11.382 billion; operating margin 43 % (up from 33 % a year ago).  
+• Net income: $9.497 billion, up 94 %; diluted EPS: $3.30.  
+• Free cash flow: $7.822 billion; cash & marketable securities: $64.22 billion.  
+• Share repurchases: $4.1 billion in Q1.  
+• Workforce: 60,654 FTEs, +26 % YoY.  
+• Capital expenditure: $4.42 billion; full-year capex guided to $19–21 billion (trimmed from $21–23 billion).  
+• 2021 expense guidance raised slightly to $70–73 billion (from $68–73 billion) reflecting faster hiring and larger FRL spend.  
+• Expected 2021 tax rate: high-teens percentage.
+
+Community metrics  
+• Facebook DAUs: 1.88 billion, +8 % YoY (66 % of 2.85 billion MAUs, which grew 10 %).  
+• Family DAUs: 2.72 billion; Family MAUs: 3.45 billion (new survey-based methodology noted).  
+
+Regional advertising trends  
+Revenue growth accelerated in every geography: Europe +53 %, Rest of World +47 %, Asia-Pacific +46 %, US/Canada +42 %; Europe and APAC benefited from FX tailwinds, while Rest of World still faced FX headwinds.
+
+Profit drivers and pricing mix  
+High advertiser demand—especially from e-commerce, retail and CPG—kept ad pricing above trend; on a two-year basis prices remain materially higher despite historical mix-shift dilution. Management expects price rather than impressions to be the main growth lever for the rest of 2021.
+
+Capital return and balance sheet  
+Strong free cash flow enabled $4.1 billion of share repurchases; liquidity remains robust at $64.2 billion. Long-term debt is still zero.
+
+Guidance and outlook  
+• Q2 revenue growth should remain stable or modestly accelerate versus Q1 due to easier pandemic-period comps; however, YoY growth is expected to “significantly decelerate” in Q3–Q4 as comps stiffen.  
+• Apple iOS 14.5 privacy changes will begin to bite in Q2 and persist as a headwind, but Facebook believes its mitigations (Apple’s SKAdNetwork, Aggregated Events Measurement) and high overall ad demand will keep the impact “manageable.”  
+• Uncertainty remains around EU–US data-transfer rules.  
+• 2021 expense and capex plans underscore escalating AR/VR, infrastructure and talent investment.  
+
+Regulatory, privacy and sustainability remarks  
+Sandberg reiterated efforts to preserve personalised ads under evolving privacy regimes, working with W3C on privacy-enhancing technologies. Facebook’s global operations have achieved net-zero emissions and are 100 % powered by renewable energy; full value-chain decarbonisation is targeted for 2030.
+
+Q&A highlights  
+• Commerce: Ads continue to drive “hundreds of billions” in GMV; the immediate focus is seamless in-app consumer checkout rather than near-term fee revenue.  
+• Engagement trends: Overall activity is normalising post-Covid surges; video formats (Watch, Reels) are growing fastest.  
+• Algorithmic amplification: Zuckerberg rejected claims that ranking prioritises divisive content and pointed to 35,000 safety/security staff and quarterly transparency reports.  
+• AR/VR economics: Quest 2’s strong adoption inflected management’s confidence; content investment spans first-, second- and third-party studios.  
+• Payments: Facebook Pay is foundational; Novi/Diem remains planned to support commerce and creator monetisation.
+
+Bottom line  
+Facebook entered 2021 with accelerating revenue, widening margins, a $64 billion cash war-chest and a multi-year spending programme aimed at controlling its next-generation platforms. Management foresees near-term headwinds from Apple’s privacy changes and tougher comps, yet remains confident in pricing power, continued commerce momentum and the long-run payoff from heavy AR/VR and ecosystem investments.

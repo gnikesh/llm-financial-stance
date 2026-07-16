@@ -1,0 +1,132 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Summary  
+
+(Amounts in USD unless otherwise noted)
+
+---
+
+## Executive Overview of Full-Year 2020 Results  
+Facebook ended 2020 with strong community expansion and improved profitability despite COVID-19–related volatility.
+
+• Community metrics: December-2020 Facebook DAUs averaged **1.84 billion** (+11 % y/y); MAUs reached **2.80 billion** (+12 %). Across the Family of apps, DAP averaged **2.60 billion** (+15 %) and MAP totaled **3.30 billion** (+14 %).  
+
+• Financial metrics:  
+– Revenue rose **22 %** to **$85.97 billion**; advertising revenue accounted for **$84.17 billion** (+21 %).  
+– Total costs and expenses were **$53.29 billion**; income from operations was **$32.67 billion**, yielding a **38 % operating margin**.  
+– Net income increased to **$29.15 billion** and diluted EPS to **$10.09**.  
+– Capital expenditures (including finance-lease principal) totaled **$15.72 billion**.  
+– Effective tax rate: **12.2 %** (down from 25.5 % in 2019).  
+– Year-end cash, cash equivalents, and marketable securities stood at **$61.95 billion**; the company carries no material debt.  
+– Headcount rose 30 % to **58,604**.
+
+• 2021 outlook: management projects **capital expenditures of $21-23 billion** and **total expenses of $68-73 billion** as it continues to build data-center capacity, network infrastructure, and headcount.
+
+COVID-19 accelerated on-line engagement and e-commerce, boosting ad demand in the second half; however, management cautions that ad growth faces uncertainty from pandemic trends, platform privacy changes, and regulatory pressure.
+
+---
+
+## Trends in Facebook User Metrics  
+
+• DAU/MAU ratio remained stable at **66 %** worldwide.  
+• Geographic growth was led by India, the Philippines and Indonesia.  
+• Nearly all users access the services on mobile devices.
+
+---
+
+## Monetization by Geography  
+
+• 2020 worldwide ARPU (sum of quarterly ARPU) increased **10 %** y/y to **$32.03**.  
+• Regional ARPU growth: United States & Canada +18 %, Europe +15 %, Asia-Pacific +9 %; “Rest of World” was flat.  
+• U.S./Canada ARPU is more than **11×** Asia-Pacific ARPU; future user growth is expected to remain concentrated in lower-monetizing regions, tempering blended ARPU expansion.
+
+---
+
+## Family Metrics  
+
+• Family DAP grew **15 %** to **2.60 billion**; Family MAP grew **14 %** to **3.30 billion**.  
+• Worldwide ARPP reached **$27.51** (+8 %).  
+
+---
+
+## Results of Operations  
+
+### Consolidated Statement of Income (FY 2020 vs. 2019)  
+| (in billions) | 2020 | 2019 | Δ |  
+| --- | --- | --- | --- |  
+| Revenue | **$85.97** | $70.70 | +22 % |  
+| Advertising | 84.17 | 69.66 | +21 % |  
+| Other | 1.80 | 1.04 | +72 % |  
+| Total costs & expenses | 53.29 | 46.71 | +14 %* |  
+| Operating income | **32.67** | 23.99 | +36 % |  
+| Net income | **29.15** | 18.49 | +58 % |  
+
+\*Ex-2019 FTC accrual, underlying expense growth was higher; G&A fell 37 % in 2020 because 2019 included the $5 billion FTC settlement.
+
+Key drivers:  
+• Ads delivered rose **34 %**; average price per ad fell **10 %** (COVID-19 pressure in 1H, mix shift to Stories and lower-priced geographies).  
+• R&D spending up **36 %** to **$18.45 billion** (21 % of revenue) on a 40 % engineering headcount increase.  
+• Marketing & Sales up **17 %** to **$11.59 billion** (13 % of revenue).  
+• Cost of revenue up **31 %** to **$16.69 billion** (19 % of revenue) due to data-center expansion, traffic-acquisition/content costs, and hardware units.  
+• Share-based compensation was **$6.54 billion** (8 % of revenue).  
+
+Quarterly trend: Q4-20 revenue **$28.07 billion**, net income **$11.22 billion**, diluted EPS **$3.88**; advertising remained ~97 % of revenue and seasonality persisted (Q4 ad revenue +28 % q/q).
+
+Foreign exchange: the stronger U.S. dollar reduced 2020 revenue by roughly **$0.12 billion** versus constant-currency.
+
+---
+
+## Taxation  
+
+• 2020 effective tax rate fell to **12.2 %** (vs. 25.5 %) driven by absence of non-deductible 2019 FTC charge, 2019 Altera-related expense, and a 2020 election to capitalize & amortize certain R&D costs (yielding a **$1.07 billion** benefit).  
+• Unrecognized tax benefits total **$3.48 billion**; ongoing IRS transfer-pricing disputes could add up to **$9 billion** (plus interest/penalties) of additional federal tax if the IRS prevails.
+
+---
+
+## Liquidity and Capital Resources  
+
+| (in billions) | 2020 | 2019 |  
+| --- | --- | --- |  
+| Operating cash flow | **$38.75** | $36.31 |  
+| Investing cash flow | (30.06) | (19.86) |  
+|  of which CapEx & finance-lease principal | (15.72) | (15.65) |  
+| Financing cash flow | (10.29) | (7.30) |  
+
+• Year-end **cash & marketable securities $61.95 billion** (↑ $7.10 billion).  
+• Major 2020 uses: $6.30 billion share repurchases (27 million shares), $6.36 billion equity investments (incl. Jio Platforms), $5.0 billion cash payment for FTC settlement, $3.56 billion tax withholdings on RSU net settlements.  
+• Share-repurchase authorization: **$8.6 billion** remained on 12-31-20; board added **$25 billion** in January 2021.  
+• Contractual obligations total **$30.89 billion** (leases, transition tax, purchase commitments); no material off-balance-sheet arrangements.  
+• Planned 2021 CapEx **$21-23 billion**; management states existing liquidity and operating cash flow are sufficient for foreseeable requirements.
+
+---
+
+## Critical Accounting Policies and Estimates (Highlights)  
+
+• Revenue recognition (gross vs. net), collectibility assessments amidst COVID-19, expected-credit-loss modeling, and valuation of equity investments.  
+• Income-tax judgments (uncertain tax positions, Altera outcome).  
+• Goodwill/intangible-asset impairment and useful-life estimates.  
+
+---
+
+## Market Risk  
+
+• FX: Euro and other non-USD currencies affect revenues/expenses; 2020 FX losses **$129 million**.  
+• Interest-rate sensitivity: a 100 bp rate increase would reduce AFS debt-security values by **$794 million**.  
+• Equity-investment risk: privately-held stakes carried at **$6.23 billion** and evaluated for impairment each period; pandemic-era valuation volatility noted.
+
+---
+
+### Debt  
+
+The company reported **no long-term or short-term borrowings** as of December 31 2020.
+
+---
+
+## Outlook and Considerations  
+
+Management expects continued ad-revenue growth to hinge on:  
+1. Durability of the pandemic-driven shift to on-line commerce;  
+2. Pace of global macroeconomic recovery and fiscal stimulus;  
+3. Impact of regulatory changes and mobile OS/browser privacy initiatives on ad targeting and measurement.
+
+Expense growth will track investments in infrastructure, headcount, product innovation, privacy & safety, and support for advertisers. Facebook believes its strong cash position and free-cash-flow generation will fund these priorities alongside an expanded share-repurchase program.
+
+*(All percentages are calculated from underlying unrounded figures.)*

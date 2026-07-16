@@ -1,0 +1,486 @@
+# Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+You should read the following discussion of our financial condition and results of operations in conjunction with our consolidated financial statements and the related notes included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K. In addition to our historical consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Annual Report on Form 10-K, particularly in Part I, Item 1A, "Risk Factors." For a discussion of limitations in the measurement of certain of our community metrics, see the section entitled "Limitations of Key Metrics and Other Data" in this Annual Report on Form 10-K.
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the United States (GAAP), we present revenue on a constant currency basis and free cash flow, which are non-GAAP financial measures. Revenue on a constant currency basis is presented in the section entitled "—Revenue—Foreign Exchange Impact on Revenue." To calculate revenue on a constant currency basis, we translated revenue for the full year 2023 using 2022 monthly exchange rates for our settlement or billing currencies other than the U.S. dollar. For a full description of our free cash flow non-GAAP measure, see the section entitled "—Liquidity and Capital Resources—Free Cash Flow."
+
+These non-GAAP financial measures are not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. These measures may be different from non‑GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. Moreover, presentation of revenue on a constant currency basis is provided for year-over-year comparison purposes, and investors should be cautioned that the effect of changing foreign currency exchange rates has an actual effect on our operating results. We believe these non-GAAP financial measures provide investors with useful supplemental information about the financial performance of our business, enable comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating our business.
+
+## Executive Overview of Full Year 2023 Results
+
+Our mission is to give people the power to build community and bring the world closer together.
+
+Our financial results and key community metrics for 2023 are set forth below. Our total revenue for 2023 was $134.90 billion, an increase of 16% compared to 2022, due to an increase in advertising revenue. Revenue on a constant currency basis would have increased 15% compared to 2022. Ad impressions delivered across our Family of Apps increased 28% year-over-year in 2023, partially offset by a 9% year-over-year decrease in the average price per ad.
+
+Income from operations for 2023 was $46.75 billion, an increase of $17.81 billion, or 62%, compared to 2022, driven by an increase in advertising revenue.
+
+## Consolidated and Segment Results
+
+We report our financial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook, Instagram, Messenger, WhatsApp, and other services. RL includes our augmented, mixed and virtual reality related consumer hardware, software, and content.
+
+|                              | Family of Apps               |          |          | Reality Labs                 |          |          | Total                        |          |          |
+|------------------------------|------------------------------|----------|----------|------------------------------|----------|----------|------------------------------|----------|----------|
+|                              | Year Ended December 31, 2023 | 2022     | % change | Year Ended December 31, 2023 | 2022     | % change | Year Ended December 31, 2023 | 2022     | % change |
+| *(in millions, except percentages)* | | | | | | | | | |
+| Revenue                      | $ 133,006                    | $ 114,450 | 16%     | $ 1,896                      | $ 2,159  | (12)%    | $ 134,902                    | $ 116,609 | 16%     |
+| Costs and expenses           | $ 70,135                     | $ 71,789  | (2)%    | $ 18,016                     | $ 15,876 | 13%      | $ 88,151                     | $ 87,665  | 1%      |
+| Income (loss) from operations| $ 62,871                     | $ 42,661  | 47%     | $ (16,120)                   | $ (13,717)| (18)%   | $ 46,751                     | $ 28,944  | 62%     |
+| Operating margin             | 47%                          | 37%       |         | (850)%                       | (635)%   |          | 35%                          | 25%       |         |
+
+- Net income was $39.10 billion, with diluted earnings per share (EPS) of $14.87 for the year ended December 31, 2023.
+- Capital expenditures, including principal payments on finance leases, were $28.10 billion for the year ended December 31, 2023.
+- Effective tax rate was 17.6% for the year ended December 31, 2023.
+- Cash, cash equivalents, and marketable securities were $65.40 billion as of December 31, 2023.
+- Long-term debt was $18.39 billion as of December 31, 2023.
+- Headcount was 67,317 as of December 31, 2023, a decrease of 22% year-over-year.
+
+## Dividend
+
+Prior to 2024, we had never declared or paid any cash dividend on our common stock. On February 1, 2024 we announced the initiation of our first ever cash dividend program. This cash dividend of $0.50 per share of Class A common stock and Class B common stock (together, the "common stock") is equivalent to $2.00 per share on an annual basis. The first cash dividend will be paid on March 26, 2024 to all holders of record of common stock at the close of business on February 22, 2024.
+
+## Restructuring
+
+Beginning in 2022, we initiated several measures to pursue greater efficiency and to realign our business and strategic priorities. As of December 31, 2023, we have completed the data center initiatives and the employee layoffs, and substantially completed the facilities consolidation initiatives.
+
+A summary of our restructuring charges, including subsequent adjustments, for the year ended December 31, 2023 by major activity type is as follows (in millions):
+
+**Year Ended December 31, 2023**
+
+| Category                   | Facilities Consolidation | Severance and Other Personnel Costs | Data Center Assets | Total      |
+|----------------------------|--------------------------:|-------------------------------------:|-------------------:|-----------:|
+| Cost of revenue            | $           177           | $                  —                | $         (224)    | $     (47) |
+| Research and development   |           1,581           |                413                  |             —      |      1,994 |
+| Marketing and sales        |             396           |                307                  |             —      |        703 |
+| General and administrative |             352           |                450                  |             —      |        802 |
+| **Total**                  | **$       2,506**         | **$            1,170**              | **$         (224)**| **$ 3,452**|
+
+During 2023 and 2022, we recognized total pre-tax restructuring charges of $2.84 billion and $4.10 billion under our FoA segment, and $612 million and $515 million under our RL segment, respectively.
+
+See Note 3 — Restructuring in the notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K for additional information regarding restructuring charges.
+
+## Family of Apps Metrics
+
+- Family daily active people (DAP) was 3.19 billion on average for December 2023, an increase of 8% year-over-year.
+- Family monthly active people (MAP) was 3.98 billion as of December 31, 2023, an increase of 6% year-over-year.
+- Facebook daily active users (DAUs) were 2.11 billion on average for December 2023, an increase of 6% year-over-year.
+- Facebook monthly active users (MAUs) were 3.07 billion as of December 31, 2023, an increase of 3% year-over-year.
+- Ad impressions delivered across our Family of Apps increased by 28% year-over-year in 2023, and the average price per ad decreased by 9% year-over-year in 2023.
+
+Beginning with our Quarterly Report on Form 10-Q to be filed for the first quarter of 2024, we will no longer report DAUs, MAUs, ARPU, and MAP in our periodic reports filed with the Securities and Exchange Commission. We intend to begin reporting year-over-year percentage changes in ad impressions delivered and the average price per ad by geographic region, while continuing to report DAP and ARPP (calculated based on DAP), beginning with our Quarterly Report on Form 10-Q to be filed for the first quarter of 2024. For additional information, see the section entitled "Limitations of Key Metrics and Other Data" in this Annual Report on Form 10-K.
+
+## Developments in Advertising
+
+Substantially all of our revenue is currently generated from advertising on Facebook and Instagram. We rely on targeting and measurement tools that incorporate data signals from user activity on websites and services that we do not control in order to deliver relevant and effective ads to our users. Our advertising revenue has been, and we expect will continue to be, adversely affected by reduced marketer spending as a result of limitations on our ad targeting and measurement tools arising from changes to the regulatory environment and third-party mobile operating systems and browsers.
+
+In particular, legislative and regulatory developments such as the General Data Protection Regulation, including its evolving interpretation through decisions of the Court of Justice of the European Union, ePrivacy Directive, the European Digital Services Act, and U.S. state privacy laws including the California Consumer Privacy Act, as amended by the California Privacy Rights Act, have impacted our ability to use data signals in our ad products, and we expect these and other developments such as the Digital Markets Act will have further impact in the future. As a result, we have implemented, and we will continue to implement, whether voluntarily or otherwise, changes to our products and user data practices, which reduce our ability to effectively target and measure ads. For example, in response to regulatory developments in Europe, we announced our plans to change the legal basis for behavioral advertising on Facebook and Instagram in the EU, European Economic Area, and Switzerland from "legitimate interests" to "consent," and began offering users in the region a "subscription for no ads" alternative. We are continuing to engage with regulators on our new consent model. In addition, mobile operating system and browser providers, such as Apple and Google, have implemented product changes and/or announced future plans to limit the ability of websites and application developers to collect and use these signals to target and measure advertising. For example, in 2021, Apple made certain changes to its products and data use policies in connection with changes to its iOS operating system that reduce our and other iOS developers' ability to target and measure advertising, which has negatively impacted, and we expect will continue to negatively impact, the size of the budgets marketers are willing to commit to us and other advertising platforms.
+
+To mitigate these developments, we are continually working to evolve our advertising systems to improve the performance of our ad products. We are developing privacy enhancing technologies to deliver relevant ads and measurement capabilities while reducing the amount of personal information we process, including by relying more on anonymized or aggregated third-party data. In addition, we are developing tools that enable marketers to share their data into our systems, as well as ad products that generate more valuable signals within our apps. More broadly, we also continue to innovate our advertising tools to help marketers prepare campaigns and connect with consumers, including developing growing formats such as Reels ads and our business messaging ad products. Across all of these efforts, we are making significant investments in artificial intelligence (AI), including generative AI, to improve our delivery, targeting, and measurement capabilities. Further, we are focused on driving onsite conversions in our business messaging ad products by developing new features and scaling existing features.
+
+We are also engaging with others across our industry to explore the possibility of new open standards for the private and secure processing of data for advertising purposes. We believe our ongoing improvements to ad targeting and measurement are continuing to drive improved results for advertisers. However, we expect that some of these efforts will be long-term initiatives, and that the legislative, regulatory and platform developments described above will continue to adversely impact our advertising revenue for the foreseeable future.
+
+## Other Business and Macroeconomic Conditions
+
+Other global and regional business, macroeconomic, and geopolitical conditions also have had, and we believe will continue to have, an impact on our user growth and engagement and advertising revenue. In particular, we believe advertising budgets have been pressured from time to time by factors such as inflation, rising interest rates, and related market uncertainty, which has led to reduced marketer spending. While we saw improvement in business and macroeconomic conditions in 2023, continued business, macroeconomic, and geopolitical uncertainty remains, which could impact our financial results in future periods. In addition, competitive products and services have reduced some users' engagement with our products and services. We are investing in Reels and in AI initiatives across our products, including our AI-powered discovery engine to recommend relevant content, which we have already seen results in improved user engagement and monetization of our products. While Reels is growing in usage, it monetizes at a lower rate than our feed and Stories products and we expect it will continue to monetize at a lower rate for the foreseeable future. We also have seen fluctuations and declines in the size of our active user base in one or more regions from time to time. For example, in connection with the war in Ukraine, access to Facebook and Instagram was restricted in Russia and the services were then prohibited by the Russian government, which continued to adversely affect user growth and engagement in 2023. These trends adversely affected advertising revenue in 2023, and we expect will continue to affect our advertising revenue in the foreseeable future.
+
+Although we regularly evaluate a variety of sources to understand trends in our advertising revenue, we do not have perfect visibility into the factors driving advertiser spending decisions and our assessments involve complex judgments about what is driving advertising decisions across a large and diversified advertiser base across the globe. Trends impacting advertising spend are also dynamic and interrelated. As a result, it is difficult to identify with precision which advertiser spending decisions are attributable to which trends, and we are unable to quantify the exact impact that each trend had on our advertising revenue during the periods presented.
+
+## Investment Philosophy
+
+We expect to continue to build on the discipline and habits that we developed in 2022 when we initiated several efforts to increase our operating efficiency, while still remaining focused on investing in significant opportunities. In 2023, 80% of our total costs and expenses were recognized in FoA and 20% were recognized in RL. Our FoA investments include expenses relating to headcount, data centers, and technical infrastructure as part of our efforts to develop our apps and our advertising services. These efforts include significant investments in AI initiatives, including to recommend relevant content across our products, enhance our advertising tools, develop new products, and develop new features for existing products using generative AI.
+
+We are also making significant investments in our metaverse efforts, including developing virtual, augmented, and mixed reality devices, software for social platforms, neural interfaces, and other foundational technologies for the metaverse. Our RL investments include expenses relating to technology development across these efforts. Many of our RL investments are directed toward long-term, cutting-edge research and development for products for the metaverse that may only be fully realized in the next decade. In 2023, our RL segment reduced our overall operating profit by approximately $16.12 billion, and we expect our RL operating losses to increase meaningfully in 2024. We expect this will be a complex, evolving, and long-term initiative, and our ability to support our metaverse efforts is dependent on generating sufficient profits from other areas of our business. We are investing now because we believe this is the next chapter of the internet and will unlock monetization opportunities for businesses, developers, and creators, including around advertising, hardware, and digital goods.
+
+## Trends in Our Family Metrics
+
+The numbers for our key Family metrics, our DAP, MAP, and average revenue per person (ARPP), do not include users on our other products unless they would otherwise qualify as DAP or MAP, respectively, based on their other activities on our Family products.
+
+Trends in the number of people in our community affect our revenue and financial results by influencing the number of ads we are able to show, the value of our ads to marketers, as well as our expenses and capital expenditures. Substantially all of our daily and monthly active people (as defined below) access our Family products on mobile devices.
+
+**Daily Active People (DAP).** We define a daily active person as a registered and logged-in user of Facebook, Instagram, Messenger, and/or WhatsApp (collectively, our "Family" of products) who visited at least one of these Family products through a mobile device application or using a web or mobile browser on a given day. We do not require people to use a common identifier or link their accounts to use multiple products in our Family, and therefore must seek to attribute multiple user accounts within and across products to individual people. Our calculations of DAP rely upon complex techniques, algorithms, and machine learning models that seek to estimate the underlying number of unique people using one or more of these products, including by matching user accounts within an individual product and across multiple products when we believe they are attributable to a single person, and counting such group of accounts as one person. As these techniques and models require significant judgment, are developed based on internal reviews of limited samples of user accounts, and are calibrated against user survey data, there is necessarily some margin of error in our estimates. We view DAP, and DAP as a percentage of MAP, as measures of engagement across our products. For additional information, see the section entitled "Limitations of Key Metrics and Other Data" in this Annual Report on Form 10-K.
+
+*Note: We report the numbers of DAP and MAP as specific amounts, but these numbers are estimates of the numbers of unique people using our products and are subject to statistical variances and errors. While we expect the error margin for these estimates to vary from period to period, we estimate that such margin generally will be approximately 3% of our worldwide MAP. At our scale, it is very difficult to attribute multiple user accounts within and across products to individual people, and it is possible that the actual numbers of unique people using our products may vary significantly from our estimates, potentially beyond our estimated error margins. For additional information, see the section entitled "Limitations of Key Metrics and Other Data" in this Annual Report on Form 10-K. In the third quarter of 2022, we updated our Family metrics calculations to maintain calibration of our models against recent user survey data, and we estimate such update contributed an aggregate of approximately 30 million DAP to our reported worldwide DAP in September 2022. Beginning in the fourth quarter of 2023, our Family metrics no longer include Messenger Kids users.*
+
+Worldwide DAP increased 8% to 3.19 billion on average during December 2023 from 2.96 billion during December 2022.
+
+**Monthly Active People (MAP).** We define a monthly active person as a registered and logged-in user of one or more Family products who visited at least one of these Family products through a mobile device application or using a web or mobile browser in the last 30 days as of the date of measurement. We do not require people to use a common identifier or link their accounts to use multiple products in our Family, and therefore must seek to attribute multiple user accounts within and across products to individual people. Our calculations of MAP rely upon complex techniques, algorithms, and machine learning models that seek to estimate the underlying number of unique people using one or more of these products, including by matching user accounts within an individual product and across multiple products when we believe they are attributable to a single person, and counting such group of accounts as one person. As these techniques and models require significant judgment, are developed based on internal reviews of limited samples of user accounts, and are calibrated against user survey data, there is necessarily some margin of error in our estimates. We view MAP as a measure of the size of our global active community of people using our products. For additional information, see the section entitled "Limitations of Key Metrics and Other Data" in this Annual Report on Form 10-K.
+
+*Note: We report the numbers of DAP and MAP as specific amounts, but these numbers are estimates of the numbers of unique people using our products and are subject to statistical variances and errors. While we expect the error margin for these estimates to vary from period to period, we estimate that such margin generally will be approximately 3% of our worldwide MAP. At our scale, it is very difficult to attribute multiple user accounts within and across products to individual people, and it is possible that the actual numbers of unique people using our products may vary significantly from our estimates, potentially beyond our estimated error margins. For additional information, see the section entitled "Limitations of Key Metrics and Other Data" in this Annual Report on Form 10-K. In the third quarter of 2022, we updated our Family metrics calculations to maintain calibration of our models against recent user survey data, and we estimate such update contributed an aggregate of approximately 40 million MAP to our reported worldwide MAP in September 2022. Beginning in the fourth quarter of 2023, our Family metrics no longer include Messenger Kids users.*
+
+As of December 31, 2023, we had 3.98 billion MAP, an increase of 6% from 3.74 billion as of December 31, 2022.
+
+**Average Revenue Per Person (ARPP).** We define ARPP as our total revenue during a given quarter, divided by the average of the number of MAP at the beginning and end of the quarter. While ARPP includes all sources of revenue, the number of MAP used in this calculation only includes users of our Family products as described in the definition of MAP above. We estimate that the share of revenue from users who are not also MAP was not material.
+
+*Note: Non-advertising revenue includes RL revenue generated from the delivery of consumer hardware products and FoA Other revenue, which consists of revenue from WhatsApp Business Platform, net fees we receive from developers using our Payments infrastructure, and revenue from various other sources. Beginning with our Quarterly Report on Form 10-Q to be filed for the first quarter of 2024, we intend to report ARPP based on DAP instead of MAP.*
+
+Our annual worldwide ARPP in 2023, which represents the sum of quarterly ARPP during such period, was $34.72, an increase of 9% from 2022.
+
+## Trends in Our Facebook User Metrics
+
+The numbers for our key Facebook metrics, our DAUs, MAUs, and average revenue per user (ARPU), do not include users on Instagram, WhatsApp, or our other products, unless they would otherwise qualify as DAUs or MAUs, respectively, based on their other activities on Facebook.
+
+Trends in the number of users affect our revenue and financial results by influencing the number of ads we are able to show, the value of our ads to marketers, as well as our expenses and capital expenditures. Substantially all of our daily and monthly active users (as defined below) access Facebook on mobile devices.
+
+**Daily Active Users (DAUs).** We define a daily active user as a registered and logged-in Facebook user who visited Facebook through our website or a mobile device, or used our Messenger application (and is also a registered Facebook user), on a given day. We view DAUs, and DAUs as a percentage of MAUs, as measures of user engagement on Facebook.
+
+*Note: For purposes of reporting DAUs, MAUs, and ARPU by geographic region, Europe includes all users in Russia and Turkey and Rest of World includes all users in Africa, Latin America, and the Middle East.*
+
+Worldwide DAUs increased 6% to 2.11 billion on average during December 2023 from 2.00 billion during December 2022. Users in India, Bangladesh, and Nigeria represented the top three sources of growth in DAUs during December 2023, relative to the same period in 2022.
+
+**Monthly Active Users (MAUs).** We define a monthly active user as a registered and logged-in Facebook user who visited Facebook through our website or a mobile device, or used our Messenger application (and is also a registered Facebook user), in the last 30 days as of the date of measurement. MAUs are a measure of the size of our global active user community on Facebook.
+
+As of December 31, 2023, we had 3.07 billion MAUs, an increase of 3% from December 31, 2022. Users in India, Bangladesh, and Nigeria represented the top three sources of growth in 2023, relative to the same period in 2022.
+
+## Trends in Our Monetization by Facebook User Geography
+
+We calculate our revenue by user geography based on our estimate of the geography in which ad impressions are delivered, virtual and digital goods are purchased, or consumer hardware products are shipped. We define ARPU as our total revenue in a given geography during a given quarter, divided by the average of the number of MAUs in the geography at the beginning and end of the quarter. While ARPU includes all sources of revenue, the number of MAUs used in this calculation only includes users of Facebook and Messenger as described in the definition of MAU above. While the share of revenue from users who are not also Facebook or Messenger MAUs has grown over time, we estimate that revenue from users who are Facebook or Messenger MAUs represents the substantial majority of our total revenue. See "Average Revenue Per Person (ARPP)" above for our estimates of trends in our monetization of our Family products. The geography of our users affects our revenue and financial results because we currently monetize users in different geographies at different average rates. Our revenue and ARPU in regions such as United States & Canada and Europe are relatively higher primarily due to the size and maturity of those online and mobile advertising markets. For example, ARPU in 2023 in the United States & Canada region was more than 11 times higher than in the Asia-Pacific region.
+
+*Note: Non-advertising revenue includes RL revenue generated from the delivery of consumer hardware products and FoA Other revenue, which consists of revenue from WhatsApp Business Platform, net fees we receive from developers using our Payments infrastructure, and revenue from various other sources.*
+
+Our revenue by user geography in the charts above is geographically apportioned based on our estimation of the geographic location of our users when they perform a revenue-generating activity. This allocation differs from our revenue disaggregated by geography disclosure in Note 2 — Revenue in our consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplemental Data" where revenue is geographically apportioned based on the addresses of our customers.
+
+Our annual worldwide ARPU in 2023, which represents the sum of quarterly ARPU during such period, was $44.60, an increase of 13% from 2022. For 2023, ARPU increased by 21% in Europe, 20% in Rest of World, 11% in Asia-Pacific, and 10% in United States & Canada. User growth was mostly in geographies with relatively lower ARPU, such as Asia‑Pacific and Rest of World. We expect that user growth in the future will be primarily concentrated in those regions where ARPU is relatively lower, such that worldwide ARPU may continue to increase at a slower rate relative to ARPU in any geographic region in a particular period, or potentially decrease even if ARPU increases in each geographic region.
+
+## Critical Accounting Estimates
+
+Our consolidated financial statements are prepared in accordance with GAAP. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. On an ongoing basis, we evaluate our accounting estimates based on historical experience and on various other assumptions that we believe are reasonable under the circumstances. The actual impact on our financial performance could differ from these estimates under different assumptions or conditions.
+
+An accounting estimate is considered critical if both (i) the nature of the estimates or assumptions is material due to the levels of subjectivity and judgment involved, and (ii) the impact within a reasonable range of outcomes of the estimates and assumptions is material to our consolidated financial statements. We believe that the estimates and assumptions associated with loss contingencies, income taxes, and valuation of assets, when applicable, have the greatest potential impact on our consolidated financial statements. Therefore, we consider these to be our critical accounting estimates. For further information on all of our significant accounting policies, see Note 1 — Summary of Significant Accounting Policies in the accompanying notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K.
+
+### Loss Contingencies
+
+We are involved in legal proceedings, claims, and regulatory, tax or government inquiries and investigations that arise in the ordinary course of business. Certain of these matters include speculative claims for substantial or indeterminate amounts of damages. Additionally, we are required to comply with various legal and regulatory obligations around the world, and we regularly become subject to new laws and regulations in the jurisdictions in which we operate. The requirements for complying with these obligations may be uncertain and subject to interpretation and enforcement by regulatory and other authorities, and any failure to comply with such obligations could eventually lead to asserted legal or regulatory action. With respect to these matters, asserted and unasserted, we evaluate the associated developments on a regular basis and accrue a liability when we believe that it is both probable that a loss has been incurred and the amount can be reasonably estimated.
+
+We review the developments in our contingencies that could affect the amount of the provisions that have been previously recorded, and the matters and related reasonably possible losses disclosed. We make adjustments to our provisions and changes to our disclosures accordingly to reflect the merits of our defenses and the impact of negotiations, settlements, regulatory proceedings, rulings, advice of legal counsel, and updated information. Significant judgment is required to determine the probability of loss and the estimated amount of loss, including when and if the probability and estimate has changed for asserted and unasserted matters. Certain factors, in particular, have resulted in significant changes to these estimates and judgments in prior quarters based on updated information available. For example, in certain jurisdictions where we operate, fines and penalties may be the result of new laws and preliminary interpretations regarding the basis of assessing damages, which may make it difficult to estimate what such fines and penalties would amount to if successfully asserted against us. In addition, certain government inquiries and investigations, such as matters before our lead European Union privacy regulator, the Irish Data Protection Commission, are subject to review by other regulatory bodies before decisions are finalized, which can lead to significant changes in the outcome of an inquiry. As a result of these and other factors, we reasonably expect that our estimates and judgments with respect to our contingencies may continue to be revised in future quarters.
+
+The ultimate outcome of these matters, such as whether the likelihood of loss is remote, reasonably possible, or probable or if and when the reasonably possible range of loss is estimable, is inherently uncertain. Therefore, if one or more of these matters were resolved against us for amounts in excess of management's estimates of losses, our results of operations and financial condition, including in a particular reporting period in which any such outcome becomes probable and estimable, could be materially adversely affected. See Note 12 — Commitments and Contingencies and Note 15 — Income Taxes of the accompanying notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" and Part I, Item 3, "Legal Proceedings" of this Annual Report on Form 10-K for additional information regarding these contingencies.
+
+### Income Taxes
+
+We are subject to income taxes in the United States and numerous foreign jurisdictions. Significant judgment is required in determining our provision for income taxes and income tax assets and liabilities, including evaluating uncertainties in the application of accounting principles and complex tax laws. Our actual and forecasted income (loss) before provision is subject to change due to economic, political and other conditions and significant judgment is required in determining our ability to recognize our net deferred tax assets.
+
+We recognize tax benefits from uncertain tax positions only if we believe that it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. These uncertain tax positions include our estimates for transfer pricing that have been developed based upon analyses of appropriate arms-length prices. Similarly, our estimates related to uncertain tax positions concerning research and development tax credits are based on an assessment of whether our available documentation corroborating the nature of our activities supporting the tax credits will be sufficient. Although we believe that we have adequately reserved for our uncertain tax positions (including net interest and penalties), we can provide no assurance that the final tax outcome of these matters will not be materially different, as significant judgment is required in evaluating and estimating our provision for income taxes. We make adjustments to these reserves in accordance with the income tax accounting guidance when facts and circumstances change, such as the closing of a tax audit or the refinement of an estimate. To the extent that the final tax outcome of these matters is different from the amounts recorded, such differences will affect the provision for income taxes in the period in which such determination is made, and could have a material impact on our financial condition and operating results.
+
+### Valuation of Assets
+
+The valuation and impairment assessment of certain assets, including recoverability, requires significant judgment and assumptions such as estimation of future cash flows, discount rates, market data of comparable assets and companies, holding period and residual value of asset groups, among others.
+
+Impairment testing for long-lived-assets, including property and equipment and operating lease right-of-use assets, occurs whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable compared to the future undiscounted cash flows the assets are expected to generate from the use and eventual disposition. The impairment test is performed at the asset group level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities. When the test results indicate that the carrying amount of long-lived assets is not recoverable, the carrying amount of such assets is reduced to fair value.
+
+Impairment testing for non-marketable equity securities without readily determinable fair values accounted for using the measurement alternative, is performed at each reporting date to determine whether there are triggering events for impairment. Such qualitative assessment considers factors such as, but not limited to, the investee's financial condition and business outlook; industry and sector performance; regulatory, economic or technological environment; operational and financing cash flows; and other relevant events and factors affecting the investee. When indicators of impairment exist, we estimate the fair value of our non-marketable equity securities using the market approach and/or the income approach and recognize impairment loss in our consolidated statements of income if the estimated fair value is less than the carrying value. In addition, for these non-marketable equity securities, determining whether a non-marketable equity security issued by the same issuer is similar to the non-marketable equity security we hold may require judgment in (a) assessment of differences in rights and obligations associated with the instruments such as voting rights, distribution rights and preferences, and conversion features, and (b) adjustments to the observable price for differences such as, but not limited to, rights and obligations, control premium, liquidity, or principal or most advantageous markets. The identification of observable transactions will depend on the timely reporting of these transactions from our investee companies, which may occur in a period subsequent to when the transactions take place. Therefore, our fair value adjustment for these observable transactions may occur in a period subsequent to when the transaction actually occurred.
+
+## Components of Results of Operations
+
+### Revenue
+
+#### Family of Apps (FoA)
+
+**Advertising.** We generate substantially all of our revenue from advertising. Our advertising revenue is generated by displaying ad products on Facebook, Instagram, Messenger, and third-party mobile applications. Marketers pay for ad products either directly or through their relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions, such as clicks, taken by users.
+
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered. Impressions are considered delivered when an ad is displayed to a user. We recognize revenue from the delivery of action-based ads in the period in which a user takes the action the marketer contracted for. The number of ads we show is subject to methodological changes as we continue to evolve our ads business and the structure of our ads products. In particular, the ads we show may vary by product (for example, our video and Reels products are not currently monetized at the same rate as our feed or Stories products), and from time to time we increase or decrease the number or frequency of ads we show as part of our product and monetization strategies. We calculate average price per ad as total advertising revenue divided by the number of ads delivered, representing the average price paid per ad by a marketer regardless of their desired objective such as impression or action. For advertising revenue arrangements where we are not the principal, we recognize revenue on a net basis.
+
+**Other revenue.** Other revenue consists of revenue from WhatsApp Business Platform, net fees we receive from developers using our Payments infrastructure and revenue from various other sources.
+
+#### Reality Labs (RL)
+
+RL revenue is generated from the delivery of consumer hardware products, such as Meta Quest, wearables, and related software and content.
+
+### Cost of Revenue and Operating Expenses
+
+**Cost of revenue.** Our cost of revenue consists of expenses associated with the delivery and distribution of our products. These mainly include expenses related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network infrastructure and buildings, as well as payroll and related expenses which include share-based compensation for employees on our operations teams, and energy and bandwidth costs. Cost of revenue also includes costs associated with partner arrangements, including traffic acquisition costs and credit card and other fees related to processing customer transactions; RL inventory costs, which consist of cost of products sold and estimated losses on non-cancelable contractual commitments; and content costs.
+
+**Research and development.** Research and development expenses consist mostly of payroll and related expenses which include share-based compensation, RL technology development costs, facilities-related costs for employees on our engineering and technical teams who are responsible for developing new products as well as improving existing products, and restructuring charges.
+
+**Marketing and sales.** Marketing and sales expenses consist mainly of marketing and promotional expenses as well as payroll and related expenses which include share-based compensation for our employees engaged in sales, sales support, marketing, business development, and customer service functions. Our marketing and sales expenses also include professional services such as content reviewers to support our community and product operations and restructuring charges.
+
+**General and administrative.** General and administrative expenses consist primarily of legal-related costs, which include estimated fines, settlements, or other losses in connection with legal and related matters, as well as other legal fees; payroll and related expenses which include share-based compensation for certain of our executives as well as our legal, finance, human resources, corporate communications and policy, and other administrative employees; other taxes, such as digital services taxes and other non-income-based tax levies; professional services and restructuring charges.
+
+## Results of Operations
+
+In this section, we discuss the results of our operations for the year ended December 31, 2023 compared to the year ended December 31, 2022. For a discussion of the year ended December 31, 2022 compared to the year ended December 31, 2021, please refer to Part II, Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for the year ended December 31, 2022.
+
+The following table sets forth our consolidated statements of income data (in millions):
+
+| | Year Ended December 31, | | |
+|---|---|---|---|
+| | **2023** | **2022** | **2021** |
+| Revenue | $ 134,902 | $ 116,609 | $ 117,929 |
+| Costs and expenses: | | | |
+| Cost of revenue | 25,959 | 25,249 | 22,649 |
+| Research and development | 38,483 | 35,338 | 24,655 |
+| Marketing and sales | 12,301 | 15,262 | 14,043 |
+| General and administrative | 11,408 | 11,816 | 9,829 |
+| Total costs and expenses | 88,151 | 87,665 | 71,176 |
+| Income from operations | 46,751 | 28,944 | 46,753 |
+| Interest and other income (expense), net | 677 | (125) | 531 |
+| Income before provision for income taxes | 47,428 | 28,819 | 47,284 |
+| Provision for income taxes | 8,330 | 5,619 | 7,914 |
+| Net income | $ 39,098 | $ 23,200 | $ 39,370 |
+
+The following table sets forth our consolidated statements of income data (as a percentage of revenue)(1):
+
+| | Year Ended December 31, | | |
+|---|---|---|---|
+| | **2023** | **2022** | **2021** |
+| Revenue | 100% | 100% | 100% |
+| Costs and expenses: | | | |
+| Cost of revenue | 19 | 22 | 19 |
+| Research and development | 29 | 30 | 21 |
+| Marketing and sales | 9 | 13 | 12 |
+| General and administrative | 8 | 10 | 8 |
+| Total costs and expenses | 65 | 75 | 60 |
+| Income from operations | 35 | 25 | 40 |
+| Interest and other income (expense), net | 1 | — | — |
+| Income before provision for income taxes | 35 | 25 | 40 |
+| Provision for income taxes | 6 | 5 | 7 |
+| Net income | 29% | 20% | 33% |
+
+*(1) Percentages have been rounded for presentation purposes and may differ from unrounded results.*
+
+## Revenue
+
+The following table sets forth our revenue by source and by segment:
+
+| | Year Ended December 31, | | | 2023 vs 2022 % change | 2022 vs 2021 % change |
+|---|---|---|---|---|---|
+| *(in millions, except percentages)* | **2023** | **2022** | **2021** | | |
+| Advertising | $ 131,948 | $ 113,642 | $ 114,934 | 16% | (1)% |
+| Other revenue | 1,058 | 808 | 721 | 31% | 12% |
+| Family of Apps | 133,006 | 114,450 | 115,655 | 16% | (1)% |
+| Reality Labs | 1,896 | 2,159 | 2,274 | (12)% | (5)% |
+| Total revenue | $ 134,902 | $ 116,609 | $ 117,929 | 16% | (1)% |
+
+### Family of Apps
+
+FoA revenue in 2023 increased $18.56 billion, or 16%, compared to 2022. The increase was almost entirely driven by advertising revenue.
+
+**Advertising**
+
+Advertising revenue in 2023 increased $18.31 billion, or 16%, compared to 2022 due to an increase in the number of ads delivered, partially offset by a decrease in the average price per ad. In 2023, the number of ads delivered increased by 28%, as compared with an 18% increase in 2022 as ads impressions grew in all regions during 2023, especially in Asia-Pacific and Rest of World. The increase in the ads delivered during 2023 was driven by increases in the number and frequency of ads displayed across our products and an increase in users. In 2023, the average price per ad decreased by 9%, as compared with a decrease of 16% in 2022. The decrease in average price per ad was driven by an increase in the number of ads delivered, especially in geographies and in products, such as Reels, that monetize at lower rates. While the average price per ad declined year-over-year, we believe the improvements to our ad targeting and measurement tools have had a favorable impact on our ad performance and advertising demand. Other factors are also discussed in the section entitled "—Executive Overview of Full Year 2023 Results." In addition, year-over-year advertising revenue growth for the full year 2023 was driven mainly by marketer spending in online commerce, which benefited from marketers based in China, consumer packaged goods, and entertainment and media. We anticipate that future advertising revenue will be driven by a combination of price and the number of ads delivered.
+
+**Other revenue**
+
+FoA other revenue in 2023 increased $250 million, or 31%, compared to 2022. The increase was mainly driven by WhatsApp Business Platform revenue.
+
+### Reality Labs
+
+RL revenue in 2023 decreased $263 million, or 12%, compared to 2022. The decrease in RL revenue was mostly driven by a net decrease in the volume of Meta Quest sales.
+
+### Revenue Seasonality
+
+Revenue is traditionally seasonally strong in the fourth quarter of each year due in part to seasonal holiday demand. We believe that this seasonality in both advertising revenue and RL consumer hardware sales affects our quarterly results, which generally reflect significant growth in revenue between the third and fourth quarters and a decline between the fourth and subsequent first quarters. For instance, our total revenue increased 17%, 16%, and 16% between the third and fourth quarters of 2023, 2022, and 2021, respectively, while total revenue for the first quarters of 2023, 2022, and 2021 declined 11%, 17%, and 7% compared to the fourth quarters of 2022, 2021, and 2020 respectively.
+
+## Foreign Exchange Impact on Revenue
+
+Changes in foreign exchange rates had a favorable impact on our total revenue in the full year 2023 compared to the same period in 2022. If we had translated revenue for the full year 2023 using the prior year's monthly exchange rates for our settlement or billing currencies other than the U.S. dollar, our total revenue and advertising revenue would have been $134.53 billion and $131.57 billion, respectively. Using these constant rates, total revenue and advertising revenue would have been $374 million and $379 million lower than actual total revenue and advertising revenue, respectively, for the full year 2023. Using the same constant rates, full year 2023 total revenue and advertising revenue would have been $17.92 billion and $17.93 billion higher than actual total revenue and advertising revenue, respectively, for the full year 2022.
+
+## Cost of Revenue
+
+| | Year Ended December 31, | | | 2023 vs 2022 % change | 2022 vs 2021 % change |
+|---|---|---|---|---|---|
+| *(in millions, except percentages)* | **2023** | **2022** | **2021** | | |
+| Cost of revenue | $ 25,959 | $ 25,249 | $ 22,649 | 3% | 11% |
+| Percentage of revenue | 19% | 22% | 19% | | |
+
+Cost of revenue in 2023 increased $710 million, or 3%, compared to 2022. The increase was primarily driven by higher operational expenses related to our data centers and technical infrastructure, partially offset by a decrease in data center abandonment charges related to restructuring and lower content costs.
+
+See Note 3 — Restructuring in the notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K for additional information regarding restructuring charges.
+
+## Research and Development
+
+| | Year Ended December 31, | | | 2023 vs 2022 % change | 2022 vs 2021 % change |
+|---|---|---|---|---|---|
+| *(in millions, except percentages)* | **2023** | **2022** | **2021** | | |
+| Research and development | $ 38,483 | $ 35,338 | $ 24,655 | 9% | 43% |
+| Percentage of revenue | 29% | 30% | 21% | | |
+
+Research and development expenses in 2023 increased $3.15 billion, or 9%, compared to 2022. The increase was primarily from higher payroll and related expenses driven by an increase in share-based compensation expenses.
+
+## Marketing and Sales
+
+| | Year Ended December 31, | | | 2023 vs 2022 % change | 2022 vs 2021 % change |
+|---|---|---|---|---|---|
+| *(in millions, except percentages)* | **2023** | **2022** | **2021** | | |
+| Marketing and sales | $ 12,301 | $ 15,262 | $ 14,043 | (19)% | 9% |
+| Percentage of revenue | 9% | 13% | 12% | | |
+
+Marketing and sales expenses in 2023 decreased $2.96 billion, or 19%, compared to 2022. The decrease was mainly due to decreases in marketing and promotional expenses as well as payroll and related expenses. The payroll and related expenses decreased as a result of a decrease in employee headcount from December 31, 2022 to December 31, 2023 in our marketing and sales functions.
+
+## General and Administrative
+
+| | Year Ended December 31, | | | 2023 vs 2022 % change | 2022 vs 2021 % change |
+|---|---|---|---|---|---|
+| *(in millions, except percentages)* | **2023** | **2022** | **2021** | | |
+| General and administrative | $ 11,408 | $ 11,816 | $ 9,829 | (3)% | 20% |
+| Percentage of revenue | 8% | 10% | 8% | | |
+
+General and administrative expenses in 2023 decreased $408 million, or 3%, compared to 2022. The decrease was mainly due to lower payroll and related expenses, as a result of a decrease in employee headcount from December 31, 2022 to December 31, 2023 in our general and administrative functions.
+
+## Segment Profitability
+
+The following table sets forth income (loss) from operations by segment:
+
+| | Year Ended December 31, | | | 2023 vs 2022 % change | 2022 vs 2021 % change |
+|---|---|---|---|---|---|
+| *(in millions, except percentages)* | **2023** | **2022** | **2021** | | |
+| Family of Apps | $ 62,871 | $ 42,661 | $ 56,946 | 47% | (25)% |
+| Reality Labs | (16,120) | (13,717) | (10,193) | (18)% | (35)% |
+| Total income from operations | $ 46,751 | $ 28,944 | $ 46,753 | 62% | (38)% |
+
+### Family of Apps
+
+FoA income from operations in 2023 increased $20.21 billion, or 47%, compared to 2022. The increase was mostly driven by higher advertising revenue and a decrease in marketing and sales expenses.
+
+### Reality Labs
+
+RL loss from operations in 2023 increased $2.40 billion, or 18%, compared to 2022. The increase in loss was mainly due to an increase in payroll and related expenses and a decrease in RL revenue.
+
+## Interest and Other Income (Expense), Net
+
+| | Year Ended December 31, | | | 2023 vs 2022 % change | 2022 vs 2021 % change |
+|---|---|---|---|---|---|
+| *(in millions, except percentages)* | **2023** | **2022** | **2021** | | |
+| Interest income | $ 1,639 | $ 461 | $ 484 | 256% | (5)% |
+| Interest expense | (446) | (185) | (23) | (141)% | NM |
+| Foreign currency exchange losses, net | (366) | (81) | (140) | (352)% | 42% |
+| Other income (expense), net | (150) | (320) | 210 | 53% | (252)% |
+| Interest and other income (expense), net | $ 677 | $ (125) | $ 531 | NM | (124)% |
+
+Interest and other income (expense), net in 2023 increased $802 million compared to 2022. The increase in interest income was due to a combination of higher interest rates and higher balances, compared to the same period in 2022. Changes in other income (expense), net were mostly related to gains (losses) recognized for our equity investments.
+
+## Provision for Income Taxes
+
+| | Year Ended December 31, | | | 2023 vs 2022 % change | 2022 vs 2021 % change |
+|---|---|---|---|---|---|
+| *(in millions, except percentages)* | **2023** | **2022** | **2021** | | |
+| Provision for income taxes | $ 8,330 | $ 5,619 | $ 7,914 | 48% | (29)% |
+| Effective tax rate | 18% | 19% | 17% | | |
+
+Our provision for income taxes in 2023 increased $2.71 billion, or 48%, compared to 2022, due to an increase in income before provision for income taxes.
+
+Our effective tax rate in 2023 decreased compared to 2022, primarily due to excess tax benefits recognized from share-based compensation in 2023 and the effect of additional guidance issued by the Internal Revenue Service (IRS) providing temporary relief on foreign tax credits. This was partially offset by a decrease in the proportion of U.S. tax benefits from foreign-derived intangible income relative to income before provision for income taxes and additional clarification issued by the IRS in September 2023 regarding research and development expenses subject to mandatory capitalization and amortization.
+
+**Effective Tax Rate Items.** Our effective tax rate in the future will depend upon the proportion between the following items and income before provision for income taxes: U.S. tax benefits from foreign-derived intangible income, tax effects from share-based compensation, research tax credit, tax effects from capital losses not expected to be utilized, restructurings, settlement of tax contingency items, tax effects of changes in our business, and the effects of changes in tax law.
+
+The accounting for share-based compensation may increase or decrease our effective tax rate based upon the difference between our share-based compensation expense and the deductions taken on our tax return, which depend upon the stock price at the time of employee award vesting. If our stock price remains constant to the January 26, 2024 price, and absent any changes to U.S. tax law, we expect our effective tax rate for the full year 2024 to be in the mid-teens. This includes the effects of the mandatory capitalization and amortization of research and development expenses incurred in 2023, as required by the 2017 Tax Cuts and Jobs Act (Tax Act). The mandatory capitalization requirement increased our 2023 cash tax liabilities materially but also decreased our effective tax rate due to increasing the foreign-derived intangible income deduction. If the mandatory capitalization is deferred, our effective tax rate in 2024 could be higher when compared to current law and our cash tax liabilities could be lower.
+
+**Unrecognized Tax Benefits.** As of December 31, 2023, we had net uncertain tax positions of $6.95 billion which were accrued as other liabilities. These unrecognized tax benefits were predominantly accrued for uncertainties related to transfer pricing with our foreign subsidiaries, which includes licensing of intellectual property, providing services and other transactions, as well as for uncertainties regarding the utilization of our research tax credits. The ultimate settlement of the liabilities will depend upon resolution of tax audits, litigation, or events that would otherwise change the assessment of such items. Based upon the status of litigation described below and the current status of tax audits in various jurisdictions, we do not anticipate a material change to such amounts within the next 12 months.
+
+See Note 15 — Income Taxes in the notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K for additional information regarding income tax contingencies.
+
+## Liquidity and Capital Resources
+
+Our principal sources of liquidity are our cash, cash equivalents, marketable securities, and cash generated from operations. Cash, cash equivalents, and marketable securities are comprised of cash on deposit with banks, time deposits, money market funds, U.S. government and agency securities, and investment grade corporate debt securities. As part of our cash management strategy, we concentrate cash deposits with large financial institutions and our investment holdings are in diversified highly rated securities. Cash, cash equivalents, and marketable securities were $65.40 billion as of December 31, 2023, an increase of $24.67 billion from December 31, 2022. The increase was mostly due to $71.11 billion of cash generated from operations, and $8.46 billion of net proceeds from the issuance of fixed-rate senior unsecured notes (the Notes) in May 2023. These increases were partially offset by $28.10 billion for capital expenditures, including principal payments on finance leases, $19.77 billion for repurchases of our Class A common stock, and $7.01 billion of taxes paid related to net share settlement of employee restricted stock unit (RSU) awards.
+
+The following table presents our cash flows (in millions):
+
+| | Year Ended December 31, | | |
+|---|---|---|---|
+| | **2023** | **2022** | **2021** |
+| Net cash provided by operating activities | $ 71,113 | $ 50,475 | $ 57,683 |
+| Net cash used in investing activities | $ (24,495) | $ (28,970) | $ (7,570) |
+| Net cash used in financing activities | $ (19,500) | $ (22,136) | $ (50,728) |
+
+### Cash Provided by Operating Activities
+
+Cash provided by operating activities during 2023 mostly consisted of $39.10 billion net income adjusted for certain non-cash items, such as $14.03 billion of share-based compensation expense and $11.18 billion of depreciation and amortization expense, as well as $3.29 billion of favorable changes in working capital. The increase in cash flows from operating activities during 2023 compared to 2022 was mostly due to an increase in cash collection from our customers driven by the increase in revenue, and a decrease in payments to our vendors.
+
+### Cash Used in Investing Activities
+
+Cash used in investing activities during 2023 mostly consisted of $27.05 billion of net purchases of property and equipment as we continued to invest in data centers, servers, and network infrastructure, partially offset by $3.20 billion net proceeds from maturities and sales of marketable debt securities. The decrease in cash used in investing activities during 2023 compared to 2022 was mostly due to a decrease in purchases of property and equipment.
+
+We anticipate making capital expenditures of approximately $30 billion to $37 billion in 2024.
+
+### Cash Used in Financing Activities
+
+Cash used in financing activities during 2023 mostly consisted of $19.77 billion for repurchases of our Class A common stock and $7.01 billion of taxes paid related to net share settlement of RSUs, partially offset by $8.46 billion proceeds from the issuance of the Notes in May 2023. The decrease in cash used in financing activities during 2023 compared to 2022 was mainly due to a decrease in cash paid for repurchases of our Class A common stock, partially offset by an increase in taxes paid related to net share settlement of employee RSU awards and a decrease in net proceeds from our debt offerings.
+
+### Free Cash Flow
+
+In addition to other financial measures presented in accordance with U.S. GAAP, we monitor free cash flow (FCF) as a non-GAAP measure to manage our business, make planning decisions, evaluate our performance, and allocate resources. We define FCF as net cash provided by operating activities reduced by net purchases of property and equipment and principal payments on finance leases.
+
+We believe that FCF is one of the key financial indicators of our business performance over the long term and provides useful information regarding how cash provided by operating activities compares to the property and equipment investments required to maintain and grow our business.
+
+We have chosen our definition for FCF because we believe that this methodology can provide useful supplemental information to help investors better understand underlying trends in our business. We use FCF in discussions with our senior management and board of directors.
+
+FCF has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of other GAAP financial measures, such as net cash provided by operating activities. FCF is not intended to represent our residual cash flow available for discretionary expenses. Some of the limitations of FCF are:
+
+- FCF does not reflect our future contractual commitments; and
+- other companies in our industry present similarly titled measures differently than we do, limiting their usefulness as comparative measures.
+
+Management compensates for the inherent limitations associated with using the FCF measure through disclosure of such limitations, presentation of our financial statements in accordance with GAAP, and reconciliation of FCF to the most directly comparable GAAP measure, net cash provided by operating activities, as presented below.
+
+The following is a reconciliation of FCF to the most comparable GAAP measure, net cash provided by operating activities (in millions):
+
+| | Year Ended December 31, | | |
+|---|---|---|---|
+| | **2023** | **2022** | **2021** |
+| Net cash provided by operating activities | $ 71,113 | $ 50,475 | $ 57,683 |
+| Purchases of property and equipment, net | (27,045) | (31,186) | (18,567) |
+| Principal payments on finance leases | (1,058) | (850) | (677) |
+| Free cash flow | $ 43,010 | $ 18,439 | $ 38,439 |
+
+### Material Cash Requirements
+
+We currently anticipate that our available funds and cash flow from operations and financing activities will be sufficient to meet our operational cash needs and fund our share repurchases and dividend payments for at least the next 12 months and thereafter for the foreseeable future. We continuously evaluate our liquidity and capital resources, including our access to external capital, to ensure we can finance our future capital requirements.
+
+### Leases and Contractual Commitments
+
+Our operating lease obligations mostly include offices, data centers, and colocations. Our finance lease obligations include certain network infrastructure. Our facilities consolidation restructuring efforts did not materially change our operating lease obligations.
+
+Our contractual commitments are primarily related to our investments in servers, network infrastructure, and consumer hardware products in Reality Labs.
+
+### Long-term Debt
+
+As of December 31, 2023, we had outstanding long-term debt in the form of senior unsecured notes for an aggregate principal amount of $18.50 billion. These notes were issued in multiple series, which mature from 2027 through 2063. Short-term and long-term future interest payments obligations as of December 31, 2023 are $848 million and $16.40 billion, respectively. Net proceeds from the offerings are used for general corporate purposes, which may include, but are not limited to, capital expenditures, share repurchases, dividend payments, acquisitions or investments.
+
+### Share Repurchase
+
+Our board of directors has authorized a share repurchase program of our Class A common stock, which commenced in January 2017 and does not have an expiration date. In 2023, we repurchased and subsequently retired 92 million shares of our Class A common stock for an aggregate amount of $20.03 billion, which includes the 1% excise tax accruals as a result of the Inflation Reduction Act of 2022. As of December 31, 2023, $30.93 billion remained available and authorized for repurchases. In January 2024, an additional $50 billion of repurchases was authorized under this program.
+
+### Dividend
+
+On February 1, 2024, we announced the initiation of our first ever cash dividend program. This cash dividend of $0.50 per share of common stock is equivalent to $2.00 per share on an annual basis. The first cash dividend will be paid on March 26, 2024 to all holders of record of common stock at the close of business on February 22, 2024.
+
+Subject to legally available funds and future declaration by our board of directors, we currently intend to continue to pay a quarterly cash dividend on our outstanding Class A common stock and Class B common stock. The declaration and payment of future dividends is at the sole discretion of our board of directors after taking into account various factors, including our financial condition, operating results, available cash, and current and anticipated cash needs.
+
+### Taxes
+
+Cash paid for income taxes was $6.61 billion for the year ended December 31, 2023. As of December 31, 2023, we had taxes payable of $1.14 billion related to a one-time transition tax payable incurred as a result of the Tax Act, of which $575 million is due within one year. As permitted by the Tax Act, we will pay the transition tax in annual interest-free installments through 2025. Our other liabilities also include $6.95 billion related to the uncertain tax positions as of December 31, 2023. Due to uncertainties in the timing of the completion of tax audits, the timing of the resolution of these positions is uncertain and we are unable to make a reasonably reliable estimate of the timing of payments.
+
+### Loss Contingencies
+
+We are involved in legal proceedings, claims, and regulatory, tax or government inquiries and investigations. We record a liability when we believe that it is both probable that a liability has been incurred, and that the amount can be reasonably estimated. If we determine there is a reasonable possibility that we may incur a loss and the loss or range of loss can be estimated, we disclose the possible loss in the accompanying notes to the consolidated financial statements to the extent material. Significant judgment is required to determine both probability and the estimated amount of loss. Such matters are inherently unpredictable and subject to significant uncertainties, some of which are beyond our control. Should any of these estimates and assumptions change or prove to be incorrect, it could have a material impact on our results of operations, financial position, and cash flows.
+
+See Note 8 — Leases, Note 10 — Long-term Debt, Note 12 — Commitments and Contingencies, Note 13 — Stockholders' Equity, and Note 15 — Income Taxes in the notes to the consolidated financial statements included in Part II, Item 8, and "Legal Proceedings" contained in Part I, Item 3 of this Annual Report on Form 10-K for additional information regarding leases and contractual commitments, debt, taxes, and contingencies.
+
+### Recently Issued Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, see Note 1 — Summary of Significant Accounting Policies in the accompanying notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K.
+
+---
+
+# Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risks, including changes to foreign currency exchange rates, interest rates, and equity price risk.
+
+## Foreign Currency Exchange Risk
+
+We have foreign currency risks related to our revenue and operating expenses denominated in currencies other than the U.S. dollar, primarily the Euro. Accordingly, changes in exchange rates, and in particular a strengthening of the U.S. dollar, have in the past, and may in the future, negatively affect our revenue and other operating results as expressed in U.S. dollars. See Management's Discussion and Analysis of Financial Condition and Results of Operations — Foreign Exchange Impact on Revenue section included in Part II, Item 7 of this Annual Report on Form 10-K for additional information.
+
+We have experienced and will continue to experience fluctuations in our net income as a result of transaction gains or losses related to remeasuring monetary asset and liability balances that are denominated in currencies other than the functional currency of the entities in which they are recorded. At this time, we have not entered into, but in the future we may enter into, derivatives or other financial instruments in an attempt to hedge our foreign currency exchange risk. It is difficult to predict the effect hedging activities would have on our results of operations. Foreign currency exchange net losses of $366 million, $81 million, and $140 million were recognized in 2023, 2022, and 2021, respectively.
+
+## Interest Rate Sensitivity
+
+Our exposure to changes in interest rates relates primarily to interest income and market value of our cash equivalents, marketable debt securities, and the fair value of our long-term debt.
+
+Our cash, cash equivalents, and marketable debt securities consist of cash, time deposits, money market funds, U.S. government securities, U.S. government agency securities, and investment grade corporate debt securities. Our investment policy and strategy are focused on preservation of capital and supporting our liquidity requirements. Changes in U.S. interest rates affect the interest earned on our cash, cash equivalents, and marketable securities, and the market value of those securities. A hypothetical 100 basis point increase in market interest rates would have resulted in a decrease of $355 million and $558 million in the market value of our available-for-sale debt securities and cash equivalents as of December 31, 2023 and 2022, respectively. Any realized gains or losses resulting from such interest rate changes and from the current unrealized gains or losses would only occur if we sold the investments prior to maturity.
+
+As of December 31, 2023 and 2022, we also had aggregate principal amounts of fixed-rate senior notes (the Notes) outstanding of $18.50 billion and $10.00 billion, respectively. Since our Notes bear interest at fixed rates and are carried at amortized cost, fluctuations in interest rates do not have any impact on our consolidated financial statements. However, the fair value of the Notes will fluctuate with movements in market interest rates, increasing in periods of declining interest rates and declining in periods of increasing interest rates.
+
+## Equity Price Risk
+
+Our equity investments are in non-marketable equity securities and are subject to equity price risks that could have a material impact on the carrying value of our holdings.
+
+Our non-marketable equity securities are investments in privately-held companies without readily determinable fair values. We elected to account for substantially all of our non-marketable equity securities using the measurement alternative, which is cost, less any impairment, adjusted for changes in fair value resulting from observable transactions for identical or similar investments of the same issuer. We perform a qualitative assessment at each reporting date to determine whether there are triggering events for impairment. The qualitative assessment considers factors such as, but not limited to, the investee's financial condition and business outlook; industry and sector performance; economic or technological environment; and other relevant events and factors affecting the investee. Valuations of our non-marketable equity securities are complex due to the lack of readily available market data and observable transactions. Uncertainties in the global economic climate and financial markets could adversely impact the valuation of these companies we invest in and, therefore, result in a material impairment or downward adjustment in our investments. Our total non-marketable equity securities, which mostly consists of our investment in Jio Platforms Limited, had a carrying value of $6.14 billion and $6.20 billion as of December 31, 2023 and 2022, respectively.
+
+For additional information, see Note 1 — Summary of Significant Accounting Policies, Note 5 — Financial Instruments, Note 6 — Non-marketable Equity Securities, and Note 10 — Long-term Debt in the notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" and Part II, Item 7, "Management's Discussion and Analysis of Financial Conditions and Results of Operations — Critical Accounting Estimates" contained in this Annual Report on Form 10-K.

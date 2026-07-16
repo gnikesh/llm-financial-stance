@@ -1,0 +1,50 @@
+# Meta Platforms Q1 2022 Earnings Call – Comprehensive Financial & Strategic Summary
+
+Meta Platforms reported mixed first-quarter 2022 results that reflected solid user growth but slowing revenue momentum, rising costs and continued investment in Reality Labs and AI. Management also provided conservative second-quarter guidance and trimmed the full-year expense outlook while reaffirming heavy capital spending plans.
+
+During the call CEO Mark Zuckerberg, COO Sheryl Sandberg and CFO Dave Wehner highlighted three strategic priorities—Reels, Ads/AI and the Metaverse—while acknowledging headwinds from Apple’s privacy changes, e-commerce normalization, foreign-exchange pressure and the war in Ukraine (including the blocking of Facebook in Russia and the cessation of Russian ad sales). Key quantitative and qualitative takeaways follow.
+
+First-quarter financial performance  
+• Total revenue was $27.91 billion, up 7 percent year-over-year (10 percent in constant currency).  
+• Advertising revenue contributed $27.00 billion (+6 percent), while “Other” Family-of-Apps revenue was $215 million (+9 percent). Reality Labs revenue reached $695 million (+30 percent) on continued Quest 2 demand.  
+• Cost of revenue grew 17 percent and total expenses jumped 31 percent to $19.38 billion, driven by core infrastructure, headcount and legal costs. R&D spending increased 48 percent, marketing & sales 16 percent and G&A 45 percent.  
+• Operating income declined to $8.52 billion with the consolidated operating margin compressing to 31 percent (from 43 percent a year ago).  
+    – Family-of-Apps produced operating income of $11.48 billion, a 42 percent margin.  
+    – Reality Labs posted a $2.96 billion operating loss.  
+• Net income was $7.47 billion, translating to diluted EPS of $2.72 (down from $3.30 in Q1 21).  
+• Free cash flow was $8.52 billion; the company ended the quarter with $43.9 billion in cash and marketable securities and repurchased $9.4 billion of Class A shares. Meta carries no net debt.  
+• Capital expenditures, including finance-lease principal payments, were $5.54 billion in the quarter. Full-year 2022 cap-ex is still projected at $29 – $34 billion, largely for data-center and AI hardware.
+
+User and engagement metrics  
+• Facebook daily active users (DAUs) reached 1.96 billion, up 4 percent (82 million) year-over-year; monthly active users (MAUs) were 2.94 billion (+3 percent).  
+• Across the Family-of-Apps, 2.9 billion people used at least one service daily and 3.64 billion monthly.  
+• Management warned that the loss of Russian users will likely cause global Facebook MAUs to be “flat to down” sequentially in Q2.  
+• Reels now accounts for more than 20 percent of the time spent on Instagram; video in total represents about 50 percent of time spent on Facebook.
+
+Q2 and full-year outlook  
+• Second-quarter revenue is expected to land between $28 billion and $30 billion, implying 0 – 7 percent growth and incorporating roughly a 3-percentage-point foreign-exchange headwind plus lingering war-related softness.  
+• Full-year 2022 total expenses are now forecast at $87 – $92 billion (down from $90 – $95 billion), with the Family-of-Apps absorbing the bulk of spending and Reality Labs still growing.  
+• The full-year effective tax rate is projected to be in the “high-teens,” above the 16 percent recorded in Q1.  
+• Management still sees FY 22 capital intensity rising sharply; no 2023 cap-ex target was provided.  
+• They reiterated the approximate $10 billion 2022 revenue headwind from Apple’s ATT privacy framework but noted incremental pressure from iOS 15 and potential regulatory changes.
+
+Advertising commentary  
+• Growth decelerated across all regions, most acutely in Europe (flat y/y) and North America (+1 percent), where advertisers are more exposed to off-site conversion objectives that rely on user-level data. Asia-Pacific and Rest-of-World grew 20-plus percent, helped by Click-to-Messaging ads and improving Brazilian macro conditions.  
+• Total ad impressions rose 15 percent but average price per ad fell 8 percent, reflecting a mix shift toward lower-monetizing regions and toward emerging surfaces such as Reels.  
+• Click-to-Messaging is already a multibillion-dollar business with “healthy double-digit” growth in Q1; Shop ads and Lead ads remain earlier-stage opportunities.  
+• Meta is rebuilding its ads stack around privacy-enhancing technologies (PETs), investing heavily in AI/ML to mitigate signal loss and improve targeting and measurement while processing less personal data.
+
+Product, platform and strategic updates  
+• Reels monetization is in its infancy; ads are live but CPMs remain lower than Feed or Stories. Management expects a multi-year ramp similar to Stories (which reached feed-parity CPMs after several years in mature markets).  
+• Meta is positioning its AI systems as a “Discovery Engine” that will recommend content beyond a user’s social graph, further expanding inventory and engagement across all content types.  
+• Horizon’s social metaverse platform is slated to launch a web version later in 2022, broadening access beyond VR headsets.  
+• Project Cambria, a premium mixed-reality headset aimed at work use cases, remains on track for late-2022 release and will feature full-color passthrough, eye-tracking and facial-tracking to enhance presence.  
+• The long-run financial plan is to grow Family-of-Apps operating income sufficiently to fund Reality Labs while still expanding overall profitability, though 2022 will fall short due to revenue headwinds.  
+• Meta continues to recruit aggressively—adding 5,800 net employees in Q1 (total headcount now 77,800, +28 percent)—but said it is slowing the pace of new investment and reallocating existing talent toward its highest-priority initiatives.
+
+Regulatory, legal and macro notes  
+• Management remains “pleased” with progress toward a new EU-US trans-atlantic data-transfer framework but still cites it as a risk factor.  
+• The Digital Markets Act and other evolving global regulations will create “significant challenges,” yet Meta believes its scale, first-party data and PET development should preserve relative ad-targeting advantages.  
+• Free-speech, content-moderation and legal costs continue to pressure G&A expenses.
+
+In sum, Meta entered 2022 with resilient cash generation and expanding global reach but is contending with platform privacy changes, macro uncertainty, and the monetization drag of a deliberate pivot to short-form video and long-term metaverse hardware. Management lowered expense growth, reaffirmed heavy AI and infrastructure cap-ex, and stressed confidence that Reels and privacy-centric ad innovations will ultimately restore higher revenue growth and margins while funding multi-billion-dollar Reality Labs investments.

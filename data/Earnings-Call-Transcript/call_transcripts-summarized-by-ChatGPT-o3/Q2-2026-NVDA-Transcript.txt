@@ -1,0 +1,83 @@
+# NVIDIA Fiscal 2Q26 Earnings Call – Financial and Strategic Highlights
+
+NVIDIA reported a record‐breaking second quarter of fiscal 2026, underscoring surging demand for its AI computing platforms and networking products while reiterating an aggressive product cadence and vast market opportunity that management now sizes at a cumulative $3 trillion to $4 trillion of AI-infrastructure spend by 2030.
+
+The company generated revenue of **$46.7 billion**, comfortably above guidance and up strongly across every segment.  Data-center revenue—which remains the core growth engine—expanded **56 % year-on-year** and grew sequentially even though sales of the China-specific H20 GPU fell by roughly **$4 billion**.  Gross margin on a non-GAAP basis reached **72.7 %** (or **72.3 %** excluding a 40-basis-point inventory benefit tied to H20), while GAAP EPS and free cash flow were not disclosed on the call but implied to be at record levels.  
+
+Below are the essential quantitative and qualitative takeaways executives provided on the call.
+
+## Core financial metrics and guidance
+
+• Total Q2 revenue: **$46.7 billion** (record).  
+• Data-center revenue growth: **+56 % YoY**; sequential growth in spite of the $4 billion H20 decline.  
+• Networking revenue: **$7.3 billion**, up **46 % sequentially** and **98 % YoY**; annualized Spectrum-X Ethernet revenue now exceeds **$10 billion**.  
+• Gaming revenue: **$4.3 billion** (record), up **14 % QoQ** and **49 % YoY**.  
+• Professional Visualization revenue: **$601 million**, up **32 % YoY**.  
+• Automotive (in-car compute only): **$586 million**, up **69 % YoY**.  
+• GAAP gross margin: **72.4 %**; Non-GAAP: **72.7 %**.  
+• Inventory: **$15 billion** vs. **$11 billion** last quarter as Blackwell ramps.  
+• Capital return: **$10 billion** in buybacks/dividends during Q2; Board added a new **$60 billion** repurchase authorization (in addition to **$14.7 billion** remaining).  
+
+### Q3 FY26 Outlook
+
+• Revenue: **$54 billion ±2 %**—a sequential increase of >$7 billion—assuming **zero** H20 shipments to China.  
+• GAAP / non-GAAP gross margin: **73.3 % / 73.5 % ±50 bp**; company still expects to exit FY26 with mid-70 % non-GAAP GM.  
+• Operating expenses: GAAP **$5.9 billion**, non-GAAP **$4.2 billion**; FY26 opex growth now guided to “high-30 %” YoY (was mid-30 %).  
+• Other income: roughly **$500 million** (ex-marketable-security gains/losses).  
+• Tax rate: **16.5 % ±1 %**.
+
+## Segment and product commentary
+
+1. **Blackwell and GB300 ramp**  
+   – Blackwell platform revenue grew **17 % sequentially**, already generating “tens of billions” of dollars.  
+   – Factory output has returned to **~1,000 racks per week** and is expected to accelerate through Q3 as additional capacity comes online.  
+   – GB300 NVL72 delivers a **10× improvement in tokens-per-watt versus Hopper**; CoreWeave is observing **10× higher inference performance** on reasoning models compared with H100.
+
+2. **Hopper / H20 dynamics**  
+   – Shipments of H100 and H200 “increased notably” this quarter, signalling that mainstream accelerated-computing workloads remain vibrant.  
+   – NVIDIA sold roughly **$650 million** of H20 to a non-Chinese, unrestricted customer in Q2.  
+   – U.S. authorities resumed approving limited H20 export licences to China in late July, and the government has floated taking **15 %** of licensed H20 revenue, though no formal rule has been published.  
+   – NVIDIA excluded China H20 from Q3 guidance; if geopolitical issues ease, potential shipments of **$2 billion–$5 billion** could be added.
+
+3. **Rubin platform and annual cadence**  
+   – All six Rubin chips (Vera CPU, Rubin GPU, CX9 SuperNIC, NVLink-144, Spectrum-X scale-out/-across switch and a silicon-photonics processor) are already in fab at TSMC.  
+   – Volume production is scheduled for next year, making Rubin NVIDIA’s **third-generation NVLink rack-scale AI supercomputer**. Management reiterated a one-year product cycle to maximise perf-per-watt and customer ROI.
+
+4. **Networking**  
+   – InfiniBand revenue nearly doubled sequentially, driven by XDR adoption among “model builders.”  
+   – NVLink switch products continue “strong growth” as Grace-Blackwell systems deploy.  
+   – Newly announced **Spectrum-XGS** will interconnect multiple AI factories at giga-scale; CoreWeave is an initial adopter and expects a doubling of GPU-to-GPU communication speed.
+
+5. **Software & efficiency gains**  
+   – Since launch, Blackwell’s performance has more than **doubled** through CUDA, TensorRT-LLM and Dynamo updates; NVFP4 4-bit precision plus NVLink-72 yields a **50× energy-efficiency gain per token** versus Hopper.  
+   – NVIDIA contributed heavily to recent MLPerf Training benchmarks where GB200 achieved a “clean sweep”; September MLPerf Inference results will include Blackwell Ultra.
+
+6. **RTX Pro & Omniverse / Robotics**  
+   – Air-cooled RTX Pro servers are now in full production; nearly **90** large enterprises (Hitachi, Lilly, Hyundai, Disney, etc.) are early users. Management views this as a future “multi-billion-dollar” product line.  
+   – Jetson “Thor” embedded platform is shipping, offering an order-of-magnitude jump over Orin for edge AI robotics. Over **2 million** developers and **1,000+** ecosystem partners are building on NVIDIA’s robotics stack.  
+   – Expanded partnership with Siemens will link Omniverse with manufacturing to create “AI-automated factories.”
+
+7. **Sovereign AI**  
+   – Revenue from national-scale (sovereign) AI projects is on track for **>$20 billion in CY25**, more than double last year. The EU plans €20 billion for 20 AI factories; the U.K.’s Isambard-AI will deliver **21 exaflops** using NVIDIA hardware.
+
+## Geographic and customer concentration
+
+• China fell to a “low single-digit” share of data-center revenue; Singapore represented **22 %** of invoiced revenue, but **>99 %** of that was ultimately for U.S.-based customers.  
+• Jensen Huang pegged the current China market opportunity at roughly **$50 billion** for 2025, growing ~50 % annually, and reiterated the strategic importance of gaining Blackwell export approval.
+
+## Capital intensity and macro view
+
+• Hyperscaler and enterprise data-center capex is now tracking **$600 billion** for calendar 2025—“nearly doubling in two years”—and is expected to keep expanding as reasoning/agentic AI, sovereign AI, enterprise adoption and physical AI drive exponentially higher compute needs.  
+• A single 1 GW AI factory can cost **$50–60 billion**, of which **~$35 billion** typically goes to NVIDIA hardware (GPU, CPU, SuperNICs, NVLink, InfiniBand or Spectrum switches).  
+• Management sees total AI infrastructure spend growing roughly **50 % per annum**, putting the industry on course for $3–$4 trillion cumulative investment by decade-end; Huang expects both FY26 and FY27 to be “record-breaking” years for NVIDIA.
+
+## Balance-sheet and shareholder returns
+
+• Inventory was ramped aggressively to support Blackwell and upcoming Blackwell Ultra launches, rising to **$15 billion**.  
+• The company returned **$10 billion** to shareholders in Q2 and now possesses a total repurchase authorization of roughly **$74.7 billion**.
+
+## Management’s strategic narrative
+
+Jensen Huang characterized this period as “the beginning of an industrial revolution” powered by agentic, reasoning and eventually physical AI. Blackwell is already the “new standard for inference,” and Rubin is positioned to extend leadership one year from now. While the competitive landscape includes numerous ASIC efforts, Huang argued that NVIDIA’s full-stack approach—GPUs, CPUs, custom interconnects, networking, systems and massive developer-software ecosystem—delivers superior perf-per-watt, perf-per-dollar, time-to-solution and long-term utility, making the platform indispensable to hyperscalers, cloud providers, enterprises and start-ups alike.
+
+Even without any China H20 revenue, NVIDIA guided another double-digit sequential leap in Q3, underpinned by a relentless ramp of Blackwell compute and networking. Management closed the call asserting that demand outstrips supply (“everything is sold out”), that power efficiency will dictate future data-center economics, and that NVIDIA remains uniquely positioned to capture a substantial share of the trillions earmarked for AI infrastructure through 2030.

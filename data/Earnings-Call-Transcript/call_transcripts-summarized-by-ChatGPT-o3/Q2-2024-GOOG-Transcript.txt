@@ -1,0 +1,54 @@
+# Alphabet Inc. Q2 2024 Earnings Call – Financial & Strategic Highlights
+
+Alphabet reported strong second-quarter results, driven by resurgent advertising, continued momentum in Google Cloud, and disciplined cost management, while intensifying capital deployment to support artificial-intelligence infrastructure.
+
+Alphabet‐level performance  
+• Revenue reached $84.7 billion, up 14 % year-over-year (15 % in constant currency).  
+• Operating income was $27.4 billion, an increase of 26 %, lifting the operating margin to 32 %.  
+• Net income came in at $23.6 billion and diluted EPS was $1.89.  
+• Free cash flow totalled $13.5 billion for the quarter and $60.8 billion for the trailing 12 months, despite a tough comparison that included a prior-year tax deferral benefit.  
+• Cash and marketable securities stood at $101 billion; the company again ended the quarter with a sizeable net cash position and no net debt.  
+
+Segment detail  
+Google Services  
+• Segment revenue rose 12 % to $73.9 billion; operating income advanced 27 % to $29.7 billion, for a 40 % margin.  
+   – Search & Other advertising revenue grew 14 % to $48.5 billion, led by Retail and Financial Services.  
+   – YouTube ads increased 13 % to $8.7 billion (brand strength followed by direct response); Shorts monetisation rates continued to improve, especially in the United States.  
+   – Network advertising fell 5 % to $7.4 billion.  
+   – Subscriptions, Platforms & Devices revenue climbed 14 % to $9.3 billion, fuelled by YouTube subscriptions (YouTube TV, Music, Premium) and Google One.  
+• Traffic-acquisition costs (TAC) grew 7 % to $13.4 billion.
+
+Google Cloud  
+• Revenue surpassed the $10 billion quarterly threshold for the first time, reaching $10.3 billion, up 29 %.  
+• GCP revenue again grew faster than Cloud overall and now includes a rising AI contribution; the majority of the top-100 Cloud customers already use generative-AI services.  
+• Operating income was $1.2 billion, producing an 11 % margin (first-ever billion-dollar quarterly profit).
+
+Other Bets  
+• Revenue was $365 million; operating loss narrowed slightly to $1.1 billion.  
+• Alphabet approved a new multi-year $5 billion funding commitment to Waymo, which has now served more than two million paid autonomous rides and runs over 50,000 rides per week.
+
+Capital expenditures, head-count & margins  
+• Q2 CapEx was $13 billion, overwhelmingly for servers and data-centres; quarterly CapEx is expected to remain at or above the Q1 level of $12 billion for the balance of 2024.  
+• Head-count declined sequentially again, reflecting cost-reengineering efforts; a modest uptick is planned in Q3 to absorb new technical graduates.  
+• Management still targets full-year 2024 Alphabet operating-margin expansion versus 2023 but cautions that Q3 margins will be pressured by faster depreciation from new infrastructure and the pull-forward of Pixel hardware launches into the third quarter.
+
+Artificial-intelligence strategy & product traction  
+• Alphabet is “innovating at every layer of the AI stack,” from in-house tensor-processing units (new sixth-generation TPU Trillium offers 5× peak compute and 67 % better energy efficiency than TPU v5e) to multimodal agents.  
+• Gemini, now available in four model sizes and supporting a 2-million-token context window, is embedded in all six Google products that exceed 2 billion monthly users and is in use by more than 1.5 million external developers.  
+• Google’s AI infrastructure and generative-AI solutions have already generated “billions” of dollars in Cloud revenue YTD and are being tapped by over two million developers.  
+• AI-generated “Search overviews” (previously SGE) are live in the U.S.; early metrics show higher engagement, repeat usage, and especially strong adoption among 18- to 24-year-olds. Ads placed above or below overviews continue to perform well, and testing of sponsored placements inside the overview will begin shortly.  
+• In advertising, more than 30 AI-powered features were unveiled at Google Marketing Live. DemandGen plus AI-enhanced Performance Max campaigns deliver, on average, 14 % more conversions, while AI-driven profit-optimisation bidding lifts profits 15 % versus revenue-only bidding.  
+• YouTube remains the No. 1 streaming destination on U.S. TV screens for the 17th straight month (Nielsen) and is the second-most-watched channel across all TV after Disney; connected-TV viewing is up 130 % in three years and sports watch-time on CTV rose 30 % y/y.
+
+Privacy, regulatory & product updates  
+• Google will no longer pursue a hard deprecation of third-party cookies in Chrome, opting instead for enhanced user choice while continuing to invest in Privacy Sandbox technologies.  
+• Visual and multimodal search innovations—Lens with AI overviews, Circle to Search on 100 million Android devices, and upcoming video-based queries—expand query addressability.  
+• Google announced new or expanded data-centre regions (Malaysia, plus Iowa, Virginia, Ohio) and confirmed the Nvidia Blackwell platform will join Google Cloud in early 2025.
+
+Leadership transition  
+• This call was the final earnings presentation for long-time CFO Ruth Porat, who becomes President & Chief Investment Officer.  
+• Anat Ashkenazi (formerly Eli Lilly CFO) assumes the Alphabet CFO role next week and will speak on the Q3 2024 call.
+
+Outlook & key watch-items  
+• Advertising compares grow more difficult in H2, particularly against APAC retail strength last year; YouTube subscription growth rates will moderate further because of the anniversary of the 2023 YouTube TV price increase.  
+• Alphabet reiterates its commitment to “durably re-engineer” its cost base even as it accelerates AI-oriented CapEx, balancing long-term growth opportunities against near-term margin discipline.

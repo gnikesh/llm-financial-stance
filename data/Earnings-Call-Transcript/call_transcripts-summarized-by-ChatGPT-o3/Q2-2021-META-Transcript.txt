@@ -1,0 +1,38 @@
+# Facebook, Inc. (Q2 2021 Earnings Call) – Comprehensive Financial & Strategic Summary
+
+Facebook reported another record quarter, pairing rapid top-line growth with continued heavy investment in long-term initiatives such as commerce, creator monetisation, virtual/augmented reality and the wider “metaverse” strategy.
+
+During the three months ended 30 June 2021 the company generated total revenue of **$29.08 billion**, a **56 % year-over-year increase (50 % in constant currency)**. Advertising remained the overwhelming driver, contributing **$28.58 billion**, likewise up **56 % (51 % c.c.)**; “Other” revenue, dominated by Oculus/Quest hardware, added **$497 million**, up **36 %** despite a seasonal slowdown and a one-off Quest 2 facial-interface recall adjustment.  
+
+Ad impressions across Facebook’s services grew **6 %**, while the **average price per ad jumped 47 %**. Management noted that pricing rather than volume will remain the key growth lever through year-end, reflecting both tougher pandemic-era comps and the industry-wide shift toward higher-value video inventory.
+
+GAAP expenses reached **$16.71 billion**, up **31 %** on higher consumer-hardware costs, partner payments, R&D hiring and legal spend. Operating income consequently surged to **$12.37 billion**, producing a **43 % operating margin**. Facebook earned **$10.39 billion in net income**, equating to **EPS of $3.61**.
+
+Free cash flow was **$8.50 billion** on capital expenditures of **$4.74 billion** (data centres, servers, network and offices). The company repurchased **$7.11 billion** of Class A shares and closed the quarter with **$64.1 billion in cash and marketable securities**, leaving it effectively debt-free.
+
+### Users and Engagement  
+• “Family” daily active people reached **2.76 billion** and monthly active people **3.51 billion**.  
+• Stand-alone Facebook DAUs rose **7 %** to **1.91 billion**, representing **66 %** of MAUs, which in turn hit **2.90 billion** (also up **7 %**).  
+Management flagged some reopening-related softness in North America and Europe but emphasised overall global growth.
+
+### Outlook & Guidance  
+Management reiterated full-year **expense guidance of $70 – $73 billion** and **capital-expenditure guidance of $19 – $21 billion**. The **full-year tax rate** is still expected to land in the **high-teens**.  
+
+For revenue, the company warned of a **“significant” sequential deceleration in Q3 and Q4 2021** as year-ago comparisons toughen; on a two-year stacked basis growth should slow only “modestly” versus Q2’s 72 % rate. Apple’s ATT changes, broader privacy regulations and potential EU/US data-transfer restrictions are cited as increasing headwinds; iOS impacts are expected to peak in Q3. Nevertheless, management still expects advertising price inflation to be the primary growth driver through year-end.
+
+### Capital Allocation & Shareholder Returns  
+Facebook remains committed to aggressive investment ahead of perceived multiyear opportunities, notably in:  
+1. **Creators** – $1 billion earmarked through 2023; all creator tools will remain fee-free until at least that date.  
+2. **Commerce** – Expansion of Shops, Marketplace and native checkout, plus rollout of Facebook Pay on third-party sites and WhatsApp payments (now nationally available in Brazil and India).  
+3. **Next Computing Platform / Metaverse** – Ongoing heavy spend on Facebook Reality Labs (FRL). Quest 2 continues to sell strongly; Ray-Ban smart-glasses ship next, while full AR glasses remain on the horizon. Management reiterated that its long-term ambition is to be seen as a “metaverse company”; near-term monetisation will focus on scaling the user base rather than device margins.
+
+### Advertising & Product Trends  
+• Video now accounts for **almost half of all time spent on Facebook**, and Reels is the **largest contributor to Instagram engagement growth**; Reels ads are now live in most markets.  
+• Click-to-Message ads (linking to WhatsApp or Messenger) are a fast-growing format as business messaging proliferates.  
+• Verticals that prospered throughout the pandemic—e-commerce, retail and CPG—again led growth, while travel and entertainment showed meaningful recovery.  
+• Privacy-enhancing technologies, advanced AI/ML targeting and aggregated event measurement are central to mitigating data-signal loss.
+
+### Liquidity, Debt & Buy-backs  
+Facebook carries **no disclosed financial debt** and ended Q2 with a substantial net-cash position, providing flexibility for both continued share repurchases and investment in metaverse-related R&D.
+
+In sum, Q2 2021 delivered record revenue and earnings, robust cash generation and expanded shareholder returns, even as Facebook accelerates spending on strategic priorities—commerce infrastructure, creator monetisation tools and immersive-computing hardware/software—that management believes will underpin the company’s next decade of growth.

@@ -1,0 +1,57 @@
+# Meta Platforms, Inc. – Q4 & Full-Year 2024 Earnings Call Summary
+
+Meta closed 2024 with record financial, operating and product momentum while signalling materially higher AI-driven capital needs in 2025. Management repeatedly stressed that 2025 will be a “pivotal year” in which Meta must set the long-term trajectory for generative AI, glasses, the metaverse and Reels/Threads monetisation.
+
+### Consolidated Q4 2024 & FY 2024 Results  
+• Revenue in Q4 rose 21 % YoY to $48.4 bn (constant-currency growth identical).  
+• Total expenses were $25.0 bn, up 5 % YoY; the growth rate was held down by a 13-ppt benefit from lower legal accruals (a $1.55 bn reduction) and lower restructuring charges.  
+• Operating income reached $23.4 bn, producing a 48 % margin versus 36 % a year ago.  
+• Net income surged to $20.8 bn, and diluted EPS came in at $8.02.  
+• Free cash flow was $13.2 bn.  
+• FY-end cash & marketable securities stood at $77.8 bn against total debt of $28.8 bn.  
+• CapEx in Q4 (cash plus finance-lease principal) was $14.8 bn, driven by servers, data centres and networking gear; FY-24 capex was toward the low end of the latest guidance range.  
+• Meta repurchased shares and paid $1.3 bn of dividends in the quarter.
+
+### Workforce  
+Closing headcount was “over 74 000”, up 10 % YoY; ~90 % of the incremental hires were in R&D, focused on monetisation, infrastructure, generative AI, Reality Labs and compliance.
+
+### Segment Performance  
+Family of Apps (FoA)  
+• Revenue: $47.3 bn (+21 %). Advertising contributed $46.8 bn (+21 %).  
+• Ad impressions grew 6 % while average price per ad rose 14 %. Online commerce was the largest growth vertical; by region, Rest-of-World led at +27 %.  
+• Other FoA revenue (chiefly WhatsApp Business messaging) was $519 m (+55 %).  
+• FoA expenses were $19 bn (76 % of total company opex), up 5 %.  
+• Operating income reached $28.3 bn, a 60 % margin.  
+• FoA daily user reach hit 3.3 bn.
+
+Reality Labs  
+• Revenue: $1.1 bn (+1 %), driven by Quest and Ray-Ban Meta hardware.  
+• Expenses: $6.0 bn (+6 %); operating loss widened slightly to $5 bn.
+
+### 2025 Financial Guidance  
+• Q1 2025 revenue is projected at $39.5 – $41.8 bn, +8 % – 15 % YoY (+11 % – 18 % cc); FX is a ~3 ppt headwind and the FY-24 leap-day creates a tougher compare.  
+• FY-25 total expenses are forecast at $114 – $119 bn, with infrastructure the biggest dollar driver and employee compensation the second-largest.  
+• FY-25 CapEx is guided to $60 – $65 bn (vs. ~$35 bn in 2024), reflecting higher GPU deployments, new high-density data-centres and continued investments in both Gen-AI and core workloads. Meta reiterated that the majority of CapEx still supports the core FoA business.  
+• The 2025 tax rate is expected at 12 % – 15 %.  
+• Server useful life is being stretched to ~5.5 years, lowering annual depreciation/cash CapEx on a like-for-like basis.  
+• Management declined to give longer-term capital-intensity targets, citing uncertainty over model efficiency, inference vs. training mix and monetisation pacing.
+
+### Product & Strategic Highlights  
+1. **AI & Llama** – 2025 is framed as the year a “highly intelligent and personalised AI assistant” will reach 1 bn+ users. Meta AI already serves >700 m MAUs; Llama 4 training is under way, with “mini” and reasoning variants complete. The goal is to make Llama 4 the leading, natively multimodal open-source model.  
+2. **Meta AI Monetisation** – Near-term focus is usage, not revenue. Future avenues include paid recommendations and a premium tier, but material contribution is “outside 2025.”  
+3. **Ads Technology** – New Nvidia-backed “Andromeda” retrieval system allowed a 10 000× increase in model complexity and an 8 % lift in ad quality. Advantage+ Shopping surpassed a $20 bn run-rate (+70 % YoY); 4 m+ advertisers now use at least one generative AI creative tool.  
+4. **Reels & Video** – Global Instagram video time and U.S. Facebook video time both grew double-digit percentages YoY. Reels are reshared 4.5 bn times daily.  
+5. **Threads** – Reached >320 m MAUs and is adding >1 m sign-ups per day; ads will start testing this quarter but are not expected to be material in 2025.  
+6. **WhatsApp** – Now exceeds 100 m MAUs in the U.S.; business messaging revenues drove FoA “other” line.  
+7. **Glasses & Metaverse** – Ray-Ban Meta AI glasses are deemed a “hit”; 2025 will determine if the category can scale towards “hundreds of millions.” Horizon user base and Quest engagement are “steadily growing.”  
+8. **Custom Silicon (MTIA)** – In-house chips now handle inference for ad ranking; wider rollout continues in 2025 with ambitions to address training workloads thereafter, aiming for lower cost-per-compute than third-party GPUs.  
+9. **Regulation & Content** – Reduction in fact-checking teams supplanted by community-notes-style moderation; management sees no negative advertiser reaction. Regulatory and legal headwinds in the EU/U.S. remain on watch.
+
+### Balance-Sheet & Capital Return  
+Meta ended 2024 with $77.8 bn in cash against $28.8 bn of debt, providing ample capacity to fund the 2025 CapEx ramp while sustaining share repurchases and dividends (paid $1.3 bn in Q4).
+
+### Key Takeaways  
+• Core FoA franchise continues to print strong revenue growth (+21 %) and expanding margins (48 % total, 60 % FoA).  
+• Reality Labs losses remain sizable but stable; leadership argues 2025 will reveal the true trajectory for both VR and AI glasses.  
+• 2025 expense and CapEx budgets underscore a step-change in AI infrastructure investment—servers, data centres, networking—which management believes will secure durable competitive advantage and future revenue opportunities.  
+• Near-term financial drivers remain ads pricing improvements, Advantage+ automation, Reels monetisation and commerce tools; AI assistant and agentic monetisation are longer-dated options. Meta’s cash generation and balance sheet afford the company latitude to pursue these parallel bets while continuing shareholder returns.

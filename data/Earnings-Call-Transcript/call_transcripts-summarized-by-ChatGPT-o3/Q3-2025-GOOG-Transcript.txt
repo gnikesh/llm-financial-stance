@@ -1,0 +1,59 @@
+# Alphabet Inc. Q3 2025 Earnings Call – Financial & Strategic Highlights
+
+Alphabet reported its first-ever $100 billion quarter, demonstrating broad‐based, double-digit growth and accelerating adoption of generative-AI products across Search, Cloud, YouTube and Other Bets.
+
+Alphabet Inc. delivered Q3 2025 revenue of **$102.3 billion**, up **16 % YoY (15 % in constant FX)**. GAAP operating income rose **9 % to $31.2 billion** (operating margin **30.5 %**); excluding a one-time European Commission fine of $3.5 billion, operating income grew **22 %** and margin reached **33.9 %**.  
+• Net income increased **33 % to $35 billion**; diluted EPS was **$2.87**, up **35 % YoY**.  
+• Free cash flow totalled **$24.5 billion** for the quarter and **$73.6 billion** for the trailing 12 months.  
+• Cash and marketable securities ended at **$98.5 billion** with no net debt disclosed.  
+• Q3 capital expenditure was **$24 billion** (≈60 % servers, 40 % data-centres/networking). Full-year 2025 CapEx guidance was raised to **$91-93 billion** (from $85 billion), with “significant” further step-up expected in 2026.  
+• Shareholder returns: **$11.5 billion** of share repurchases and **$2.5 billion** of dividends in Q3.
+
+## Segment Performance
+
+1. **Google Services**  
+   • Revenue **$87.1 billion** (+14 %).  
+     – Search & Other Ads **$56.6 billion** (+15 %), led by retail and financial-services; healthcare also contributed.  
+     – YouTube Ads **$10.3 billion** (+15 %), driven by direct response, followed by brand.  
+     – Network Ads **$7.4 billion** (-3 %).  
+     – Subscriptions, Platforms & Devices **$12.9 billion** (+21 %) on strong growth in YouTube Music/Premium and Google One.  
+   • Segment operating income **$33.5 billion** (+9 %); margin **38.5 %** (down YoY due to EC fine).  
+   • Traffic Acquisition Cost (TAC) **$14.9 billion** (+8 %).  
+   • Paid clicks +7 % YoY; CPC +7 % YoY.
+
+2. **Google Cloud**  
+   • Revenue **$15.2 billion** (+34 %), with GCP outpacing overall Cloud growth.  
+   • Operating income **$3.6 billion** (+85 %); margin **23.7 %** (vs. 17.1 % LY).  
+   • Backlog **$155 billion**, up **82 % YoY / 46 % QoQ**; Cloud signed more >$1 billion deals YTD than in the prior two years combined.  
+   • Generative-AI product revenue grew >200 % YoY; 13 separate product lines now each exceed $1 billion ARR.  
+   • New GCP customers +34 %; >70 % of existing Cloud clients use AI products.
+
+3. **Other Bets**  
+   • Revenue **$344 million**; operating loss **$1.4 billion**.  
+   • Waymo expanding to London, Tokyo, Dallas, Nashville, Denver, Seattle; approved for fully autonomous airport runs at San José & San Francisco. Waymo for Business launched; teen accounts rolled out in Phoenix.
+
+## AI & Product Metrics
+
+• Alphabet’s infrastructure now processes **1.3 quadrillion tokens monthly**, up 20× YoY.  
+• **Gemini app:** 650 million MAUs; queries tripled versus Q2.  
+• **AI Mode in Search:** rolled out globally in 40 languages; **75 million DAUs**, with queries doubling QoQ.  
+• **AI Overviews** now live for >2 billion users; continues to spur “meaningful” total and commercial query growth with monetization “approximately the same rate” as classic results.  
+• **AI Max** (Search ads product) launched globally in September; already “hundreds of thousands” of advertisers using it, unlocking “billions of net-new queries” in Q3.  
+• First-party models (Gemini 2.5 Pro, Veo, Genie 3, etc.) processed 7 billion tokens per minute via API; Gemini 3 expected later in 2025.  
+• Quantum computing breakthrough: Willow chip executed algorithm **13,000× faster** than leading supercomputer; company celebrates third Nobel Prize–winning Googler in two years.
+
+## YouTube Ecosystem
+
+• YouTube remains #1 for U.S. streaming watch-time (Nielsen); first exclusive NFL global broadcast drew **19 million** concurrent viewers.  
+• Shorts now generate higher revenue per watch-hour than in-stream video in the U.S.; demand-gen improvements lifted advertiser conversion value >40 %.  
+• Interactive direct-response ads in Living Room reach >$1 billion run-rate.  
+• Total paid subscriptions across Google (YouTube Premium, Music, YouTube TV, Google One, etc.) surpassed **300 million**.
+
+## Outlook Commentary (Q4 2025 & 2026)
+
+• FX could be a tailwind at current spot rates; comps will lap heavy U.S. election spending affecting YouTube.  
+• Cloud demand remains “tight versus supply”; additional server and data-centre capacity ramping, yet constraints expected through 2026.  
+• Depreciation (+41 % YoY to $5.6 billion in Q3) will accelerate slightly in Q4 due to higher CapEx.  
+• Sales & Marketing to skew toward year-end to support product launches and holiday season.
+
+Alphabet’s management reiterated that the generative-AI wave is “expansionary,” boosting user engagement, query volume and commercial opportunities while enlarging Cloud backlog and subscription revenue. Elevated CapEx and depreciation will pressure near-term margins, but internal TPU/AI model advantage, disciplined cost controls and an accelerating Cloud mix are expected to sustain long-term EPS and FCF growth.

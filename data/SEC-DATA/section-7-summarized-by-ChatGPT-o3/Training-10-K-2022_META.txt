@@ -1,0 +1,128 @@
+# Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Condensed Summary  
+*(All amounts are in U.S. dollars; fiscal year ended 31 December 2021 unless otherwise noted.)*
+
+You should read this condensed MD&A in conjunction with the full Form 10-K. It preserves every material quantitative or qualitative statement related to revenue, EPS, cash-flow, capital-allocation, debt-like commitments, tax, and forward-looking expense or sales targets.
+
+---
+
+## Executive Overview of Full-Year 2021 Results
+
+Family of Apps (FoA) usage continued to expand: December 2021 Family daily active people (DAP) averaged **2.82 billion** (+8 % y/y) and monthly active people (MAP) reached **3.59 billion** (+9 % y/y). Facebook-specific DAUs averaged **1.93 billion** (+5 %) and MAUs were **2.91 billion** (+4 %).
+
+Advertising volume and pricing were strong. Ad impressions across FoA rose **10 %**, while average price per ad increased **24 %**.
+
+The company reorganised reporting into two segments:
+
+| 2021 vs 2020 | Family of Apps | Reality Labs | Consolidated |
+|--------------|---------------|--------------|--------------|
+| Revenue      | **$115.66 bn** (+36 %) | **$2.27 bn** (+100 %) | **$117.93 bn** (+37 %) |
+| Costs & expenses | $58.71 bn (+29 %) | $12.47 bn (+61 %) | $71.18 bn (+34 %) |
+| Operating income (loss) | **$56.95 bn** (+45 %) | **$(10.19) bn** (loss ↑54 %) | **$46.75 bn** (+43 %) |
+| Operating margin | 49 % (prior-year 46 %) | (448 %) | 40 % (prior-year 38 %) |
+
+Net income was **$39.37 billion** and diluted EPS **$13.77**. The effective tax rate was **16.7 %**.
+
+Other key 2021 figures  
+• Capital expenditures (incl. finance leases): **$19.24 bn**  
+• Free cash flow: **$38.44 bn**  
+• Cash, cash equivalents & marketable securities: **$48.0 bn** (of which $10.6 bn held offshore)  
+• Share repurchases: **$44.81 bn** (136 m Class A shares); $38.79 bn remaining authorisation  
+• Headcount: **71,970** (+23 %)
+
+Management emphasised four investment priorities—privacy/safety, new consumer experiences, business enablement, and transparency—while noting continuing headwinds from Apple iOS privacy changes, COVID-19 volatility, and competitive products (e.g., Reels monetises below feed/Stories).
+
+---
+
+## Outlook and 2022 Targets
+
+• Capital expenditures projected at **$29-34 billion**.  
+• Total 2022 expenses expected between **$90-95 billion**; year-over-year expense growth may “significantly exceed” revenue growth, pressuring operating margin.  
+• No long-term funded debt; contractual commitments total **$52.33 bn**, dominated by operating-lease and infrastructure purchase agreements.  
+• The company believes existing liquidity plus operating cash flow will cover operational needs, CAPEX and buybacks for at least the next 12 months and “for the foreseeable future”.
+
+---
+
+## Trends in Family Metrics
+
+• DAP/MAP ratio remained stable at **78-79 %** throughout 2021.  
+• Worldwide DAP increased from 2.60 bn to **2.82 bn**; MAP from 3.30 bn to **3.59 bn**.  
+• Annual worldwide average revenue per person (ARPP) was **$33.68**, up **22 %**.
+
+---
+
+## Facebook-Specific User and Monetisation Trends
+
+• Facebook DAU/MAU ratio held around **66 %** globally.  
+• Top DAU growth markets: India, Bangladesh, Vietnam.  
+• Annual worldwide ARPU reached **$40.96** (+28 %); U.S./Canada ARPU was over 12× that of Asia-Pacific.  
+• Regional ARPU growth 2021: Rest of World +40 %, Europe +35 %, U.S./Canada +31 %, Asia-Pacific +26 %.  
+• Management cautions ARPU growth may slow as future user growth skews toward lower-monetising regions.
+
+---
+
+## Revenue Discussion
+
+FoA advertising revenue rose **37 %** to **$114.93 bn**, lifted by a 24 % price gain and 10 % more delivered ads. Other FoA revenue grew **10 %** to $721 m. RL revenue doubled to **$2.27 bn**, driven by higher sales volume of Quest, Portal and wearables.
+
+Seasonality persists: historically strong Q4 followed by Q1 decline (e.g., 7 % sequential drop in Q1 2021).
+
+Currency tailwinds: constant-currency revenue would have been **$1.64 bn** lower; FX contributed roughly 2 ppt to 2021 growth.
+
+No single customer accounted for 10 %+ of revenue.
+
+---
+
+## Expense Discussion
+
+• Cost of revenue **$22.65 bn** (+36 %); increases in RL cost of goods and data-centre opex partially offset by lower depreciation growth after extending server/network useful lives (cut 2021 depreciation $620 m, raised EPS $0.18).  
+• R&D **$24.66 bn** (+34 %); headcount up 30 % in technical roles, incl. heavy RL investment.  
+• Marketing & sales **$14.04 bn** (+21 %); promotional spend and 9 % staff growth.  
+• G&A **$9.83 bn** (+50 %); higher legal costs and 25 % headcount growth. No additional FTC accrual booked in 2021 (the $5 bn settlement was expensed in 2019).
+
+Total share-based compensation expense was **$9.16 bn** (8 % of revenue).
+
+---
+
+## Segment Profitability
+
+FoA operating income climbed to **$56.95 bn** (+45 %), maintaining a 49 % margin. Reality Labs operating loss widened to **$(10.19) bn**, reflecting R&D hiring and hardware gross losses.
+
+---
+
+## Cash Flow and Liquidity
+
+| 2021 cash flows | Use/source |
+|-----------------|------------|
+| Operating cash | **$57.68 bn** |
+| Investing cash | **$(7.57) bn** (cap-ex $18.57 bn partly offset by $12.18 bn net proceeds from securities) |
+| Financing cash | **$(50.73) bn** (mainly share buybacks & RSU tax withholding) |
+
+Free cash flow = **$38.44 bn** (operating cash minus $18.57 bn cap-ex and $0.68 bn finance-lease principal).
+
+Finance-lease obligations total **$2.30 bn**; transition tax payable **$1.54 bn**. Off-balance-sheet arrangements are not material.
+
+---
+
+## Taxation
+
+Provision for income taxes: **$7.91 bn** (up 96 %); effective tax rate **16.7 %** versus 12.2 % in 2020. Increase reflects higher pre-tax income and the 2020 R&D capitalization election that produced a one-time $1.07 bn benefit. Mandatory U.S. capitalization of R&D beginning 2022 may raise cash taxes “several billion dollars” but could lower the effective rate; if deferred, the 2022 ETR could be “a few percentage points higher.”
+
+---
+
+## Market Risks
+
+• FX: 2021 foreign-currency losses **$140 m**; a strong USD would pressure revenues.  
+• Interest: a 100 bp rate hike would cut the fair value of the debt-securities portfolio by ~$714 m.  
+• Equity investments: privately-held stakes carried at **$6.78 bn**; subject to impairment based on market/operational conditions.
+
+---
+
+## Critical Accounting Policies
+
+Summaries retained regarding gross-vs-net revenue recognition, valuation of equity investments, income-tax estimates, loss contingencies, and valuation of long-lived assets (including the 2021 change in server/network useful lives).
+
+---
+
+## Forward-Looking Statements and Risk Factors
+
+Management reiterates that actual results could differ materially due to regulatory changes (e.g., privacy regimes, iOS tracking), competitive dynamics (notably monetisation gap for Reels), macroeconomic fluctuations, pandemic-related demand shifts, and ongoing legal or tax proceedings.

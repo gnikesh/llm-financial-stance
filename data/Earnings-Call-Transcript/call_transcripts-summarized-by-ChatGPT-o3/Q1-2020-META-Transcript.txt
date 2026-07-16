@@ -1,0 +1,60 @@
+# Facebook Q1 2020 Earnings Call – Financial & Strategic Summary
+
+Facebook entered the COVID-19 crisis with a strong balance sheet and record user engagement, but the pandemic materially altered advertising demand and the company’s short-term outlook. Management reiterated a long-term commitment to high operating margins, heavy product investment and support for small businesses while acknowledging near-term margin compression.   
+
+### Key Q1 2020 Financial Metrics  
+• Total revenue was **$17.74 billion, up 18 %** year-over-year (19 % constant currency).  
+&nbsp;&nbsp;• Advertising revenue contributed **$17.44 billion, up 17 %**.  
+&nbsp;&nbsp;• “Other” revenue, driven mostly by Oculus hardware, reached **$297 million, up 80 %**.  
+
+• **GAAP net income was $4.90 billion**, equal to **$1.71 diluted EPS**.  
+• **Operating income** of **$5.90 billion** produced a **33 % operating margin** (down from 46 % a year ago, when results included a $3 billion FTC accrual).  
+• **Total expenses** were **$11.84 billion**, only 1 % higher than the prior-year quarter that carried the FTC charge; excluding that charge, expenses rose 35 %.  
+ – Cost of revenue +23 %, R&D +40 %, Marketing & Sales +38 %, G&A +49 % (ex-FTC).  
+
+• **Free cash flow** was **$7.34 billion**; **$1.2 billion** of stock was repurchased.  
+• **Capital expenditures** were **$3.67 billion**.  
+• Cash and marketable securities ended at **$60.3 billion**; the $5 billion FTC fine was paid after quarter-end, and a **$5.7 billion** strategic investment in India’s Jio Platforms was signed in April.  
+
+### Users & Engagement  
+• March averages: **2.60 billion MAUs** (+10 %), **1.73 billion DAUs** (+11 %), with DAUs equal to 67 % of MAUs.  
+• “Family” metrics (people using any FB app) surpassed **3 billion MAUs and 2.3 billion DAUs** for the first time.  
+• Shelter-in-place drove a more than **50 % jump in messaging volume** and **>100 % increase in voice/video calling**; ad impressions rose **39 %** while average ad price fell **16 %**.
+
+### Early Q2 Snapshot & 2020 Outlook  
+• After a steep ad decline in mid-March, **ad revenue for the first three weeks of April was roughly flat vs. a year ago**, versus +17 % in Q1. Weakness remains broad-based, with travel and auto hardest hit; gaming, technology and e-commerce show relative strength.  
+• Management withdrew formal revenue guidance but cautioned that economist forecasts for a global GDP contraction imply risk of a deeper advertising slowdown.  
+
+• **2020 expense guidance lowered to $52–56 billion** (from $54–59 billion) reflecting savings in travel, events, marketing and slower head-count growth in business functions, partly offset by more than **$300 million** in COVID-19 community support.  
+• **2020 CapEx guidance cut to $14–16 billion** (from $17–19 billion); reduction is viewed as a construction deferral into 2021, not a structural cut.  
+• Full-year **tax rate** expected in the **high-teens**.  
+• No change to policy of maintaining high long-term margins; short-term margins will fall because expenses continue to grow while revenue growth slows.  
+
+### Liquidity & Debt  
+The company reported no new debt and retains over **$60 billion in cash and investments**, underscoring ample capacity for buybacks, acquisitions and strategic investments such as Jio Platforms.  
+
+### Strategic & Operational Highlights  
+1. **COVID-19 Response**  
+   • Built a global COVID-19 Information Center and attached it to the top of the Facebook app, directing **>2 billion** users to official health content.  
+   • 4,000+ pieces of COVID misinformation labeled; 40 million warning screens displayed.  
+   • Partnered with Carnegie Mellon on privacy-protected symptom surveys to help local health planning; linked to separate serology studies funded by the Chan Zuckerberg Initiative.  
+
+2. **Video Presence & Remote Socialization**  
+   • Rolled out **Messenger Rooms**, doubled WhatsApp video call size to eight, and highlighted that **700 million+** users participate in WhatsApp/Messenger calls daily.  
+   • Live-video engagement now tops **800 million DAUs**; Facebook Events team refocused on enabling **online, monetizable events**.
+
+3. **Commerce & SMB Support**  
+   • Accelerating tools that turn Facebook, Instagram, Messenger and WhatsApp into digital storefronts: catalogues, click-to-message ads, payments, food-delivery links, gift cards and direct fund-raisers.  
+   • Announced **$100 million** in cash grants for 30,000 small businesses (half earmarked for women, minority and veteran-owned U.S. firms).  
+   • **Jio Platforms partnership** aims to connect millions of Indian kirana shops via JioMart and WhatsApp—a template expected to extend globally.  
+
+4. **Hiring & Operations**  
+   • Over **48,000** employees at quarter-end (+28 % YoY); **3,300** net hires in Q1, primarily in technical roles.  
+   • Facebook still plans to hire at least **10,000 additional product & engineering staff in 2020**. More than 95 % of employees are working from home; services have remained stable at elevated usage levels.  
+
+### Management Commentary  
+• CEO Mark Zuckerberg emphasized continued investment in future products during downturns, especially private social platforms, video presence and commerce.  
+• COO Sheryl Sandberg reiterated the centrality of measurement and ROI for advertisers, noting that direct-response/performance campaigns (gaming, e-commerce) are holding up best.  
+• CFO Dave Wehner cited foreign-exchange headwinds (~5 % dollar appreciation post-pandemic declaration) and reiterated commitment to disciplined cost control, asserting that 2020 CapEx cuts are timing-related.
+
+Facebook exits Q1 2020 with record engagement, strong liquidity and moderated—but still growing—revenue; however, management is bracing for an uncertain macro backdrop and ad market volatility while pressing ahead with long-term investments in video, commerce and small-business enablement.
