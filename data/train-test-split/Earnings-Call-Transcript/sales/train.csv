@@ -1,0 +1,1069 @@
+sample_id,Instances,Quarter,Year,Company,LLM_Stance_1,LLM_Reason_1,Stance_1,Reason_1,Stance_2,Reason_2,filename,Human_Consensus
+00025305cc2479709ebe8f1063c54730,"as we mentioned last quarter, we have reformulate or identified alternate sources for approximately $200 million of annual sales.",Q4,2021,NEENAH,Positive,"Stance: Positive
+
+Reason: The sentence notes that the company “re-formulated or identified alternate sources for approximately $200 million of annual sales.”  By securing alternative materials the company protects (and can now re-capture) a large block of revenue that had been at risk because of supply-chain shortages.  This directly supports higher future sales and, therefore, is positive for profitability.  
+
+Helpful context section: In the same paragraph (fourth-quarter discussion) management explains that these actions “allow us to offer our customers an expanded set of product options,” confirming that the $200 million in sales can continue.  
+
+(The remainder of the transcript was not required to determine the outlook; the quoted passage alone was sufficient.)",Positive,"The text reports a successful operational achievement (""reformulated or identified alternate sources"") to secure or preserve $200 million in annual sales, citing a favorable action to maintain revenue continuity.",Positive,Proactively securing product sources protects $200 million in sales from potential loss.,,
+01dc4310293676066c7aa8bca2a365c2,do you expect to impact either your sales or your supply chain?,Q4,2019,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The excerpt is only an analyst’s question (“do you expect to impact either your sales or your supply chain?”). It does not state whether sales are expected to rise, fall, or stay flat, nor does it contain the company’s response. Therefore, no directional outlook for sales can be inferred.
+
+The broader context of the transcript is not needed for this classification since the sentence itself lacks any guidance or data on sales.",,,,,,
+035505129a8252183fa86bb8840db71e,"second quarter margins were driven by leverage on sales growth, which was partially offset by increasing raw materials and logistics costs, along with increased investments in growth.",Q2,2021,MMM,Positive,"Stance: Positive
+
+Reason: The sentence explicitly states that “margins were driven by leverage on sales growth,” indicating that sales increased enough to lift margins. Although higher raw-material and logistics costs muted some of the benefit, the key point for the target metric (“sales”) is that they grew and provided positive operating leverage. Hence, from a profitability perspective, the outlook for sales is positive. (Source: Health-Care segment discussion – “…second quarter margins were driven by leverage on sales growth…”)",,,,,,
+056f21ec99cdb1a43f33e3cfca39c313,we have also been able to negotiate additional volumes as a further offset to pricing constraints.,Q3,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The sentence states that the company “has been able to negotiate additional volumes,” which implies higher unit volumes shipped and therefore higher revenue potential. Securing more volume, even in the face of pricing pressures, supports an improved outlook for sales. Although broader context is not strictly necessary, this line appears in the Engineered Papers discussion where management explains that extra volumes will help offset pricing constraints, reinforcing a positive view on future sales.",Positive,"The text reports the successful negotiation of ""additional volumes,"" citing increased order volumes (a positive sales driver) that serve to counteract pricing constraints. The focus on the achievement of gaining volume indicates a favorable stance.",Positive,"Negotiating ""additional volumes"" directly increases sales quantity to counteract price limitations.",,
+058906cf343c1d8196500e45aa674b4a,initial test to drive sales yielded a 40% lower cost per acquisition at a 15x higher conversion rate versus other campaigns with the same goals.,Q1,2022,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses a test “to drive sales,” so it is directly about sales performance (Guideline 1).  
+   • It reports two markedly better metrics vs. other campaigns:  
+     – 40 % lower cost per acquisition (improved efficiency, raising profitability).  
+     – 15× higher conversion rate (strongly higher sales volume per ad click).  
+   • Both metrics signal a favorable outcome and outlook for generating profitable sales (Guidelines 2, 4).  
+   • No negative or offsetting cues are present; the overall context of the sentence is clearly positive.  
+   • Therefore, the dominant stance toward sales is Positive.  
+   • The broader earnings-call context is not required to interpret this sentence (Guideline 6).
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The test “yielded a 40 % lower cost per acquisition” and a “15× higher conversion rate,” indicating significantly more efficient and effective sales generation, which is favorable for profitability (context not necessary).",Positive,"The test was very successful in increasing sales. It achieved 15 times more conversions than before, showing much better customer response.",Positive,"The text mentions highly favorable metrics regarding the company's efforts to drive sales. Specifically, it cites a ""15x higher conversion rate"" and a ""40% lower cost per acquisition"" compared to other campaigns.",,
+06b79eb1f4e4cf8ba1a09b43371e30a0,"lastly, within imaging and packaging, our back-to-school items and newly designed planners, journals and teacher tools have all been very well received at major retailers and continue to outpace the category and grow share.",Q2,2021,NEENAH,Positive,"Stance: Positive
+
+Reason: The sentence states that the company’s “back-to-school items and newly designed planners, journals and teacher tools have all been very well received at major retailers and continue to outpace the category and grow share.” Being well received, outpacing the category, and gaining share all point to increasing demand and therefore an improving outlook for sales. No other portions of the broader transcript were required to reach this conclusion.",Positive,"The text reports that products have been ""very well received"" (strong demand) and explicitly mentions that they ""outpace the category and grow share,"" which indicates market share gains and growth.",Positive,"The text reports that products are being ""well received,"" are ""outpacing the category,"" and ""growing share,"" all of which indicate strong top-line performance.",,
+06ea22bb248460d39d3091a8089c4c7d,"for engineered papers, third quarter sales were down 12% on a 10% volume decline.",Q3,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The cited sentence states, “for Engineered Papers, third quarter sales were down 12% on a 10% volume decline.” A double-digit percentage drop in sales clearly signifies deteriorating performance and is unfavourable for profitability. This statement, found in the main transcript discussion of Q3 results, directly supports the negative outlook.",Negative,"The sentence reports a double-digit decline in sales driven by lower volumes, indicating a clear negative sales trend.",Negative,"The text explicitly reports that sales were ""down 12%"" and volumes experienced a ""10% decline."" Decreases in both revenue and volume represent a clear deterioration in top-line performance.",,
+086061535315929a642e8188903f0863,"we're building commerce tools to help businesses reach more new customers, and get more incremental sales.",Q3,2021,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states an action: “building commerce tools.”  
+   • Purpose of those tools is “to help businesses reach more new customers” → larger customer base.  
+   • And to “get more incremental sales” → directly signals an expected increase in sales.  
+   • No conflicting or negative cues appear; the intent is clearly to boost sales, which supports profitability.  
+   • Per Guideline 4 (strategic actions affecting sales) and Guideline 5 (no conflicting cues), this is Positive.  
+   • The broader transcript is not needed; the single sentence provides sufficient evidence.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence states the company is “building commerce tools … to get more incremental sales,” indicating an expected boost in sales and thus a favorable outlook. (Context not necessary)",Positive,The author presents a positive view of sales by highlighting tools that help businesses attract new customers and boost sales. Focusing on customer growth and increased sales shows a favorable perspective.,Positive,"The text expresses a favorable outlook towards sales by focusing on growth and expansion. It explicitly mentions strategies for ""new customer acquisitions"" (reaching more new customers) and generating ""incremental sales"" (sales growth).",,
+086aa1b02ef45754b9d4ed05d95315df,"i?ll also note that while demand perked up in march due to the coronavirus, we were otherwise off to a strong start prior to that uptick with gains in several niche product areas.",Q1,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: The sentence states that “demand perked up in March” and that the business “was otherwise off to a strong start prior to that uptick with gains in several niche product areas.” Both the March demand increase and the earlier “strong start” point to higher ‑ or at least improving ‑ sales, which is favorable from a profitability perspective. The outlook is therefore Positive. (The broader transcript was not necessary for this classification; the key information is contained in the quoted text itself.)",,,,,,
+086ba0795fe1c7ce99b0177ee77c5f8b,"fourth quarter sales were $214 million, down from the prior year as a result of soft market demand, the divestiture of a fine paper mill in late 2018, and a mid-year change with a major fine paper distributor.",Q4,2019,NEENAH,Negative,"Stance: Negative  
+
+Reason: The text explicitly states that “fourth quarter sales were $214 million, down from the prior year,” indicating a decline in the company’s sales level. A decrease in sales signals a negative outlook for this financial target from a profitability perspective. The key section supporting this is the sentence quoted above; no additional context was needed beyond that statement.",,,,,,
+09e54ef5aacf68652e937c41af88956c,sales in the quarter were $161 million down 36% versus prior year.,Q2,2020,NEENAH,Negative,"Stance: Negative
+
+Reason: The cited sentence states, “sales in the quarter were $161 million down 36% versus prior year.” A 36 % year-over-year decline clearly signals deteriorating sales performance, which is adverse for profitability. This information comes directly from Bill McCarthy’s opening remarks in the transcript, so the context is helpful in making the classification.",,,,,,
+0a26d4f2bfffa6abc51ba28bc449948c,"as festivals and events return to summer, revolve used lower funnel solutions across search and shopping to engage with consumers in high-demand apparel categories, helping it cross $1 billion in trailing 12-month net sales for the first time.",Q3,2022,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that Revolve’s use of Google lower-funnel advertising “help[ed] it cross $1 billion in trailing 12-month net sales for the first time.”  
+   • “Cross $1 billion…for the first time” signals a new, higher sales level, therefore an improvement in sales performance.  
+   • Improved sales performance benefits profitability, fitting the definition of a Positive stance toward sales (Guideline 1 & 4: changes over time, financial indicators).  
+   • No contradictory cues are present, so the dominant context is favorable.  
+   • The single sentence contains all needed information; the broader transcript is not required to judge the stance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports that Revolve’s campaign enabled it to surpass $1 billion in 12-month net sales for the first time, indicating a sales increase and thus a positive outlook for profitability; context not necessary.",Positive,The company reached a big milestone by crossing $1 billion in sales for the first time in a 12-month period. Strong demand in popular clothing categories helped drive this growth.,Positive,"The text explicitly reports a major milestone in revenue: ""cross $1 billion in trailing 12-month net sales for the first time."" This indicates significant sales growth and improved top-line performance, which are primary criteria for a Positive stance.",,
+0a76b69fce43c2d7a11cfcdd1a3d2ec5,"second, advertisers in these sectors tend to optimize for measurable objectives and we are generating sales at lower prices due to the overall reduction in ad demand.",Q1,2020,META,Negative,"1. Chain-of-Thought  
+   • The sentence explains that ad demand has fallen (“overall reduction in ad demand”).  
+   • Because of this, Facebook is “generating sales at lower prices.”  
+   • Lower ad prices mean Facebook earns less revenue per sale/impression, pressuring profitability.  
+   • According to guideline 1 & 4, statements indicating declining prices or demand that hurt revenue are Negative signals for sales.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence shows Facebook must sell ads (“generate sales”) at reduced prices owing to weaker demand, implying lower revenue and a negative impact on profitability. (Context not necessary.)",Negative,The text says ad demand has dropped and sales are happening at lower prices. This shows weaker sales performance and low customer demand.,Negative,"The text explicitly reports a ""reduction in ad demand"" and that sales are being generated at ""lower prices.""The combination of lower demand and lower pricing indicates an unfavorable sales outlook.",,
+0c50dfebc4ac9ef4523d3a095a4381cf,"while there remains a great deal of economic uncertainty, we are seeing an improvement in sales trends in july across all businesses and geographies as we start the third quarter, and monish will provide additional comments later in the call.",Q2,2020,MMM,Positive,"Stance: Positive
+
+Reason: The company states that it is “seeing an improvement in sales trends in July across all businesses and geographies as we start the third quarter.” This indicates that sales momentum is getting better, which is favorable for future profitability. The cited line is sufficient to judge the outlook; no other parts of the wider context were necessary for this classification.",,,,,,
+0ccb97274f762c753d3093d2c43867ed,you saw we grew nearly 10% with a very strong holiday season.,Q4,2020,MMM,Positive,"Stance: Positive
+
+Reason: The sentence states that the company “grew nearly 10% with a very strong holiday season,” which directly indicates a solid increase in sales. This signals a favorable outlook for the sales metric. The information is contained within the quoted text itself, so the broader context was not necessary for making this classification.",,,,,,
+0dbdecf7b52b8401ede19655b81c4ef6,the strong growth in the residential housing market continued to drive good performance and our roofing granules business which was up double digits organically versus q4 of last year.,Q4,2020,MMM,Positive,"Stance: Positive
+
+Reason: The sentence explicitly says that the roofing-granules business was “up double digits organically versus Q4 of last year.”  A double-digit organic increase means sales in this product area have risen significantly, so the outlook for the company’s overall sales is favorable.  (The broader transcript is not needed for this determination; the quoted text alone provides the necessary information.)",,,,,,
+0e08bda36c7ff26010b62ac74dc214dd,"on a consolidated basis, net sales were essentially flat, but without the impact of currency would have increased 2%.",Q2,2019,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: The cited sentence says, “on a consolidated basis, net sales were essentially flat, but without the impact of currency would have increased 2%.” Reported sales did not grow (flat), and the underlying 2 % constant-currency uplift is modest. This does not signal a material improvement or deterioration, so the outlook for sales is neither clearly positive nor negative. The single sentence itself provided all the information needed; the broader transcript was not necessary for this classification.",,,,,,
+0e16120b7a211dc2817c96ea4d406b54,our auto oem business was down 4% year-on-year compared to the 3% decline in global car and light truck builds.,Q3,2020,MMM,Negative,"Stance: Negative
+
+Reason: In the Transportation & Electronics discussion, management states that “our auto OEM business was down 4% year-on-year.” A year-over-year decline in sales clearly signals a negative trend for the sales target.",,,,,,
+0e6e1affe126ff35ec96f8c0b4a398bd,"the short answer is, there's no, we're not seeing that impact demand.",Q1,2021,NEENAH,Neutral,"Stance: Neutral
+
+Reason: In the quoted answer (“the short answer is, there's no, we're not seeing that impact demand.”), management says that higher input-cost inflation is NOT hurting demand. That indicates sales are neither expected to drop nor to rise because of this factor; they are simply holding steady. Since the passage does not point to a clear increase or decrease in sales, the outlook for the “sales” metric is Neutral.
+
+(The broader context—Q&A section discussing whether raw-material price hikes are affecting demand—confirms that management sees no change, so the context is helpful but does not alter the neutral conclusion.)",Neutral,"The sentence states that demand is not being impacted, indicating stable sales conditions without growth or decline.",Neutral,"The text states that they are ""not seeing that impact demand."" This denies a negative impact but does not actively report sales growth or increased demand, leaving the stance neutral.",,
+0edb18f2b83014541ffad05c13b83106,the strong sales mix also led to excellent profitability.,Q1,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the AMS segment discussion the company states, “The strong sales mix also led to excellent profitability,” immediately after noting that AMS sales grew 33% (15% organically) and that most end-markets are showing robust demand. This language signals that current sales performance is strong and contributing favorably to earnings, indicating a positive outlook for the “sales” target.
+
+(The surrounding context containing the AMS sales growth figures and the sentence quoted above was essential for making this determination.)",Positive,A strong sales mix implies higher-quality or better-performing sales contributing positively to revenue quality.,Positive,"The mention of a ""strong sales mix"" indicates a favorable sales composition and top-line quality",,
+0fb71d2df7b00c89064976dabd17f429,"thanks, jeff, and then, turning to ams, could you just update us on where tekra is tracking relative to the sales and ebitda margins that you kind of discussed when the deal was announced?",Q3,2020,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral  
+Reason: The excerpt is simply an analyst asking management to update them on Tekra’s sales performance; it contains no information indicating whether sales are rising, falling, or unchanged. Therefore, no outlook—positive or negative—can be inferred. (The broader context is not needed for this determination, as the sentence itself provides no directional data.)",,,,,,
+0ff92f646c0fb1698d8fc1af761abccc,"overall, our healthcare business delivered q3 organic sales growth of 8.1% year-on-year with operating margins of 23.5%.",Q3,2020,MMM,Positive,"Stance: Positive  
+
+Reason: The sentence explicitly states that the Healthcare business “delivered Q3 organic sales growth of 8.1% year-on-year,” indicating that sales are rising. An 8.1% organic increase signals improving revenue momentum, which is beneficial for profitability. (Section referenced: “overall, our healthcare business delivered q3 organic sales growth of 8.1% year-on-year…”) The broader context is not needed to see that this specific data point is favorable for sales.",,,,,,
+1006baf1a2aa3d6cec52faf95f3bfaa6,sales in our oral care business grew low single-digits year-on-year as patient visits continue to be near pre-covid levels.,Q4,2021,MMM,Positive,"Stance: Positive
+
+Reason: The excerpt explicitly says that “sales in our oral care business grew low single-digits year-on-year,” which indicates an increase rather than a decline or stagnation. Any year-over-year growth in sales is a favorable sign for profitability, hence the positive outlook. This conclusion is drawn directly from the quoted sentence; no additional context was needed.",,,,,,
+124602411893047f843cce20f6ed22bd,"other revenue, was $297 million, up 80% driven primarily by sales of oculus products.",Q1,2020,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that “other revenue…was $297 million, up 80%.”  
+   • An 80% increase reflects a substantial growth trend—clear evidence of stronger sales.  
+   • The growth is attributed to “sales of Oculus products,” directly tying the revenue rise to product sales performance.  
+   • According to Guideline 4 (changes over time) and Guideline 2 (explicit mention of sales), a large revenue increase is a favorable signal for profitability.  
+   • No conflicting cues are present; the context outside this sentence is not required to interpret the stance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The phrase “up 80% driven primarily by sales of Oculus products” shows a sharp rise in revenue from product sales, indicating a positive outlook for sales and profitability.
+
+Context Usage: Not necessary—the sentence alone contains the needed information.",Positive,"The company’s revenue increased by 80%, mainly due to strong sales of one product line, showing positive growth and performance.",Positive,"The text explicitly reports significant revenue growth (""up 80%"") and attributes it to the ""sales of oculus products."" reporting on sales growth or revenue increase is a clear indicator of a positive stance.",,
+12a11bdad8085bd7718e2eb52714b5c5,"our electronics related business was up 2% with continued strong growth in semiconductor, factory automation and data centers, which was partially offset by year-on-year softness in consumer electronics.",Q4,2020,MMM,Positive,"Stance: Positive
+
+Reason: The sentence states that “our electronics related business was up 2%,” indicating year-on-year sales growth. Although some softness in consumer electronics is mentioned, overall sales in the segment still increased, which is favorable from a profitability perspective. (Context beyond this line was not required; the quoted line itself provided the necessary information.)",,,,,,
+13096c7ff9d254333e57c715753226c3,"we are going after price increases, and our anticipation is that in the fourth quarter, we should be able to offset the price -- the raw and logistics cost impact.",Q2,2021,MMM,Neutral,"Stance: Neutral
+
+Reason: The quoted text only discusses 3M’s plan to raise prices to offset higher raw-material and logistics costs. It speaks to margin protection, not to whether sales (revenue or volumes) will rise or fall. Since there is no clear indication that sales will increase or decrease, the outlook for the “sales” target cannot be determined from this passage.",,,,,,
+16d3fea02022ab47ab40b96d876d0275,"segment adjusted operating profit was just under $8 million, up 15% from the third quarter, but below prior year due to lower sales and production volumes and a less favorable mix.",Q4,2020,NEENAH,Negative,"Stance: Negative
+
+Reason: The excerpt states that the segment’s adjusted operating profit “was … below prior year due to lower sales and production volumes.”  The explicit reference to “lower sales” versus the prior year signals a decline, which is negative for the company’s sales outlook.  (This conclusion is drawn directly from the quoted sentence; no additional context was necessary.)",,,,,,
+16d80cabdf84800bb73f105cf3755531,"turning to the fine paper and packaging, quarterly sales of $91 million were down 8%.",Q1,2020,NEENAH,Negative,"Stance: Negative  
+
+Reason: The quoted sentence itself states that “quarterly sales of $91 million were down 8%,” indicating a year-over-year decline in sales for the Fine Paper and Packaging segment. A decrease in sales is unfavorable for profitability, so the outlook for the “sales” target is negative. No additional context beyond this specific line was required to reach the conclusion.",,,,,,
+177210363e1b8311161c005a04e8a136,"coles net sales were up 31% year-over-year in q2, led by higher foot traffic and continued strength in digital.",Q3,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that Coles’ “net sales were up 31% year-over-year.”  
+   • A 31% YoY increase is a clear indicator of strong sales growth, which benefits profitability.  
+   • Additional phrases (“higher foot traffic,” “continued strength in digital”) reinforce a favorable sales environment.  
+   • No negative or offsetting cues are present.  
+
+2. Stance: Positive  
+
+3. Brief Justification: The sentence reports a 31 % YoY rise in net sales—signaling robust sales growth that supports profitability; context beyond the sentence is not necessary for this judgment.",Positive,Net sales increased by 31% compared to last year. More store visitors and strong online sales show high customer demand and better overall performance.,Positive,The reported 31% increase in net sales fueled by increased foot traffic and digital strength serves as a strong indicator of rising customer demand and operational success.,,
+18371ab481db811ea6abb4aec18c6279,"what we talked about is we did see a return to growth in our stationery and office business in first quarter, up mid-single digits, as monish mentioned.",Q1,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The sentence reports that “we did see a return to growth in our stationery and office business in first quarter, up mid-single digits.”  A shift from prior decline/stagnation to “return to growth” and a mid-single-digit increase clearly signals rising sales for that portion of the business, which is favorable from a profitability perspective.  (This is drawn directly from the quoted section of the context; no other parts of the transcript are required for this classification.)",,,,,,
+196502e56568af02eb36976d4de0f223,it will be a better consumer experience and sales will convert better.,Q2,2020,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “sales” and states they “will convert better,” implying higher conversion rates.  
+   • Improved conversion directly signals an expectation of increased sales effectiveness and thus enhanced profitability.  
+   • There are no conflicting or negative cues; the message is purely optimistic about future sales performance.  
+   • According to Guideline 4 (projections and forward guidance) and Guideline 5 (dominant context), this denotes a favorable sales outlook.
+
+2. Stance: Positive
+
+3. Brief Justification: The statement projects that “sales will convert better,” indicating anticipated improvement in sales effectiveness—clearly a positive signal for profitability; the broader context is not necessary for this judgment.",Positive,The text says that future sales are expected to get better and increase.,Positive,"The author expresses a favorable outlook toward sales by stating they ""will convert better."" This indicates an expectation of improved sales performance and efficiency resulting from a better consumer experience.",,
+1a82d1528d147fe526846fb5ff4c6a0e,"rather, that with more than 40% of our sales to the tobacco industry, our presence in replenishment-driven filtration markets and our growing medical business, we believe that a large portion of our sales should be resilient in the face of continuing economic turbulence and covid-19-related demand impacts.",Q1,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the cited passage management explicitly says they “believe that a large portion of our sales should be resilient in the face of continuing economic turbulence and COVID-19–related demand impacts.”  This statement indicates confidence that sales will hold up despite the difficult environment, signaling a favorable (Positive) outlook for the sales metric. The assessment comes directly from this segment of the transcript; no additional context was necessary to draw the conclusion.",,,,,,
+1b8fd573fcd02d434338d0887653814f,we anticipate our volume and sales performance to be more normalized in the second half of the year with second quarter being more of an outlier period.,Q2,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: In the cited sentence the company states, “we anticipate our volume and sales performance to be more normalized in the second half of the year with second quarter being more of an outlier period.”  This indicates management expects sales to rebound from the unusually weak Q2 levels, implying an improvement in sales outlook.  (Section: Engineered Papers discussion, paragraph where management discusses inventory destocking and the Ancram shutdown.)",,,,,,
+1ba04defef54ef7072ba3ed48c7a64d9,"operating margins were driven by leverage on sales growth which was partially offset by increase in raw materials, logistics, and legal costs.",Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: The cited sentence states that “operating margins were driven by leverage on sales growth,” indicating that the company’s sales are rising and providing a favorable lift to profitability. Although higher raw-material, logistics and legal costs are mentioned, they only “partially offset” the margin benefit; the key point is that sales growth is strong enough to be a primary driver of improved margins. This reflects a positive outlook for the “sales” metric. (The broader transcript’s discussion of double-digit organic growth across business groups supports this reading, but the specific sentence alone is sufficient for the classification.)",,,,,,
+1fade9f85dcf6fda648b29f4bc1e4c59,compute growth was led by vertical industries where oem partners continued ramping up their a100 based servers and our own dgx system sales were strong.,Q4,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “compute growth,” indicating an increase in this revenue line.  
+   • It attributes that growth to OEM partners “ramping up” (i.e., increasing) shipments of A100-based servers—an activity that directly boosts NVIDIA’s sales.  
+   • It also states that “our own DGX system sales were strong,” another clear signal of higher product sales.  
+   • Rising demand and strong sales improve profitability, satisfying the guideline for a Positive stance on sales.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports increased demand (“ramping up”) and “strong” DGX system sales, pointing to higher sales and therefore a favorable impact on profitability.  
+
+Context: Not necessary—the positive signal is fully contained within the sentence itself.",Positive,"The text says revenue is growing, DGX systems are selling well, and partners are increasing product use.",Positive,"The text explicitly reports on ""compute growth"" and characterizes ""dgx system sales"" as ""strong."" Furthermore, it mentions that OEM partners are ""ramping up,"" which indicates increasing demand and a favorable trajectory for sales.",,
+1fe3b1ccc935a5a5e31d2f027ecf5a3a,"we estimate the total impact to be in the range of $4 million to $5 million per quarter in lost sales, implying our total filtration business could have been up nearly 40% in the third quarter compared to last year.",Q3,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: In the section that states, “we estimate the total impact to be in the range of $4 million to $5 million per quarter in lost sales,” management is explicitly acknowledging that sales are being reduced because of labor-related constraints. Although they note that sales “could have been up nearly 40%,” the current reality is that sales are lower than they otherwise would be, which is a negative outlook for the sales metric. The cited sentence from the context is the key driver of this classification; no additional information outside that passage is needed.",Negative,"The text explicitly reports ""$4 million to $5 million per quarter in lost sales.""",Positive,"The text highlights that the filtration business had the potential to be ""up nearly 40%"" absent the ""lost sales,"" implying that the underlying demand and actual sales performance are robust and growing significantly, even with the specific negative impact.",,
+211fe72d0442a11cc954e7e3995f338c,"in addition to the higher sales, we saw the benefits of efficiency projects, as well as low resin cost following a challenging 2018.",Q4,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The sentence explicitly says “in addition to the higher sales,” indicating that sales have risen versus the prior period. Higher sales improve revenue and profitability prospects, so the outlook for the sales metric is positive. (This conclusion is drawn directly from the quoted text; no additional context was required.)",,,,,,
+25daa2a6786dfa546c1de20c048906f1,"relative to disposable respirators, we anticipate a year-on-year reduction in sales of $50 million to $100 million due to continued decline in global demand.",Q2,2021,MMM,Negative,"Stance: Negative  
+
+Reason: In the quoted passage management explicitly says they “anticipate a year-on-year reduction in sales of $50 million to $100 million” for disposable respirators because of declining demand. A forecasted drop in sales clearly signals a negative outlook for the sales metric. The sentence itself provides all the information needed; no additional context from the rest of the transcript is required.",,,,,,
+26ca5e32da0523286a9002c74a639e6b,so we are really more influenced by the economy than we are by new car sales or car inventories.,Q4,2020,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The quoted sentence merely explains that the company’s sales are driven more by overall economic conditions than by new-car sales or inventories. It does not indicate whether those sales are expected to rise or fall, so no positive or negative outlook on sales can be inferred. The rest of the context is not necessary for this specific classification.",,,,,,
+26cf380900395ab1d4646bff182ca72f,"the global rise in gaming also lifted sales of nvidia, nintendo switch and our console business driving strong growth both sequentially and year-over-year.",Q1,2021,NVDA,Positive,"1. Chain-of-Thought  
+   • The sentence explicitly states that the “global rise in gaming … lifted sales” and that this drove “strong growth both sequentially and year-over-year.”  
+   • “Lifted sales” and “strong growth” unambiguously indicate an increase in sales performance.  
+   • According to Guideline 4 (changes over time) and Guideline 2 (explicit mentions), rising sales that improve profitability signal a Positive stance toward sales.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports that higher gaming activity “lifted sales” and produced “strong growth both sequentially and year-over-year,” clearly signaling an improvement in sales.  
+
+Context: Not necessary—the sentence alone contains sufficient information to judge the stance.",Positive,"The company’s console business saw strong sales growth, increasing compared to both the previous quarter and the same time last year.",Positive,"The company explicitly reports on ""sales"" being ""lifted"" and ""driving strong growth both sequentially and year-over-year.This aligns on sales growth, revenue increase, or improved top-line performance.",,
+27c28c5c7f3927bec6796f28b31f0041,"moving to engineered papers, while there was some divergence between volume decreases offset by price mix positives, we were generally pleased with the overall results with sales up 2%, excluding currency pressures and with operating margin increasing.",Q2,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the quoted passage management states that, after adjusting for currency, “sales [were] up 2% … and operating margin [was] increasing.”  The explicit reporting of a sales increase indicates an improving sales outlook, which is positive for profitability.  (This information is contained directly in the cited section; no additional context was needed for the classification.)",,,,,,
+2b8f7d5d22a6587f1cfbd36880896837,the major challenge of this year is clearly demand.,Q1,2020,NEENAH,Negative,"Stance: Negative  
+
+Reason: The sentence itself – “the major challenge of this year is clearly demand” (Management comments, Outlook section) – signals that management sees weak or falling demand as the key issue for the remainder of the year. Because sales are directly driven by demand, characterising demand as the company’s “major challenge” implies that sales are expected to be pressured rather than to grow. No other parts of the wider context are necessary to reach this conclusion.",,,,,,
+2bb3132909d09342e95947c85e8b6800,"as a result, our health care business delivered fourth quarter organic sales growth of 6.6% versus last year.",Q4,2020,MMM,Positive,"Stance: Positive  
+
+Reason: The quoted sentence itself states that the Health Care business achieved “fourth-quarter organic sales growth of 6.6% versus last year,” meaning sales increased year-on-year. Rising sales are favorable for profitability, so the outlook for the target metric “sales” is Positive. The broader transcript was not necessary for this determination; the information in the excerpt alone was sufficient.",,,,,,
+2c9d1fd1fb670ed5c304471a18b25262,"the increase was driven by two factors; first, hardware costs due primarily to $1.2 billion in inventory related charges, and secondarily, to strong unit sales.",Q4,2022,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The only sales–related information in the sentence is “strong unit sales.”  
+   • “Strong” implies higher volume/demand, a favorable indicator for revenues.  
+   • Although the sentence also mentions inventory-related cost charges, those pertain to costs, not to the level or trend of sales themselves.  
+   • Therefore, the dominant signal about sales is positive growth/strength.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+The sentence explicitly cites “strong unit sales,” indicating robust demand and thus a positive outlook for sales.  
+
+Context necessity: Not necessary – the sentence alone provides the sales cue.",Positive,The report says strong sales increased the results. High customer demand and more orders show a positive sales trend.,Positive,"Strong unit sales reflect healthy order volumes and a positive sales trajectory, even when viewed as a secondary driver of activity.",,
+2ca7c8cb65ff1e834fde9edbf85fb3f8,"within our reality labs segment, q4 revenue was $877 million, up 22%, driven by strong quest 2 sales during the holiday season.",Q4,2021,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that Q4 revenue in the Reality Labs segment was “up 22%,” which signals growth.  
+   • It attributes that growth to “strong Quest 2 sales,” indicating higher product demand.  
+   • Rising revenue and strong sales directly support improved profitability, matching the guideline cue “increasing sales.”  
+   • No offsetting negative or ambiguous language is present, so the dominant signal is favorable.  
+   • The broader transcript is not needed; the sentence alone contains all information required.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   Revenue in Reality Labs rose 22% on “strong Quest 2 sales,” clearly indicating a favorable sales trend that benefits profitability. (Context not necessary)",Positive,"The company’s revenue rose by 22% to $877 million, mainly because of strong Quest 2 sales, showing good demand and steady business growth.",Positive,"The text reports specific revenue growth (""up 22%"") for the Reality Labs segment and attributes this increase to ""strong Quest 2 sales.This indicate the sales growth, revenue increases, and strong customer demand are clear indicators of a positive stance toward sales.",,
+2db6b7b9aed957b41988ad04317e6995,"this is the type of customer acquisition that is only possible with personalized ads, and as a result, they saw a 24 times return on ad spend and 3 times increase in these sales, directly attributable to facebook.",Q2,2020,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence reports quantitative improvements (24× ROAS and a 3× increase in sales).  
+   • These improvements are explicitly “directly attributable to Facebook,” linking the platform to higher sales.  
+   • Per Guideline 1 and 4, a clear rise in sales or sales efficiency is a Positive indicator for profitability.  
+   • No conflicting cues appear, so the dominant context is favorable.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that personalized Facebook ads produced a 3-times increase in sales and a 24× return on ad spend, signaling a clearly favorable impact on sales. (Context not necessary)",Positive,"The text says sales increased three times and new customers were gained, which shows a positive view of sales.",Positive,The report’s highlights a threefold increase in sales and robust customer acquisition reflect a highly positive outlook on revenue growth.,,
+2e6b9ecb3afd002770ba64b98d5bd191,"as bill noted, consolidated sales were 2% lower after excluding divestitures and currency impacts.",Q2,2019,NEENAH,Negative,"Stance: Negative  
+
+Reason: The sentence states that “consolidated sales were 2% lower after excluding divestitures and currency impacts,” indicating a year-on-year decline in sales. A decrease in the target metric signals an unfavorable outlook from a profitability perspective. The relevant information is contained directly in that sentence; the remainder of the transcript was not required to reach this conclusion.",,,,,,
+2f3a644a1e9d4a422323037dfa5ac472,"notably, we believe our filtration sales could have been even higher in 2021, if not for labor shortages in certain manufacturing locations.",Q4,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: The sentence is embedded in a section that reports “Filtration grew approximately 25% for the year,” and then adds that sales “could have been even higher… if not for labor shortages.”  This means sales in that business already rose sharply; the only point being made is that they were capped by external constraints.  Rising sales (even if not at their absolute potential) are favorable for profitability, so the outlook for the target metric “sales” is Positive.",Positive,"The text frames the situation positively by stating that sales were already strong and ""could have been even higher,"" implying the base performance was good despite the mentioned labor constraints.",Positive," The author is emphasizing the strength of the sales performance, treating the labor shortages as a temporary external constraint rather than a lack of market interest.",,
+2f688796b3f2e187785a6f4c9e1519a1,do you still expect a good ramp going forward and i guess weakness in the fourth quarter?,Q1,2019,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: The sentence is an analyst’s question asking management whether they still expect the usual seasonal “ramp” in sales and a weaker fourth quarter. It does not contain any statement from the company about expected sales performance, nor does it indicate an increase or decrease. Therefore, no positive or negative outlook on sales can be inferred. The broader context was not needed for this specific classification because the line itself is only an inquiry, not guidance.",,,,,,
+30ca0f755636555f6b1dbe8adf055a02,"operating income declined due to the lower sales, as well as from the impact of reduced operating schedules to manage inventories.",Q2,2020,NEENAH,Negative,"Stance: Negative  
+
+Reason: The excerpt explicitly states that “operating income declined due to the lower sales,” which means sales have fallen. A decrease in sales is adverse for the company’s profitability, so the outlook for the sales target is negative. The surrounding transcript context was not needed; the quoted sentence alone provided sufficient information for the classification.",,,,,,
+3156300594dd87d252e213b64cc51200,"sales mix, which had been unfavorable over the prior several quarters, primarily driven by raw material availability was neutral in the fourth quarter, evidence of the improved raw material availability and substitution improvements.",Q4,2021,NEENAH,Neutral,"Stance: Neutral  
+
+Reason: The sentence states that “sales mix… was neutral in the fourth quarter,” after having been unfavorable in prior quarters. While this indicates an improvement (a prior head-wind has eased), it does not yet point to an outright boost or decline in sales—merely that mix is no longer hurting results. Therefore the outlook for the “sales” metric is best classified as Neutral rather than clearly Positive or Negative. (Specific section used: “sales mix … was neutral in the fourth quarter… evidence of the improved raw material availability and substitution improvements.”)",Neutral,"Sales mix improved to neutral after prior weakness, but no clear sales growth or decline is indicated.",Neutral,"The text states that sales mix ""was neutral in the fourth quarter."" While it notes an improvement from being ""unfavorable"" previously, the current status is explicitly described as neutral.",,
+317081e2a8d3b63754e255253c581a1b,"but the volume, we did not anticipate the volume softness in the first quarter and didn't think europe and asia would be that weak.",Q1,2019,NEENAH,Negative,"Stance: Negative  
+Reason: In the Q&A section John O’Donnell and Bonnie Lind state, “we did not anticipate the volume softness in the first quarter and didn't think Europe and Asia would be that weak.” Lower-than-expected volumes in those regions point to weaker sales, giving a negative outlook for the sales target. The cited statement itself provides all the information needed; no additional parts of the context were required.",,,,,,
+31fdebe65de2621da2e5395fad36ed77,volumes increased 2% during the quarter with gains in several key areas including lip papers.,Q3,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The text itself states that “volumes increased 2% during the quarter with gains in several key areas.” Higher volumes generally translate into higher revenue; therefore, this sentence implies an increase in sales and is favorable for profitability. No additional information from the broader context was required to reach this conclusion—the sentence alone provided the key data point (a 2% volume increase) that signals a positive sales outlook.",,,,,,
+337419b1a72416cf4cd2cc93f5e15465,"in general, demand should continue to recover with global economies and we've been encouraged by what we've seen so far in the quarter.",Q3,2020,NEENAH,Positive,"Stance: Positive
+
+Reason: In the outlook section Paul DeSantis says, “in general, demand should continue to recover with global economies and we've been encouraged by what we've seen so far in the quarter.”  A recovering demand implies improving sales, and management’s tone (“encouraged”) signals optimism about future sales levels.  No other part of the wider context contradicts this, so the excerpt alone is sufficient to judge the outlook as positive for sales.",,,,,,
+37e35e7ff437bc62f5cb0281a9022107,a 9% volume decline consistent with our first quarter results reflected another tough comparison for heat-not-burn recon products as our customers were launching products last year and filling their supply chain.,Q2,2019,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The cited sentence states “a 9% volume decline … reflected another tough comparison for heat-not-burn recon products….”  A 9 % decline in volume clearly signals lower sales for that product line, indicating a worsening sales outlook.  No other part of the broader context is needed to draw this conclusion.",,,,,,
+38796205cb2e8a0594c458cb3bc80606,marketing and sales grew 38% and was driven by consumer and growth marketing.,Q1,2020,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The phrase “marketing and sales” appears within a discussion of expense line items (Cost of revenue, R&D, Marketing & Sales, etc.).  
+   • “Grew 38%” therefore refers to an increase in the company’s Marketing & Sales expenses, not to product/service sales or top-line revenue.  
+   • The sentence gives no information about the level, growth, or outlook of sales revenue; it merely notes higher operating costs.  
+   • According to Guideline 6, if sales are absent or only tangentially referenced, label Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence reports a 38 % rise in the Marketing & Sales expense line, providing no indication of sales revenue performance; thus it expresses no clear positive or negative stance toward sales.
+
+Context: Helpful/necessary (Used to see the sentence is part of an expense breakdown).",Neutral,"In financial reports, ""Sales & Marketing"" usually means an expense, not revenue. The text says this spending rose 38% on marketing, but since revenue isn’t mentioned, we can’t tell if sales targets were met.",Neutral,"The text mentions growth in ""marketing and sales"" expenses and does not mention anything related to sales or revenue.",,
+38e20a64bb37c2eb6b5ba2f4f36c3535,personal safety saw strong double digit organic growth driven by continued unprecedented levels of demand for respirators globally in response to the pandemic.,Q2,2020,MMM,Positive,"Stance: Positive  
+
+Reason: The cited sentence states that “personal safety saw strong double-digit organic growth driven by continued unprecedented levels of demand for respirators globally.”  Double-digit organic growth means sales in that segment are rising sharply, which is a favorable development for overall company sales and profitability.  (This information comes directly from the business-group review section of the transcript; no additional context was needed to reach the conclusion.)",,,,,,
+3a431828972c71a15339dafaa3635922,"in 2020, their e-commerce sales were up 350%.",Q1,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that “e-commerce sales were up 350%,” a massive year-over-year increase.  
+   • Per Guideline 4 (“changes over time”), a large rise in sales signals improved top-line performance and likely supports profitability.  
+   • No contrary or balancing information is provided, so the dominant context is clearly favorable.  
+   • Therefore, the stance toward sales is Positive.  
+   • The surrounding call transcript is not needed to interpret this sentence; the sales information is self-contained.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   Sales are portrayed as strongly favorable because “e-commerce sales were up 350%,” indicating a substantial growth that benefits profitability (context not necessary).",Positive,"The text clearly says that e-commerce sales increased by 350%, which means they more than tripled.",Positive,"The text reports a massive increase in ""e-commerce sales"" (up 350%).sales growth, revenue increase, or improved top-line performance indicates a positive stance or outlook towards sales.",,
+3cb46f91b834ee4156977cb0102702ea,"all in, organic sales company-wide was minus 13% with adjusted earnings of $1.78 per share.",Q2,2020,MMM,Negative,"Stance: Negative
+
+Reason: The sentence states that “organic sales company-wide was minus 13 %,” meaning the firm’s sales fell 13 % year-over-year. A double-digit decline clearly signals a worsening sales picture, hence a negative outlook. (The surrounding transcript merely provides broader colour; the critical information is contained in the quoted line itself.)",,,,,,
+3de6f853c8c4a7bd3ec1440b66150a9d,"within our respiratory portfolio, second quarter disposable respirator sales increased 3% year-on-year but declined 11% sequentially as covid-related hospitalizations declined.",Q2,2021,MMM,Negative,"Stance: Negative
+
+Reason: The sentence notes that disposable respirator sales “increased 3% year-on-year but declined 11% sequentially.”  The most recent trend (an 11 % quarter-to-quarter drop) shows sales falling as COVID-related demand eases, signalling a weakening outlook for this product line.  Therefore, from a forward-looking profitability perspective, the sales outlook is negative.  (The broader transcript merely reiterates that respirator demand will continue to decelerate, but this single excerpt already provides the key information.)",,,,,,
+3e29833ea87880d290d998bf76073f26,"company wide total sales increased 5% year-over-year and 16% sequentially to $8.4 billion, slightly above our estimates.",Q3,2020,MMM,Positive,"Stance: Positive  
+
+Reason: The cited sentence reports that “company-wide total sales increased 5% year-over-year and 16% sequentially … slightly above our estimates.”  Both a year-over-year rise, a strong sequential jump, and beating internal expectations signal improving sales momentum, which is favorable for the company’s profitability outlook.  
+(Information drawn directly from the quoted text; no additional context was required.)",,,,,,
+3fa6501a72cf45eef952d256a1e041ac,"in technical products, net sales of $106 million were down 28% as the global pandemic reduced end-use demand.",Q2,2020,NEENAH,Negative,"Stance: Negative
+
+Reason: The excerpt explicitly states that “net sales of $106 million were down 28% as the global pandemic reduced end-use demand.” A 28% decline signals a worsening sales position, which is negative from a profitability perspective. The information is contained directly in the quoted text; the broader transcript was not needed to reach this conclusion.",,,,,,
+4446402edf55563cb55cbb96f61236ac,"moving to transportation and electronics, which delivered a strong start to the year with first quarter organic sales growth of 9.8% despite the well-known semiconductor supply chain constraints.",Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: The text states that the Transportation and Electronics segment “delivered a strong start to the year with first-quarter organic sales growth of 9.8% despite … supply-chain constraints.” The explicit mention of nearly 10 % organic sales growth signals improving sales performance, which is favorable from a profitability perspective. (The broader transcript is consistent but not strictly necessary for this conclusion.)",,,,,,
+45517af1e0266bf9d3b4101f58ebe5be,"other revenue was $734 million, up a 195% driven by strong quest 2 sales.",Q3,2021,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly links sales to financial performance: “other revenue was $734 million, up 195%.”  
+   • A triple-digit percentage increase (“up 195%”) is a clear indicator of sharply improved sales/revenue.  
+   • According to Guideline 4 (changes over time), a large revenue rise signals a favorable impact on profitability.  
+   • No offsetting negative cues are present, so the dominant context is positive.  
+   • The broader transcript was not needed; the sentence alone supplies sufficient evidence.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports that revenue surged 195% “driven by strong Quest 2 sales,” indicating markedly stronger sales and thus a positive outlook for profitability.
+
+Context necessity: Not necessary.",Positive,The text says revenue increased by 195% and clearly credits strong Quest 2 sales for this growth.,Positive,"The text reports significant sales growth (""up 195%"") and explicitly attributes it to ""strong"" sales of a specific product (Quest 2).on revenue increases and citing strong customer demand indicates a positive stance towards sales.",,
+45893aa0b8ca2659640a2aac525f75e3,third quarter sales were down 7.1% organically compared to last year.,Q3,2020,MMM,Negative,"Stance: Negative  
+
+Reason: The sentence explicitly states that “third quarter sales were down 7.1% organically compared to last year,” indicating a year-over-year decline in sales. A decline in sales is unfavorable from a profitability perspective, so the outlook for the target metric “sales” is negative. (No additional information from the broader context was needed for this determination.)",,,,,,
+475002a74491aab78d093f32458ac84f,"moving to fine paper & packaging, sales of $100 million were down from $113 million last year.",Q3,2019,NEENAH,Negative,"Stance: Negative  
+
+Reason: The cited sentence explicitly states, “sales of $100 million were down from $113 million last year,” showing an $13 million year-over-year decline in sales for the Fine Paper & Packaging segment. Falling sales signal a less favorable outlook for this financial metric and, by extension, can pressure profitability. This conclusion is drawn directly from the section of the transcript where Bonnie Lind reviews segment results; no additional context is needed beyond that statement.",,,,,,
+476b051d9a913af3f9d3b4b9a2f23a8a,we had expected to offset half of the $7 million to $8 million with pricing.,Q3,2021,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The sentence only explains that the company had planned to recover (offset) a portion of higher costs through price increases. It does not indicate whether total sales (revenue) are expected to rise or fall, nor does it provide any directional guidance on sales volumes. Therefore, from a sales-outlook standpoint, the information is neither clearly positive nor negative, so the correct classification is Neutral. (The broader transcript discusses many other sales drivers, but that information is not contained in the quoted text and is not needed to classify this particular sentence.)",Neutral,"The text discusses a specific expectation regarding pricing to offset costs (a margin/profitability dynamic), but it does not report on the actual performance, trend, or outlook for sales or revenue itself.",Neutral,"The text describes a specific financial expectation regarding a pricing offset but does not provide information on actual sales performance, market demand, or the final result of these actions. Because it simply states a planned figure without qualitative context or a comparison to past or future growth, there is insufficient information to determine a stance.",,
+47953f7bcc7a65e78fa02deaaf5d2c9c,"in q4, we set an all-time quarterly sales record for pixel.",Q4,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses sales (“all-time quarterly sales record”).  
+   • “Record” implies the highest level ever achieved → indicates growth and strong performance.  
+   • According to guideline 1 & 4, a rise in sales that improves profitability signals a Positive stance.  
+   • No conflicting cues are present, so Positive is dominant.  
+   • The surrounding transcript isn’t needed; the sentence alone conveys the favorable outlook.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The phrase “set an all-time quarterly sales record for Pixel” clearly signals exceptionally strong sales, a favorable outcome for profitability. 
+
+Context necessity: Not necessary (the sentence itself provides sufficient evidence).",Positive,It mentions a record-breaking quarter in sales. Growth in sales and revenue clearly shows a positive performance.,Positive,"The text reports an ""all-time quarterly sales record,"" which is a clear indication of sales growth and improved top-line performance.",,
+47b81f56aee31642d1a287badde59f15,this is down from historical run rate of $25 million and also below our previous quarterly guidance of $23 million.,Q2,2020,NEENAH,Neutral,"Stance: Neutral  
+
+Reason: The quoted sentence refers to reduced SG&A expense (“down from historical run rate of $25 million and also below our previous quarterly guidance of $23 million”). It does not mention current sales levels, future sales expectations, or any trend that would let us infer whether sales are improving or deteriorating. Therefore, based solely on this text, the outlook for the financial target “sales” cannot be determined.",,,,,,
+47d57ecfa5ee906f49e215bdc5cfb4d3,"within our reality labs segment, q1 revenue was $695 million, up 30%, driven by quest 2 sales.",Q1,2022,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence reports a quantitative increase: “revenue … up 30%.”  
+   • Revenue growth is directly tied to product sales (“driven by Quest 2 sales”).  
+   • Rising revenue from sales indicates a favorable impact on profitability (Guideline: growth in financial indicators → Positive stance).  
+   • No offsetting negative cues are present.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence highlights a 30% year-over-year revenue increase in Reality Labs attributable to Quest 2 sales, signaling stronger sales and a positive outlook for profitability.  
+
+Context necessity: Not necessary—the sentence alone contains the required sales information.",Positive,"The author shows reality Labs revenue increased by 30%, reaching $695 million.",Positive,"The text explicitly reports significant sales growth, stating that revenue was ""up 30%."" It also identifies the specific driver of this increase (""Quest 2 sales""), indicating strong product demand and improved top-line performance for the segment.",,
+47eeab8d6c2e31de63af2dcbd91315a0,we still look at $25 million a quarter.,Q2,2019,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The quoted sentence only discusses the company’s expected SG&A spending (“we still look at $25 million a quarter”) and makes no reference to sales levels, growth, or decline. Therefore it provides no basis for assessing the outlook for the sales target. The broader context was not needed for this specific classification.",,,,,,
+483580a05f01743a90f44532a5451e42,"the euro has strengthened recently and this will benefit us from a translation standpoint, with each $0.05 change moving quarterly sales by $2.5 million and operating income by $0.5 million.",Q2,2020,NEENAH,Positive,"Stance: Positive  
+
+Reason: In the cited passage management explains that the recent strengthening of the euro will “benefit us from a translation standpoint,” quantifying that every $0.05 move adds about $2.5 million to quarterly sales. A currency move that lifts reported revenue represents a favorable (positive) outlook for the sales metric.  
+Helpful context: CFO remarks in the outlook section (“the euro has strengthened recently…each $0.05 change moving quarterly sales by $2.5 million”).",,,,,,
+4891fda50f31efc73958115ae9af670c,"in the second quarter, we delivered total sales of $8.9 billion.",Q2,2021,MMM,Positive,"Stance: Positive
+
+Reason: The sentence refers to “total sales of $8.9 billion” for the quarter, and (as shown in the preceding context) this figure represents a 21 % organic-growth increase versus the prior-year quarter. That growth indicates sales are rising, which is favorable for profitability. Hence the outlook for the “sales” metric is Positive.
+
+(The context was useful because it clarifies that the $8.9 billion figure reflects strong year-over-year growth.)",,,,,,
+493724b82c3736e05f1a6e3a5d8dc28c,this full funnel strategy drove 29% more unique visits to its website and a 95% increase in sales.,Q2,2022,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly references “a 95% increase in sales,” an explicit indicator of sales performance (Guideline 2).  
+   • The direction of change is clearly upward (“increase”), signaling improved top-line results (Guideline 4: changes over time).  
+   • Higher sales generally support higher profitability, so the stance toward sales is favorable (Guideline 1).  
+   • No conflicting or offsetting information appears in the sentence (Guideline 5).  
+   • The surrounding transcript is not needed to understand this positive cue; the sentence is self-contained.  
+   • Therefore, the stance is Positive.  
+   • Context helpfulness: Not necessary.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The phrase “a 95% increase in sales” shows a substantial rise in sales, indicating a favorable impact on profitability.",Positive,"The text says sales increased by 95% and unique visits went up by 29%, showing higher demand.",Positive,"The report’s mention of a 95% surge in sales and a 29% rise in unique visits signals robust top-line growth and strong customer demand, reflecting a positive financial trajectory.",,
+4aeb79f7ed17a82f14a57aea4d35c940,"combined, these two businesses have approximately $100 million of annual sales and ebitda margins of about 16%.",Q4,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: The sentence refers to the pending acquisition of Tekra and Trient, noting that “combined, these two businesses have approximately $100 million of annual sales.” Bringing this revenue stream into SWM will lift the company’s top line once the deal closes, so the outlook for SWM’s future sales is favorable. (Context: CEO remarks on the acquisition – “Combined, these two businesses have approximately $100 million of annual sales…”)",,,,,,
+4c77a0377b190acd9cdeb983b971e01c,"the organic sales decline was skewed by the decrease in aftermarket transportation films, while the remainder of the portfolio declined only 4%.",Q2,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The cited sentence explicitly states “the organic sales decline was skewed by the decrease in aftermarket transportation films,” confirming that sales are falling (even though the rest of the portfolio was down only 4%). A decline in sales represents a negative outlook for that financial target. No other parts of the broader transcript were needed to make this determination; the quoted section alone provided sufficient information.",,,,,,
+4ffa3b5392aa44e3161f9cc4d05f8ae6,"organic sales growth within consumer was led by our homecare business up high single digits, along with home improvement which was up low single digits.",Q2,2020,MMM,Positive,"Stance: Positive
+
+Reason: The excerpt states that “organic sales growth within consumer was led by our homecare business up high single digits, along with home improvement which was up low single digits.”  Both businesses are reporting year-over-year increases, meaning overall consumer-segment sales are rising. Rising sales represent an improving revenue outlook, hence the assessment is Positive.",,,,,,
+504c0a2b00ce094a7b90e44853b67400,"with one week left in july, total company sales are currently up low single digits year-on-year.",Q2,2020,MMM,Positive,"Stance: Positive  
+
+Reason: The statement “with one week left in July, total company sales are currently up low single digits year-on-year” (Monish Patolawala’s remarks, Slide 13) explicitly says sales are running ahead of the prior-year period. Year-over-year growth, even if only low-single-digit, represents an improvement versus the declines reported in Q2, and therefore signals a positive outlook for sales from a profitability standpoint.",,,,,,
+50c2884e5b11974bc7aa358b4a809230,"moving to transportation and electronics; after a challenging last two years, fourth quarter organic sales growth turned positive, up 1.4% as compared to last year.",Q4,2020,MMM,Positive,"Stance: Positive
+
+Reason: In the Transportation and Electronics segment the company states that “fourth quarter organic sales growth turned positive, up 1.4% as compared to last year.”  The shift from negative growth in prior periods to positive YoY growth indicates an improving sales outlook for this business, which supports a positive assessment for the “sales” target.  (Information drawn from the segment discussion in the provided context.)",,,,,,
+531498f7bbcfdaafc02755f4233b7cdd,"as expected, increases in selling price gain traction as we went through the quarter with year-on-year selling prices up 140 basis points in q3 versus 10 basis points in q2.",Q3,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The passage states that “increases in selling price gained traction … with year-on-year selling prices up 140 basis points in Q3 versus 10 basis points in Q2.”  Stronger pricing directly lifts revenue dollars and signals continued momentum going into coming quarters, so the outlook for “sales” is favorable.  (This conclusion is drawn solely from the cited sentence; no additional context was necessary.)",,,,,,
+538402ebbf9448f2416cc585faa55994,"lastly, second quarter organic growth for our consumer business was 18% year-on-year with strong sell-in and sell-out trends across most retail channels.",Q2,2021,MMM,Positive,"Stance: Positive  
+
+Reason: In the cited passage the company reports “second quarter organic growth for our consumer business was 18% year-on-year with strong sell-in and sell-out trends across most retail channels.” An 18 % YoY organic sales increase clearly indicates rising sales, which is favourable for the company’s profitability outlook. This specific sentence from the earnings-call context directly supports the positive assessment; no additional context was needed.",,,,,,
+54e36750682566f93a00d7d5ab02d3ed,"as you have seen in our monthly sales reports, we saw a significant improvement sequentially in trends versus q2 across businesses and geographies and we returned to positive year-over-year organic growth.",Q3,2020,MMM,Positive,"Stance: Positive
+
+Reason: In the quoted passage management states that “we saw a significant improvement sequentially … and we returned to positive year-over-year organic growth.”  This explicitly signals that sales trends have strengthened versus the prior quarter and are now growing year-on-year, which is a positive outlook for the company’s sales.  
+(The surrounding context on slide 5 of the call – “Company-wide total sales increased 5% year-over-year and 16% sequentially” – supports the same conclusion.)",,,,,,
+568aa7639adc3f6f2cf4227ec2fc9fb2,"marketing and sales increased 8%, driven by hiring and marketing spend.",Q4,2020,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The phrase “marketing and sales increased 8%” is referring to the company’s Marketing & Sales expense line, not to revenue generated from product sales.  
+   • Rising operating expenses say nothing about whether the company’s top-line (sales revenue) is improving or deteriorating.  
+   • Because the sentence gives no data or guidance about actual sales performance or outlook, it lacks a clear positive or negative signal regarding sales profitability.  
+   • Per Guideline 6, when sales are absent or only tangentially referenced, classify as Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence only states that Marketing & Sales expenses grew 8% due to hiring and marketing spend, providing no indication of sales revenue trends or outlook.  
+
+Context necessity: Not necessary—the sentence alone suffices for the classification.",Neutral,"In this context, marketing and sales refer to operating costs like hiring and advertising, not total revenue. The text doesn’t say how much money was earned or how much demand there was for the product.",Neutral,"The text refers to ""marketing and sales"" as a combined category of operating expenses, noting an 8% increase ""driven by hiring and marketing spend."" According to the Glossary of Financial Terminologies, the target sales is defined as ""Revenue/Top-line income."" Because this snippet discusses an increase in departmental costs rather than the company's revenue generation, customer demand, or top-line performance, there is insufficient information to determine the author's stance towards the ""sales"" target",,
+5862fb9f36f0d5595738571cadc7a6ae,"beginning with our segments, ams sales increased 2% but were down 3% excluding the tekra acquisition.",Q1,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: In the cited passage management states, “AMS sales increased 2% but were down 3% excluding the Tekra acquisition.”  The only growth came from the newly acquired business; underlying (organic) sales actually fell.  This points to weakening sales momentum rather than improvement, so the outlook for “sales” is negative from a profitability perspective.  (The surrounding context is directly relevant because it quantifies both the headline rise and the organic decline.)",,,,,,
+58728a3c1d585cf0594abfb779fac44d,"within our reality labs segment, q2 revenue was $452 million, up 48%, driven primarily by quest 2 sales.",Q2,2022,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly reports “Q2 revenue … up 48%,” a clear, sizeable year-over-year increase.  
+   • Per Guideline 4 (changes over time), a significant rise in revenue is a favorable sales signal that supports profitability.  
+   • No conflicting cues are present; the dominant context is strong growth.  
+   • Therefore, the stance toward sales is Positive.  
+   • The broader transcript is not required; the sentence alone provides the decisive information.
+
+2. Stance: Positive
+
+3. Brief Justification: Revenue in the Reality Labs segment rose 48% to $452 million, indicating strong sales growth that benefits profitability (context not necessary).",Positive,"The report says revenue increased by 48% because of strong Quest 2 sales, which shows a positive performance.",Positive,"The text reports significant revenue growth (""up 48%"") within the Reality Labs segment. This increase is explicitly attributed to strong ""Quest 2 sales,"" which indicates improved top-line performance and successful product demand—both of which are criteria for a positive stance.",,
+587e1c6816f33f3992a6d9609620752b,"our medical solutions business declined low single-digits organically, which included a 6 percentage point impact from the year-on-year sales decline in disposable respirators.",Q4,2021,MMM,Negative,"Stance: Negative
+
+Reason: The excerpt states that “our medical solutions business declined low single-digits organically,” explicitly describing a year-on-year drop in sales (further pressured by a 6-point decline from disposable respirators). A decline signals a worsening sales position, thus a negative outlook. The broader context isn’t required for this determination; the quoted sentence itself provides the key information.",,,,,,
+59c20e921e778a0b0116f8567170f69c,"within our reality labs segment, q4 revenue was $727 million, down 17% due to lower quest 2 sales.",Q4,2022,META,Negative,"1. Chain-of-Thought Reasoning  
+   • Focus on the target “sales.”  
+   • The sentence explicitly states revenue “was $727 million, down 17%.”  
+   • “Down 17%” signals a decline; lower revenue equates to weaker sales performance.  
+   • Cause cited: “lower Quest 2 sales,” reinforcing that unit sales fell.  
+   • Declining sales hurt profitability ⇒ Negative stance.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   Revenue in Reality Labs fell 17% because of “lower Quest 2 sales,” indicating a clear deterioration in sales performance.
+
+Context: Not necessary—the sentence alone provides sufficient information.",Negative,"The author says revenue dropped by 17% because fewer Quest 2 were sold. Since revenue shows how well a company can attract customers, such a big drop is a bad sign for growth.",Negative,"The author maintains an unfavorable stance, citing a 17% revenue contraction in Reality Labs driven by ""lower Quest 2 sales."" With no offsetting growth reported, this decline represents a weakened top-line performance.",,
+59ecebe5f568776cd264a602675538da,"for engineered papers, full year sales were down 3% or 2% ex currency.",Q4,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The cited sentence itself states that “for engineered papers, full year sales were down 3% or 2% ex-currency.” A year-over-year decline in sales represents a deterioration, so the outlook for the financial target “sales” is negative. No additional information from the broader context was needed beyond this specific line.",,,,,,
+5a8fbf367291895f9abbd2d4b4c808b6,"as mentioned, sales could have been even higher if not for supply chain disruptions with some of our specialty resins, coupled with understaffing at some of our sites due to a tight labor market.",Q3,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The sentence states that “sales could have been even higher if not for supply chain disruptions … and understaffing.”  This means current sales are being constrained by external problems, implying a headwind rather than a tail-wind for sales growth.  (Section referenced: CFO’s remarks on AMS sales performance and the impact of supply-chain and labor issues.)",Negative,"Supply chain disruptions and understaffing constrained sales, indicating missed revenue opportunities.",Negative,"The text states sales ""could have been even higher if not for supply chain disruptions."" This implies that current sales were limited or lost due to external constraints, representing a negative outcome.",,
+5abc5a568461f6a8adb62848ae030582,"we then expect to grow sg&a at a rate lower than our ultimate sales growth, while investing disproportionately in areas that will drive growth and margins like innovation.",Q3,2020,NEENAH,Positive,"Stance: Positive  
+
+Reason: In the Corporate Items discussion Paul DeSantis says, “we then expect to grow SG&A at a rate lower than our ultimate sales growth…,” which explicitly signals that management is anticipating continuing growth in sales. Because the company is planning for SG&A to lag “ultimate sales growth,” the outlook for the target metric “sales” is clearly positive. (This specific sentence is found in the Corporate Items section of the call.)",,,,,,
+5c5db1a3b5b0ef5f342d3747ef1154d6,"other revenue was $732 million, up 146%, driven by continued strong quest 2 sales.",Q1,2021,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly links “continued strong Quest 2 sales” to a 146 % increase in “other revenue.”  
+   • A triple-digit revenue rise indicates sales are performing far better than before, clearly benefiting profitability.  
+   • No conflicting or mitigating statements are present, so the dominant signal is favorable.  
+   • Therefore, per Guideline 4 (changes over time) and Guideline 2 (indirect cues via revenue), the stance toward sales is Positive.  
+   • The broader transcript is not required; the sentence alone provides sufficient evidence (context not necessary).
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports a 146 % revenue jump “driven by continued strong Quest 2 sales,” signaling markedly improved sales and thus a positive outlook for profitability.",Positive,"The text reports a significant increase in revenue (""up 146%"") and explicitly attributes this growth to ""strong... sales"" of the Quest 2 product.",Positive,"The text reports a significant revenue increase (""up 146%"") and explicitly attributes this growth to ""strong"" sales of the Quest 2. This aligns with the sales growth and strong customer demand.",,
+5ca6b7673af237e0d0f912a4a847ec1b,we continue to see strong demand that 630 million respirators delivered in q1.,Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: The sentence states “we continue to see strong demand…”, referencing the shipment of 630 million respirators in Q1. Ongoing strong demand implies continuing or rising sales for this product line, which is favourable for overall sales. (Section: Mike Roman’s Q&A remarks on respirator demand.)",,,,,,
+5d0be8606b1c0ade3773323faa7f2aa3,"and they found that reels resulted in a 19x higher rois, 89% lower cost per purchase, and 9x higher lift in sales.",Q4,2022,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence gives quantitative results from using Reels: “19x higher ROIs,” “89% lower cost per purchase,” and “9x higher lift in sales.”  
+   • Higher ROI and lower costs directly improve profitability; a “lift in sales” explicitly signals increased sales volume.  
+   • No negative or offsetting information is provided, so the dominant signal is clearly favorable.  
+   • According to Guideline 4 (financial indicators or trends) and Guideline 5 (no conflicting cues), this is a Positive stance toward sales.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports a “9x higher lift in sales” along with sharply better ROI and costs, indicating improved sales performance and profitability.  
+
+Context necessity: Not necessary—the sentence alone contains all required information.",Positive,"The author says that using Reels increased advertisers’ sales by nine times. Since sales show how well a company attracts customers, this strong result means the company could also earn more money and gain more customers.",Positive,"The text explicitly reports a ""9x higher lift in sales"" resulting from the use of ""reels."" This indicates a substantial increase in sales volume and improved top-line performance.",,
+5e3b38834d9167b641668c1d14be0902,our auto oem business was up 21% year on year compared to the 14% increase in global car and light truck builds.,Q1,2021,MMM,Positive,"Stance: Positive  
+
+Reason: In the Transportation & Electronics discussion management states, “our auto OEM business was up 21% year on year compared to the 14% increase in global car and light truck builds.”  A 21 % YoY sales increase – handily outpacing the 14 % rise in underlying production – signals strong, above-market sales momentum for this business line, which is favourable for the company’s overall sales outlook.  (This assessment is based directly on that section of the transcript; no additional context was required.)",,,,,,
+60112b4fa5fd41f83f03635990f19b81,and we think commerce tools will be billed and layered on top of that to help businesses reach more new customers and drive more incremental sales.,Q3,2021,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “drive more incremental sales,” signaling an expectation of higher future sales.  
+   • Phrases such as “help businesses reach more new customers” describe actions intended to expand revenue-generating opportunities.  
+   • According to Guideline 4 (projections and forward guidance) and Guideline 1 (focus on sales portrayal), an anticipated increase in sales is a Positive stance.  
+   • No conflicting or mitigating language appears, so the dominant context is clearly favorable.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence forecasts that new commerce tools will “help businesses … drive more incremental sales,” directly indicating a favorable outlook for higher sales.  
+
+Context necessity: Not necessary—the sentence alone provides sufficient information to classify the stance.",Positive,The author shows a positive view of sales by saying these commerce tools will help reach more customers and increase sales.,Positive,"The author expresses a favorable outlook toward sales by stating the tools will help ""reach more new customers"" (customer acquisition) and ""drive more incremental sales"" (sales growth).",,
+60771aad65d5354196e8b454dd5e4d1e,"to put some of the supply chain and cost headwinds into perspective, we estimate the cost inflation on resins and wood pulp that we did not recoup through price increases had an impact of over $0.10 per share on eps, and the lost sales on transportation films alone was more than a $0.10 impact as well.",Q2,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The sentence explicitly states that “the lost sales on transportation films alone was more than a $0.10 impact,” meaning the company was unable to realize a meaningful amount of sales because of supply-chain issues. Lost sales represent a direct decline (or shortfall) in sales, which is negative from a sales-outlook perspective.
+
+Helpful context: The same paragraph and earlier remarks in the call (e.g., “sales could have doubled, if not for limited access to some specialty resins”) reinforce that supply-chain constraints are suppressing sales. No additional sections of the transcript were needed to reach this conclusion—the quoted text is sufficient to show the negative impact on sales.",Negative,"The sentence explicitly mentions lost sales, indicating a negative impact on revenue.",Negative,"The text mentions ""lost sales"" on transportation films. Lost sales represent a failure to achieve potential revenue, which is a negative outcome for the top line.",,
+614f2e402abca260abc0f4e64a7172a0,"ams continued to demonstrate organic sales gains and good margin expansion, consistent with our expectations of a strong 2019.",Q2,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+Reason: The sentence explicitly states that “AMS continued to demonstrate organic sales gains … consistent with our expectations of a strong 2019.”  The reference to “sales gains” indicates that sales are increasing, which is favorable for the company’s profitability outlook.  (This determination relies directly on that specific passage; no additional context was necessary.)",,,,,,
+6460e81f49e45c37217f54eda618841a,"in fine paper and packaging we were recently awarded significant new business with incremental placement at large retailers for our consumer products, and new premium packaging business within our target verticals of spirits, beauty and technology.",Q1,2021,NEENAH,Positive,"Stance: Positive  
+
+Reason: The sentence reports that the Fine Paper & Packaging segment “was recently awarded significant new business with incremental placement at large retailers … and new premium packaging business.” Winning additional placements and new accounts points to higher future volume and revenues, so the outlook for sales is favorable. The information is contained directly in the quoted text; the broader transcript context was not needed for this classification.",Positive,"The text reports the awarding of ""significant new business"" and ""new premium packaging business,"" which indicates successful expansion and new contract wins that contribute to sales growth.",Positive,"The text reports being ""awarded significant new business"" and ""incremental placement"" at large retailers, directly indicating future top-line performance.",,
+665371b2e43f935755d0ea332c2b9df9,"but in commercial or in fine paper and packaging, we also have our consumer business, which goes to large retailers like amazon and target and office superstores, and that?s driven by school and crafting and teachers and we have packaging, premium packaging, both of those have been more resilient.",Q2,2020,NEENAH,Positive,"Stance: Positive
+
+Reason: In the quoted passage management states that sales in the consumer channel (to Amazon, Target, office super-stores) and in premium packaging “have been more resilient.”  Calling out resilience relative to other parts of the business signals that these sales are holding up well and are expected to continue doing so, a favorable indication for overall sales.  The conclusion is drawn directly from this section; the broader transcript was not required for the classification.",,,,,,
+66a6b482867ba39919779f09ec2eafea,just can you sustain that sales momentum?,Q3,2021,NEENAH,Neutral,"Stance: Neutral  
+
+Reason: The quoted text is merely an analyst asking, “just can you sustain that sales momentum?”  It does not itself state whether sales will increase, decrease, or remain steady, nor does it contain the company’s response. Therefore no positive or negative outlook regarding sales can be inferred. The broader context is not necessary for this specific classification.",Neutral,"Because the question acknowledges the existence of a positive sales trend (""momentum"") but does not take a stance on its future, Neutral is the most appropriate classification. It's not a lack of information (""No Clue""), but rather a non-committal reference to the information.",Neutral,"The text is an analyst's question asking if management can ""sustain that sales momentum."" It does not report on current sales or provide a positive or negative judgment, offering no clue to the speaker's stance.",,
+66c089d27dd746c30611c3e3f3ac8093,"and while water filtration remained a little choppy, customer indications are for a stronger finish to the year.",Q3,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The sentence states that “customer indications are for a stronger finish to the year,” which points to an expected rebound/improvement in sales for the water-filtration portion of the business. Although sales have been “a little choppy” so far, the forward-looking comment signals growth rather than decline, giving the overall outlook for the sales target a positive slant. (No other parts of the broader transcript were required to draw this conclusion.)",,,,,,
+67257c2d9392f1d685d055ac892896d1,"to put some of the supply chain and cost headwinds into perspective, we estimate that cost inflation on resins and pulp alone that we did not recoup through price increases had an impact of over $0.20 per share on eps in the quarter and the lost sales on transportation films alone was more than a $0.10 impact.",Q3,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The quoted text explicitly states that supply-chain and cost headwinds resulted in “lost sales on transportation films alone,” indicating that sales were negatively affected. This wording (“lost sales”) signals a decline rather than growth, so the outlook for the sales target is negative. The specific passage used is the very sentence cited; no additional context was necessary to reach this conclusion.",Negative,Lost sales due to supply chain issues directly signal weaker sales performance.,Negative,"The text mentions ""lost sales"" on transportation films. Lost sales represent a failure to achieve potential revenue, which is a negative outcome for the top line.",,
+691f0e750092712e5b8c713deb0fcb07,this approach contributed to 100% year-over-year increase in e-commerce sales in 2020.,Q1,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “100% year-over-year increase in e-commerce sales.”  
+   • An increase in sales directly signals improved top-line performance and, by extension, supports profitability (Guideline #4: look for changes over time).  
+   • There is no conflicting cue; the statement is unequivocally favorable.  
+   • Therefore, the dominant context is positive for sales.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports a 100% YoY rise in e-commerce sales, a clear indicator of stronger revenue, hence positive for profitability.  
+   Context necessity: The isolated sentence itself provides all required information; broader transcript context is not necessary for this classification.",Positive,The text clearly says that e-commerce sales doubled compared to last year.,Positive,"The text explicitly reports a significant ""100% year-over-year increase"" in sales growth or improved top-line performance indicates a positive stance.",,
+69cff4f0aa787872c30c1d703d4e2d42,our auto oem business was down mid-teens organically year-on-year compared to the 13% decline in global car and light truck builds.,Q4,2021,MMM,Negative,"Stance: Negative  
+Reason: The statement explicitly says that “our auto OEM business was down mid-teens organically year-on-year,” i.e., sales fell by a double-digit percentage versus the prior year. A decline in sales represents a negative outlook for the target metric. (This information is drawn directly from the context section discussing Q4 performance.)",,,,,,
+6bb8bcce2d533d19d7834cd631826f59,"these impacts were partially offset by leverage on sales growth, which included good price performance, strong spending discipline and net benefits from restructuring actions.",Q4,2021,MMM,Positive,"Stance: Positive
+
+Reason: The sentence states that the company enjoyed “leverage on sales growth,” reinforced by “good price performance,” which means higher or rising sales contributed positively to results and helped offset cost headwinds. This indicates a constructive, improving outlook for the sales metric. (This conclusion is drawn directly from the quoted text; no additional parts of the broader context were required.)",,,,,,
+6bea2520320c522ec04a35892cfa64a6,"turning to the third quarter, financial results, sales were $8.9 billion up 7.1% year-on-year, or an increase of 6.3% on an organic basis.",Q3,2021,MMM,Positive,"Stance: Positive
+
+Reason: In the cited passage management states, “sales were $8.9 billion up 7.1% year-on-year, or an increase of 6.3% on an organic basis.”  A year-over-year rise in both reported and organic sales signals improving revenue momentum, which is beneficial for profitability.  (No additional sections of the broader context are required to reach this conclusion.)",,,,,,
+6d83948749cf087a49d3294720c6b654,"while it's fair to say that heat-not-burn sales have lagged expectations this year, we are working with our customers on new product launches, which, if successful, are expected to result in a rebound in sales.",Q3,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: In the quoted sentence management admits that heat-not-burn sales have been below expectations this year, but immediately states that “new product launches… are expected to result in a rebound in sales.” The emphasis is on an anticipated recovery/improvement in future sales, giving the sales outlook a positive tilt despite past weakness. No additional information from the wider transcript was needed to reach this conclusion.",,,,,,
+6df955c6171f6a8a4e362a3676a7d493,"based on the ampere gpu architecture, the 30 series has been our most successful launch ever, driving incredible demand and setting records for both desktop and laptop gpu sales.",Q1,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline #2: The sentence directly discusses “sales” (“desktop and laptop GPU sales”).  
+   • Guideline #4: It cites concrete performance indicators—“most successful launch ever,” “incredible demand,” and “setting records.”  
+   • Guideline #5: No conflicting cues; all descriptors are favorable.  
+   • Therefore, the sentence signals a strong, favorable impact on sales and profitability.  
+   • The surrounding transcript is not required to interpret this; the sentence alone suffices.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence claims the 30-series launch is the “most successful ever,” with “incredible demand” that is “setting records” for GPU sales—clear evidence of a positive sales outlook.  
+
+Context: Not necessary for classification.",Positive,"It says the 30 series was the company’s most successful launch ever. There was huge demand, and it broke sales records for both desktop and laptop GPUs.",Positive,"The text explicitly reports on ""sales growth"" and ""improved top-line performance."" It uses high-impact positive descriptors such as ""most successful launch ever,"" ""driving incredible demand,"" and ""setting records."" This aligns directly with the a Positive stance regarding sales and customer demand.",,
+6ea34958c0ffbd2bacdc61edc0ac6878,"so, if you think about how sales trended as we went through q3, we came in a bit better than the range that we said the $8.2 billion to $8.3 billion.",Q3,2020,MMM,Positive,"Stance: Positive
+
+Reason: In the quoted passage management says that as Q3 progressed “sales trended … a bit better than the range that we said ($8.2 billion to $8.3 billion).”  Reporting that actual sales were above the company’s earlier expectation signals an improving/stronger-than-planned sales performance, which is a positive indication for the sales outlook. (Context: Mike Roman’s reply to Nigel Coe during the Q&A section.)",,,,,,
+7041d2c905f214819bd72d6ef11c9ab4,"our auto oem business was flat year-on-year, compared to the 20% decline in global car and light truck bills.",Q3,2021,MMM,Positive,"Stance: Positive
+
+Reason: The quoted sentence states that 3M’s Auto OEM sales were “flat year-on-year” while the overall global car and light-truck build rates fell about 20 %. Holding sales steady in a market that contracted sharply means 3M gained share and performed materially better than the industry, a favorable signal for the company’s sales outlook and profitability. (Context: Transportation & Electronics discussion in the call.)",,,,,,
+711130185837d060774e5efe0aa5985e,"the only thing i just would add, for the fourth quarter, i would keep in mind that the fourth quarter for ams last year was up materially.",Q3,2019,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral  
+
+Reason: In the quoted remark management simply reminds investors that AMS sales in last year’s fourth quarter were “up materially,” implying that year-over-year comparisons will be difficult. They do not say whether this year’s fourth-quarter sales will increase, decrease, or stay flat. Because no clear positive or negative direction for upcoming sales is provided, the outlook for the “sales” metric cannot be determined and is therefore Neutral. (The classification is based solely on this specific sentence; the broader context was not necessary for the decision.)",,,,,,
+7361f37dc7fd711c8523ba005eaf686d,"these soft end market trends, resulted in year-on-year organic sales declines in our commercial solutions, transportation safety and advanced material businesses.",Q3,2020,MMM,Negative,"Stance: Negative
+
+Reason: The sentence explicitly states that the “soft end-market trends resulted in year-on-year organic sales declines” in several business lines. A decline in year-over-year organic sales is an unfavorable development for the company’s sales outlook. This conclusion is drawn directly from the cited portion of the transcript, so the broader context was useful only to locate that specific sentence.",,,,,,
+73e12af47412a096a699ceb611fc5d95,it might be a little bit higher on a run rate basis than it was this quarter.,Q3,2020,NEENAH,Neutral,"Stance: Neutral  
+Reason: The quoted sentence discusses SG&A expense (“it might be a little bit higher on a run rate basis than it was this quarter”), not sales levels. Since no information—positive or negative—is provided about sales, the outlook for the “sales” target cannot be determined from this text.",,,,,,
+75412be1637112fd6fd05dd2293321d2,"looking at q4, we expect our selling price actions to continue to gain traction as we work to mitigate the raw material and logistics inflationary pressures we have experienced throughout the year.",Q3,2021,MMM,Positive,"Stance: Positive  
+
+Reason: In the cited passage management says, “looking at Q4, we expect our selling price actions to continue to gain traction.”  Price increases that “gain traction” mean the company anticipates higher realized selling prices in the fourth quarter, which should lift reported sales (revenue).  Because this statement signals an expected improvement in the sales line rather than a decline or uncertainty, the outlook for “sales” is Positive.  (The assessment comes directly from the CFO’s guidance comments; no other context was necessary.)",,,,,,
+758a910abea32bf73aaf3e759bb1f060,"the expectations i think for fine paper was should be in that high-mid teens, so 14 to -- we've said 14 to 16, yeah, they over-delivered.",Q4,2019,NEENAH,Neutral,"Stance: Neutral  
+
+Reason: The quoted sentence discusses expected operating margins (“high-mid teens, so 14 – 16 … they over-delivered”) rather than any change or forecast for sales/revenues. Since no information is provided about sales levels or their expected direction, the outlook for the target metric “sales” cannot be determined from this text. The broader context is therefore not necessary for this specific classification.",,,,,,
+75a182daa8a2f5c974adb1b878438abe,"this reduction was largely driven by the 16% sequential improvement in sales, along with our continued work to improve inventory velocity.",Q3,2020,MMM,Positive,"Stance: Positive
+
+Reason: The cited sentence notes “the 16% sequential improvement in sales,” indicating that sales are rising quarter-to-quarter. A double-digit sequential increase signals strengthening demand and contributes positively to profitability. (This line appears in the cash-flow discussion where management links higher sales to lower inventory, showing improving business momentum.)",,,,,,
+76570a84e3edd59a869a36b599860e81,the continued strength in the residential housing market drove good performance in our roofing granules business which was up double digits organically versus q1 of last year.,Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: The sentence states that the roofing granules business was “up double digits organically versus Q1 of last year,” indicating a strong year-over-year increase in sales. This rise, driven by the residential housing market, clearly signals a favorable outlook for sales. The snippet alone provided all the information needed; broader context was not necessary for this classification.",,,,,,
+76eebc9ad94bd30cc49cb890bac47641,"our sales force, which we have more than tripled since 2019, delivered strong results across geographies, products and industries, and we continue to invest.",Q4,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that the (greatly expanded) sales force “delivered strong results,” a direct indicator of good performance in generating revenue.  
+   • “Strong results across geographies, products and industries” signals widespread sales success, which should boost profitability (Guideline 4: financial indicators or trends).  
+   • The phrase “we continue to invest” in this sales force suggests confidence in further sales growth (Guideline 5: forward guidance).  
+   • No negative or conflicting cues are present, so the dominant context is clearly favorable.  
+   • The immediate sentence alone is sufficient; broader transcript context is not required.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The company reports that its greatly expanded sales force has “delivered strong results” and will receive continued investment, indicating a favorable outlook for sales and profitability.",Positive,"The author reports strong results everywhere, with sales growth and better overall performance, and shows confidence by planning to keep investing.",Positive,"The company explicitly states that the sales force ""delivered strong results across geographies, products and industries."" This aligns with the Positive criteria for reporting ""sales growth, revenue increase, or improved top-line performance"" and citing ""strong customer demand.""",,
+78582425470ef6a48a2d7b701b60da63,and i was going to say 10% and that -- if you're going to return to 90% of previous sales in paper is that about right?,Q3,2020,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The excerpt is simply an analyst asking whether paper sales will rebound to about 90 % of their previous level. It does not state that sales are actually increasing or decreasing—only inquiring about a possible level—so no clear positive or negative outlook for sales can be inferred. The broader context was not necessary to classify this specific line, as the sentence itself contains no directional information.",,,,,,
+7a7cfcba5ec3a9756ae087ff59428bd7,the negative price mix was mostly a function of lower lip volumes which carry high prices and profitability.,Q2,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: In the Engineered Papers discussion management says, “the negative price mix was mostly a function of lower LIP volumes which carry high prices and profitability.”  Lower volumes of a high-priced, high-margin product reduce the overall sales value (price/mix effect is negative), signaling a worsening outlook for the sales metric.  This specific sentence from the context directly drives the classification; no additional context is needed.",Negative,"Lower volumes of high-priced products led to an unfavorable price mix, negatively impacting sales.",Negative,"The text is reporting ""lower volumes."" A reduction in sales volume directly signifies weak top-line performance.",,
+7abdef4bbcbfb341fe9cd46f8b102235,"our team executed well and posted record sales, robust cash flow, and expanded margins along with a double digit increase in earnings per share.",Q1,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The excerpt states that the company “posted record sales,” indicating sales are at an all-time high and therefore trending favorably. This clear statement of record‐level sales (slide 5 discussion in the transcript) signals an improving sales outlook, which is positive from a profitability perspective. The broader context is consistent with this point but not strictly necessary—the sentence itself conveys the positive sales development.",,,,,,
+7d3f44fdf8d8d30b857c45a61a33dc2e,record revenue of $3.3 billion grew 11% sequentially and 71% from a year earlier.,Q4,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses revenue, which is a direct indicator of sales (Guideline 2).  
+   • It states the revenue is a “record” and that it “grew 11% sequentially and 71% from a year earlier,” signaling clear growth over time (Guideline 4: changes over time).  
+   • Rising and record sales favorably impact profitability, so the dominant cue is strongly positive (Guideline 5).  
+   • No conflicting cues are present, and the stance is unambiguously favorable for sales.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports “record revenue … grew 11% sequentially and 71% year over year,” indicating significant sales growth, which is positive for profitability.
+
+Context necessity: Not necessary (the single sentence alone gives sufficient information).",Positive,"The report says revenue hit a record, rising 11% from last quarter and 71% from last year.",Positive,"The text reports ""record revenue"" and highlights significant growth on both a sequential (11%) and year-over-year (71%) basis. This clearly indicates an improved top-line performance and a strong positive trajectory for sales, meeting the criteria for a positive stance.",,
+7f70ba490c379ed5b4ca5e7f5e8ac7f8,"our medical solutions business grew mid-teens organically or up approximately 20%, excluding the decline in disposable respirator demand.",Q2,2021,MMM,Positive,"Stance: Positive  
+Reason: The text states that “our medical solutions business grew mid-teens organically or up approximately 20%, excluding the decline in disposable respirator demand.”  Mid-teen organic growth and a roughly 20 % increase clearly signal rising sales for this business line, which is favorable for the company’s overall revenue outlook. (This sentence comes from the Health Care section of the context; no additional context was required to see the sales increase.)",,,,,,
+7ffda0c6ae4e9480d113ad95bc850708,we expect our automotive platform sales to be down 40% on a sequential basis and proviz to decline sequentially.,Q1,2021,NVDA,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence gives explicit forward guidance on sales (“expect … sales to be down 40% … and ProViz to decline”).  
+   • A 40% sequential drop and an additional decline in another segment signal a materially worsening revenue outlook.  
+   • According to Guideline 4 (changes over time / projections), such language is a clear negative cue for profitability.  
+   • No offsetting positive cues are present, so the dominant context is unfavourable.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+   The company forecasts automotive platform sales to fall 40% quarter-over-quarter and ProViz sales to decline, indicating a markedly negative sales outlook. (Context not necessary for this determination.)",Negative,"The text says sales are expected to drop — automotive platform sales may fall by 40% compared to the previous period, and proviz sales are also likely to decrease.",Negative,"By explicitly forecasting a 40% sales drop and a sequential decline for ProViz, the text reflects a weakened top-line outlook in line with negative reporting guidelines.",,
+80405d3b0dbb4debd93e86a71a58a023,our oral care business returned to positive growth in q3 up low single-digits organically driven by the reopening of dental offices globally and the rebuild of channel inventories.,Q3,2020,MMM,Positive,"Stance: Positive
+
+Reason: The sentence states that the oral‐care business “returned to positive growth in Q3, up low single-digits organically,” signalling an improvement in sales after prior weakness. This clearly reflects a favorable sales outlook. (The broader transcript context was not necessary for this determination.)",,,,,,
+82bb34dcceab85301ab71c87bd1bd117,"lastly, fourth quarter organic growth for our consumer business was up 10% as retailers saw continued strong customer demand throughout the holiday season.",Q4,2020,MMM,Positive,"Stance: Positive  
+
+Reason: The sentence reports that “fourth-quarter organic growth for our consumer business was up 10% as retailers saw continued strong customer demand.” A double-digit organic growth rate means sales increased materially, which is clearly positive for the company’s sales outlook and profitability. (The broader transcript was not needed for this conclusion; the quoted line alone provided the key information.)",,,,,,
+82d73df2073913ac39d9506893d2ebe7,"our year-on-year free cash flow performance was driven by strong double-digit growth in sales and income, which was mostly offset by a timing of an income tax payment of approximately $400 million in last year's q3, which is traditionally paid in q2.",Q2,2021,MMM,Positive,"Stance: Positive  
+Reason: The passage explicitly states that the company had “strong double-digit growth in sales,” indicating sales are rising year-over-year. Rising sales benefit profitability, so the outlook for the target metric “sales” is positive. (The broader context is not necessary for this specific classification.)",,,,,,
+856beb1bd7ec901e06662563d8b9a5e1,"and then mike moving into 2021, do you see covid sales sort of gently decelerating, or do you see more of a like a bit of a cliff phenom say hitting when they started to really ramp say in the second quarter or something like that?",Q3,2020,MMM,Neutral,"Stance: Neutral
+
+Reason: The quoted text is an analyst’s question asking management whether COVID-related sales will decelerate or fall off sharply in 2021. It does not contain management’s response or any other statement indicating the company’s own expectation for future sales. Therefore, no positive or negative outlook can be inferred.",,,,,,
+8642718afdc3c0af302bb3cdaae11cb2,"within our reality labs segment, q3 revenue was $285 million, down 49% due to lower quest 2 sales.",Q3,2022,META,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that Q3 revenue in the Reality Labs segment fell 49%.  
+   • A 49% revenue decline signals a significant drop in sales for that segment.  
+   • Lower sales and sharply lower revenue are unfavorable for profitability.  
+   • No offsetting positive or neutral language is present.  
+   • According to Guideline 4 (changes over time) and Guideline 5 (dominant context), the dominant signal is clearly negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   Revenue is “down 49% due to lower Quest 2 sales,” a clear negative indicator for sales and profitability. (Context not necessary—the sentence alone provides sufficient evidence.)",Negative,"The text reports a significant revenue decrease (""down 49%"") and explicitly attributes it to ""lower quest 2 sales"".",Negative,"The text reports a significant decline in revenue (down 49%) for the Reality Labs segment. It explicitly attributes this decrease to ""lower Quest 2 sales,"" which indicates a weakened top-line performance and a decline in product demand.",,
+8776a55d6a72ea074626d0eeccd40dd5,"a weaker euro accounted for almost half of this decline as technical products has 60% of sales outside the u.s. on a constant currency basis sales were down 5% reflecting weaker market demand, that we partly offset with increased selling prices and a higher value mix.",Q1,2019,NEENAH,Negative,"Stance: Negative  
+
+Reason: In the cited passage management states that, “on a constant currency basis sales were down 5% reflecting weaker market demand.”  Although they note that higher prices and better mix “partly offset” the impact, sales still declined, indicating a downturn rather than growth.  This sentence alone is sufficient to judge the outlook for sales as negative; no additional context from the wider transcript is required.",,,,,,
+880a67f79c813003c260dc3b62635478,mix was also decidedly positive as lip volumes performed well relative to the overall portfolio.,Q1,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: The cited sentence comes from the Engineered Papers discussion where management says, “Mix was also decidedly positive as LIP volumes performed well relative to the overall portfolio.”  A “decidedly positive” product-mix contribution and stronger LIP (lower-ignition-propensity cigarette paper) volumes indicate that sales within this part of the business are outperforming and adding favorably to the company’s total sales.  Hence the outlook for the sales target is Positive.",,,,,,
+886382b618259778ba82fb83d3871600,"the biggest factor negatively affecting q2 operating margins was the impact of the pandemic on global customer demand, which resulted in nearly a 14% year-on-year decline in organic sales volumes.",Q2,2020,MMM,Negative,"Stance: Negative
+
+Reason: The text explicitly states that global customer demand fell during the pandemic, producing “nearly a 14% year-on-year decline in organic sales volumes,” which reflects a clear deterioration in sales. This sentence alone determines the outlook, so the broader transcript context was not necessary for reaching the classification.",,,,,,
+8a14588522192c8b0aca584c8a2b0df3,"as mentioned, while organic sales declined 3%, this result was skewed by the decline in aftermarket transportation films, which offset growth in the rest of the portfolio.",Q1,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The sentence explicitly states that “organic sales declined 3%,” meaning overall sales fell (even though weakness in transportation films was partly offset by growth elsewhere). A decline in sales represents an unfavorable trend from a profitability perspective. The classification can be made directly from this sentence; the broader transcript context was not necessary.",,,,,,
+8a1f2cbd970cafa533b2e7fb8cc816cf,"i'd also like to highlight that excluding transportation, which was our most covid-impacted end market, organic sales would have actually increased for the year.",Q4,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the cited passage management says that if they remove the one segment hit hardest by COVID (transportation), “organic sales would have actually increased for the year.”  This indicates that the core business is already demonstrating underlying sales growth despite pandemic headwinds, implying a favorable trend for future sales.  
+Helpful section: the AMS discussion in which Jeff Kramer states, “…excluding transportation, which was our most COVID-impacted end market, organic sales would have actually increased for the year.”",,,,,,
+8b205ad657dd4371d39c1f581b40a091,"with respect to respirators, we anticipate continued strong demand which we estimate will contribute approximately 300 to 350 basis points to company-wide q3 organic growth.",Q2,2020,MMM,Positive,"Stance: Positive
+
+Reason: The text states that the company “anticipate[s] continued strong demand [for respirators] which we estimate will contribute approximately 300 to 350 basis points to company-wide Q3 organic growth.”  Anticipating strong demand that will add several percentage points to organic growth clearly signals an expected increase in sales, i.e., a positive outlook for the sales metric.
+
+Helpful section: The quoted sentence itself provides the necessary information; the rest of the broader transcript was not needed to determine this positive sales outlook.",,,,,,
+8e6a92f7addcd4e3cd42829a4a72529f,sales were $140 million in the quarter compared with $154 million in 2018.,Q1,2019,NEENAH,Negative,"Stance: Negative
+
+Reason: The sentence explicitly states that “sales were $140 million in the quarter compared with $154 million in 2018,” i.e., sales fell by $14 million (about 9%). A year-over-year decline in sales is unfavorable for profitability, so the outlook for the “sales” metric is Negative. (The broader context was not needed for this determination; the quoted sentence alone provided the key information.)",,,,,,
+8fabebfc79da1304b192baa962289bf6,"and one example that shows that we are delivering on this in terms of our investments is corkcicle, which is the insulated drinkware brand that added reels to its business-as-usual strategy and saw a 34% higher return on ad spend and a 34% higher sales.",Q3,2022,META,Positive,"1. Chain‐of‐Thought Reasoning  
+   • The sentence explicitly states that after adopting Reels, Corkcicle “saw a 34% higher … sales.”  
+   • A 34 % increase is a clear signal of sales growth, which supports profitability (Guideline 4: “changes over time—growth”).  
+   • No negative or neutral qualifiers are present; the improvement is presented as a success example.  
+   • Therefore, the dominant context is a favorable sales outcome ⇒ Positive stance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports “34% higher … sales” for Corkcicle after using Reels, directly indicating improved sales performance.
+
+Context help: Not necessary (the sentence alone provides sufficient evidence).",Positive,The author reports a 34% higher sales figure for a specific brand (Corkcicle) as evidence of successful strategy and investment,Positive,"The text explicitly reports a significant increase in sales (""34% higher sales"") for the Corkcicle brand. This represents ""sales growth"" and ""improved top-line performance"" resulting from a specific business strategy (adding Reels to their marketing).",,
+9339eafaf30882b132e7f11102935c93,sales of $107 million were down from $116 million last year.,Q2,2019,NEENAH,Negative,"Stance: Negative
+
+Reason: The cited sentence itself states that “sales of $107 million were down from $116 million last year,” showing a year-over-year decline in sales. Lower sales negatively affect profitability, so the outlook for the “sales” metric is Negative. This conclusion is drawn directly from the specified section of the context; no additional context was needed.",,,,,,
+9341994885da16ff10323c85d94d04b6,we ended up offsetting half of the $11 million with pricing.,Q3,2021,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The sentence only discusses how the company offset higher input costs through pricing actions (“we ended up offsetting half of the $11 million with pricing”). It does not mention any change—positive or negative—in sales volume or revenue, so no clear outlook for the “sales” target can be inferred. The broader context is not necessary for this specific classification.",Neutral,"The text discusses the extent to which pricing offset costs (a margin/profitability analysis), but it does not report on actual sales performance, revenue trends, or customer demand.",Neutral,"Only half of the targeted revenue loss was recovered through pricing, leaving a remaining gap.",,
+9379fcafe01ac2e001d2e0b970d02862,where we see probably some inventories that are still a little bit heavy at our customers would be in our backings category and performance materials and so the recovery there might lag just a little bit as we head into q3.,Q2,2020,NEENAH,Negative,"Stance: Negative  
+
+Reason: In the Q&A section Julie Schertell says, “we see … inventories that are still a little bit heavy at our customers … in our backings category and performance materials and so the recovery there might lag just a little bit as we head into Q3.”  Heavy customer inventories usually mean customers will delay new orders until those stocks are worked down, implying slower-than-normal sales in those product lines as Q3 begins.  Hence the near-term outlook for sales is negative.",,,,,,
+989d4895cd1f0b65c1bd5883633cf6c2,sales in our oral care business more than doubled from a year ago as patient visits have nearly returned to pre-covid levels.,Q2,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The sentence explicitly states that “sales in our oral care business more than doubled from a year ago,” indicating a sharp year-over-year increase. Doubling sales is clearly favorable for the company’s top-line performance, so the outlook for the financial target “sales” is positive. (This conclusion is drawn directly from the quoted passage; no additional context was required.)",,,,,,
+9935c3a94c12af98386ca0889594ead5,"so there's a lot of room for digital to play a bigger role and we think we can tap into other budgets that were traditionally used for, let's say, local advertising to derive sales.",Q2,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The speaker says “there's a lot of room for digital to play a bigger role,” implying untapped growth potential.  
+   • They further state they “can tap into other budgets … to derive sales,” describing an opportunity to capture additional advertising spend.  
+   • This projects an expansion of revenue-generating activity, signalling a favorable outlook for future sales.  
+   • According to guideline 4 (projections and forward guidance) and guideline 1 (focus on sales implications), such optimism constitutes a Positive stance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence expresses optimism that shifting and expanding ad budgets into digital channels will “derive sales,” indicating expected sales growth. (Context not necessary for classification.)",Positive,The author is optimistic about increasing sales through digital platforms. They believe there is strong potential for growth and new opportunities to boost performance.,Positive,"The company signals a positive sales outlook by identifying opportunities to capture additional budget and expand digital's role, both of which point toward sustainable top-line growth.",,
+9d9fa040c8d0f7c238c3bb18538c0d4c,so the decline in paper is obviously a source of concern and i have heard you say that demand for commercial print should recover.,Q2,2020,NEENAH,Negative,"Stance: Negative
+
+Reason: The text explicitly points to “the decline in paper” as “a source of concern.” Although it references an earlier comment that demand “should recover,” the sentence itself is framed around the current drop in demand. That current decline signals weaker sales for the company’s paper/commercial-print segment, giving the passage an overall negative implication for sales.  
+(The rest of the transcript is not necessary to interpret this single sentence; the quoted line alone highlights the present sales weakness.)",,,,,,
+9e78f198a259bd78f811a2b4bd11c927,"other revenue was $885 million, up 156% due to strong quest 2 holiday sales.",Q4,2020,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly links “strong Quest 2 holiday sales” to a 156 % year-over-year increase in “other revenue.”  
+   • Rising revenue driven by higher product sales signals favorable business performance and, per Guideline 4 (financial indicators/trends), supports profitability.  
+   • No conflicting cues are present; the direction of change is clearly upward. Therefore, the stance toward sales is positive.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports a 156 % jump in other revenue to $885 million “due to strong Quest 2 holiday sales,” indicating sharply higher sales that benefit profitability.
+
+Context necessity: Not necessary—the sentence alone contains sufficient information to classify the stance.",Positive,"The author says the company’s revenue went up by a huge 156%, mainly because the Quest 2 sold very well. This shows there’s very strong demand for the product and the company is currently earning much more money.",Positive,"The text reports a significant increase in revenue (""up 156%"") and explicitly attributes this growth to ""strong"" sales of the Quest 2 product. This aligns with the sales growth, improved top-line performance, and strong customer demand.",,
+9f42e5977df5ec038d1f59e3aeb7fabb,"revenue was $3.87 billion, up 50% year on year, up 26% sequentially, and well ahead of our outlook.",Q2,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • “Revenue” is a direct indicator of sales (Guideline 2).  
+   • The sentence reports large increases: +50 % year-on-year and +26 % sequential (Guideline 4: changes over time → growth).  
+   • It additionally beats the company’s own outlook, implying performance exceeded expectations (Guideline 5: no conflicting cues; dominant signal is favorable).  
+   • Rising and better-than-expected sales point to improved profitability, constituting a positive stance (Guideline 1).  
+   • The single sentence contains all necessary information; wider transcript context is not required.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   Revenue rose 50 % YoY, 26 % QoQ and surpassed guidance, clearly signaling stronger sales that benefit profitability.",Positive,"Revenue increased strongly — 50% compared to last year and 26% from the previous period. It also performed much better than expected, beating management’s forecast.",Positive,"The text reports substantial revenue growth on both a year-over-year basis (up 50%) and a sequential basis (up 26%). Additionally, it explicitly states that the performance was ""well ahead of our outlook,"" indicating that the results exceeded expectations. These are all primary indicators of a positive stance toward sales performance.",,
+a0709908e3be8322b851d05e840b03ee,"i think last year, we had higher expectations of volume coming back, and so we probably had a little higher inventory and did more of it in that time period.",Q2,2019,NEENAH,Neutral,"Stance: Neutral  
+
+Reason: The sentence simply reflects on last year’s expectations (that volumes—and therefore sales—would rebound) and how this led to carrying higher inventory at that time. It does not express any current or future change in sales, nor does it indicate improving or worsening sales trends. Therefore, it provides no clear positive or negative outlook for the “sales” metric. (Context beyond this sentence was not necessary for the classification.)",,,,,,
+a0ca3404d16c298259357c228a5c1ce7,looking at sales; we are forecasting total sales growth of 5% to 8% with organic growth in the range of 3% to 6%.,Q4,2020,MMM,Positive,"Stance: Positive  
+
+Reason: In the guidance section of the call (Slide 13, remarks by CFO Monish Patolawala), management states: “looking at sales; we are forecasting total sales growth of 5% to 8% with organic growth in the range of 3% to 6%.” Forecasting mid-single-digit organic growth and higher total sales clearly signals an expected increase, therefore the outlook for sales is positive. The context was directly useful because this forecast came from the 2021 guidance discussion.",,,,,,
+a116ae5eeb98e770d6162645b81caebf,"other revenue growth continues to be driven by quest 2 sales, though the rate of growth slowed in the second quarter as we entered a seasonally slower sales period.",Q2,2021,META,Negative,"1. Chain-of-Thought  
+   • Mentions Quest 2 sales are driving “other revenue growth” → positive clue.  
+   • Immediately adds “though the rate of growth slowed in the second quarter” → signals deceleration.  
+   • A slowdown in the growth rate reflects a less favorable sales trend that can hurt profitability.  
+   • Conflicting cues (growth vs. slower growth); per Guideline 5, judge by the dominant context—the slowdown.  
+   • Thus overall stance toward sales in this sentence is negative.
+
+2. Stance: Negative
+
+3. Brief Justification: Although Quest 2 sales still lift revenue, the sentence highlights that the sales growth rate “slowed in the second quarter,” indicating a worsening sales trend. (Context not necessary.)",Neutral,"The text gives a fair view of sales. Revenue is still going up (positive), but the increase is slower (negative) because it’s a slow sales season. So, the overall feeling is neutral.",Neutral,"The author maintains a neutral stance by balancing ""continued revenue growth"" in Quest 2 sales against a reported ""slowdown in the rate of growth"" during the second quarter. This presentation of both positive drivers and decelerating performance results in a balanced assessment.",,
+a13ada8962430cc14cfbf2cfb1136f5d,"i will start with our safety and industrial business, which posted an organic sales decline of 1.3% year-on-year in the fourth quarter.",Q4,2021,MMM,Negative,"Stance: Negative
+
+Reason: In the cited section management states that the Safety & Industrial business “posted an organic sales decline of 1.3% year-on-year in the fourth quarter.”  A decline in sales represents a deterioration in the target metric, so the outlook is negative from a sales perspective.",,,,,,
+a1a107386d43e860d9ee2c416923b3eb,so we're not seeing the fall off in demand because of any impacts of covid.,Q2,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the Q&A section Jeff Kramer states, “we're not seeing the fall off in demand because of any impacts of COVID.”  If demand is holding up, sales are expected to stay at least level – and likely better than feared during the pandemic – which is a favorable (positive) outlook for sales.",,,,,,
+a2fbe318356685934647bbe818b2f75f,"these included the sale of unprofitable and nonstrategic mill and brattleboro, vermont, at the end of 2018, and more recently a significant change in our relationship with a major distributor that was underperforming.",Q4,2019,NEENAH,Negative,"Stance: Negative  
+
+Reason: The sentence describes two actions that have already pressured, and will likely continue to pressure, the company’s top-line:  
+– “the sale of [an] unprofitable and non-strategic mill …” removes capacity and associated revenue;  
+– “a significant change in our relationship with a major distributor that was underperforming” has already reduced shipments and was cited elsewhere in the call as a reason “sales were down.”  
+Although these moves may help margins, from a pure sales (revenue) standpoint the outlook is negative because they reduce or disrupt revenue streams.",,,,,,
+a66b04afa06a0a5a0d2a38ecd882235c,"regarding disposable respirators, we expect continued strong demand, which we anticipate will contribute approximately 300 basis points to company-wide q4 total sales growth.",Q3,2020,MMM,Positive,"Stance: Positive
+
+Reason: In the quoted section management says they “expect continued strong demand” for disposable respirators and that this demand “will contribute approximately 300 basis points to company-wide Q4 total sales growth.” Expecting incremental growth of ~3 % driven by a single product line clearly signals an improving sales outlook. (The information needed is contained in the cited sentence itself; the broader transcript was not necessary for this determination.)",,,,,,
+ac7f4d0a8a933deb0a9b51c507c52987,"premium packaging sales were down slightly in the quarter, reflecting timing of orders as well as the slowdown in overseas markets, though this was partly countered by increased sales in our retail channel as a result of excellent performance during the back-to-school season.",Q3,2019,NEENAH,Negative,"Stance: Negative
+
+Reason: The passage states that “premium packaging sales were down slightly in the quarter,” attributing the decline to order-timing and weaker overseas markets. Although retail-channel gains offset some of the weakness, the net message is a decrease in sales, which is unfavorable from a profitability perspective. The specific sentence quoted above is sufficient for the classification; no additional context was necessary.",,,,,,
+acd162dfa71f72bdd004ed1d0b7d2093,"on a consolidated basis, sales increased 1%, and adjusted operating profit and ebitda increased 12% and 10% respectively.",Q1,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The sentence explicitly states that “on a consolidated basis, sales increased 1%.” Any increase in the targeted metric (sales) signals an improvement from the company’s perspective, so the outlook is positive. This conclusion is drawn directly from the quoted line; no additional information from the broader context was needed.",,,,,,
+ad661d7de7a5406ff167a01940b9d81f,"and then, forgive me if i missed this, i got on a bit late but was there any price embedded in the ams sales growth?",Q1,2019,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: The excerpt is simply an analyst’s question asking whether pricing contributed to AMS sales growth; it does not state or imply any change in sales levels, direction, or outlook. Therefore, no positive or negative conclusion about future sales can be drawn. (The broader context is not needed to classify this specific sentence.)",,,,,,
+adf19c6e6d2a1f08240ab860cd102d9b,"this result included a disposable respirator sales decline of approximately $110 million year-on-year, which negatively impacted safety and industrial?s q4 organic growth by nearly 4 percentage points.",Q4,2021,MMM,Negative,"Stance: Negative  
+
+Reason: The cited section states that disposable respirator sales were down about $110 million year-on-year, dragging Safety & Industrial’s Q4 organic growth lower by roughly 4 percentage points. A year-on-year sales decline clearly represents an unfavorable outlook for the sales target. The information needed to reach this conclusion is contained entirely within the quoted text; no additional context was required.",,,,,,
+b0295444ab92068f0b5d50582c8b7c77,"with respect to organic sales, we delivered growth of 1% year-over-year with adjusted earnings of $2.43 per share.",Q3,2020,MMM,Positive,"Stance: Positive
+
+Reason: The cited sentence states, “with respect to organic sales, we delivered growth of 1% year-over-year….”  Any year-over-year increase in sales, even a modest 1 %, is an improvement versus flat or declining revenue, so from a profitability/ sales perspective the outlook is positive. (The relevant evidence is in Mike Roman’s opening remarks where he highlights the return to positive organic growth.)",,,,,,
+b077f753c550be5feec21a05fb401fc9,"third quarter disposable respirator sales decreased 7% organically year-on-year, and 15% sequentially.",Q3,2021,MMM,Negative,"Stance: Negative
+
+Reason: The sentence explicitly states that “third-quarter disposable respirator sales decreased 7% organically year-on-year, and 15% sequentially.”  Both year-over-year and sequential declines signal worsening sales, which is negative from a profitability perspective.  (This information is contained in the Safety & Industrial discussion section of the context; no additional context is needed to reach the conclusion.)",,,,,,
+b0d5c55a11564f146e4c451833202572,and then used our targeted ads and have had 9 times return on ad sales and have increased their sales by 2 – over 2.5 times during this.,Q3,2020,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses sales performance: “increased their sales by 2 – over 2.5 times.”  
+   • This indicates a substantial growth in sales, which, under Guideline 4 (“changes over time”), is a favorable development for profitability.  
+   • It also cites a “9 times return on ad sales,” further reinforcing improved revenue outcomes.  
+   • No conflicting cues are present, so the dominant message is clearly positive.  
+   • The broader transcript is not required to interpret this specific statement.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The sentence reports a “9 times return on ad sales” and that sales “increased … over 2.5 times,” signaling strong sales growth and thus a positive outlook for profitability.  
+
+Context use: Not necessary.",Positive,"The text clearly says sales increased by over 2.5 times and achieved a 9x return on ad spend. Also, strong demand and that the product worked effectively.",Positive,"The text explicitly reports significant sales growth, stating that the subject ""increased their sales by 2 – over 2.5 times."" Additionally, it mentions a ""9 times return on ad sales,"" which indicates highly successful performance and top-line improvement.",,
+b2c2e26fdd23248260844e8207ca9a08,"in transportation, we are up 20% overall in this profitable end market with over 50% growth in paint protection films, as our customers are seeing returns to normalized demand and restocking after choppy 2020.",Q1,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The company reports that transportation-related sales are “up 20% overall … with over 50% growth in paint protection films,” citing a return to normalized demand. This clear, double-digit sales increase signals improving revenue momentum, which is favorable for profitability. (This conclusion is drawn directly from the quoted passage; the broader context was not necessary for determining the outlook.)",Positive,The sentence reports strong sales growth driven by demand recovery and restocking.,Positive,"The text reports being ""up 20% overall"" in transportation, with over 50% growth in paint protection films. This substantial increase indicates very strong sales performance.",,
+b7cba63ffebfd662bed61e8518a9257a,"versus the third quarter, sales increased 8%, adjusted operating income was up by more than 30% and adjusted earnings per share jumped almost 60%.",Q4,2020,NEENAH,Positive,"Stance: Positive  
+
+Reason: In the cited sentence the company states, “versus the third quarter, sales increased 8%….”  An 8 % sequential rise signals improving revenue trends, which is favourable for future profitability.  This direct statement is sufficient for judging the outlook; the broader transcript does not add material information needed for this specific assessment.",,,,,,
+bb777155d92de00ad42d36f2a7a6ebe0,"what we?re seeing now in july is now a more noticeable direction change, where on a sales per billing day and on an absolute basis, we are seeing it up low single digits versus where we were in july of last year.",Q2,2020,MMM,Positive,"Stance: Positive
+
+Reason: In the cited exchange management says “we are seeing [sales] up low-single digits versus where we were in July of last year.”  Year-on-year growth— even if modest— signals an improving trend in sales, which is favorable for the company’s future profitability.  (Section: Q&A, Nick Gangestad’s response discussing July sales trends).",,,,,,
+bbf1822681edd0ab4af9f510c9eaa72a,"looking sequentially, operating margins improved 670 basis points with 60% sequential leverage on 18% growth in sales.",Q3,2020,MMM,Positive,"Stance: Positive
+
+Reason: The sentence states that the business achieved “18% growth in sales” on a sequential basis, indicating rising sales. This clearly signals an improving sales outlook. (The broader transcript was not needed to draw this conclusion; the sentence itself provides the key information.)",,,,,,
+bbf55f78b24279663dcae78f688ff883,"but just to keep that for the remainder of the year, and i guess just the inventory destock in that business, do you expect that to kind of come back and maybe better trends in the back half of the year?",Q2,2020,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: The excerpt is an analyst’s question asking management whether sales lost to inventory destocking might “come back” later in the year. It contains no statement from the company that sales will rise or fall, nor any data indicating an actual trend. Because it is purely an inquiry and provides no affirmative or negative outlook on sales, it does not allow a determination of positive or negative impact. Therefore, the appropriate classification is Neutral. (The broader context is not required for this judgment, as the quoted text alone gives no directional information.)",,,,,,
+bc29e9df013ab2bad29118d2d2af844e,"as i said earlier, we expect to fully offset the increases by the end of the year through a combination of pricing actions, volume increases and efficiency improvements.",Q2,2021,NEENAH,Positive,"Stance: Positive
+
+Reason: The sentence states that the company expects to “fully offset the increases by the end of the year through … volume increases.” Anticipating higher volumes implies management is projecting growth in sales, indicating a positive outlook. (The surrounding context is not needed to reach this conclusion.)",Positive,"The text explicitly projects ""volume increases"" and ""pricing actions,"" citing factors that directly contribute to sales growth and improved top-line performance.",Positive,Anticipated volume increases and pricing actions are expected to fully recover and protect revenue levels by year-end.,,
+be127e656e3af528cc6dd7f4e69615a9,"we currently estimate october total company sales growth to be flat to up low single-digits, which incorporates the anticipated impact of one fewer business day year-on-year.",Q3,2020,MMM,Positive,"Stance: Positive
+
+Reason: In the cited passage management states, “we currently estimate October total company sales growth to be flat to up low single-digits,” meaning they anticipate sales will hold steady or rise modestly versus the prior-year period. Any expectation of year-over-year growth (even low-single-digit) reflects an improving or at least non-declining sales outlook, which is positive from a profitability perspective.",,,,,,
+bee4151bcbe7e9f08ec3d144a7ebd920,"geographically, while organic sales in asia pacific declined 8%, we saw year-over-year improvement in china, up 3% in the quarter versus down 11% in q1.",Q2,2020,MMM,Negative,"Stance: Negative
+
+Reason: The statement says Asia-Pacific organic sales were down 8 % year-on-year; even though China improved 3 %, the overall regional performance is still a decline, indicating pressure on the company’s sales and, by extension, profitability. (The rest of the context was not needed for this determination.)",,,,,,
+c0368a452644df4ca282b3ec7bfcac48,"on a consolidated basis, net sales were down 2%, but essentially flat without the impact of currency.",Q3,2019,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The cited sentence states, “on a consolidated basis, net sales were down 2%.” Even though management notes that sales would have been flat excluding currency, the reported figure investors see is a decline. A decline in sales represents an unfavorable trend from a profitability perspective, so the outlook for the metric “sales” is Negative. (Relevant section: CFO commentary outlining consolidated results in the earnings call.)",,,,,,
+c077e3717bfab092fb9676987d9394f1,and our q2 outlook assumes cmp sales of $400 million.,Q1,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence gives forward guidance for a specific product line (CMP) of “$400 million” in Q2.  
+   • Guidance at this magnitude implies the company expects to book substantial revenue from CMP, contributing to top-line growth.  
+   • Earlier in the same paragraph (context) they disclosed CMP revenue was only $155 million in Q1, so the $400 million outlook represents a sharp increase, indicating an improving sales outlook.  
+   • No negative or offsetting language is present; therefore the dominant signal is favourable.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The sentence projects $400 million of CMP sales for Q2—much higher than the prior-quarter $155 million—signalling an upbeat outlook for sales and profitability. (Context was helpful/necessary to see the improvement.)",Neutral,"The statement provides a sales outlook figure but does not indicate growth, decline, or comparative performance, so no stance on sales can be determined.",Neutral,"The text provides a specific forward-looking sales figure ($400 million), but it contains no comparative data (such as year-over-year growth) or qualitative language (such as ""strong"" or ""weak"") to indicate if this is a positive or negative outlook.",,
+c2cb597450becd8ec34e8f9656682dab,"for – i mean for q1, we are – our guidance range of $26 billion to $28.5 billion corresponds to negative 7% to plus 2% year-over-year growth.",Q4,2022,META,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence gives Q1 revenue guidance of $26 B–$28.5 B.  
+   • This equates to –7 % to +2 % year-over-year growth.  
+   • The range is centered on a decline and explicitly includes a sizable negative number, signaling risk of lower sales versus last year.  
+   • According to guideline 5, when signals conflict, judge the dominant context—in this case the possibility of a 7 % drop dominates the modest 2 % upside.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+   The guidance implies sales could fall as much as 7 % YoY (–7 % to +2 % range), indicating a potentially weaker sales outlook. (Context not necessary)",Neutral,"This shows a balanced opinion. By suggesting growth around zero, the author is neither fully positive nor negative, keeping the outlook neutral.",Neutral,"The text provides a revenue guidance range that accounts for both a year-over-year decline (-7%) and a slight increase (+2%). By presenting a range that encompasses both negative and positive growth possibilities, the author provides a balanced outlook on sales performance for the quarter, fitting the criteria for a neutral stance.",,
+c4e638c1a7fbc6b559cc03b583f8d01e,"non-gaap gross margins increased by almost 6 points year on year, reflecting a shift in product mix with higher data center sales and lower automotive sales.",Q2,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence cites “higher data center sales” (growth in a high-margin segment) and “lower automotive sales” (decline in a smaller, lower-margin segment).  
+   • It explicitly links this mix shift to a 6-point year-on-year increase in non-GAAP gross margin, indicating improved profitability.  
+   • Because the net effect of the sales change lifts margins and benefits overall profitability, the dominant signal for sales is favorable.  
+   • Conflicting cues (one segment down) are outweighed by the positive impact of the larger, more profitable segment’s higher sales.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence shows that increased data center sales (despite lower automotive sales) boosted gross margins by 6 points, signaling a beneficial sales mix for profitability.  
+
+Context necessity: Not necessary – the sentence alone contains all information needed.",Neutral,"The report says sales increased in data centers but decreased in automotive, balancing each other out.",Neutral,"The text reports a ""shift in product mix"" with conflicting data points: ""higher data center sales"" (positive) and ""lower automotive sales"" (negative).it shows growth in one area and decline in another without specifying the net impact on total revenue, resulting in a balanced/mixed view.",,
+c6270336425137ddc8a33c91a331056d,"consistent with our outlook, mellanox had a sequential decline impacted by a non-recurring sales to a china oem in q3.",Q4,2021,NVDA,Negative,"1. Chain-of-Thought Reasoning  
+   • The key sales cue is “had a sequential decline,” which explicitly states that sales (revenue) fell versus the prior quarter.  
+   • A fall in sales is an unfavorable trend for profitability (Guideline 4: “changes over time—decline → Negative”).  
+   • The qualifier “consistent with our outlook” merely says the drop was expected; it does not negate the negative impact.  
+   • No offsetting positive information is provided, so the dominant stance is negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   Sales are portrayed unfavorably because Mellanox “had a sequential decline,” indicating lower revenue than the previous quarter.  
+
+Context necessity: Not necessary—the sentence alone provides sufficient information to classify the stance.",Negative,The text says Mellanox’s sales went down. It reporting lower sales clearly shows a Negative stance.,Negative,"The author adopts an unfavorable stance by reporting a ""sequential decline"" in Mellanox sales; although the decline was expected and ""non-recurring,"" the downward movement remains a primary negative indicator.",,
+c922da67fc9ee280f31d934082d3b1fb,"sales growth combined with operating rigor and disciplined cost management drove adjusted operating income of $2 billion, up 19%, with adjusted operating margins of 22.5%, up 170 basis points year on year.",Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: The sentence explicitly states there was “sales growth” that, along with operating rigor and cost management, boosted adjusted operating income and margins. An increase in sales is favorable for profitability, so the outlook for the sales metric is positive.
+
+Helpful section of context: The excerpt itself – “sales growth combined with operating rigor and disciplined cost management drove adjusted operating income …” – provided the necessary information. The broader transcript was not needed for this specific classification.",,,,,,
+ca42f54e7cc16d5e87e04e6ed81969ee,"our automotive oem business was down 44% year-on-year, in line with the 45% decline in global car and light truck builds.",Q2,2020,MMM,Negative,"Stance: Negative
+
+Reason: The cited sentence explicitly says that Automotive OEM sales “were down 44% year-on-year,” indicating a sharp decline in this line of business. A 44 % drop in sales is clearly an unfavorable development for the company’s overall sales outlook. (Context: Transportation & Electronics segment discussion in the transcript).",,,,,,
+cbab3f1ab6b2e3276b1e20d9cf3f8bfc,"in the core ams portfolio, organic revenues declined a modest 3% as the drop-off in transportation sales more than offset solid performance in filtration, infrastructure and construction, medical and industrial sales, which is also a positive organic growth.",Q1,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The specific sentence states that “organic revenues declined a modest 3% as the drop-off in transportation sales more than offset solid performance in … other sales.”  A decline in organic sales signals a worsening sales picture, so from the company’s profitability perspective the outlook for the target metric “sales” is negative.  (No other part of the broader context was needed; the cited line alone made the determination clear.)",,,,,,
+cc318a4ce17a2863359de13e1a1babcb,"as mentioned earlier, we expect demand for disposable respirators to wane and negatively impact second half revenues by approximately $100 million to $300 million year-on-year.",Q2,2021,MMM,Negative,"Stance: Negative  
+
+Reason: The cited sentence explicitly states that the company “expects demand for disposable respirators to wane and negatively impact second-half revenues by approximately $100 million to $300 million year-on-year.” A projected revenue decline of that magnitude represents a worsening sales outlook. The context is directly relevant because it quantifies the expected drop in sales, leaving little ambiguity about the negative direction.",,,,,,
+cdfcd95cc76e57aa3293a26af391291d,"in a highly uncertain economic environment, our team delivered robust cash flow strong margins and return to positive organic sales growth.",Q3,2020,MMM,Positive,"Stance: Positive  
+
+Reason: The sentence states that the company has “returned to positive organic sales growth,” indicating sales are now rising again after a prior decline. This direct reference to sales increasing makes the outlook positive. (Supporting language also appears earlier in the transcript: “we returned to positive year-over-year organic growth” – slide 5.)",,,,,,
+ce30947b59deeef061a229acf8b41728,"stationery and office returned to positive organic growth in q1, up mid-single digits, with ongoing strength in consumer demand for packaging and shipping products.",Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: In the cited passage management says “stationery and office returned to positive organic growth in Q1, up mid-single digits, with ongoing strength in consumer demand for packaging and shipping products.”  A shift from negative to “positive organic growth” and “mid-single-digit” sales increase clearly signals improving sales momentum.  That specific comment from the Consumer segment discussion of the transcript was sufficient to judge the outlook; no additional context was required.",,,,,,
+ce98652fbf006c3f9e401386cbd2d042,"at this time, we believe q2 results will be especially challenged, given the trends we have seen so far in april, with revenue and eps declines year-over-year.",Q1,2020,MMM,Negative,"Stance: Negative  
+
+Reason: In the cited passage management says, “we believe Q2 results will be especially challenged… with revenue … declines year-over-year.”  A year-over-year revenue decline clearly signals lower sales, which is negative for profitability.  (This assessment comes directly from the quoted section; no additional context was required.)",,,,,,
+cf6543ac39a0c5d0e5b40ba2e244a5bb,"emea, if you look at how we're doing there, we're growing high single-digits for the year, 9%, 4% in the quarter.",Q3,2021,MMM,Positive,"Stance: Positive  
+
+Reason: In the cited passage management states that sales in the EMEA region are “growing high-single digits for the year, 9%, [and] 4% in the quarter.”  Year-to-date and quarterly sales are both increasing, which signals a favorable trajectory for the company’s sales performance.  (No other parts of the broader context were necessary for this determination.)",,,,,,
+d02ba765c3d0a72117d3e6a467157d86,"organic sales growth continued to be led by the home improvement business, up double digits organically driven by strong demand for command adhesives, filtrete air quality solutions, and scotchblue painter's tape.",Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: The excerpt explicitly states that “organic sales growth continued to be led by the home-improvement business, up double digits organically driven by strong demand….”  Double-digit organic growth and “strong demand” clearly signal higher sales, which is favorable from a profitability perspective.  (The broader transcript is not needed to reach this conclusion; the cited sentence alone provides the necessary evidence.)",,,,,,
+d3cbc2020aba2ffe4fe4a98b00599e3a,organic sales for our oral care business increased double digits year on year.,Q1,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The statement explicitly says that “organic sales for our Oral Care business increased double digits year on year.” A double-digit YoY increase represents a strong rise in sales, which is beneficial for the company’s profitability. (Reference: Healthcare segment discussion in the transcript.)",,,,,,
+d56c8fbb2aa044f57b4f14a4d52b840f,"building on the strong initial ramp in q2, ampere architecture sales continue to grow, leading verticals, including media and entertainment, healthcare, public sector and automotive.",Q3,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references “sales” (“Ampere architecture sales”).  
+   • It states those sales “continue to grow,” signalling an ongoing upward trend.  
+   • Growth in sales is favorable for the company’s profitability (Guideline 4: changes over time → positive when rising).  
+   • There are no conflicting or negative cues in the sentence.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The phrase “Ampere architecture sales continue to grow” clearly indicates increasing sales, which is positive for profitability.  
+
+4. Use of Context  
+   Context not necessary—the sentence alone contains sufficient information to classify the stance.",Positive,The text says sales are still increasing and describes the performance as a strong start. It also mentions that this growth is happening across major sectors like healthcare and automotive.,Positive,"The text explicitly reports on sales growth, stating that ""ampere architecture sales continue to grow."" It further supports this by mentioning a ""strong initial ramp"" and noting that these sales are ""leading verticals"" across several industries.",,
+d5917b2428e5c444d8c75a25a408a5d8,"much like heat-not-burn, sales are expected to be relatively small at the start, but we see significant growth potential, and we'll continue to invest to support this business and our customers.",Q4,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The statement notes that although initial sales will be “relatively small,” management “see[s] significant growth potential” and plans to “continue to invest” to support that growth. This explicitly conveys an expectation of rising future sales, which is a positive outlook for the metric.
+
+(The broader transcript was not necessary for this conclusion; the quoted sentence itself provided the key information.)",Positive,"Despite low initial sales, the sentence highlights significant growth potential, indicating a favorable sales outlook.",Positive,"The text acknowledges that initial sales are small but states the company sees ""significant growth potential"" and plans to invest to support the business. The outlook is clearly favorable toward future sales.",,
+d82beddd17265bd1558dae7b992b58e4,with almost 20% of our sales outside of the u.s. we saw top line challenges in 2019 with weakness in global economies.,Q4,2019,NEENAH,Negative,"Stance: Negative
+
+Reason: The sentence explicitly says, “we saw top line challenges in 2019 with weakness in global economies.”  “Top-line” refers to sales, and “challenges” indicates pressure or decline, which is negative for the company’s sales outlook.  
+(The broader transcript isn’t necessary to reach this conclusion; the cited sentence alone conveys the adverse sales situation.)",,,,,,
+db1fb2a5fa12035514e23c080f50ce68,"our home improvement business continues to perform well, up high single-digits on top of a strong comparison from a year ago.",Q3,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The text states that “our home improvement business continues to perform well, up high-single-digits on top of a strong comparison from a year ago.”  A high-single-digit year-over-year increase clearly signals rising sales, which is favorable for the company’s profitability.  The quoted sentence itself provides all the information needed; no other parts of the broader transcript were required for this classification.",,,,,,
+de4f08727c21258b54ecc2611a90338e,"for context, and excluding currency fluctuations in gaap accounting conversions, overall sales were up approximately 40% versus last year's second quarter and were just below 2019 levels.",Q2,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The sentence states that “overall sales were up approximately 40% versus last year's second quarter,” which is a substantial year-over-year increase. Although sales are “just below 2019 levels,” the large 40% rebound signals a strong recovery trajectory and a favorable outlook for sales. (The classification is based directly on this quoted line; no other parts of the wider context were needed.)",Positive,"The text reports that overall sales were ""up approximately 40%"" compared to the prior year's quarter, indicating significant sales growth and improved top-line performance.",Positive,"The text reports that sales were ""up approximately 40% versus last year's second quarter,"" which shows significant year-over-year growth.",,
+de549e64a3fa76c838c2c68e4d27c667,"it?s more heavily the legacy business coming back, but it?s supplemented by new product introductions.",Q4,2020,NEENAH,Positive,"Stance: Positive  
+
+Reason: In the quoted section management says “it’s more heavily the legacy business coming back, but it’s supplemented by new product introductions.”  This indicates they expect the legacy (pre-COVID) revenue base to return and be further boosted by incremental sales from new products, implying higher overall sales going forward.  (Context: Q&A portion discussing Fine Paper & Packaging recovery.)",,,,,,
+dee95a229f5a1ac2b5103d431aa908fe,"all in, these benefits were more than offset by the decline in organic sales volume and restructuring actions resulting in a 100 basis point reduction to second quarter margins versus last year.",Q2,2020,MMM,Negative,"Stance: Negative
+
+Reason: The sentence explicitly states “the decline in organic sales volume … resulted in a 100-basis-point reduction to second-quarter margins versus last year,” indicating sales volumes fell. A drop in organic sales is unfavorable for the company’s sales outlook. (The broader transcript is not needed to reach this conclusion; the quoted sentence alone is sufficient.)",,,,,,
+dee974eacf1af98f432ee7e4e5cccfc3,"about half of the decline was due to a stronger u.s. dollar, and the rest reflected lower volumes that were only partly offset by benefits of increased selling price and a higher value mix.",Q2,2019,NEENAH,Negative,"Stance: Negative  
+
+Reason: The sentence states that sales declined, citing that “about half of the decline was due to a stronger U.S. dollar, and the rest reflected lower volumes that were only partly offset by … increased selling price and a higher-value mix.”  A “decline” in sales, even if partially offset, clearly signals a worsening top-line trend, which is negative from a profitability perspective.  
+
+Helpful context: The required information is contained entirely in the quoted text itself; the broader transcript was not necessary for this specific classification.",,,,,,
+df560bd8c04916a01afd11e4f3fbd6f8,how are your efforts to cross sell coming along?,Q1,2019,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral  
+
+Reason: The sentence is simply an analyst asking, “how are your efforts to cross sell coming along?”  It does not itself state whether sales are rising, falling, or unchanged, nor does it provide any data or management comment that would let us infer a direction.  Consequently, no outlook for the “sales” metric can be determined from this snippet alone. (The broader transcript contains management’s positive reply, but that information is not included in the specific text we are asked to classify.)",,,,,,
+df5e9516bb6fafc40e587dda6e5f6f75,"the separation and purification business increased 10% year-on-year due to ongoing demand for biopharma filtration solutions for covid-related vaccine and therapeutics, along with improving demand for water filtration solutions.",Q2,2021,MMM,Positive,"Stance: Positive
+
+Reason: In the Health Care section of the call management states, “the separation and purification business increased 10% year-on-year.” A double-digit YoY increase signals that sales in this business line are growing, which is a positive outlook for the company’s overall sales. The cited sentence from the context directly provided the evidence; no additional information outside that passage was needed.",,,,,,
+df7ec9ccdc890ec4034be27d858e4fbd,do you think we're now at a level in that business where given the cost-cutting actions some of the reorganization measures at 3m once we see the sales side improve in the second half or next year in industrial within that division we should see very good operating leverage there as well as good sales growth?,Q1,2020,MMM,Neutral,"Stance: Neutral
+
+Reason: The excerpt is a question from an analyst speculating whether future cost-cutting and reorganization could translate into “very good operating leverage … as well as good sales growth.” 3M management does not provide a definitive answer or forecast about sales in this snippet, so no clear positive or negative outlook for the company’s sales can be inferred. Therefore, from the company’s profitability perspective, the passage is Neutral. (The relevant portion is in the Q&A section where the analyst poses the question; the context itself does not supply an affirmative or negative sales outlook.)",,,,,,
+e092323e76aa584ac3c5673169392816,we had previously commented earlier this year that some of the relative strengths of lip sales in the u.s. were likely due to some inventory builds and these were unwound in the third and fourth quarters.,Q4,2019,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The sentence explains that the earlier “strength” in LIP (low-ignition-propensity) paper sales was only the result of customers building inventory. Those temporary inventory builds were “unwound in the third and fourth quarters,” meaning the earlier boost has reversed and sales volumes have fallen back. This signals a decline rather than growth, so the outlook for sales is negative. (Specific section: “some of the relative strengths of LIP sales … were likely due to some inventory builds and these were unwound in the third and fourth quarters.”)",,,,,,
+e0f50f20ce7ee99f086ecb81dd8592fc,our demand is very strong across pretty much all of our categories.,Q2,2021,NEENAH,Positive,"Stance: Positive
+
+Reason: The quoted sentence – “our demand is very strong across pretty much all of our categories” – signals that customer demand is high, implying continued or rising sales. Strong demand typically translates into higher volumes and revenue, so the outlook for the “sales” metric is favorable. (While the broader transcript also cites near-record revenue and record sales in several segments, the single sentence itself already conveys a positive demand/sales outlook; additional context was supportive but not required for this classification.)",Positive,"The text explicitly cites ""very strong"" demand across categories, which is a direct indicator of favorable sales performance and outlook.",Positive,"The statement uses strong qualitative language (""demand is very strong"") across ""pretty much all categories,"" indicating top-line performance.",,
+e1ff2730a98c6d545e9d2d2656c6af27,"the 2% organic sales decline was largely driven by the decrease in aftermarket transportation films, while the remainder of the portfolio actually increased 1%.",Q4,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The sentence states that “organic sales decline[d] 2%,” indicating an overall drop in sales despite a modest 1% increase in the rest of the portfolio. A decline in sales is unfavourable from a profitability perspective, so the outlook is classified as Negative. The statement itself provides all needed information; the broader context was not required to make this determination.",,,,,,
+e21dc7a6cebc57f387e780729f8286b0,"other revenue was $366 million, up 40%, driven primarily by sales of oculus and portal products.",Q2,2020,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence reports a quantitative increase (“up 40%”) in “other revenue,” which is “driven primarily by sales of Oculus and Portal products.”  
+   • A 40% rise in revenue tied directly to product sales signals improved top-line performance.  
+   • According to Guideline 4 (changes over time), explicit growth in sales or revenue is a Positive indicator for profitability.  
+   • No conflicting cues are present, so the dominant stance is favorable.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that revenue tied to product sales rose 40%, indicating stronger sales and a beneficial effect on profitability. (Context not necessary)",Positive,"The text says revenue increased by 40%, mainly because of strong sales of Oculus and Portal products.",Positive,"The text reports a significant 40% increase in ""other revenue"" to $366 million, specifically attributing this growth to the sales of Oculus and Portal products. This aligns with the sales growth and improved top-line performance.",,
+e3c1740aa6cbc88b0db41c55ab2fa3ed,"and as a reminder, we will have a negative fourth quarter sales impact year-on-year of approximately $100 million 130 basis points from our may 2020 divestiture of drug delivery.",Q3,2020,MMM,Negative,"Stance: Negative  
+
+Reason: In the quoted sentence management states that fourth-quarter sales will be reduced year-on-year by roughly $100 million (-130 bps) because of the May 2020 Drug Delivery divestiture. This explicitly signals a decline in sales, making the outlook for the “sales” target negative. (The information comes directly from the cited passage; no additional context was needed.)",,,,,,
+e610245b560988153a7b7b0d2a017ce5,growth in sales and marketing also reflects an increase in advertising and promo expense as we ramped back from the lower levels of spend last year.,Q1,2022,GOOG,Neutral,"1. Chain-of-Thought Reasoning  
+   • The phrase “growth in sales and marketing” refers to operating expenses, not to revenue or top-line sales.  
+   • The sentence simply explains that these expenses went up because advertising and promo spending was ramped back up from last year’s lower levels.  
+   • It gives no information about whether sales revenue is rising or falling, nor whether profitability is helped or hurt.  
+   • Per Guideline 6, when sales are only tangentially referenced (or not referenced at all), the stance is Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence only reports higher advertising/promo costs, without indicating any impact on sales revenue or profitability.
+
+Context necessity: Not necessary—the sentence alone suffices for the classification.",Neutral,"In this context, ""sales and marketing"" refers means a business expense category, not revenue or total sales performance.",Neutral,The text describes the growth of spending rather than the growth of revenue or demand.,,
+e9c6984c0a722866c7a1f0d5af5c56cb,"overall segment adjusted operating profit contracted slightly, with favorable resin costs offering a partial offset to the lower sales of higher-margin transportation films.",Q1,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The sentence explicitly says the segment experienced “lower sales of higher-margin transportation films,” which were significant enough to drag segment adjusted operating profit down (only partly offset by lower resin costs). Falling sales, especially in a high-margin product line, signal a negative outlook for the “sales” target. The quoted sentence itself provides all the information needed; the broader transcript context was not required to reach this conclusion.",,,,,,
+edfcbc7047ebf5269adb68980368e756,"moving to transportation and electronics, second quarter sales were down 19% organically compared to last year.",Q2,2020,MMM,Negative,"Stance: Negative
+
+Reason: In the quoted section management states that in Q2 “sales were down 19% organically compared to last year” for the Transportation & Electronics segment. A year-over-year decline of this magnitude signals worsening sales performance, which is unfavorable for the company’s profitability outlook. (This conclusion is drawn directly from the cited passage; no other context was required.)",,,,,,
+ee522952e614ce99cbdd0c3694eb5cb9,"safety and industrial's third quarter segment operating margins were 27.2%, up 430 basis points driven by sales growth, continued strong productivity and spending discipline.",Q3,2020,MMM,Positive,"Stance: Positive
+
+Reason: The excerpt explicitly states that the Safety & Industrial segment’s operating margins rose 430 bps and that this improvement was “driven by sales growth.” The direct mention of sales growing indicates a favorable outlook for the target metric “sales.” The specific line from the context supporting this is: “...up 430 basis points driven by sales growth, continued strong productivity and spending discipline.”",,,,,,
+ee90c08325c40d53807ecfefac110ca3,"starting with the top-line, demand for our products was extremely strong and we delivered record sales of almost $270 million, up 40% from last year and up 22% excluding the itasa acquisition.",Q3,2021,NEENAH,Positive,"Stance: Positive  
+
+Reason: The cited passage states that the company “delivered record sales of almost $270 million, up 40% from last year and up 22% excluding the Itasa acquisition.” Record-high revenue and double-digit organic growth clearly signal improving sales momentum, which is favorable for profitability. (This conclusion is drawn directly from the quoted section; the broader transcript was not needed for this specific classification.)",Positive,"The text reports ""extremely strong"" demand and ""record sales"" that grew 40% year-on-year (22% organically), indicating significant top-line growth and a favorable performance.",Positive,"Reports ""extremely strong"" demand and ""record sales"" with 22% organic growth, signaling exceptional top-line performance and robust customer interest.",,
+eeda6fa3c04b1beafdbb36a9aa9c3cf1,"so, we announced a 10% decrease in the business for the segment, but that was really driven by two major factors.",Q1,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: In the quoted passage management states, “we announced a 10% decrease in the business for the segment,” clearly indicating that sales for that segment have fallen. Even though they go on to explain the decline was driven by two specific factors, the immediate outlook for sales in that segment is a reduction, which is negative from a profitability perspective. This conclusion is drawn directly from the cited section of the context discussing the 10% sales decrease.",Negative,A 10% decrease in the segment directly indicates a decline in sales performance.,Negative,"The text reports a ""10% decrease in the business for the segment."" A decrease in business activity clearly indicates declining sales or revenue.",,
+f16877152d524bdda444c91f357fab13,"sales in the quarter of $124 million were up 16% versus last quarter, though down 6% from last year because of reduced demand due to covid.",Q3,2020,NEENAH,Neutral,"Stance: Neutral  
+
+Reason: The passage notes that quarterly sales rose 16 % from the preceding quarter (a positive sign) but are still 6 % lower than the same quarter last year (a negative comparison). Because the statement contains both a positive and a negative data point and does not clearly indicate an overall upward or downward trajectory for profitability, the outlook for “sales” is best viewed as Neutral.  
+(The relevant wording is: “sales in the quarter of $124 million were up 16% versus last quarter, though down 6% from last year because of reduced demand due to COVID.”)",,,,,,
+f2149d1f7fcd11c4e0d943bd7a21fa77,"the hour-long event generated more than $40,000 in sales.",Q4,2021,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly reports that an hour-long event “generated more than $40,000 in sales.”  
+   • Generating sales (especially with a concrete dollar amount) signals revenue creation, which is favorable for profitability.  
+   • There are no words suggesting decline, shortfall, or concern; the framing is purely about a successful outcome.  
+   • Therefore, according to Guideline 1 (focus on sales portrayal) and Guideline 4 (financial indicators), this is a positive stance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence highlights a successful outcome—“generated more than $40,000 in sales”—indicating a favorable impact on revenue.  
+   Context necessity: Not necessary (the sentence alone gives sufficient information).",Positive,"The author says they earned over $40,000 in just one hour. This shows that sales were very strong and the company is good at attracting customers.",Positive,"The text reports on the generation of revenue (""more than $40,000 in sales"") resulting from an event. The text describes a successful realization of the target (sales) without any conflicting negative information or indicators of decline.",,
+f2e92fa7338495ed57d0dd8d901a4a93,"turning to our health care business, which delivered second quarter organic sales growth of 23%.",Q2,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The cited sentence itself – “turning to our health care business, which delivered second quarter organic sales growth of 23%” – states that sales rose 23 % year-on-year. A double-digit sales increase signals improving revenue momentum and is favorable for profitability. No other context from the transcript was necessary for this determination.",,,,,,
+f3799ae040f204fe4a10ff7b750c3f9d,"our annual contracts in 2021 reflected year-end 2020 pulp prices, but costs increased dramatically throughout the year, while our selling prices were locked in.",Q4,2021,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: The sentence discusses rising input costs (wood pulp) and the fact that the company’s selling prices were “locked in,” which speaks to margin pressure, not to any change—positive or negative—in the level of sales (units sold or revenue). Because the passage does not indicate that sales volumes or selling prices increased or decreased, it does not allow us to infer an outlook on “sales.” Hence the outlook is Neutral. (The broader transcript was not needed for this specific determination.)",Neutral,"The sentence discusses pricing constraints and costs, without directly indicating sales growth or decline.",Neutral,"The text states that selling prices were ""locked in,"" indicating sales revenue was stable but unresponsive to rising costs. This describes a factual pricing situation rather than a positive or negative sales trend.",,
+f605831b34e0cdc4585479e15947b308,click-to-message is already a multibillion-dollar business for us and we continue to see strong double-digit year-over-year growth.,Q2,2022,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence directly addresses a revenue-generating product (“click-to-message”) and quantifies its scale as “multibillion-dollar,” indicating sizeable existing sales.  
+   • It further highlights “strong double-digit year-over-year growth,” signaling accelerating revenues.  
+   • Rising and large revenues clearly benefit the company’s top line and profitability, matching the “Positive” label per guideline #1 (favorable outlook for sales).  
+   • No offsetting or conflicting cues are present, so the dominant stance is unequivocally favorable.  
+   • The surrounding transcript isn’t needed; the sentence alone conveys the positive sales signal.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence states that click-to-message already generates billions in revenue and is growing at strong double-digit rates, indicating robust and improving sales performance. (Context not necessary)",Positive,"The text says the company had strong double-digit growth compared to last year, showing positive sales and revenue performance.",Positive,"The text reports on strong sales performance and growth. Specifically, it highlights that the business segment is already at a ""multibillion-dollar"" scale and is experiencing ""strong double-digit year-over-year growth.""",,
+f629eb4ec71e01e89932de2179c8ba57,sales were hurt by lower enterprise demand amid the closure of many offices around the world.,Q2,2021,NVDA,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states “sales were hurt,” which signals a decline in sales (Guideline 1: focus on portrayal of sales).  
+   • The cause—“lower enterprise demand” due to office closures—implies an unfavorable external environment negatively affecting revenue (Guideline 4: changes over time and adverse trends).  
+   • A direct statement of reduced sales clearly outweighs any other cues, so the dominant context is negative (Guideline 5).
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence directly says “sales were hurt by lower enterprise demand,” indicating a decline in sales and thus a negative impact on profitability. (Context not necessary; the sentence itself provides the needed evidence.)",Negative,"The text clearly says sales were down. It explains that lower enterprise demand caused this decline, which shows weak customer demand and fewer orders.",Negative,"The text explicitly states that sales were ""hurt,"" indicating a weakened top-line performance. It further attributes this to ""lower enterprise demand,"" which is a direct signal of an unfavorable sales trend",,
+f79e832c7d4ff86c3f441ece36dcba82,what you're seeing for all-in sales growth we had divestiture impact from our gas and flame detection divestiture which is impacting obviously total sales growth.,Q1,2020,MMM,Negative,"Stance: Negative  
+
+Reason: The speaker states that “divestiture impact … is impacting obviously total sales growth.”  A divestiture reduces the company’s reported revenue base, so the immediate outlook for sales is negative.  
+(The broader transcript is not needed to determine this; the quoted sentence itself makes the negative impact clear.)",,,,,,
+f82f702a7dc71ec29ec9b5f703b29bb7,"our electronics-related business was up high-teens organically with continued strength in semiconductor, factory automation, and data centers, along with strong demand for consumer electronic devices, namely tablets and tvs.",Q1,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The excerpt states that the company’s “electronics-related business was up high-teens organically,” driven by solid demand across semiconductors, factory automation, data centers, and consumer electronics (tablets and TVs). A high-teen organic sales increase clearly signals accelerating sales momentum, which is favorable for the company’s overall revenue outlook. This sentence itself (found in the Transportation & Electronics discussion of the transcript) provides the evidence; no additional context was required to reach the conclusion.",,,,,,
+f89d7f99e80b3d69d3777d2bbd5fb8e6,we've been encouraged by the sustained strength we’re seeing with sales of quest 2 since its october launch.,Q1,2021,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions “sustained strength” in Quest 2 sales since launch.  
+   • “Sustained strength” signals that sales are performing well over time, a clear positive trend for revenue and thus profitability (Guideline 4: changes over time; Guideline 2: indirect cues such as “strength” → strong sales).  
+   • No conflicting cues are present; the overall tone toward sales is favorable.  
+   • Therefore, the stance toward sales is Positive.  
+   • The surrounding transcript was not required to interpret this, as the sentence alone conveys the positive sales performance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The phrase “encouraged by the sustained strength we’re seeing with sales of Quest 2” directly indicates strong, ongoing sales, which is favorable for profitability.
+
+Context helpful/necessary: Not necessary (the sentence itself provided sufficient information).",Positive,"The author presents sales positively, using words like encouraged and sustained strength, indicating high customer demand for the Quest 2. Strong demand or a successful launch is why it’s classified as positive.",Positive,The author shows a positive view on sales by saying they’re “encouraged.” The mention of “sustained strength” also suggests strong demand and solid performance for the Quest 2 since launch.,,
+f909a896d594b44af8df5319cebd5f4f,"we delivered strong sales and margin growth, along with good cash flow while building for the future and advancing sustainability with significant new carbon, water and plastic commitments.",Q2,2021,MMM,Positive,"Stance: Positive
+
+Reason: The quoted sentence states that the company “delivered strong sales and margin growth,” which is a clear indication that sales are increasing and performing well. This directly signals a favorable outlook for the sales metric. (The broader context of the earnings call corroborates this, but the specific text alone is sufficient to support the positive classification.)",,,,,,
+f9a0f515ecfec8a76aeba296c825d6d1,"for ams, overall sales increased double-digits for the year with the addition of tekra and despite a challenging backdrop, organic sales declined a small 2%.",Q4,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: The passage states that “overall sales increased double-digits for the year with the addition of Tekra,” even though organic sales were down a modest 2 %. The net result is a meaningful year-on-year increase in total sales, which is favorable for profitability. (Specific section: CFO Andrew Wamser’s commentary on AMS results in the transcript.)",,,,,,
+fbff5bc0925ac45336facfc15c678331,auto electrification sales are up 40% year-to-date.,Q3,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The statement “auto electrification sales are up 40% year-to-date” clearly indicates a large increase in sales for that business line, which is beneficial to total company sales and profitability. (Section: Mike Roman’s prepared remarks, Slide 5).",,,,,,
+ffa2b3ee83e5b7ec7931c60ec8a47ce1,"organic growth was led by our auto oem business, up 76% year-on-year compared to a 49% increase in global car and light truck builds.",Q2,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The excerpt states that “organic growth was led by our auto OEM business, up 76% year-on-year compared to a 49% increase in global car and light truck builds.” A 76 % YoY rise in this business line clearly signals sharply higher sales, outpacing the broader market. This strong sales expansion supports a positive outlook for the company’s overall sales. (Information taken directly from the cited section of the transcript; no outside context was required.)",,,,,,

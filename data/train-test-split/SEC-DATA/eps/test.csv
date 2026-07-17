@@ -1,0 +1,383 @@
+sample_id,Instances,Year,Company,Quarter,filename,LLM_Stance_1,LLM_Reason_1,Stance_1,Reason_1,Stance_2,Reason_2,Human_Consensus
+0701c7dc4fea435005271a335f27f182,"Based on the carrying amounts of a majority of our server, storage, network, and assembly and test equipment, net, in use as of the end of fiscal year 2023, the effect of this change in estimate for the three months ended July 30, 2023 was a benefit of $5 million and $28 million for cost of revenue and operating expenses, respectively, which resulted in an increase in operating income of $33 million and net income of $27 million after tax, or $0.01 per both basic and diluted share.",2023,NVDA,Q2,Training-10-K-2023_NVDA.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence states that a change in useful-life estimates produced a “benefit” that increased operating income by $33 million and net income by $27 million.  
+   • It explicitly quantifies the effect on earnings per share: “$0.01 per both basic and diluted share,” i.e., EPS went up.  
+   • Per Guideline 4 (financial indicators/trends) and Guideline 1 (focus on EPS), an increase in EPS is a favorable signal for profitability.  
+   • No conflicting cues are present; the dominant context is the EPS improvement.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+The sentence reports that the accounting change raised net income and added $0.01 to both basic and diluted EPS, a clear positive impact on profitability.  
+
+Context usefulness: Not necessary – the sentence itself fully discloses the EPS increase.",Positive,"The sentence explicitly states an increase in net income and EPS by $0.01, indicating improved earnings per share.",Positive,"The company states that a change in how they calculate expenses provided a financial ""benefit."" This resulted in higher profits and an increase of $0.01 in the earnings for each share. Since the profit per share went up, this is a positive signal.",Positive
+0717debad68bf8ff2f596febd0c0c43b,"The continuing income tax benefits attributable to the tax status of these subsidiaries are estimated to be $87 million (16 cents per dilutedshare) in 2024, $100 million (18 cents per diluted share) in 2023, and $142 million (25 cents per diluted share) in 2022.",2024,MMM,,Training-10-K-2024_MMM.txt,Negative,"Stance: Negative  
+Reason: The tax benefit that boosts EPS is shrinking—from $0.25 per share in 2022 to $0.18 in 2023 and $0.16 in 2024—so the contribution to future EPS is falling, implying a less favorable outlook for the company’s EPS. (Classification based solely on the text; the broader context was not needed.)",Negative,"The text reports a year-over-year decrease in the EPS contribution from tax benefits, falling from 25 cents in 2022 to an estimated 16 cents in 2024.",Negative,"The text reports a year-on-year decline in estimated income tax benefits (from 25 cents in 2022 to 16 cents in 2024), indicating a diminishing positive contributor and an unfavorable trend for EPS.",Negative
+0aefe49080e806bfa4e5e1866b8c4f7d,"Given our current and anticipated future earnings, we believe that we may release the valuation allowance associated with certain state deferred tax assets in the near term, which would decrease our income tax expense for the period the release is recorded.",2024,NVDA,Q2,Training-10-K-2024_NVDA.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses a potential “release of the valuation allowance” on deferred tax assets.  
+   • It explicitly states that this action “would decrease our income tax expense.”  
+   • Lower tax expense directly raises net income and therefore boosts earnings per share (EPS).  
+   • Under Guideline 4 (financial indicators or trends) and Guideline 1 (focus on EPS impact), a reduction in tax expense is a favorable driver of profitability.  
+   • No conflicting cues are present; the overall implication is an EPS benefit.
+
+2. Stance: Positive  
+
+3. Brief Justification: Releasing the valuation allowance would cut income-tax expense, increasing net income and EPS—clearly a positive signal for profitability.  
+
+Context Use: Not necessary; the sentence itself provides sufficient information to judge the EPS impact.",Positive,"Lower tax expense would increase net income, which positively impacts EPS.",Positive,"The company expects that it will be able to ""decrease its income tax expense"" in the near future. Paying less in taxes means the company keeps more of its money as profit.",Positive
+10ec7d3bf3dd65e4cda75b7918000711,"Based on the servers and network assets placed in service as of December 31, 2024, the financial impact of this change in estimate included a reduction in depreciation expense of $1.58 billion and an increase in net income of $1.34 billion, or $0.52 per diluted share, for the six months ended June 30, 2025.",2025,META,Q2,Training-10-K-2025_META.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence reports a “reduction in depreciation expense of $1.58 billion,” which directly lifts profitability.  
+   • It then quantifies the benefit: “an increase in net income of $1.34 billion, or $0.52 per diluted share.”  
+   • An explicit rise of $0.52 in diluted EPS is a clear positive signal for earnings per share.  
+   • Per Guideline 4 (changes over time and financial indicators), a higher EPS denotes improved profitability.  
+   • No offsetting negative cues are present, so the dominant context is favorable.  
+   • The 10-K context explains why depreciation fell, but the sentence alone suffices to judge stance; context is not necessary.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence states that the accounting change boosted net income by $1.34 billion, increasing diluted EPS by $0.52, which is unequivocally favorable for profitability.  
+Context: Not necessary for classification.",Positive,"Depreciation expense decreased and net income increased, directly leading to higher EPS ($0.52 per share).",Positive,"The text explains that because of a change in how the company calculates expenses, their net income went up, leading to an increase of $0.52 in earnings per share.",Positive
+14d925a2ada849cc72531f336c97380e,Shares of common stock outstanding: Lower shares outstanding increased earnings per share per diluted share for 2023 and 2022. 21,2023,MMM,,Training-10-K-2023_MMM.txt,Positive,"Stance: Positive
+
+Reason: The statement notes that the company has fewer shares outstanding, which mechanically lifts earnings per share (“lower shares outstanding increased earnings per share”). A higher EPS is favorable for the EPS target, so the outlook is Positive. This conclusion relies on the context’s “Shares of common stock outstanding” bullet that makes the same point.",Positive,"Lower share counts ""increased earnings per share,"" which is a favorable impact on profitability.",Positive,"The text reports that lower shares outstanding ""increased earnings per share,"" citing a factor that contributes to EPS growth and improvement.",Positive
+1c365504dfd805477babf52ea398897f,"During the third quarter and first nine months of fiscal year 2023, we repurchased 28 million and 56 million shares of our common stock for 21",2023,NVDA,Q3,Training-10-K-2023_NVDA.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence reports that the company bought back (repurchased) a large number of its own shares during the period.  
+   • Per Guideline 4 (strategic actions affecting EPS), share repurchases typically lower the number of shares outstanding, which mechanically lifts earnings per share, all else equal.  
+   • There is no conflicting or adverse information in the sentence, so the dominant cue is beneficial to EPS.  
+   • The broader 10-K context is not required to interpret a standard share-repurchase effect.
+
+2. Stance: Positive
+
+3. Brief Justification: Announcing the repurchase of 28 million and 56 million shares signals a reduction in share count, an action that usually increases EPS, hence a positive implication for profitability. (Context: not necessary)",Positive,"Share repurchases reduce the number of shares outstanding, which generally increases EPS.",Positive,"The company is buying back its own shares (repurchasing). According to the guidelines, share buybacks are a positive signal for EPS because they reduce the total number of shares in the market. When the company's profit is divided among fewer shares, the earnings for each remaining share go up.",Positive
+1fbc98decb6e191c4b9be1b3ac462220,"The income tax benefits attributable to the tax status of these subsidiaries are estimated to be $112 million (20 cents per diluted share) in 2023, $170 million (30 cents per diluted share) in 2022, and $204 million (36 cents per diluted share) in 2021.",2023,MMM,,Training-10-K-2023_MMM.txt,Negative,"Stance: Negative
+
+Reason: The text shows that the income-tax benefit boosting diluted EPS has fallen from 36 cents (2021) to 30 cents (2022) and further to 20 cents (2023). A shrinking tax benefit lowers the EPS contribution, signaling a worsening trend for future EPS. I also used the context (Item 7 “Income tax rate” discussion) which confirms the effective tax rate rose in 2023, reinforcing that declining tax benefits are pressuring EPS.",Negative,"Mentions decreasing ""income tax benefits"" that directly decrease earnings per share across multiple years.",Negative,"The text reports a consistent year-over-year decline in estimated income tax benefits per share (from 36 cents in 2021 to 20 cents in 2023), representing a diminishing positive contributor and an unfavorable trend for EPS.",Negative
+213b13600f851710b06e9c74ae51b499,These charges lowered our operating margin by four percentage points and diluted earnings per share (EPS) by $1.34.,2023,META,,Training-10-K-2023_META.txt,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence directly references EPS (“diluted earnings per share”).  
+   • The verb “diluted” combined with “by $1.34” signals a reduction in EPS.  
+   • A reduction in EPS is unfavorable for profitability (Guideline 1 & 4: changes over time—decline implies negative stance).  
+   • No counter-balancing positive information is provided, so the overall message is clearly negative.  
+   • The broader context is not needed to interpret that a $1.34 dilution of EPS is adverse.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence states that the charges “diluted earnings per share (EPS) by $1.34,” indicating a decrease in EPS and therefore a negative impact on profitability.
+
+Context Usefulness: Not necessary.",Negative,,Negative,,Negative
+23d21dc0407f8d013a64f346660ed946,"We anticipate that investments in our data center capacity, servers, network infrastructure, and headcount will continue to drive expense growth in 2023, which will adversely affect our operating margin and profitability.",2023,META,,Training-10-K-2023_META.txt,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses future “expense growth” that will “adversely affect our operating margin and profitability.”  
+   • Lower operating margin and profitability generally translate into lower earnings per share.  
+   • Per Guideline 4 (financial indicators or trends) and Guideline 5 (dominant context), a forecast of declining profitability is a clear negative signal for EPS.  
+   • No offsetting positive cues are present.  
+   • The surrounding 10-K context was not needed, because the sentence itself explicitly states the negative impact.
+
+2. Stance: Negative
+
+3. Brief Justification: The company projects higher expenses that will “adversely affect” operating margin and profitability, implying a negative outlook for EPS.  
+
+Context helpful/necessary: Not necessary.",Negative,,Negative,,Negative
+254424df02d36e71913ff842287ea381,A discussion related to the components of year-on-year changes in earnings (loss) per diluted share follows: Organic growth/productivity and other:,2023,MMM,,Training-10-K-2023_MMM.txt,Negative,"Stance: Negative
+
+Reason: The sentence is an introduction to the discussion of year-on-year EPS movements, so by itself it is neutral; however, the immediately-following SEC context it refers to shows that diluted EPS fell sharply (GAAP EPS from $10.18 in 2022 to $(12.63) in 2023 and adjusted EPS from $9.88 to $9.24). Since EPS is declining, the outlook for the “eps” target is negative. (Context from the MD&A EPS table was used.)",Neutral,"The text is an introductory heading for an upcoming discussion and contains no information regarding actual results, performance trends, or a specific financial outlook.",Neutral,This text lacks substantive information regarding financial results or future outlooks.,Neutral
+3075b9a100bf3c312cbc4352d3d48239,"During the nine months ended September 30, 2023, our RL segment reduced our overall operating profit by approximately $11.47 billion, and we expect our RL operating losses to increase meaningfully in 2024.",2023,META,Q3,Training-10-K-2023_META.txt,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that the Reality Labs (RL) segment “reduced our overall operating profit by approximately $11.47 billion.” A reduction in operating profit directly lowers net income, which in turn depresses EPS.  
+   • It further says the company “expect[s] our RL operating losses to increase meaningfully in 2024,” projecting an even larger drag on future profitability and therefore on EPS.  
+   • Per Guideline 4 (forward guidance and projections) and Guideline 1 (focus on EPS-related profitability), this outlook is clearly unfavorable for EPS.  
+   • No conflicting positive cues are present; the dominant context is worsening losses, so the stance is Negative.  
+   • The broader Item 7 context is not required to draw this conclusion because the sentence itself provides sufficient negative evidence.
+
+2. Stance: Negative
+
+3. Brief Justification  
+RL already cut operating profit by $11.47 billion and its losses are expected to grow in 2024, signaling a worsening hit to earnings per share. (Context not necessary)",Negative,"Large operating losses reduced profit and are expected to worsen, creating downward pressure on EPS.",Negative,"The company reports that one part of its business lost a massive amount of money ($11.47 billion), which dragged down their total profit. They also expect these losses to get even worse next year.",Negative
+317e34085e0a8e2c0a3bc32cfdd2dcf9,"Net income was $7.79 billion, with diluted earnings per share (EPS) of $2.98 for the three months ended June 30, 2023.",2023,META,Q2,Training-10-K-2023_META.txt,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence merely states an absolute EPS amount ($2.98) and the related net income for Q2 2023.  
+   • There is no wording that it is higher, lower, improving, deteriorating, or otherwise affecting profitability when compared with any prior period or target (Guideline 4: “changes over time”).  
+   • Because the statement lacks any positive or negative qualifier and gives no directional context, it does not signal a clearly favorable or unfavorable outlook for EPS.  
+   • Per Guideline 6, when the information is purely factual without evaluative context, the stance should be classified as Neutral.  
+   • The broader 10-K context is not required to draw this conclusion; the sentence itself is sufficient.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence simply reports the EPS figure for a single quarter without indicating whether it has risen, fallen, or otherwise impacted profitability, so it conveys a neutral stance toward EPS.
+
+(Context: Not necessary)",Neutral,"The sentence only reports net income and EPS for a single period, without any comparison, growth, or decline indicator.",Neutral,"This sentence is just a factual report of the numbers. It tells us the company's total profit and the earnings per share for one specific quarter, but it doesn't compare them to the past or say if these numbers are better or worse than expected.",Neutral
+332441c43f9c058c4acdacaeb3aecad9,"In 2024, we repurchased and subsequently retired 65 million shares of our Class A common stock for an aggregate amount of $29.75 billion.",2025,META,,Training-10-K-2025_META.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 2: Indirect cues such as capital-return actions can affect EPS.  
+   • A share repurchase reduces the number of shares outstanding; with the same net income, this mechanically lifts earnings per share.  
+   • No conflicting cues are present in the sentence, so the dominant implication for EPS is favorable.  
+   • The broader MD&A merely confirms the magnitude of the buyback but is not required to infer the EPS impact.
+
+2. Stance: Positive
+
+3. Brief Justification: Retiring 65 million shares through a $29.75 billion buyback lowers the share count, which is expected to boost EPS—an explicitly favorable signal for profitability. (Context not necessary)",Positive,,Positive,,Positive
+38e116bc14af79e56be74950cb4099b7,"In 2023, the following components impacted operating margins and earnings (loss) per diluted share year-on-year: Declines in disposable respirator demand year-on-year and the 2022 exit of operations in Russia negatively impacted earnings (loss) per shareby $0.43.",2023,MMM,,Training-10-K-2023_MMM.txt,Negative,"Stance: Negative
+
+Reason: The sentence explicitly says that lower disposable-respirator demand and the Russia exit “negatively impacted earnings (loss) per share by $0.43.” A direct negative effect on EPS signals an unfavorable outlook for that financial metric. (This conclusion is confirmed by the same wording in the SEC MD&A context under “Organic growth/productivity and other,” which I used to verify that the statement indeed refers to a decrease in EPS.)",Negative,"The text states that lower demand and exiting operations in Russia ""negatively impacted"" earnings per share by $0.43. This reports a clear decline in EPS, which the guidelines define as a negative stance.",Negative,"The text reports that specific factors ""negatively impacted"" earnings per share by $0.43, citing a year-on-year decline in EPS performance.",Negative
+39fd139d60a7c7ee40107bdd7e950465,"Given our current and possible future earnings, we believe that we may release the valuation allowance associated with certain state deferred tax assets in the near term, which would decrease our income tax expense for the period the release is recorded.",2025,NVDA,,Training-10-K-2025_NVDA.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses a potential “release of the valuation allowance … which would decrease our income tax expense.”  
+   • Lower income-tax expense raises after-tax earnings, thereby increasing diluted EPS (Guideline 4: financial indicators or trends affecting EPS).  
+   • The wording (“we believe that we may … in the near term”) signals a likely upcoming benefit, i.e., a favorable outlook.  
+   • No conflicting or offsetting information is present, so the dominant context is positive for EPS.
+
+2. Stance: Positive  
+
+3. Brief Justification: Releasing the valuation allowance would cut income-tax expense, boosting net income and thus EPS, indicating a favorable impact on profitability.  
+
+Context Use: Not necessary—the sentence alone clearly conveys the positive tax effect on EPS.",Positive,,Positive,,Positive
+3ceee6adc16b8bf0f0c14cda0cef99b0,"Net Loss and Net Loss per Share Net loss during the six months ended June 30, 2024 was $29.4 million, or $0.54 per diluted share, compared to net loss of $29.8 million, or $0.55 per diluted share, during the prior year period.",2024,MATIV-HOLDINGS,Q2,Training-10-K-2023_MATIV-HOLDINGS.txt,Neutral,"Stance: Neutral
+
+Reason: Although the loss narrowly improved from −$0.55 to −$0.54 per share, EPS remains negative. The slight reduction in net loss is directionally better but not enough to indicate a clearly positive shift; therefore, the outlook is most appropriately characterized as neutral.",Positive,"Reports a year-on-year narrowing of the net loss ($0.55 to $0.54 per share), indicating a marginal improvement.",Positive,"The text reports a year-on-year improvement in earnings per share, as the net loss narrowed from $0.55 to $0.54.",Positive
+4ccccd4d3de20af3cd0b99f249ff3f85,"Remaining organic growth/productivity and other impacts resulted in a net year-on-year increase of $0.73 per share which was impacted bythe following: Benefits from spending discipline, sourcing actions, restructuring, higher selling prices and ongoing productivity actions Lower sales volumes (particularly electronics/consumer retail); investments in growth, productivity, and sustainability;manufacturing/supply chain headwinds; inflation impacts; China; and Europe's geopolitical impacts In 2022, the following components impacted earnings per diluted share year-on-year: Declines in disposable respirator demand year-on-year negatively impacted earnings per share by $0.29.",2023,MMM,,Training-10-K-2023_MMM.txt,Positive,"Stance: Positive
+
+Reason: The passage states that “remaining organic growth/productivity and other impacts resulted in a net year-on-year increase of $0.73 per share,” indicating EPS has risen despite various headwinds. A rise in EPS is a favorable development for the company, so the outlook for the “eps” target is Positive. (Context used: the MD&A table explaining the year-on-year EPS bridge, which confirms the $0.73 per-share increase.)",Positive,"The text reports a ""net year-on-year increase of $0.73 per share,"" showing an overall growth in earnings despite some offsetting negative factors.",Positive,"The text reports a ""net year-on-year increase of $0.73 per share,"" indicating overall earnings growth despite various mentioned headwinds and a specific $0.29 negative impact from respirator demand.",Positive
+554fa92d6c3ea48039185901a62f0727,"Net Loss and Net Loss per Share Net loss during the three months ended June 30, 2024 was $1.4 million, or $0.03 per diluted share, compared with net loss of $14.3 million, or $0.26 per diluted share, during the prior-year quarter.",2024,MATIV-HOLDINGS,Q2,Training-10-K-2023_MATIV-HOLDINGS.txt,Positive,"Stance: Positive
+
+Reason: Although the company still reported a net loss, the loss narrowed substantially (from -$0.26 to -$0.03 per share), indicating a significant improvement in EPS compared with the prior-year quarter. This reduction in net loss points to a more favorable earnings trend.",Positive,The text reports that the loss per share narrowed significantly from $0.26 in the prior year to $0.03 in the current period.,Positive,"The text reports a significant year-on-year improvement in earnings per share, as the net loss narrowed from $0.26 to $0.03.",Positive
+55cf36e9efb9477bbcb50aebd2feb0e1,"Shares of common stock outstanding: Lower shares outstanding increased earnings per share per diluted share for 2022, while higher shares outstanding decreased earnings per share dilutedshare for 2021.",2022,MMM,,Training-10-K-2022_MMM.txt,Positive,"Stance: Positive
+
+Reason: The sentence states that in 2022 the company had “lower shares outstanding” and that this “increased earnings per share,” which is a favorable development for the EPS target. (I cross-checked the same point in the Item 7 table showing a +$0.30 EPS contribution from fewer shares, so the context was used to confirm the interpretation.)",Neutral,"The text provides a balanced report by showing how share counts ""increased"" EPS in 2022 but ""decreased"" it in 2021",Neutral,"The text acknowledges both positive and negative aspects by reporting that EPS increased in 2022 but decreased in 2021, providing a balanced view of performance across different periods.",Neutral
+5c9dfb71f0a1b7e3f306d7b63c962b57,"Remaining organic growth/productivity and other impacts resulted in a net year-on-year benefit $0.51 to earnings per share which wasimpacted by the following: Benefits from strong pricing, spending discipline and 2021 restructuring actions Manufacturing headwinds from global supply chain challenges; geopolitical impacts due to the Russia/Ukraine conflict as well asongoing COVID-related challenges in China 2021 benefit of $91 million pre-tax ($0.12 per share after tax) from the impact of the favorable decision of the Brazilian SupremeCourt regarding the calculation of past social taxes Increased investments in growth, productivity and sustainability In 2023, lower defined benefit pension and postretirement service cost decreased expense year-on-year.",2023,MMM,,Training-10-K-2023_MMM.txt,Positive,"Stance: Positive
+
+Reason: The passage says the combined organic-growth/productivity factors “resulted in a net year-on-year benefit of $0.51 to earnings per share,” and also notes that lower defined-benefit pension and post-retirement costs in 2023 “decreased expense year-on-year.”  Both statements indicate that EPS has been helped, not hurt, by these drivers.  Although some headwinds are acknowledged, the net effect on EPS is positive, so the outlook for the company’s EPS is classified as Positive.  (Conclusion drawn from the text itself; the broader SEC-filing context was consulted only to verify wording, not to change the assessment.)",Positive,"The text reports a ""net year-on-year benefit $0.51 to earnings per share,"" showing an overall increase in profitability.",Positive,"The text reports a ""net year-on-year benefit $0.51 to earnings per share,"" indicating an overall improvement in EPS performance despite various headwinds.",Positive
+5d097ca8eb3a0a20b03707eac30d4a84,"Net Loss and Net Loss per Share Net loss during the three months ended March 31, 2024 was $28.0 million, or $0.52 per diluted share, compared to net loss of $15.5 million, or $0.28 per diluted share, during the prior year period.",2024,MATIV-HOLDINGS,Q1,Training-10-K-2023_MATIV-HOLDINGS.txt,Negative,"Stance: Negative  
+Reason: The company’s loss per share worsened year-over-year (net loss grew from $15.5 million to $28.0 million), indicating a decline in EPS performance relative to the prior period.",Negative,The text reports that the net loss per share widened from $0.28 in the prior year to $0.52 in 2024. This indicates a clear deterioration in EPS performance.,Negative,"The text reports an increased net loss per share ($0.52 vs. $0.28), indicating a year-on-year deterioration in EPS performance.",Negative
+63cbcdd669ea0f42104e698656e6f130,"In 2024, the following components impacted earnings (loss) from continuing operations per diluted share year-on-year: Year-on-year increase of $0.77 per share as a result of benefits from organic growth (including from new product launches), productivity,strong spending discipline and restructuring (including a $30 million cumulative translation adjustment restructuring benefit as certainentities were substantially liquidated in the fourth quarter of 2024) partially offset by growth investments Nonrecurring items including gain on property sales resulted in a net year-on-year increase of $0.08 per share Income from transition services agreements with Solventum (refer to Note 2 for additional discussion) resulted in a net year-on-year increaseof $0.08 per share.",2024,MMM,,Training-10-K-2024_MMM.txt,Positive,"Stance: Positive  
+
+Reason: The text lists several items that together add about $0.93 to diluted EPS year-on-year ($0.77 from organic growth/productivity/restructuring, $0.08 from property gains, and $0.08 from Solventum transition-service income). These are all upward drivers and no material negative offsets are mentioned, so the outlook for EPS is improving. I also checked the context: Item 7 shows 2024 EPS (excluding special items) rising to $7.30 from $6.04 in 2023, confirming the same positive trend.",Positive,"The text reports multiple year-on-year increases in earnings per share, including a $0.77 boost driven by organic growth and productivity.",Positive,"The text reports multiple year-on-year increases in EPS ($0.77, $0.08, and $0.08) driven by organic growth, productivity, and spending discipline, indicating significant overall earnings improvement.",Positive
+668fcc3c3470b6f89e4f5400f5c6cb96,"NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) (Unaudited) cost of revenue and operating expenses, respectively, which resulted in an increase in operating income of $66 million and net income of $55 million after tax, or $0.02 per both basic and diluted share.",2023,NVDA,Q2,Training-10-K-2023_NVDA.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence reports that a particular accounting change “resulted in an increase in operating income of $66 million and net income of $55 million after tax, or $0.02 per both basic and diluted share.”  
+   • An increase in earnings per share (EPS) is a direct, explicit improvement in profitability (Guideline 4: “changes over time—growth”).  
+   • No offsetting or conflicting information is mentioned within the sentence; therefore the dominant cue is clearly favorable.  
+   • The broader 10-K context is not required to interpret this standalone statement, because the sentence itself contains the EPS information.  
+
+   Context usefulness: Not necessary.
+
+2. Stance: Positive
+
+3. Brief Justification  
+The sentence expressly states that the change raised net income by $55 million, translating to a $0.02 increase in both basic and diluted EPS, indicating a favorable impact on profitability.",Positive,"The sentence explicitly reports an increase in net income and EPS by $0.02, indicating improved per-share profitability.",Positive,"The text states that a financial change resulted in an increase in the company's net income. This led to a profit boost of $0.02 for every share of the company. Since the company is making more money for its shareholders than before, this is a positive signal for EPS.",Positive
+71fe226ffbc210d7d230e1c02006e076,"Although it is inherently difficult to predict when and how the metaverse ecosystem will develop, we expect our RL segment to continue to operate at a loss for the foreseeable future, and our ability to support our metaverse efforts is dependent on generating sufficient profits from other areas of our business.",2023,META,,Training-10-K-2023_META.txt,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 4: forward guidance—sentence provides an outlook for a business segment.  
+   • It says RL “will continue to operate at a loss for the foreseeable future.” Losses reduce consolidated net income, thereby lowering EPS.  
+   • Dependence on other segments to “generate sufficient profits” underscores pressure on overall profitability rather than an upside catalyst.  
+   • No offsetting positive cues are given; dominant context is unfavorable to EPS.  
+   • Context beyond the sentence is not required because the sentence itself contains all needed information.
+
+2. Stance: Negative
+
+3. Brief Justification: The company anticipates that Reality Labs will keep incurring losses for the foreseeable future, a prospect that directly weighs on future EPS.",Negative,,Negative,,Negative
+7570e55a5b57570879cf9c0b0d797a6b,"Based on the carrying value of servers and certain network equipment as of December 31, 2022, and those placed in service during the nine months ended September 30, 2023, the effect of this change in estimate was a reduction in depreciation expense of $977 million and $2.9 billion and an increase in net income of $761 million and $2.3 billion, or $0.06 and $0.18 per basic and $0.06 and $0.18 per diluted share, for the three and nine months ended September 30, 2023, respectively.",2023,GOOG,Q3,Training-10-K-2023_GOOG.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 1: Focus on EPS portrayal—sentence directly quantifies EPS impact.  
+   • The change in useful-life estimate cut depreciation (expense ↓).  
+   • Lower expense raised net income by $761 m (three months) and $2.3 bn (nine months).  
+   • Net income rise translated into EPS increases of $0.06 and $0.18 per diluted share.  
+   • Guideline 4 (financial indicators): higher EPS = favorable profitability.  
+   • No conflicting cues; dominant context is EPS improvement → Positive stance.  
+   • Context section mentioning depreciation change reinforces this but was not required, as the sentence itself provides sufficient information.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that the depreciation change lifted net income and boosted diluted EPS by $0.06 (quarter) and $0.18 (nine months), signaling a favorable impact on profitability.  
+
+Context necessity: Not necessary (sentence alone conveyed the EPS improvement).",Positive,"The text reports EPS growth for both three-month and nine-month periods, driven by reduced depreciation and higher net income.",Positive,"The company saved money on expenses, which resulted in an increase in their total profit (net income) and an increase in their earnings per share.",Positive
+773378242fb1b3dae02e5128bbefcfe1,"With respect to our purchased energy price risk, a hypothetical 10% change in per unit prices would impact our future annual pre-tax earnings by approximately $6.0 million, assuming no compensating change in our selling prices.",2023,MATIV-HOLDINGS,,Training-10-K-2023_MATIV-HOLDINGS.txt,Neutral,"Stance: Neutral  
+Reason: The sentence only quantifies the possible impact that a 10 % change in energy prices could have on future pre-tax earnings; it does not state that energy prices will in fact rise or fall, nor that EPS will improve or deteriorate. Therefore no directional outlook for EPS can be inferred. (Context was reviewed but did not alter this conclusion.)",Neutral,"The text does not clearly mention any stance towards EPS, but reports on factual data that a price change would impact earnings.",Neutral,"The text describes a hypothetical sensitivity analysis where a ""change"" in prices would ""impact"" earnings, but it does not specify a direction (increase or decrease) or provide information on actual or projected EPS performance.",Neutral
+7b06457e1bf243ba6511ad46850b1ac9,"Net sales Sales change Operating income (loss) Operating income (loss) margin Income (loss) before taxes Provision (benefit) for income taxesEffective taxrate Net income(loss) attributable to 3M Earnings (loss) per diluted share Earnings (loss)per diluted share percent change Safety and Industrial GAAP amounts $ 2,324 21.2 % Adjustments for special items: Net costs for significant litigation 84 Total special items 84 Adjusted amounts (non-GAAP measures) $ 2,408 22.0 % Transportation and Electronics GAAP amounts $ 8,501 (4.5)% $ 1,312 15.4 % Adjustments for special items: Manufactured PFAS products (1,289) 205 Total special items (1,289) 205 Adjusted amounts (non-GAAP measures) $ 7,212 (4.5)% $ 1,517 21.0 % Total Company GAAP amounts $ 32,681 (4.5)% $ (9,128) (27.9)% $ (9,688) $ (2,691) 27.8 % $ (6,995) $ (12.63) N/M Adjustments for special items: Net costs for significant litigation 14,869 15,245 3,615 11,630 21.00 Manufactured PFAS products (1,289) 205 205 50 155 0.28 Gain on business divestitures (36) (36) (11) (25) (0.05) Russia exit charges (benefits) (18) (18) 3 (21) (0.04)",2023,MMM,,Training-10-K-2023_MMM.txt,Negative,"Stance: Negative
+
+Reason: The excerpt shows GAAP diluted EPS of –$12.63, driven largely by $15 billion of litigation-related charges. Even after excluding special items, the Company’s adjusted EPS (shown elsewhere in the context at $9.24) is lower than the prior-year adjusted EPS of $9.88. This deterioration in both GAAP and adjusted earnings per share signals a worsening earnings picture, hence a negative outlook for “eps.” (Context used: Item 7 EPS reconciliation tables and year-on-year comparisons.)",Negative,"Reports a massive GAAP net loss of $(12.63) per share, driven by significant litigation costs.",Negative,"The text reports a significant GAAP loss of $12.63 per share, indicating a severe deterioration in earnings performance.",Negative
+7b7008ed6c4a5e3b8477393aee7944f9,"For the three and six months ended June 30, 2025, approximately 1 million shares of Class A common stock equivalent of restricted stock units (RSUs) were excluded from the diluted EPS calculation as including them would have an anti-dilutive effect.",2025,META,Q2,Training-10-K-2025_META.txt,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence focuses on the mechanics of calculating diluted EPS.  
+   • “Excluded … as including them would have an anti-dilutive effect” means that if the extra shares were added, diluted EPS would rise (i.e., the company was in a net-loss position for those periods); GAAP therefore omits them.  
+   • The presence of anti-dilutive shares implicitly signals that EPS for the three- and six-month periods was negative.  
+   • A negative (loss) EPS outcome is unfavorable for profitability, matching the Negative label per Guideline 4 (financial indicators or trends).
+
+2. Stance: Negative
+
+3. Brief Justification  
+The need to exclude 1 million RSU shares because they were anti-dilutive implies the company reported a loss (negative EPS) for the periods, an unfavorable profit signal.  
+
+Context usage: Not necessary—the sentence itself provides the evidence.",Neutral,This sentence explains a technical adjustment to EPS calculation without indicating improvement or deterioration in earnings.,Neutral,This is a technical accounting explanation. It simply explaining the math used to calculate the earnings per share and why they left out 1 million potential shares to follow the rules correctly. They aren't giving an opinion on whether the earnings are good or bad,Neutral
+7f45582b7d31f4b7fee6db80755d347c,"Net Loss and Net Loss per Share Net loss during the nine months ended September 30, 2024 was $50.2 million, or $0.93 per diluted share, compared to net loss of $494.1 million, or $9.06 per dilutedshare, during the prior year period.",2024,MATIV-HOLDINGS,Q3,Training-10-K-2023_MATIV-HOLDINGS.txt,Positive,"Stance: Positive
+
+Reason: Although the EPS is still negative, it improved markedly from a loss of $9.06 to a loss of $0.93 per share, indicating that the company’s profitability trend is moving in a better direction compared to the prior year.",Positive,The text reports a significant improvement in EPS as the loss per share narrowed from $9.06 to $0.93 year-over-year. ,Positive,"The text reports a significant year-on-year improvement in earnings per share, as the net loss narrowed from $9.06 to $0.93.",Positive
+7fdd389beb08579799c39f0deeb851ee,"The effect of this change for the fiscal year ended January 28, 2024 was a benefit of $33 million and $102 million for cost of revenue and operating expenses, respectively, which resulted in an increase in operating income of $135 million and net income of $114 million after tax, or $0.05 per both basic anddiluted share.",2024,NVDA,,Training-10-K-2024_NVDA.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence quantifies a “benefit” that lifted operating income by $135 million and net income by $114 million.  
+   • It then translates that benefit into “$0.05 per both basic and diluted share,” i.e., a direct increase in EPS.  
+   • Per guideline 4 (changes over time / financial indicators), a rise in EPS is a favorable signal for profitability.  
+   • No offsetting or conflicting cues are present; the impact is unambiguously positive.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The sentence states that the accounting change added $0.05 to both basic and diluted EPS, indicating a direct, favorable increase in earnings per share.  
+
+Context usefulness: Not strictly necessary (the sentence alone conveys the EPS increase), though the “Change in Estimate” paragraph in the context corroborates the figure.",Positive,,Positive,,Positive
+82f6e1923b161e640bcb59e39f853227,"In 2023, the following components impacted earnings (loss) from continuing operations per diluted share year-on-year: Declines in disposable respirator demand year-on-year and the 2022 exit of operations in Russia negatively impacted earnings (loss) per share by $0.38.",2024,MMM,,Training-10-K-2024_MMM.txt,Negative,"Stance: Negative
+
+Reason: The sentence states that declines in disposable respirator demand and the Russia exit “negatively impacted earnings (loss) per share by $0.38.” This explicitly indicates a deterioration in EPS, so the outlook for EPS is negative. (The information comes directly from the provided SEC MD&A context, so the context was used.)",Negative,"The text states that lower demand and exiting operations in Russia ""negatively impacted"" earnings per share by $0.38. This reports a clear decline in EPS due to unfavorable factors, which the guidelines classify as a negative stance.",Negative,"The text reports that specific factors ""negatively impacted"" earnings per share by $0.38, citing a year-on-year deterioration in EPS performance.",Negative
+84297a6cdf2fcfdc84bb5738841b21d3,"With respect to our variable-rate debt outstanding at December 31, 2023, a 100 basis point increase in interest rates would result in a $2.6 million decrease to our future annual pre-tax earnings, taking into account the effect of the interest rate hedge transactions the Company has entered into as of December 31, 2023.",2023,MATIV-HOLDINGS,,Training-10-K-2023_MATIV-HOLDINGS.txt,Negative,"Stance: Negative  
+
+Reason: The sentence states that a 100-basis-point rise in interest rates would reduce future annual pre-tax earnings by $2.6 million. Lower pre-tax earnings translate directly into lower EPS, representing a potential headwind for the company’s financial target. (Context from the SEC report was not needed; the conclusion is based solely on the text provided.)",Negative,"The text states that a rise in interest rates would lead to a ""$2.6 million decrease"" in future earnings. This shows a negative outlook for profits due to higher cost.",Negative,"The text describes a scenario where rising interest rates would lead to a ""decrease"" in future earnings, citing an unfavorable factor that negatively impacts the EPS outlook.",Negative
+897300ed607c5dcd316f2c85a073315e,"The 2022 performancecriteria for these performance shares (organic sales growth, free cash flow growth, and earnings per share growth) were selected because the Company believesthat they are important drivers of long-term stockholder value.",2022,MMM,,Training-10-K-2022_MMM.txt,Neutral,"Stance: Neutral
+
+Reason: The sentence merely states that earnings-per-share growth is one of the metrics chosen for performance shares; it provides no information on whether EPS is actually projected to rise or fall. Therefore, no positive or negative outlook can be inferred. (The provided SEC context was not needed for this assessment.)",Neutral,"The text only lists ""earnings per share growth"" as a performance criteria for employee incentives. It does not provide any information on the actual EPS results or outlook.",Neutral,"The text identifies ""earnings per share growth"" as a metric used for performance shares, but it contains no information regarding actual results, specific forecasts, or the financial trajectory of the EPS.",Neutral
+9ab2a299ff56bfc97bf69f8d341d9864,"Excluding potential impacts from raw material price movements, the Company generally projects near and long-term profit growth in the ATM segment as a result of expected organic sales growth, as well as near-term (one to three years)",2022,MATIV-HOLDINGS,,Training-10-K-2022_MATIV-HOLDINGS.txt,Positive,"Stance: Positive  
+
+Reason: The sentence states that the Company “projects near and long-term profit growth in the ATM segment.” Higher projected profits imply higher future earnings, which should translate into higher earnings per share (EPS). I derived this conclusion directly from the outlook language in the provided context (# Outlook section of the SEC filing), so the context was used in making the classification.",Positive,"The text projects near and long-term profit growth.Since profit growth is the primary driver of EPS, this constitutes a positive meaning.",Positive,"The company projects ""near and long-term profit growth,"" which indicates an improved earnings outlook and serves as a positive driver for EPS growth.",Positive
+a0a7e49538846fe38b2099bb79591fca,"Discontinued Operations Net income from discontinued operations in the year ended December 31, 2023 was $198.2 million, or $3.64 per diluted share, compared to net income of $62.3 million, or $1.46 per diluted share, during the prior year period.",2023,MATIV-HOLDINGS,,Training-10-K-2023_MATIV-HOLDINGS.txt,Positive,"Stance: Positive
+
+Reason: The EPS attributable to discontinued operations rose sharply—from $1.46 to $3.64 per diluted share—indicating a substantial improvement in earnings per share. This represents a clear positive development for the company’s EPS target. (Classification based solely on the figures in the text; the broader context was not required.)",Positive,The text reports that earnings per share grew significantly from $1.46 in the prior year to $3.64 in 2023. ,Positive,"The text reports a significant year-on-year increase in earnings per share, from $1.46 in the prior year to $3.64 in 2023.",Positive
+a1b2597f10c0e1abb55dfb6cf4439a6c,"the expected timing, amount, and effect of Alphabet Inc.'s share repurchases; our long-term sustainability and diversity goals; the unpredictability of the ongoing broader economic effects resulting from the war in Ukraine on our future financial results; the expected financial effect of our announced workforce reduction and office space optimization; our expectation that the change in estimated useful life of servers and certain network equipment will have a favorable effect on our 2023operating results; as well as other statements regarding our future operations, financial condition and prospects, and business strategies.",2023,GOOG,Q1,Training-10-K-2023_GOOG.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • EPS is not named directly, so look for actions that normally influence earnings per share (Guideline 2).  
+   • “Share repurchases” reduce shares outstanding and usually lift EPS → positive cue.  
+   • “Announced workforce reduction and office space optimization” imply cost savings that raise earnings → positive cue.  
+   • “Our expectation that the change in estimated useful life … will have a favorable effect on our 2023 operating results” is an explicit statement of improved profitability → strong positive cue.  
+   • The only potentially negative element is “the unpredictability … of the war in Ukraine,” which introduces uncertainty but no definite decline (Guideline 5).  
+   • With multiple explicit positives and only an uncertain risk, the dominant sentiment toward future earnings is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence expresses an “expectation … of a favorable effect” from depreciation changes, share buybacks, and cost-cutting measures, all of which are likely to boost EPS, outweighing the mentioned uncertainty from the war.
+
+Context use: Not necessary – the positive cues are contained within the sentence itself.",Positive,"Management expects changes in asset life estimates and share repurchases to have a favorable effect on operating results, which supports EPS improvement.",Positive,"The instance include several factors that help boost earnings per share. Specifically, they mention ""share repurchases,"" which increase EPS by reducing the number of shares. They also mention ""workforce reductions"" (cost savings) and an accounting change that will have a ""favorable effect"" on financial results.",Positive
+ac463431e08858d93d56d94e8f53301b,"In addition, the timing of our operating expenses and investments may lag our revenue growth, creating volatility or periods where current profitability may not be sustainable.",2023,NVDA,Q1,Training-10-K-2023_NVDA.txt,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence highlights a mismatch in timing between operating expenses/investments and revenue growth.  
+   • It warns that this mismatch could “create volatility or periods where current profitability may not be sustainable.”  
+   • Unsustainable profitability implies potential deterioration in earnings, which would pressure EPS.  
+   • According to guideline 4 (outlook and projections), a statement pointing to possible declines in profitability is a Negative signal for EPS.  
+   • The broader 10-K context is not required to interpret this sentence; the negative implication is self-contained.
+
+2. Stance: Negative
+
+3. Brief Justification: The sentence cautions that profitability may not be sustainable due to expense timing, signaling a possible future decline in EPS.  
+
+Context Usefulness: Not necessary.",Negative,"The sentence warns that profitability may not be sustainable due to expense timing, implying potential pressure or volatility on EPS.",Negative,"The text states that the company's current profit levels might not last (""may not be sustainable"") and could become unpredictable (""volatility""). Since the earnings for each share (EPS) come directly from the company's profits, any concern that profit is at risk is a negative signal for EPS.",Negative
+b0e5ad4b59f323203eb3fe3adc53fd8d,"Some of these investments, particularly our significant investments in Reality Labs, have generated only limited revenue and reduced our operating margin and profitability, and we expect the adverse financial impact of such investments to continue for the foreseeable future.",2023,META,Q1,Training-10-K-2023_META.txt,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that the company’s large Reality Labs investments “have generated only limited revenue.”  
+   • It further says these investments “reduced our operating margin and profitability,” which directly implies lower net income available to common shareholders.  
+   • The company “expects the adverse financial impact … to continue for the foreseeable future,” signalling continuing pressure on earnings.  
+   • Lower or pressured profitability normally leads to lower earnings per share; therefore, the stance toward EPS is unfavorable.  
+   • Guideline reference: negative cues about future profitability and margins (Analysis Guideline 4: projections and forward guidance; 5: dominant context).
+
+2. Stance: Negative  
+
+3. Brief Justification: The sentence says Reality Labs investments have already reduced margins and profitability and will keep hurting results, indicating an ongoing negative impact on EPS.  
+
+Context helpful/necessary: Not necessary—the sentence alone provides clear negative signals about profitability and EPS.",Negative,"Lower operating margin and profitability are expected to continue, which implies ongoing negative pressure on future EPS.",Negative,"The author states that these investments are lowering the company's profit margins and overall profitability. They also expect this ""adverse"" (harmful) impact to continue for a long time.",Negative
+b373261141379a7412725f2c772d1269,"The2024 performance criteria for these performance shares (organic sales growth, free cash flow growth, and earnings per share growth) were selected because theCompany believes that they are important drivers of long-term stockholder value.",2024,MMM,,Training-10-K-2024_MMM.txt,Neutral,"Stance: Neutral  
+Reason: The sentence merely states that earnings-per-share growth is one of the metrics the company will evaluate; it gives no indication whether EPS is expected to rise or fall. Therefore no outlook (positive or negative) can be inferred. Context was not used because the text itself lacks any quantitative or directional information about EPS.",Neutral,"The text lists earnings per share growth as a criteria for performance shares. It provides no information on the current EPS results, trends, or future outlook.",Neutral,"The text identifies ""earnings per share growth"" as a performance metric for shares, but it contains no information regarding actual results, trajectory, or a specific financial outlook.",Neutral
+ba764a02bade28a0771422fed62bf420,"Family of Apps Reality Labs Total Three Months Ended March 31, % change Three Months Ended March 31, % change Three Months Ended March 31, % change2025 2024 2025 2024 2025 2024 (in millions, except percentages) Revenue $ 41,902 $ 36,015 16% $ 412 $ 440 (6)% $ 42,314 $ 36,455 16% Costs and expenses 20,137 18,351 10% 4,622 4,286 8% 24,759 22,637 9% Income (loss) fromoperations $ 21,765 $ 17,664 23% $ (4,210) $ (3,846) (9)% $ 17,555 $ 13,818 27% Operating margin 52 % 49 % (1,022)% (874)% 41 % 38 % Net income was $16.64 billion, with diluted earnings per share (EPS) of $6.43 for the three months ended March 31, 2025.",2025,META,Q1,Training-10-K-2025_META.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 4: look for changes over time. The sentence compares Q1-25 with Q1-24 and shows multiple improvements: revenue +16 %, costs up a smaller 9 %, operating income +27 %, operating margin up to 41 % from 38 %.  
+   • Higher net income ($16.64 B) under a widening margin implies earnings per share benefit (guideline 2: indirect cues).  
+   • The sentence explicitly states diluted EPS of $6.43 for the quarter; although last year’s EPS is not quoted, the broad profit expansion strongly signals a favorable EPS trend.  
+   • There are no offsetting negative indicators, so the dominant context is positive (guideline 5).  
+   • The broader 10-K context was not required to draw this conclusion; the sentence alone provides sufficient evidence.
+
+   Context usefulness: Not necessary.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports higher revenue, a larger operating margin, and a 27 % rise in operating income for Q1 2025, all of which point to stronger profitability and support the stated EPS of $6.43.",Positive,"The sentence reports strong net income and a high diluted EPS, indicating solid profitability and earnings generation.",Positive,"The report shows that the company's total operating profit grew by 27% compared to last year. Additionally, its profit margin increased from 38% up to 41%. Because the company is making more total money and becoming more efficient at keeping that money as profit, the earnings for each share (EPS) are showing strong growth.",Positive
+bd62b754984725b2d8f81284a4c78064,"Net Loss and Net Loss per Share Net loss during the three months ended September 30, 2024 was $20.8 million, or $0.38 per diluted share, compared with net loss of $464.3 million, or $8.50 perdiluted share, during the prior-year quarter.",2024,MATIV-HOLDINGS,Q3,Training-10-K-2023_MATIV-HOLDINGS.txt,Positive,"Stance: Positive
+
+Reason: Although the figure is still a net loss, moving from −$8.50 per share to −$0.38 per share represents a significant improvement in the company’s EPS and thus indicates a more favorable earnings trend toward the company’s financial targets.",Positive,The text reports a significant improvement in EPS as the loss per share narrowed from $8.50 in the prior year to $0.38.,Positive,"The text reports a significant year-on-year improvement in earnings per share, as the net loss narrowed substantially from $8.50 to $0.38.",Positive
+bf71199f970ea5ff26a40d81e7e072d9,"Operating Income Operating income for the second quarter and first half of fiscal year 2024 was $6.80 billion and $8.94 billion, respectively, up 1,263% and 278% from a year ago, respectively.",2023,NVDA,Q2,Training-10-K-2023_NVDA.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence presents a very large year-over-year increase in operating income (+1,263 % for Q2 and +278 % for 1H).  
+   • Per Guideline 4, operating income is a key profitability metric that usually flows through to net income and thus EPS.  
+   • A sharp rise in operating income therefore signals a likely rise in EPS and an improved profitability outlook.  
+   • No conflicting cues are present, so the dominant signal is clearly favorable.  
+   • The surrounding 10-K context is not required to interpret this specific sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports operating income soaring more than 1,200 % year-over-year, a dramatic profitability improvement that strongly supports higher EPS.  
+
+Context usage: Not necessary.",Positive,"Operating income increased sharply year-on-year, which supports stronger earnings and positively impacts EPS.",Positive,"The company reports that its operating income (the profit from its core business) skyrocketed by 1,263% and 278% compared to the previous year. Because such a massive increase in profit directly leads to much higher earnings for each share, this is a very positive signal for EPS.",Positive
+c6e1a20cf5dac38a8bd9930475173006,"Remaining organic growth/productivity and other impacts resulted in a net year-on-year benefit $0.85 to earnings per share and 1.3 percent tooperating margins which was impacted by the following: Benefits from strong pricing, spending discipline and 2021 restructuring actions Manufacturing headwinds from global supply chain challenges; geopolitical impacts due to the Russia/Ukraine conflict as well asongoing COVID-related challenges in China Second quarter of 2021 benefit of $91 million pre-tax ($0.12 per share after tax) from the impact of the favorable decision of theBrazilian Supreme Court regarding the calculation of past social taxes Increased investments in growth, productivity and sustainability In 2021, organic volume growth and ongoing cost management increased operating income margins and earnings per diluted share year-on-year offsetby manufacturing headwinds from global supply chain challenges and increased compensation/benefit costs.",2022,MMM,,Training-10-K-2022_MMM.txt,Positive,"Stance: Positive
+
+Reason: The passage states that organic growth, productivity and related actions produced a net year-on-year benefit of $0.85 to earnings per share and a 1.3-point lift to operating margins, citing strong pricing and cost discipline as key drivers. Although supply-chain and geopolitical headwinds are acknowledged, the net effect on EPS is explicitly beneficial. This indicates a favorable outlook for the company’s EPS. (Used context: the excerpt comes from the MD&A section summarising year-on-year EPS drivers.)",Positive,"The text reports a ""net year-on-year benefit $0.85 to earnings per share"" and notes that organic growth and cost management increased EPS.",Positive,"The text reports a ""net year-on-year benefit $0.85 to earnings per share"" and explicitly states that earnings ""increased,"" indicating a favorable result despite the mention of offsetting headwinds.",Positive
+cbea522ba685b6f6b6b04bbb19c5bbe2,"During the three months ended March 31, 2025, our RL segment reduced our overall operating profit by approximately $4.21 billion, and we continue to expect our full-year RL operating losses to increase in 2025.",2025,META,Q1,Training-10-K-2025_META.txt,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 4 (financial indicators/trends) – The sentence reports that the RL segment cut overall operating profit by $4.21 billion.  
+   • Lower operating profit directly reduces net income and therefore diluted EPS (Guideline 1: focus on profitability impact).  
+   • Guideline 4 also covers forward guidance: management “continues to expect” higher full-year RL losses, signalling a worsening profit outlook that will further pressure EPS.  
+   • No offsets or positive factors are presented, so the dominant context is clearly unfavorable (Guideline 5).  
+   • The information needed to classify the stance is contained entirely within the sentence; the broader MD&A context is not required.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+RL cut operating profit by $4.21 billion in Q1 2025 and management expects even larger RL losses for the full year, indicating a worsening outlook for EPS.  
+
+Context use: Not necessary (the sentence alone suffices).",Negative,Operating losses reduce profitability and negatively affect EPS outlook.,Negative,"The company reports that one part of its business lost $4.21 billion, which significantly lowered its total profit. Furthermore, it expects these losses to get even larger throughout the year.",Negative
+d1c127021846de130c911023f15f6603,"Net Income (Loss) and Loss per Share Net loss in the year ended December 31, 2022 was $6.6 million, or $0.18 per diluted share, compared to net income of $88.9 million, or $2.80 per diluted share, during the prior year period.",2022,MATIV-HOLDINGS,,Training-10-K-2022_MATIV-HOLDINGS.txt,Negative,"Stance: Negative  
+
+Reason: Using the figures in the provided context (Net income swung from +$88.9 million in 2021 to –$6.6 million in 2022, and diluted EPS dropped from $2.80 to –$0.18), the company’s earnings per share deteriorated sharply. This indicates a worsened outlook for the EPS target.",Negative,"The text reports a significant decline in earnings, swinging from a profit of $2.80 per share last year to a loss of $0.18 per share in 2022. ",Negative,"The text reports that EPS swung from a profit of $2.80 in the prior year to a loss of $0.18, signaling a significant year-on-year deterioration in earnings performance.",Negative
+d3fc5e3b6de091561fc9fbab6a978b25,"Remaining organic growth/productivity and other impacts resulted in a net year-on-year increase of $0.61 per share which was impacted bythe following: Benefits from spending discipline, sourcing actions, restructuring, higher selling prices and ongoing productivity actions Lower sales volumes (particularly electronics/consumer retail); investments in growth, productivity, and sustainability;manufacturing/supply chain headwinds; inflation impacts; China; and Europe's geopolitical impacts In 2024 and 2023, lower defined benefit pension and postretirement service cost decreased expense year-on-year.",2024,MMM,,Training-10-K-2024_MMM.txt,Positive,"Stance: Positive
+
+Reason: The passage states that “remaining organic growth/productivity and other impacts resulted in a net year-on-year increase of $0.61 per share,” i.e., EPS moved higher. It also notes lower defined-benefit pension and post-retirement costs, which further reduce expense and support earnings per share. Although some headwinds (lower volumes, inflation, geopolitical issues) are acknowledged, the overall net effect on EPS is explicitly an increase, giving a positive outlook. I cross-checked this with the MD&A context, which shows the same $0.61-per-share contribution in the EPS bridge, confirming the positive direction.",Positive,"The text reports a ""net year-on-year increase of $0.61 per share,"" which indicates growth in earnings.",Positive,"The text reports a ""net year-on-year increase of $0.61 per share"" and cites positive drivers such as spending discipline and lower expenses, indicating an overall improvement in EPS performance.",Positive
+d9681874d8d93bb3d6be1bbb3b1a42e6,"Family of Apps Reality Labs Total Three Months Ended June 30, % change Three Months Ended June 30, % change Three Months Ended June 30, % change2024 2023 2024 2023 2024 2023 (in millions, except percentages) Revenue $ 38,718 $ 31,723 22% $ 353 $ 276 28% $ 39,071 $ 31,999 22% Costs and expenses $ 19,383 $ 18,592 4% $ 4,841 $ 4,015 21% $ 24,224 $ 22,607 7% Income (loss) from operations $ 19,335 $ 13,131 47% $ (4,488) $ (3,739) (20)% $ 14,847 $ 9,392 58% Operating margin 50 % 41 % (1,271)% (1,355)% 38 % 29 % Net income was $13.47 billion, with diluted earnings per share (EPS) of $5.16 for the three months ended June 30, 2024.",2024,META,Q2,Training-10-K-2024_META.txt,Positive,"1. Chain-of-Thought Reasoning  
+• The sentence presents Q2-24 versus Q2-23 comparisons: consolidated revenue up 22 %, income from operations up 58 %, and operating margin rising to 38 % from 29 %.  
+• Such large year-over-year gains signal materially stronger profitability, which directly supports higher earnings per share.  
+• It then states the current diluted EPS is $5.16; though the prior-year EPS is not shown, the sharp increase in net income (profit driver of EPS) implies EPS has improved.  
+• Under Guideline 4 (changes over time) and Guideline 2 (indirect cues), these data point to a favorable EPS trend.  
+• No offsetting negative cues are given, so the dominant context is positive.
+
+2. Stance: Positive
+
+3. Brief Justification  
+The sentence shows revenue up 22 %, operating income up 58 %, margin expansion to 38 %, and reports a healthy $5.16 EPS, all of which indicate an improved, favorable outlook for earnings per share.
+
+Context necessity: Not necessary – the sentence itself contains sufficient comparative profitability data to judge the stance.",Positive,Strong net income and high EPS indicate improved profitability and earnings performance.,Positive,"The text shows that the company's total profit (income from operations) jumped by 58% compared to last year. Additionally, their profit margin improved significantly, going from 29% to 38%. Because the company is making much more money and keeping a larger piece of every dollar as profit, the earnings for each share (EPS) are in a very strong position.",Positive
+dfb9b0421929e609e1e09fadfae66fd0,A discussion related to the components of year-on-year changes in operating income margin and earnings per diluted share follows: 20,2022,MMM,,Training-10-K-2022_MMM.txt,Neutral,"Stance: Neutral
+
+Reason: The text merely states that a discussion about year-on-year changes in operating margin and EPS will follow; it contains no information indicating whether EPS is expected to rise or fall. Because no directional data is provided, an outlook cannot be determined. (Context from the SEC filing was not needed for this judgment.)",Neutral,"The text is an introductory statement for an upcoming discussion; it contains no information regarding actual results, performance trends, or a specific financial outlook.",Neutral,"The text lacks substantive data regarding financial performance, historical trends, or forward-looking guidance.",Neutral
+e113cdbc1350987b5e889c42e655bd1d,These charges lowered our operating margin by four percentage points and diluted EPS by $0.44.,2023,META,Q1,Training-10-K-2023_META.txt,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 4: “changes over time” and explicit financial indicators directly affect the stance.  
+   • The sentence states that the charges “lowered our operating margin … and diluted EPS by $0.44,” i.e., EPS was reduced.  
+   • A reduction in EPS is an unfavourable outcome for profitability, thus signalling a Negative stance.  
+   • No conflicting cues are present, so the dominant context is clearly negative.  
+   • The surrounding 10-K context (Restructuring Activities section) confirms the nature of the charge but is not required to understand that EPS fell.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence explicitly says the charges “diluted EPS by $0.44,” indicating a decrease in earnings per share and therefore a negative impact on profitability. (Context: helpful but not necessary.)",Negative,"Charges reduced operating margin and diluted EPS by $0.44, clearly signaling a decline in per-share earnings.",Negative,"The text explains that certain costs (""charges"") caused the company's profit margins to drop and directly reduced the earnings per share (EPS) by $0.44. Since the money earned for each share went down because of these expenses, this is a negative signal.",Negative
+e31ff5c58337e60d5d5fed44e2fe4ba2,"In 2022, the following components impacted operating margins and earnings per diluted share year-on-year: Declines in disposable respirator demand year-on-year negatively impacted operating margins by 0.3 percent and earnings per share by $0.29.",2022,MMM,,Training-10-K-2022_MMM.txt,Negative,"Stance: Negative
+
+Reason: The sentence states that the year-on-year decline in disposable respirator demand “negatively impacted … earnings per share by $0.29.” A direct negative effect on EPS signals an unfavorable outlook for the company’s EPS target. (This conclusion is supported by the same wording found in the provided SEC Item 7 context, confirming use of the context.)",Negative,"The text reports that a decline in demand ""negatively impacted"" earnings per share by $0.29. This describes a clear decrease in EPS, which the guidelines define as a negative stance.",Negative,"The text reports that a decline in demand ""negatively impacted"" earnings per share by $0.29, citing a factor that caused a year-on-year deterioration in EPS.",Negative
+e6e98679c3d0c52f074400f8a9a777ca,"The2023 performance criteria for these performance shares (organic sales growth, free cash flow growth, and earnings per share growth) were selected because the Company believes that they are important drivers of long-term stockholder value.",2023,MMM,,Training-10-K-2023_MMM.txt,Neutral,"Stance: Neutral  
+Reason: The sentence only states that earnings-per-share (EPS) growth is one of the metrics chosen for performance shares; it does not indicate whether EPS is actually expected to rise, fall, or stay flat. Therefore no positive or negative outlook can be inferred. (Context from the SEC filing was not used, as it is unrelated to this specific sentence.)",Neutral,"The text lists earnings per share growth as a criteria for performance shares. It provides no information on the current EPS results, trends, or future outlook.",Neutral,"The text identifies ""earnings per share growth"" as a performance metric for shares, but it contains no information regarding actual results, trajectory, or a specific financial outlook.",Neutral
+e94b438b6a8e3fc8c3970f25f41ddc1b,"We expect that our sales to these destinations will decline significantly in the fourth quarter of fiscal year 2024, though we believe the decline will be more than offset by strong growth in other regions.",2023,NVDA,Q3,Training-10-K-2023_NVDA.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence gives forward guidance about sales, a key driver of earnings per share (Guideline 2).  
+   • It acknowledges a “significant” decline in certain destinations (negative cue).  
+   • However, it immediately states that the decline “will be more than offset by strong growth in other regions,” indicating a net increase in overall sales (positive cue).  
+   • Because the positive impact is described as outweighing the negative, the dominant implication for future profitability and EPS is favorable (Guideline 5).  
+   • The broader 10-K context is not required to interpret this standalone expectation.
+
+2. Stance: Positive
+
+3. Brief Justification  
+The company expects any regional sales decline to be “more than offset” by stronger growth elsewhere, implying higher overall sales and a supportive outlook for EPS.  
+
+Context: Not necessary for this classification.",Positive,"The author expects that the significant decline in certain regions will be ""more than offset"" by strong growth in others. This indicates a net positive outlook for the company's top-line performance.",Positive,The company expects that the growth in some regions will be even larger than the losses in others. This means they expect their total business to improve.,Positive
+ea255282434fe28228b65bee1487ed2f,"Based on the carrying value of servers and certain network equipment as ofDecember 31, 2022, and those placed in service during the quarter ended March 31, 2023, the effect of this change in estimate was a reduction indepreciation expense of $988 million and an increase in net income of $770 million, or $0.06 per basic and $0.06 per diluted share, for the threemonths ended March 31, 2023.",2023,GOOG,Q1,Training-10-K-2023_GOOG.txt,Positive,"1. Chain-of-Thought Reasoning  
+   • Guideline 2 & 4: Look for explicit financial indicators—here the sentence states a “reduction in depreciation expense” and an “increase in net income … $0.06 per diluted share.”  
+   • Higher net income and a per-share increase directly signal an improvement in EPS, which favors profitability (Guideline 1, 3).  
+   • No conflicting cues are present, so the dominant context is clearly favorable (Guideline 5).  
+   • The broader 10-K context mentions this accounting change, but the sentence itself contains all information needed; thus the external context is not necessary for the stance decision.
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The sentence reports that the accounting estimate change raised net income and lifted diluted EPS by $0.06, indicating a direct, favorable impact on profitability. (Context not necessary)",Positive,"Reduction in depreciation resulted in higher net income and a positive EPS impact, which is favorable for earnings.",Positive,"The company made an accounting change that lowered their expenses, which resulted in a higher profit and an increase in their earnings per share.",Positive
+f4936d570b358159b52521d5c3c8861d,Shares of common stock outstanding: Shares outstanding impacted earnings (loss) from continuing operations per share year-on-year.,2024,MMM,,Training-10-K-2024_MMM.txt,Positive,"Stance: Positive
+
+Reason: The text itself does not state the direction of the impact, but the related Section 7 context shows that changes in “Shares of common stock outstanding” added + $0.03 to diluted EPS in 2024 and + $0.14 in 2023 (tables in “Increase/(decrease) due to: Shares of common stock outstanding”). Because the share-count change raised EPS year-on-year, the outlook for the EPS target is positive from the company’s perspective. (Context used: EPS reconciliation tables under “Increase/(decrease) due to”.)",Neutral,"The text states that shares outstanding ""impacted"" earnings per share, but it does not specify the direction of the impact (positive or negative) or provide any information on actual results or trajectory.",Neutral,"The text remains ambiguous regarding whether this influence was favorable or unfavorable, offering no data on actual performance or future trends.",Neutral
+fb517fd89f25fbc274cc35362538e4b0,"The income tax benefits attributable to the tax status of these subsidiaries are estimated to be $170 million (30 cents per diluted share) in 2022, $204 million (36 cents per diluted share) in 2021, and $163 million (28 cents per diluted share) in 2020.",2022,MMM,,Training-10-K-2022_MMM.txt,Negative,"Stance: Negative  
+
+Reason: The tax-related contribution to earnings per diluted share fell from $0.36 in 2021 to $0.30 in 2022, reducing the boost that lower taxes had been providing to EPS. A smaller tax benefit is a headwind for future EPS, so the outlook is viewed as negative. (Classification based solely on the figures in the supplied text; broader context was not needed.)",Neutral,"The text reports mixed results, showing that tax benefits contributing to EPS increased between 2020 and 2021 but then decreased in 2022. ",Neutral,The text reports mixed trajectory for tax benefits per share—increasing from 2020 to 2021 but decreasing in 2022—providing a balanced view of both improvement and deterioration.,Neutral
+fe0616aa4aa92f8cbf5079f6bf699f27,"With respect to our commodity price risk, a hypothetical 10% change in per ton resin prices would impact our future annual pre-tax earnings by approximately $21.4 million, assuming no compensating change in our selling prices.",2023,MATIV-HOLDINGS,,Training-10-K-2023_MATIV-HOLDINGS.txt,Neutral,"Stance: Neutral
+
+Reason: The sentence only quantifies the sensitivity of pre-tax earnings (and therefore EPS) to a possible 10 % change in resin prices; it does not state whether resin prices are actually expected to rise or fall. Since no definitive improvement or deterioration in earnings is indicated, the EPS outlook cannot be judged as positive or negative. (Context was used—this line is part of the broader market-risk discussion—but it provides no directional guidance on future EPS.)",Neutral,"The text is only an analysis that describes a price ""change"" would ""impact"" earnings, but it does not mention a stance (positive or negative).",Neutral,"The text is a hypothetical sensitivity analysis that states a price ""change"" would ""impact"" earnings, but it does not specify a direction (positive or negative) or report actual/projected EPS performance.",Neutral

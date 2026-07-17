@@ -1,0 +1,1003 @@
+sample_id,Instances,Quarter,Year,Company,LLM_Stance_1,LLM_Reason_1,Stance_1,Reason_1,Stance_2,Reason_2,filename,Human_Consensus
+00615e12f1783fd6dfc3bcb6d76c0b2b,eps of $2.38 beats by $0.21,Q4,2020,MMM,Positive,"Stance: Positive
+
+Reason:  The company reported Q4 EPS of $2.38, which not only grew 22% year-on-year but also exceeded consensus estimates by $0.21 (“EPS of $2.38 beats by $0.21”).  Beating expectations and showing year-on-year growth signals a favorable profitability outlook.  (No other parts of the broader context were necessary for this conclusion.)",,,,,,
+03a603a5d1ecce44daf7b9fc1d8fa771,"second quarter 2019 gaap eps was $0.66 versus $0.83 in the prior year and included a $0.24 impact from tax assessments in brazil related to pre-2,000 activities.",Q2,2019,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The cited section notes that GAAP EPS fell to $0.66 from $0.83 in the prior-year quarter (a 20%-plus decline), even though part of the drop ($0.24) was due to a one-time Brazilian tax assessment. Lower year-over-year EPS signals a weaker profitability outcome, so the outlook for the EPS metric in this excerpt is negative.",,,,,,
+0709d0dd37049e740aedfc3eaf290991,"first quarter gaap and adjusted earnings per share were $2.77, up 27% compared to last year's adjusted results.",Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: The cited sentence – “first quarter GAAP and adjusted earnings per share were $2.77, up 27% compared to last year's adjusted results” – clearly states that EPS has risen materially year-over-year. A 27 % increase in EPS signals improving profitability, which is favorable for the company’s earnings outlook. (No additional context was required beyond this line to make the determination.)",,,,,,
+075a264bdcd49e01c011e73eec6496fa,"adjusted earnings per share was $0.95, up 25% from $0.76 last year.",Q3,2019,NEENAH,Positive,"Stance: Positive
+
+Reason: The cited sentence reports that adjusted earnings per share rose to $0.95 from $0.76, a 25 % increase year-over-year, indicating an improvement in profitability. This information (from Bill McCarthy’s opening remarks) directly supports a positive outlook for the EPS target.",,,,,,
+08749e9038bb0bbf30cc5988e3b962c2,"the $0.15 year-on-year earnings decline is primarily due to 2 items: first as discussed on the prior slide, the q3 2019 $58 million real estate gain resulted in an $0.08 per share earnings headwind year-on-year; and second, our third quarter adjusted tax rate was 21.4% versus 19% last year, resulting in an $0.08 year-on-year headwind to earnings per share.",Q3,2020,MMM,Negative,"Stance: Negative
+
+Reason: In the cited passage management states that adjusted earnings per share fell by $0.15 year-on-year, pointing to two headwinds (loss of a $58 million real-estate gain and a higher tax rate). The clear message is that EPS declined versus the prior period, which is unfavorable for profitability. The surrounding context is not required beyond this excerpt, because the excerpt itself explicitly quantifies the YoY EPS drop and its causes.",,,,,,
+0c72a83cc8cd2b8ca9c9058b55062e8d,"thus, taking into account our first half performance, along with these factors, we are raising our full year guidance for both organic growth and earnings per share.",Q2,2021,MMM,Positive,"Stance: Positive
+
+Reason: In the guidance section (Monish Patolawala’s remarks, Slide 9) management explicitly states: “we are raising our full year guidance for … earnings per share to $9.70-$10.10 from $9.20-$9.70.”  The excerpt reiterates that they are “raising our full-year guidance for … earnings per share.”  An upward revision in EPS guidance indicates the company expects higher profitability, which is a clearly positive outlook for EPS.",,,,,,
+0c8b09990cc27471a7eff2ed95d6ae70,2019 overall results were positive as we grew eps and our two operating segments delivered strong operating profit growth of 8%.,Q4,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: The quoted sentence states that “we grew EPS” and describes the year’s results as “positive,” with the two segments delivering 8 % operating-profit growth. Directly noting an increase in EPS clearly signals a favorable outlook for that metric. This assessment comes straight from the provided text; no additional context was necessary.",,,,,,
+0e859aaf30511cf1bbcff646aa40ab4c,net income was $10.4 billion or $3.61 per share.,Q2,2021,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence simply reports the EPS figure ($3.61 per share) and net income amount.  
+   • It contains no language indicating whether this EPS is higher, lower, or unchanged versus prior periods, nor any qualitative assessment (e.g., “record,” “declined,” “grew”).  
+   • Per Guideline 6: “If EPS is absent or only tangentially referenced, choose Neutral.” A bare factual statement without directional context is neutral.  
+   • Therefore, the stance toward EPS profitability impact cannot be inferred as positive or negative.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only states the EPS figure ($3.61) with no indication of improvement or deterioration, giving no evaluative stance toward profitability.
+
+Context use: Not necessary—classification is clear from the standalone sentence.",Neutral,"The text simply reports net income and EPS without any context, comparison, or trend, offering no insight into whether EPS has increased or decreased.",Neutral,"The text clearly states the EPS as $3.61 per share. However, it doesn’t compare this figure to past results or expectations, and it doesn’t describe whether the performance was good or bad.",,
+10c37e1f7c614137631445bb02175f50,"fine paper and packaging adjusted earnings were $10 million for the second quarter, up from last year?s loss of $600,000 and down from $12.8 million in this year?s first quarter, again, reflecting the impact of raw material costs and the timing of price increases.",Q2,2021,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The passage shows mixed implications for EPS.  Adjusted earnings in the Fine Paper & Packaging segment swung from a $0.6 million loss last year to a $10 million profit this year (positive for EPS), but they fell from $12.8 million in the prior quarter (negative for EPS).  Because the information points in both directions and is confined to one segment, it does not provide a clear overall outlook for the company’s EPS.",Neutral,"Earnings improved year-on-year but declined sequentially, giving mixed signals with no clear EPS direction.",Neutral,"The text reports mixed results for the segment's adjusted earnings, showing an improvement from the previous year's loss but a decline compared to the first quarter of the current year. This combination of positive and negative trends provides a balanced outlook.",,
+112cb3d46acfac419d0039852eeecd9b,"in second quarter, we continued our growth momentum with adjusted earnings of $0.65 per share, excluding $2.41 of unusual costs.",Q2,2021,NEENAH,Positive,"Stance: Positive  
+
+Reason: The text states, “in second quarter, we continued our growth momentum with adjusted earnings of $0.65 per share,” which is a meaningful positive EPS figure (especially versus the prior-year adjusted loss of $0.08 per share noted in the surrounding context). This indicates improving profitability and therefore a positive outlook for EPS.",Positive,The sentence highlights continued growth and positive adjusted EPS after excluding one-time costs.,Positive,"The text mentions ""continued our growth momentum"" in relation to adjusted earnings. Associating earnings with ""growth momentum"" indicates a favorable outlook and a positive stance towards EPS.",,
+13f2bc5fa5cbc15d7db3d6e78979c5b3,"as noted in the press release, each $0.05 differential reduces our annual sales by around $10 million with an associated eps impact of approximately $0.10.",Q4,2019,NEENAH,Negative,"Stance: Negative  
+
+Reason: The sentence explicitly states that every $0.05 unfavorable currency move “reduces our annual sales by around $10 million with an associated EPS impact of approximately $0.10.” A reduction in EPS represents a direct head-wind to profitability, so the outlook for EPS in this context is negative. (The surrounding context that the euro has already fallen from 1.14 to 1.08 reinforces that this head-wind is real, but the quoted sentence alone is sufficient to draw the negative conclusion.)",,,,,,
+14e60536223c75321e77b2f4bc0af851,we accepted our profit margins will decrease this year as we continue investing.,Q1,2020,META,Negative,"1. Chain-of-Thought Reasoning  
+   • Guideline 4: Look for signals in financial indicators or trends.  
+   • The sentence states “profit margins will decrease this year.”  
+   • Lower profit margins mean lower profitability, which directly pressures net income and therefore EPS.  
+   • Although the margin decline is tied to continued investment (a potential long-term positive), the dominant, immediate cue is the acknowledged drop in profitability.  
+   • Therefore, the stance toward EPS is negative.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence explicitly foresees “profit margins will decrease this year,” signaling lower earnings and a negative outlook for EPS.  
+   Context necessity: Not necessary—the sentence alone contains the decisive cue.",Negative,"The statement explicitly indicates that profit margins will decrease due to continued investments, signaling a negative impact on EPS.",Negative,"Since EPS is a direct function of net income and margins, a planned decrease in profitability ratios signals a headwind for per-share earnings growth in the near term.",,
+1514e74d7f4a883bb7cc6fce46c6bac1,"we are confident in our ability to continue executing well in the face of covid-19 uncertainties and are raising our full year guidance for organic growth to 6% to 9%, and earnings per share to $9.70 to $10.10.",Q2,2021,MMM,Positive,"Stance: Positive
+
+Reason: In the company’s prepared remarks (Mike Roman, Slide 4/5), management explicitly said they are “raising our full-year guidance … earnings per share to $9.70 to $10.10.”  An upward revision to EPS guidance indicates management expects higher profitability than previously forecast, which is a positive outlook for the EPS target.",,,,,,
+15862ad9ff2252e07db78e59897ea04f,"in short, it was a positive year with adjusted eps up 2% and up 5% if you exclude the $0.09 of negative currency impacts.",Q4,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The cited sentence states, “it was a positive year with adjusted EPS up 2% and up 5% if you exclude the $0.09 of negative currency impacts.”  Year-over-year EPS growth (even after removing the FX drag) signals improving profitability, so the outlook for EPS is positive.  This conclusion comes directly from Jeff Kramer’s remarks near the beginning of the call.",,,,,,
+167d70f3a18ddaaf6143b454460fa3fd,"on this slide, you can see the components that impacted both operating margins and earnings per share as compared to q3 last year.",Q3,2021,MMM,Neutral,"Stance: Neutral
+
+Reason: The sentence merely states that the slide shows the various factors that affected operating margins and EPS versus the prior-year quarter; it does not indicate whether EPS is rising or falling or provide any guidance. Therefore it carries no discernible positive or negative implication for future EPS. (The broader transcript is not needed to interpret this specific line.)",,,,,,
+17778823ea6e9ca6f553388290522472,we are confident we can return to a run rate of $4 in earnings per share later in 2022 with the stage set for sustained growth in the years to follow.,Q3,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: In the section where management states “we are confident we can return to a run rate of $4 in earnings per share later in 2022 with the stage set for sustained growth in the years to follow,” the company explicitly projects a materially higher EPS level and sustained growth. This forward-looking statement signals an improving profitability outlook, so the stance on EPS is Positive. (This conclusion is drawn directly from the quoted portion of the context; the broader transcript was useful only insofar as it contained this sentence.)",Positive,"The sentence projects a return to a higher EPS run rate and sustained growth, indicating a favorable EPS outlook.",Positive,"The text expresses confidence in returning to a specific EPS run rate (""$4"") and anticipates ""sustained growth"" in the following years. This forward-looking statement predicts improved profitability and a recovery in earnings performance.",,
+18dcdaecf2160ab74cb88642e5fbb5b6,"adjusted earnings were $6 million down from a very strong $18 million last year, reflecting the impact of raw material cost increases along with labor, transportation and chemical availability.",Q4,2021,NEENAH,Negative,"Stance: Negative  
+  
+Reason: In the cited section management says, “adjusted earnings were $6 million, down from a very strong $18 million last year,” citing cost pressures. A drop of two-thirds in adjusted earnings directly signals lower earnings per share, indicating a negative outlook for EPS. The broader transcript is not needed to see this; the quoted sentence alone shows the deterioration.",Negative,"Adjusted earnings declined sharply year over year, indicating deterioration in earnings and negative pressure on EPS.",Negative,"The text explicitly reports a significant decline in adjusted earnings from $18 million to $6 million. Attributing this decrease to rising costs for raw materials, labor, and transportation indicates an unfavorable trend for profitability and EPS.",,
+19332a294a2675b1e6b2108f02d876c5,"organic growth company-wide was 1% on top of 6% in last year?s q4, with earnings of $2.31 per share driven by a good december, strong execution and a lower than anticipated tax rate.",Q4,2021,MMM,Positive,"Stance: Positive
+
+Reason: The passage notes that 3M generated earnings of $2.31 per share, attributing the result to “a good December, strong execution and a lower than anticipated tax rate.”  In the broader transcript (opening slide), management also highlighted that the $2.31 EPS figure exceeded consensus by $0.29.  These comments indicate that EPS performance was better than expected and supported by favorable internal and external factors, implying a positive outlook for EPS.",,,,,,
+1ac28d99f16b564d1ee3c4bc32666227,"when we look at it holistically, that $0.50 accretion that we talked about, i would say as we get to the second half of 2022, i think we are on pace for that.",Q3,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the Q&A section the CFO says, “that $0.50 accretion that we talked about … as we get to the second half of 2022, I think we are on pace for that.”  “Accretion” here means an expected $0.50 increase to earnings per share from the Scapa acquisition, and management affirms they remain on track to realize it.  This indicates an anticipated rise in EPS, which is a positive outlook for profitability.",Positive,"The sentence indicates expected EPS accretion of $0.50 and confidence in achieving it, signaling EPS improvement.",Positive,"The text reaffirms that the company is ""on pace"" for ""$0.50 accretion."" Accretion means an increase in earnings per share, so being on track to achieve this gain is a positive signal for EPS.",,
+1b944d68d653e5ec2f735b25c22a384e,"non-gaap gross margins was 66.7%, up 70 basis points from a year earlier and up 50 basis points sequentially, reflecting higher asps within desktop, geforce, gpus and continued growth in high end ampere architectured products, partially offset by a mix shift within data center.",Q2,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • EPS benefits when profitability drivers such as gross margin rise (Guideline 4).  
+   • The sentence states non-GAAP gross margin reached 66.7%, increasing 70 bps YoY and 50 bps sequentially.  
+   • Higher margins are attributed to higher ASPs and growth in high-end products—directly signaling improved profitability.  
+   • Although partly offset by mix shift, the net result is a margin increase, so the dominant signal is favorable (Guideline 5).  
+   • No conflicting cues; EPS is indirectly portrayed positively through higher margins.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   Rising non-GAAP gross margin (up 70 bps YoY and 50 bps QoQ) from higher ASPs and premium product mix indicates enhanced profitability, supporting a positive outlook for EPS.  
+
+Context use: Not necessary—the sentence alone provides the needed profitability signal.",Positive,"Non-GAAP gross margins rose 70 bps year-over-year and 50 bps sequentially. The report highlights margin improvement from higher ASPs and product growth, which supports EPS, despite a slight offset from mix changes.",Positive,The text reports that non-GAAP gross margins increased both year-over-year (up 70 basis points) and sequentially (up 50 basis points).,,
+1c33d35f81139ebd25c194128c39fdc9,we estimate the cost of inflation on resins and wood pulp alone that we did not recoup through price increases had an impact of approximately $0.55 per share on eps for the full year compared to 2020 when material costs were low during the pandemic.,Q4,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The quoted sentence states that higher resin and wood-pulp costs “had an impact of approximately $0.55 per share on EPS” that the company “did not recoup through price increases.”  This explicitly describes a reduction in EPS, i.e., a negative effect on profitability.  (Section: Andrew Wamser’s financial review in the transcript).",Negative,Unrecovered inflation costs significantly reduced EPS compared to the prior period.,Negative,"The text highlights that unrecouped inflationary costs had a negative impact of approximately $0.55 per share on EPS. Reporting a specific reduction in per-share earnings due to rising costs indicates an unfavorable outcome for the EPS target.
+",,
+1ccf5a02bd9734f63b1360ddcefa8bcf,"we do expect them to be lower in the first half relative to the first half of the other years, and then higher in the second half relative to 2019, but overall neutral.",Q4,2019,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The quoted sentence comes from the discussion of 2020 input-cost expectations (“we do expect them to be lower in the first half … and then higher in the second half … but overall neutral”).  Management is saying that, for the full year, input-cost changes should net out and have no meaningful positive or negative impact on results.  Because EPS is therefore not expected to move materially either way from this factor, the outlook conveyed for EPS is neutral.  (No other part of the broader context is needed to interpret this specific statement.)",,,,,,
+20338c153226494888f5ef6b036f7af5,"i mean, as we look for the -- into the fourth quarter, i think it's fair to -- we feel very comfortable with the guidance that we gave of the $3.40 and the $3.60.",Q3,2019,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: In the cited text the CFO says they “feel very comfortable with the guidance that we gave of the $3.40 and the $3.60.”  This merely reiterates the existing EPS range without raising or lowering it, indicating stable expectations rather than a clear improvement (Positive) or deterioration (Negative).  Therefore the outlook for EPS is Neutral.  (The immediate text alone is sufficient for this conclusion; the broader context was not needed.)",,,,,,
+205a70b93d7dfff148ed15872b4c4307,net income was $5.2 billion or $1.80 per share.,Q2,2020,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states the company’s EPS value ($1.80 per share).  
+   • It does not compare this figure with prior periods, give growth/decline commentary, or provide management’s evaluative language.  
+   • According to Guideline 6, when EPS is merely reported without favorable or unfavorable framing, the stance is Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only reports the EPS figure (“$1.80 per share”) without indicating whether this is an improvement or deterioration, hence it conveys no clear positive or negative signal.
+
+Context use: Not necessary (the sentence alone is sufficient).",Neutral,"The text presents net income and EPS figures without any trend, comparison, or context, so there is no indication of whether EPS has improved or declined.",Neutral,"The author provides the EPS figure without context—omitting historical comparisons, market expectations, or descriptive adjectives there is no evidence of a stance.",,
+21915524712b00b45ea651417962ece5,"companywide total sales in the fourth quarter increased to $8.6 billion, with organic growth of 6% and earnings of $2.38 per share, up 22% year-on-year on an adjusted basis.",Q4,2020,MMM,Positive,"Stance: Positive
+
+Reason: The cited passage states that quarterly EPS was $2.38, “up 22% year-on-year on an adjusted basis.” A 22 % increase in EPS signals stronger profitability, giving a positive outlook for the EPS target. The relevant information is contained directly in the quoted text; no additional context was required.",,,,,,
+222fac73811dd55cddaa111e4ce71655,"we didn't close the facility, but it was down because of the hurricane and flooded, and that was about $0.06 a share impact.",Q3,2021,NEENAH,Negative,"Stance: Negative
+
+Reason: The text states that the plant shutdown from flooding “was about $0.06 a share impact.” This language makes clear that EPS was reduced by $0.06, i.e., a direct, unfavorable hit to earnings per share. No other information is needed from the broader context to see that this represents a negative effect on EPS.",Negative,"Operational disruption from flooding caused a $0.06 per-share impact, which negatively affected EPS.",Negative,"The text reports that a facility shutdown due to flooding caused a ""$0.06 a share impact."" This implies a loss or reduction in earnings per share due to the disruption, representing a negative outcome for EPS.",,
+22f3a8aaab40b3b0b1ae0b10791a62d0,net income was $11.2 billion or $3.88 per share.,Q4,2020,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence simply states the absolute level of EPS (“$3.88 per share”) with no qualifier such as “up,” “down,” “higher,” “lower,” or any comparison to prior periods.  
+   • According to Guideline 6, if EPS is mentioned but without a cue about direction, trend, or outlook, the stance is Neutral.  
+   • There are no indirect cues (e.g., adjectives like “record” or “disappointing”) that would imply a positive or negative impact on profitability.  
+   • Therefore, the sentence neither supports nor hurts the EPS outlook; it merely reports a fact.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence only reports the figure (“$3.88 per share”) without indicating improvement or deterioration, so it conveys no positive or negative stance on EPS.
+
+Context necessity: Not necessary—the classification relies solely on the sentence’s content.",Neutral,"Only the absolute values of net income and EPS are reported, with no indication of increase or decrease, offering no basis for EPS stance.",Neutral,"The text reports a specific EPS figure ($3.88) but provides no comparative context (such as year-over-year growth, comparison to analyst expectations, or guidance). There are no qualitative descriptors (e.g., ""strong,"" ""weak"") to indicate a favorable or unfavorable outlook.",,
+24541371a9115a169c4023885c4dc74d,net income was $7.5 billion or $2.72 per share.,Q1,2022,META,Neutral,"1. Chain-of-Thought  
+   • The sentence explicitly gives the EPS figure: “$2.72 per share.”  
+   • It does not state whether this is up or down versus any prior period, guidance, or consensus, nor does it contain any evaluative language (e.g., “record,” “declined”).  
+   • Without a directional cue, the sentence neither signals benefit nor harm to profitability; it is purely descriptive.  
+   • Per Guideline 6, if the statement provides no meaningful stance on EPS, classify as Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence merely reports the EPS amount (“$2.72 per share”) with no indication of improvement or deterioration, so it conveys a neutral stance on earnings. (Context not necessary)",Neutral,"The text only reports net income and EPS without any comparison or trend, providing no indication of whether EPS has increased or decreased.",Neutral,"The text states the EPS is $2.72 per share, but it only reports the number. It doesn’t say if this is higher or lower than before, or whether it met or missed expectations.",,
+24c5d648243d97101cdfc9815decaba3,"so over the next several years, our goal from a financial perspective is to generate sufficient operating income growth from family of apps to fund the growth of investment in reality labs while still growing our overall profitability.",Q1,2022,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence states management’s financial “goal” to grow operating income from the Family of Apps segment enough to pay for Reality Labs investments “while still growing our overall profitability.”  
+   • Higher overall profitability would translate into higher earnings per share.  
+   • The statement expresses a favorable future outlook rather than a warning or neutral fact, therefore it signals a positive stance toward EPS.  
+   • No conflicting cues appear in the sentence.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The company aims to boost operating income and “still [grow] our overall profitability,” indicating an expected increase in EPS over the next several years.  
+
+Context necessity: Not necessary—the single sentence provides sufficient information for classification.",Positive,"The text projects growth in operating income and overall profitability, signaling an expected positive impact on EPS.",Positive,"The author explicitly states a goal of ""growing our overall profitability.",,
+25dce82ba0778d94e288d495ef80bffc,net income was $10.3 billion or $3.67 per share.,Q4,2021,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states the quarter’s EPS figure (“$3.67 per share”) but gives no comparison to prior periods, no commentary on growth/decline, and no guidance.  
+   • Without any directional language or context indicating whether this level is better or worse than expected, it does not signal a favorable or unfavorable stance toward profitability.  
+   • According to Guideline 6, when EPS is merely stated with no evaluative context, the stance is Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence simply reports EPS of $3.67 without indicating improvement or deterioration, so it conveys no clear positive or negative implication. (Context not necessary)",Neutral,"Net income and EPS are stated flat, without reference to prior periods or expectations, so no conclusion about EPS movement can be drawn.",Neutral,"The text explicitly mentions the EPS figure (""$3.67 per share""). However, it is a purely factual statement without any comparative context (such as year-over-year changes or performance versus guidance) or qualitative descriptors.",,
+264abcfe38561df137ec40291ae46bb4,adjusted eps for the third quarter was up 29% to $1.01 versus $0.78 a year ago.,Q3,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: The snippet states, “adjusted EPS for the third quarter was up 29% to $1.01 versus $0.78 a year ago.”  A 29 % year-over-year increase in EPS signals stronger profitability, so the outlook for the EPS metric is positive. This information is taken directly from the consolidated-earnings discussion in the transcript; no other context is needed for the classification.",,,,,,
+28736d7858cda4741ebd8db08eb1e7df,"in 2018, the fourth quarter included a large decrease to our accrual as business results in the quarter weakened.",Q4,2019,NEENAH,Neutral,"Stance: Neutral  
+
+Reason: The sentence simply recounts a historical fact: in Q4-18 the company reduced an accrual because that quarter’s business results were weak. It does not say anything about current-year performance or future expectations for earnings, so it provides no clear positive or negative signal for upcoming EPS. Therefore the outlook for EPS based on this text alone is Neutral.",,,,,,
+298333d5f1a917dc2178fd6361ed52d4,"a strong year-on-year organic volume growth, along with ongoing productivity, restructuring efforts and other items, added 4.1 percentage points to operating margins and $0.89 to earnings per share year-on-year.",Q2,2021,MMM,Positive,"Stance: Positive  
+
+Reason: In the “second-quarter margin and EPS bridge” discussion, management states that strong organic volume growth plus productivity and restructuring efforts “added … $0.89 to earnings per share year-on-year.”  This explicitly describes a significant increase in EPS, pointing to an improving earnings outlook.  No other parts of the broader context are necessary to reach this conclusion.",,,,,,
+29a91b289c73548f7b90474a62bd6933,q3 organic growth was over 6% as we drove innovation across our market-leading businesses with margins of 20% and earnings of $2.45 per share.,Q3,2021,MMM,Positive,"Stance: Positive
+
+Reason: The sentence highlights strong operating performance – “organic growth was over 6%… margins of 20% and earnings of $2.45 per share.”  Healthy growth and robust margins leading to a solid EPS figure signal a favorable earnings outlook.  The information needed to judge the EPS outlook is contained directly in the quoted text; no additional context from the transcript was necessary.",,,,,,
+2a803bf99a09e7f1fbf31fa48f997f87,"q4 gaap eps was $2.31, up 51% from a year earlier.",Q4,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly reports GAAP EPS of $2.31 for Q4.  
+   • It states this figure is “up 51% from a year earlier,” describing a large year-over-year increase.  
+   • Rising EPS signals stronger profitability for shareholders, which is a favorable outcome under the labeling guide.  
+   • No conflicting cues are present, and no additional context is required to interpret the statement.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   EPS rose 51% year-over-year (“up 51% from a year earlier”), indicating improved profitability.  
+
+Context necessity: Not necessary—the sentence alone contains all information needed.",Positive,GAAP EPS increased by 51% compared to the same quarter last year.,Positive,"The text reports a specific GAAP EPS figure ($2.31) and explicitly states it is ""up 51%"" compared to the prior year.",,
+2b0436d68009682b42892cda6d71e70a,"recall that second quarter 2018 earnings were our strongest of the year, and it represented a challenging comparison.",Q2,2019,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral  
+Reason: The sentence only notes that Q2-2018 earnings (and therefore EPS) were unusually strong, making year-over-year comparisons difficult. It provides no explicit indication that current or future EPS will rise or fall. Hence, no positive or negative outlook can be inferred. (The broader transcript was not needed for this determination.)",,,,,,
+2c045d21b303f3416484b4e734aac12f,"cmp revenue, which is recognized in oem, was $266 million, lower than our original $400 million estimate on reduced mining profitability and we expect a minimal contribution from cmp going forward.",Q2,2022,NVDA,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence compares actual CMP revenue ($266 M) with a higher prior estimate ($400 M), signalling an unexpected shortfall.  
+   • It adds that future CMP contribution will be “minimal,” indicating a decline in a revenue stream.  
+   • Lower-than-expected current revenue plus reduced future revenue directly pressure earnings and therefore EPS (Guideline: changes over time, projections).  
+   • No offsetting positive cues are given, so the dominant context is unfavorable.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence reports a $134 M revenue shortfall versus expectations and projects only “minimal” CMP revenue ahead, both of which undermine EPS.  
+
+Context necessity: Not necessary—the sentence alone provides sufficient information.",Negative,The report says performance fell short of the $400 million estimate due to lower mining profits and expects this segment to contribute very little in the future.,Negative,A massive revenue miss (a $134 million shortfall) on a specialized product like CMP (Cryptocurrency Mining Processor) directly hurts the bottom line.,,
+2d83c0d85a1a1d20a7ba0d66e3c1c9ef,net income was $7.8 billion or $2.71 per share.,Q3,2020,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence states a single fact: “net income was $7.8 billion or $2.71 per share.”  
+   • It does not indicate whether this EPS figure is higher or lower than prior periods, guidance, or expectations.  
+   • Without any directional cue (growth/decline, beat/miss, positive/negative commentary), the sentence supplies no stance on profitability beyond stating the figure.  
+   • According to Guideline 6, if EPS is merely mentioned without evaluative context, the correct label is Neutral.  
+   • The broader transcript is not needed to interpret this isolated factual statement.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence simply reports the EPS value ($2.71) with no indication of improvement or deterioration, so it carries no positive or negative signal.  
+
+Context: Not necessary.",Neutral,"Only the absolute values of net income and EPS are reported, with no indication of increase or decrease, offering no basis for EPS stance.",Neutral,"The text explicitly mentions the EPS ($2.71 per share), but it is a factual statement without any comparative context. There is no mention of whether this figure represents growth, whether it beat or missed analyst expectations, or if there is a positive/negative outlook.",,
+2d9a30b17ce3a26bb190a4034eaf41f0,"turning to tax rate, our second quarter adjusted tax rate was 20.7% versus 22.3% last year, adding $0.03 to earnings per share.",Q2,2020,MMM,Positive,"Stance: Positive
+
+Reason: The excerpt notes that the company’s adjusted tax rate fell to 20.7% from 22.3% the prior year, “adding $0.03 to earnings per share.”  A lower tax rate directly boosts net income and therefore EPS, so this development is favorable for profitability.  (Section: “turning to tax rate… adding $0.03 to earnings per share.”)",,,,,,
+2dbf797d97848bfb01ea2d8b8a529f5b,"adjusted earnings were $0.45 per share, excluding $0.86 of unusual cost.",Q4,2021,NEENAH,Negative,"Stance: Negative
+
+Reason: The call notes that Q4 2021 adjusted EPS was $0.45, while (in the immediately-preceding sentence of the same context) Q4 2020 adjusted EPS had been $0.87. The drop from $0.87 to $0.45 indicates that profitability per share has fallen sharply year-over-year, so the outlook for EPS is unfavorable.",Neutral,The text states a specific earnings amount for the quarter but does not provide any comparison to previous results or future goals. ,Neutral,"EPS is stated as a fact, but there is no indication whether it improved, declined, or beat expectations.",,
+2dccd8d85a59a17206207bc3833e7e74,"if i remember right, it was $0.50, $0.55 maybe in possible accretion next year.",Q3,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The speaker is recalling management’s prior guidance that the Scapa acquisition should add roughly $0.50-$0.55 to earnings per share next year (“possible accretion next year”).  An anticipated EPS accretion of this magnitude signals an expected increase in profitability, which is a positive outlook for the EPS target.  
+
+Helpful context: During the Q&A, management confirmed Scapa is “on pace” to deliver that accretion (though perhaps two quarters delayed).  This corroborates the positive implication for future EPS.",Positive,"The sentence refers to expected EPS accretion of $0.50–$0.55 next year, indicating a positive earnings outlook.",Positive,"The text mentions ""possible accretion"" of $0.50 to $0.55. Accretion refers to an increase in earnings per share, so anticipating accretion is a positive outlook for EPS.",,
+2e68534f3f26f5bedf5b405994b9e359,adjusted earnings per share rose more than 60% from $0.69 last year to $1.12 while gaap earnings of $0.97 per share were up 40%.,Q1,2020,NEENAH,Positive,"Stance: Positive
+
+Reason: The cited section reports that “adjusted earnings per share rose more than 60% from $0.69 last year to $1.12 while GAAP earnings of $0.97 per share were up 40%.”  A year-over-year EPS increase of 40-60% clearly signals stronger profitability, giving a positive outlook for the EPS target.  (The relevant information is contained directly in this portion of the context; no other parts were needed for the classification.)",,,,,,
+30c46058271ab4136531a7e4fe72d88f,"so when you look at q2 performance, in part, the meaningful year-on-year improvement in the operating margin in the second quarter clearly reflects the strong revenue growth, but also the fact that some of these costs are less variable in the short term.",Q2,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • EPS is driven by profits; higher operating margins generally lift net income per share.  
+   • The sentence states there was a “meaningful year-on-year improvement in the operating margin” in Q2.  
+   • It attributes this to “strong revenue growth” and certain costs being “less variable,” both of which enhance profitability.  
+   • These elements unambiguously point to a favorable impact on earnings.  
+   • No offsetting or negative cues are present, so the dominant stance is positive.  
+   • The broader transcript adds background but is not needed to interpret this specific sentence.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence highlights a “meaningful… improvement in the operating margin” driven by “strong revenue growth” and stable costs, signaling better profitability and thus a positive outlook for EPS. (Context not necessary)",Positive,"The text highlights meaningful year-on-year improvement in operating margin and strong revenue growth, both of which are earnings-positive factors contributing to higher EPS.",Positive,"The text mentions that ""costs are less variable in the short term,"" which describes a state of operating leverage where revenue growth outpaces cost growth, leading to higher profitability.",,
+3419dcfcf265ee74f45ed67aebd962a3,"while this reflects a moderate reduction in the planned growth rate of total expenses, our overall expense growth in the face of expected revenue weakness will have a negative impact on our 2020 operating margins.",Q1,2020,META,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence discusses cost growth “in the face of expected revenue weakness,” signalling lower profitability.  
+   • It explicitly states this will “have a negative impact on our 2020 operating margins,” which feeds directly into EPS.  
+   • Per Guideline 4 (financial indicators/trends) and Guideline 1 (focus on EPS-related cues), deteriorating margins imply downward pressure on EPS.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+   The sentence forecasts that rising expenses amid weaker revenue will “have a negative impact on our 2020 operating margins,” indicating lower profitability and thus a negative outlook for EPS.  
+
+Context necessity: Not necessary—the sentence itself clearly conveys the negative impact.",Negative,"The statement indicates that, despite moderated expense growth, expected revenue weakness will reduce operating margins, signaling a negative impact on EPS.",Negative,"The author highlights a ""growth of total expenses"" occurring in the face of ""revenue weakness."" This mismatch indicates that costs are rising faster than income, which directly pressures the bottom line and reduces the earnings available per share.",,
+343816f34826bfd19048a3824414041f,net income was $4.9 billion or $1.71 per share.,Q1,2020,META,Neutral,"1. Chain-of-Thought  
+   • The sentence simply reports the quarter’s net income and the corresponding EPS figure ($1.71).  
+   • It contains no wording about growth, decline, outlook, comparisons to prior periods, or expectations.  
+   • Therefore it provides no indication of whether profitability (EPS) has improved or deteriorated.  
+   • According to Guideline 6, if EPS is merely stated without evaluative context, the stance is Neutral.  
+   • The broader transcript is not needed to interpret this stand-alone fact.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only states that EPS was $1.71, offering no positive or negative judgment or comparison, so it is neutral regarding EPS.  
+
+Context usage: Not necessary.",Neutral,"The statement simply reports net income and EPS without any trend, comparison, or context, so there is no information to determine the stance on EPS.",Neutral,The text provides raw figures ($1.71 EPS) without context regarding benchmarks or guidance.,,
+36bdda9af345c704cbf269a2ae94d1e4,"non-gaap eps was $1.04, up 89% from a year earlier, adjusting for the 4-to-1 stock split effective this quarter, q2 cash flow from operations was a record $2.7 billion.",Q2,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly reports “non-GAAP EPS was $1.04, **up 89% from a year earlier**.”  
+   • An 89 % year-over-year rise in EPS is a clear signal of sharply improved profitability.  
+   • There are no conflicting or mitigating comments that would offset this positive indication.  
+   • Therefore, per Guideline 4 (changes over time) and Guideline 5 (dominant context), the stance toward EPS is Positive.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence cites an 89 % year-over-year increase in non-GAAP EPS, directly indicating stronger profitability. (Context not necessary for this classification.)",Positive,"Non-GAAP EPS rose 89% year over year, showing strong growth.",Positive,"The text reports that non-GAAP EPS was $1.04, an 89% increase from a year earlier.",,
+3766f15a09b873f7409c3f9bf195fe8f,"excluding adjusting items, adjusted eps was $0.55 this year, up from a small loss in quarter two, but below $0.95 in 2019.",Q3,2020,NEENAH,Negative,"Stance: Negative
+
+Reason: The text states that adjusted EPS is $0.55, which is an improvement from the prior-quarter loss but is still well below the $0.95 earned in the same quarter of 2019. From a profitability-trend perspective, the year-over-year decline signals deterioration in earnings power, giving the overall outlook for EPS a negative slant. (Information taken directly from the quoted sentence; no other parts of the transcript were required.)",,,,,,
+3a49d22f3f2010697b2af15b86e198f6,fourth quarter 2020 gaap eps decreased to $0.48 from $0.64.,Q4,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The specific line in the transcript states, “fourth quarter 2020 GAAP EPS decreased to $0.48 from $0.64,” indicating the company earned fewer dollars per share than in the prior-year quarter. A declining EPS signals lower profitability for shareholders, so the outlook for the EPS metric is negative. (This conclusion is drawn directly from the cited fourth-quarter EPS comparison; other parts of the context were not needed for the classification.)",,,,,,
+3cb46f91b834ee4156977cb0102702ea,"all in, organic sales company-wide was minus 13% with adjusted earnings of $1.78 per share.",Q2,2020,MMM,Negative,"Stance: Negative  
+
+Reason: The cited sentence comes from the CEO’s prepared remarks (Slide 6): “all in, organic sales company-wide was minus 13% with adjusted earnings of $1.78 per share.”  A double-digit drop in organic sales is a clear sign of weaker operating conditions, and management later confirms that the $1.78 of adjusted EPS represents a 16% Y/Y decline and a $0.02 miss versus consensus (see Nick Gangestad’s comments on Slide 10).  The combination of shrinking revenue and lower-than-last-year earnings points to a deteriorating profitability trend, so the outlook for EPS is negative.  
+
+(The broader transcript is necessary because it tells us this EPS figure is down Y/Y and below expectations; otherwise the single sentence would lack context.)",,,,,,
+3d587e1b1f45ef0e07f0459797365226,"all-in, these impacts lowered operating margins by 2.4 percentage points and earnings per share by $0.33 year-on-year.",Q4,2021,MMM,Negative,"Stance: Negative
+
+Reason: In the cited section, management states that the combined headwinds “lowered … earnings per share by $0.33 year-on-year.”  A drop in EPS clearly signals a negative outlook for that metric. (This conclusion is drawn directly from the quoted sentence; the broader transcript isn’t needed for this determination.)",,,,,,
+3e3912caa3c8d5584333a76b288fd36b,net income was $9.5 billion or $3.30 per share.,Q1,2021,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence simply reports a fact: “net income was $9.5 billion or $3.30 per share.”  
+   • It does not state whether this EPS is higher, lower, or unchanged versus any prior period, nor does it offer any qualitative judgment.  
+   • With no directional cue or evaluative language, the sentence provides no basis to infer a favorable or unfavorable impact on profitability.  
+   • Per Guideline 6, when EPS is mentioned without a clear stance, the correct label is Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence is purely factual, giving the EPS figure ($3.30) without indicating improvement or deterioration, so it expresses no positive or negative outlook.
+
+Context usage: Not necessary—the sentence alone is sufficient for classification.",Neutral,"The statement simply reports net income and EPS without any comparison or trend, providing no information on whether EPS has improved or declined.",Neutral,"The $3.30 EPS is just stated as a fact, with no analysis or comparison to expectations. Since there’s no context or evaluation, there isn’t enough information to determine the sentiment.",,
+3f710231822f727b945b87e1245bf559,"when combined, we estimate these two factors had more than a $0.20 negative impact on adjusted eps in the quarter.",Q2,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: In the CFO’s remarks he states, “when combined, we estimate these two factors had more than a $0.20 negative impact on adjusted EPS in the quarter.”  This explicitly says that the cited factors reduced adjusted EPS, indicating a deteriorating impact on the company’s profitability measure.  Therefore, the outlook for EPS is negative.",Negative,The sentence explicitly states a more than $0.20 negative impact on adjusted EPS.,Negative,"The text highlights a ""negative impact"" of more than $0.20 on adjusted EPS. Reporting a specific reduction in earnings per share signals an unfavorable outcome for the EPS target.",,
+407334b170c1e659cbff7355df114f99,"consistent with our internal expectations, the transaction was neutral to adjusted eps in the quarter, which we expect in our plan for $0.10 per share accretion for the full year.",Q2,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The cited sentence states that the Scapa acquisition “was neutral to adjusted EPS in the quarter, which we expect in our plan for $0.10 per share accretion for the full year.”  An expected $0.10 per-share accretion means management anticipates EPS will rise over the year, a clearly favorable outlook for profitability.  The immediate text provides all information needed; the broader transcript was not necessary for this determination.",Positive,The company expects its profit per share to grow by $0.10 for the full year. This expected increase in earnings is a favorable sign for the EPS.,Positive,"The text highlights an expectation of ""$0.10 per share accretion"" for the full year. Accretion represents an increase in earnings per share, which indicates a favorable outlook for the company's profitability.",,
+409d3f512c6fd786ebcf0c8c715a785e,"given our results to-date and near-term view, we expect that our full year 2021 adjusted eps will be below our original guidance for the full year, but do expect sequential improvements throughout 2022.",Q3,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: In the cited passage management explicitly states, “we expect that our full-year 2021 adjusted EPS will be below our original guidance for the full year.”  Cutting EPS guidance signals lower-than-anticipated profitability, which is a negative outlook for the EPS target.  Although they add that EPS should improve sequentially in 2022, the immediate revision downward for the current year dominates the outlook.  (Section used: CEO Jeff Kramer’s remarks early in the call where he discusses FY-21 EPS coming in below guidance.)",Negative,"Adjusted EPS is expected to fall below original guidance, which is a negative EPS signal despite future improvement expectations.",Negative,"The text states that full-year adjusted EPS will be ""below our original guidance."" Missing guidance or lowering expectations is a negative signal for the EPS target, despite the expectation of sequential improvement later",,
+40ccb50fd566c8af2503643a09128023,"for ep, we see that at minimum operating profits will be stable compared to 2021 with the potential for additional growth based on the success of our newer innovations.",Q4,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the cited passage management says, “for EP, we see that at minimum operating profits will be stable compared to 2021 with the potential for additional growth….”  Stable profits (no decline) plus the possibility of growth signals an improving or at least protected earnings base, which is supportive of higher consolidated EPS.  This specific forward-looking statement about maintaining or increasing operating profit in 2022 therefore implies a positive outlook for EPS. (Context was directly useful because the statement comes from management’s 2022 guidance section.)",Positive,Stable profits with potential for additional growth imply an improving or supportive outlook for EPS.,Positive,"The text highlights that operating profits will be ""stable"" at a minimum, with the ""potential for additional growth."" The possibility of growth and a floor of stability suggests a favorable outlook for earnings, contributing positively to the EPS stance.",,
+442fe2d8b95e67ae5107705256dcf692,"overall, adjusted eps increased 2% excluding the currency impacts on eps of $0.09 would have increased 5%.",Q4,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The sentence states that “adjusted EPS increased 2% … (and) would have increased 5%” absent currency headwinds. Any year-over-year rise in EPS signals improving profitability, so the outlook for EPS is positive. The information needed to make this judgment is contained entirely within the quoted text; the broader transcript context was not required.",,,,,,
+44d346139d6aa1c088b7aebe20f4462f,adjusted earnings of $0.87 per share in the fourth quarter equaled that of prior year.,Q4,2020,NEENAH,Neutral,"Stance: Neutral  
+Reason: The sentence states that “adjusted earnings of $0.87 per share in the fourth quarter equaled that of prior year,” indicating no year-over-year change in EPS. Since EPS is neither rising (which would be positive) nor falling (which would be negative), the outlook for EPS based on this statement is neutral. The relevant information comes directly from the quoted sentence; the broader context was not necessary for this classification.",,,,,,
+45ff1b18023679877ed0dbdf05a23e5f,"from a cash earnings perspective, the business contributed about $0.15 per share for the quarter.",Q2,2021,NEENAH,Positive,"Stance: Positive
+
+Reason: The sentence reports that the newly acquired ITASA business “contributed about $0.15 per share for the quarter.”  An incremental $0.15 to EPS is an additive benefit, signalling an improvement in earnings per share.  (See Paul DeSantis’ remarks in the context: “From a cash earnings perspective, the business contributed about $0.15 per share for the quarter.”)",Neutral,The text reports a specific profit amount of $0.15 per share but does not compare it to previous years or any specific goals.,Neutral,"The text reports the per-share contribution of the business to cash earnings for the quarter as a factual result. It lacks comparative data or qualitative descriptors to indicate whether this contribution represents growth, a decline, or meets expectations.",,
+461ddfb9f89560e40cee1c5a44aea5c9,first quarter adjusted earnings were $2.16 per share down 3% year-over-year.,Q1,2020,MMM,Negative,"Stance: Negative
+
+Reason: The sentence states that “first quarter adjusted earnings were $2.16 per share down 3% year-over-year.”  A decline in EPS signals deteriorating profitability, which is negative for the EPS outlook. The context is not needed beyond this specific line, because the sentence itself clearly conveys the year-over-year drop in EPS.",,,,,,
+47b8c177300f29fb028a06eb62d4e168,"adjusted earnings per share of $0.87, grew 64% from $0.53 a year ago, while gaap earnings of $0.92 per share rose 21%.",Q4,2019,NEENAH,Positive,"Stance: Positive  
+
+Reason: The cited sentence states that adjusted EPS climbed to $0.87, a 64 % increase from $0.53 the prior year, and GAAP EPS rose 21 % to $0.92. A marked year-over-year rise in earnings per share signals improved profitability, giving a positive outlook for the EPS target. (This information comes directly from Bill McCarthy’s opening remarks; no additional context was needed for the classification.)",,,,,,
+47e929221d1cb6f72995a6a834ae3540,"non-gaap eps was $2.18, up 76% from the year ago.",Q2,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   - The sentence directly states the current non-GAAP EPS figure ($2.18) and compares it with the prior-year level.  
+   - It reports a 76 % increase year-over-year, which clearly signals improved profitability.  
+   - According to guideline 4 (changes over time) and guideline 2 (explicit financial indicators), a substantial rise in EPS is a Positive cue for the company’s earnings outlook.  
+   - No conflicting cues are present, so the stance is unambiguously Positive.  
+   - The broader transcript context is not required; the sentence alone conveys the positive EPS trend.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   EPS rose 76 % year-over-year to $2.18, indicating significantly improved profitability—hence a positive stance. (Context not necessary)",Positive,"The text shows a 76% rise in non-GAAP EPS from last year, which clearly signals a positive outlook.",Positive,"The text reports that non-GAAP EPS was $2.18, representing a strong 76% increase from the previous year.",,
+48bec3b5a390930a302939ad83a3b9ef,"combined, these impacts lowered operating margins by 1.4 percentage points, and earnings per share by $0.02 year-on-year.",Q3,2021,MMM,Negative,"Stance: Negative
+
+Reason: The cited sentence explicitly states that the various headwinds “lowered … earnings per share by $0.02 year-on-year.” A reduction in EPS signals deterioration in profitability, making the outlook for the EPS metric negative. (The broader transcript is not required to make this determination; the excerpt alone is sufficient.)",,,,,,
+4b11bcd7e39b675951730e986fddd22f,"operating income was $21 billion, up 88% and our operating margin was 32%.",Q3,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • EPS is closely linked to overall profitability; higher operating income and margins generally support higher earnings per share (Guideline 4: financial indicators).  
+   • The sentence reports operating income rising 88% and a healthy 32% operating margin—clear signals of improved profitability (Guideline 1: focus on profitability cues).  
+   • No conflicting cues are present, so the dominant context is favorable (Guideline 5).  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The 88% surge in operating income and a 32% operating margin indicate stronger profitability, implying a supportive outlook for EPS. (Context not necessary—the sentence alone contains the needed evidence.)",Positive,"Operating income increased 88%, indicating a substantial improvement in earnings, and the operating margin is strong; both factors positively impact EPS.",Positive,"Reporting on income growth or factors that positively contribute to the ""bottom-line"" (like high-margin growth) represents a positive stance.",,
+4c3ac00d086f3209ab064a809e009a47,"today, we are updating full-year expectations for organic growth to a range of 8% to 9% and eps to a range of $9.70 to $9.90, reflecting our results to-date and ongoing supply chain challenges.",Q3,2021,MMM,Negative,"Stance: Negative
+
+Reason: The company narrowed AND lowered the high end of its full-year EPS guidance to $9.70-$9.90 from the prior $9.70-$10.10 (see guidance discussion: “we anticipate a range of $9.70 to $9.90 per share as compared to our prior range of $9.70 to $10.10”). Cutting the expected top end reduces the midpoint of guidance, signaling a worse outlook for EPS despite solid YTD results; the change is attributed to ongoing supply-chain challenges.",,,,,,
+4c8ba7f2da41c1333bdf8cf4b8b4e240,"q3 gaap eps was $0.97, 83% from a year earlier.",Q3,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence states GAAP EPS level ($0.97) and that it is “83% from a year earlier,” which in the context of earnings call language means EPS increased 83% YoY.  
+   • An 83% YoY increase clearly signals a strong improvement in profitability. (Guideline 4: changes over time → growth is positive.)  
+   • No conflicting cues are present; the message is exclusively about a large rise in EPS.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The sentence reports that GAAP EPS rose 83% year-over-year to $0.97, indicating significantly improved profitability—hence a positive stance toward EPS.  
+
+Context necessity: Not necessary; the single sentence alone provides the needed information.",Positive,"The text compares this year to last year (“83% from a year earlier”). In finance, if it doesn’t say “down” or “decrease,” it usually means things have grown or improved.",Positive,The text reports a specific GAAP EPS value ($0.97) and indicates a significant growth of 83% compared to the same period a year earlier.,,
+4e0f2d873b79019baa8f2b9ca0409451,"in q4 2020, adjusted earnings were $0.87 per share and excluded $0.28 of unusual costs.",Q4,2021,NEENAH,Neutral,"Stance: Neutral  
+
+Reason: The sentence is only a factual statement of what adjusted EPS was in Q4 2020. It does not say anything about how EPS is trending now or is expected to trend in the future, so no positive or negative outlook can be inferred. (The broader transcript context is not needed to interpret this line.)",Neutral,The text reports a specific profit amount for the quarter but does not compare it to previous results or any goals. Because there is no comparison.,Neutral,"The text reports the adjusted earnings per share figure for the quarter as a factual result and mentions the exclusion of unusual costs. It does not provide information regarding growth, decline, or performance relative to expectations, offering no clear positive or negative signal.",,
+4f4909bb6a59b1bad6d37a9eeaa57503,this low rate contributed $0.07 per share to 2019 earnings.,Q3,2019,NEENAH,Positive,"Stance: Positive  
+
+Reason: The quoted sentence notes that “this low rate contributed $0.07 per share to 2019 earnings.”  A lower-than-normal tax rate directly lifted EPS by seven cents, which is an incremental benefit to profitability.  This explicit boost to earnings per share signals a positive impact on the EPS metric. (Information drawn from the CFO’s tax-rate discussion in the transcript; no additional context was needed.)",,,,,,
+502a211ebbb39c8019d49caaecd08870,"thus, third-quarter net selling price and raw materials performance reduced both operating margins and earnings by 130 basis points and $0.12 per share, respectively versus q3 last year.",Q3,2021,MMM,Negative,"Stance: Negative
+
+Reason: The cited sentence states that the net effect of selling-price changes and raw-material costs “reduced … earnings by … $0.12 per share” versus the prior-year quarter. Any factor that lowers EPS directly signals a negative outlook for that metric. (The broader transcript is not required for this conclusion, since the quoted line explicitly quantifies an EPS decline.)",,,,,,
+5238c6d95534fb0f737d1b8daa68e998,"therefore, we now anticipate a full year raw materials and logistics headwind of $0.30 to $0.50 per share versus a prior expectation of flat to a $0.10 headwind at the start of the year.",Q1,2021,MMM,Negative,"Stance: Negative
+
+Reason: In Monish Patolawala’s remarks the company raises its projected raw-material and logistics head-wind from “flat to a $0.10 headwind” to “$0.30 to $0.50 per share.”  Because this incremental cost directly reduces earnings-per-share versus prior expectations, the outlook for EPS has worsened, making it negative.  (This assessment comes entirely from the cited passage; no additional context was needed.)",,,,,,
+5251fff5e9db92b172690340cc6d7b66,"the cost management initiatives and the pricing moves, do you expect that for the full year, you'll be able to get back to an earnings growth trajectory despite the soft start?",Q1,2019,NEENAH,Positive,"Stance: Positive
+
+Reason: In the Q&A section the analyst asks whether, with cost-management initiatives and price increases, the company expects “to get back to an earnings growth trajectory despite the soft start.”  CEO John O’Donnell replies, “we are expecting an improving financial results as we work our way through the year…,” and CFO Bonnie Lind adds that they “feel good about the stuff we can control.”  This explicit expectation of improved results (i.e., rising earnings) signals a positive outlook for EPS.  The cited exchange in the transcript directly supports the classification; no outside information was needed.",,,,,,
+585caec86760fee87ed8c9c04b8c5c71,"after the incremental interest expense, we expect the deal to add approximately $0.10 to adjusted eps in 2020.",Q4,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: In the acquisition discussion management states that, “after the incremental interest expense, we expect the deal to add approximately $0.10 to adjusted EPS in 2020.”  An expected accretion to EPS clearly signals an improvement in profitability, giving the outlook for EPS a positive bias. (Context reference: Jeff Kramer’s remarks on Tekra and Trient acquisition.)",,,,,,
+585d61137ac25ce831c8114c791e4b3a,we continue to expect foreign exchange to be an earnings benefit of $0.15 per share for the full year.,Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: The company states that “we continue to expect foreign exchange to be an earnings benefit of $0.15 per share for the full year.”  An expected benefit to earnings per share signals a favorable (positive) outlook for EPS. The specific sentence in the transcript directly supports this conclusion; no additional context was needed beyond that line.",,,,,,
+5a45475b6a74adf0390b24f9d95956fd,"unfortunately, while the decline in sales of 12% on a 10% volume decrease was generally anticipated, ep was not an exception to the inflationary pressures seen across global manufacturing.",Q3,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The cited sentence reports a 12 % drop in sales and a 10 % decline in volume for the Engineered Papers segment, and adds that the segment is facing the same inflationary cost pressures affecting global manufacturing. Lower sales/volume combined with higher costs directly squeeze margins and therefore reduce earnings per share (EPS). This portion of the transcript (the Engineered Papers discussion in Jeff Kramer’s prepared remarks) makes it clear that EPS is being pressured, so the outlook for EPS is negative. The broader context of the call, which details these inflationary head-winds, was useful in confirming that this sales/volume decline is indeed hurting profitability.",Negative,Inflationary pressures hurting EP indicate cost-related headwinds that negatively affect EPS.,Negative,"The text highlights that the segment was not immune to ""inflationary pressures"" and suffered a ""decline in sales."" These factors negatively impact profitability and earnings, indicating an unfavorable stance towards EPS.",,
+5c24012a367a6c53ad8966d1088654ad,"thus, while we originally expected the transaction to be slightly accretive to 2021 adjusted eps, the unexpected inflationary costs and supply chain challenges caused the scapa acquisition to be slightly dilutive.",Q4,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The sentence states that, contrary to expectations, the Scapa acquisition was “slightly dilutive” to adjusted EPS due to inflationary costs and supply-chain challenges. A dilution means EPS ended up lower than it otherwise would have been, which is a negative outcome for profitability. (This comes directly from the CFO’s discussion in the transcript, so the context was helpful.)",Negative,"The sentence states that the acquisition became dilutive to adjusted EPS due to higher costs, indicating a negative impact on per-share earnings.",Negative,"The text explicitly reports that the acquisition was ""slightly dilutive"" to adjusted EPS, contrary to the original expectation of accretion. Dilution means a reduction in earnings per share, which is a negative outcome for EPS.",,
+5c5823e83b5707e6068f205f3ec2a21c,"acquisitions and divestitures reduced first quarter earnings by $0.05 per share versus last year, primarily due to the acelity acquisition.",Q1,2020,MMM,Negative,"Stance: Negative
+
+Reason: In the CFO’s discussion of Q1 results (slide 11), it is stated that “acquisitions and divestitures reduced first-quarter earnings by $0.05 per share versus last year, primarily due to the Acelity acquisition.”  A reduction of EPS relative to the prior year is an unfavourable development for profitability, so the outlook for the EPS target is Negative.  (The broader transcript is not needed to reach this conclusion; the cited sentence itself makes the impact clear.)",,,,,,
+5cd1624102eda858401d3eb5a51724e8,"and while we are still forecasting some supply chain challenges in 2022, we project adjusted eps in the range of $3.50 to $3.95, implying growth of up to 27%.",Q4,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the guidance section the company states, “we project adjusted EPS in the range of $3.50 to $3.95, implying growth of up to 27%.”  Management is explicitly forecasting a material year-over-year increase in adjusted EPS (from $3.10 in 2021 to as high as $3.95 in 2022).  A projected double-digit rise in earnings per share is clearly a favorable outlook for profitability.  (No other parts of the context are needed for this conclusion.)",Positive,"Adjusted EPS growth of up to 27%, which clearly indicates a strong positive earnings outlook.",Positive,"The text projects adjusted EPS growth of ""up to 27%."" Forecasting significant growth in earnings per share is a strongly positive outlook for the EPS target.",,
+5e8d53d067b6e4052be66b5687837485,"secondly, a lower tax rate versus last year provided a $0.09 benefit to earnings per share.",Q3,2021,MMM,Positive,"Stance: Positive
+
+Reason: The sentence states that “a lower tax rate versus last year provided a $0.09 benefit to earnings per share.”  A reduction in the tax rate increases net income and therefore lifts EPS, representing a favorable (positive) contribution to profitability.",,,,,,
+5f659c7739ddecf0c7c739436e181b20,"we are confident in our business as we navigate covid-19 uncertainty, and with one quarter behind us, we are maintaining our full year guidance for organic growth, earnings per share, and cash flow.",Q1,2021,MMM,Neutral,"Stance: Neutral
+
+Reason: In the cited sentence management says they are “maintaining our full-year guidance for … earnings per share.”  Because the company neither raised nor lowered its EPS outlook, the statement does not signal an improvement or deterioration in expected profitability; it simply reiterates prior expectations.  Therefore the outlook for EPS is neutral.
+
+(The broader context is not necessary beyond confirming that guidance was kept unchanged rather than revised up or down.)",,,,,,
+60771aad65d5354196e8b454dd5e4d1e,"to put some of the supply chain and cost headwinds into perspective, we estimate the cost inflation on resins and wood pulp that we did not recoup through price increases had an impact of over $0.10 per share on eps, and the lost sales on transportation films alone was more than a $0.10 impact as well.",Q2,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The cited passage states that unrecovered cost inflation in resins and wood pulp reduced EPS by more than $0.10 per share, and lost sales in transportation films cut EPS by another $0.10 plus. These headwinds together lowered EPS by over $0.20, signalling a negative effect on profitability. (Section: CFO remarks, paragraph beginning “To put some of the supply chain and cost headwinds into perspective…”). The broader context was not necessary beyond this excerpt, as it explicitly quantifies the negative EPS impact.",Negative,"Unrecovered cost inflation and lost sales created EPS headwinds, reducing per-share earnings.",Negative,"The text highlights multiple factors, including unrecouped cost inflation and lost sales, that each had an impact of over $0.10 on EPS. Reporting specific reductions in per-share earnings due to cost and supply chain headwinds indicates an unfavorable outcome for the EPS target.",,
+61b888994afd2011aa5851049529234a,"on an adjusted basis eps for 2020 was $3.68, up 4% versus 2019, marking our third consecutive year of adjusted eps growth.",Q4,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The cited sentence states that “on an adjusted basis EPS for 2020 was $3.68, up 4% versus 2019, marking our third consecutive year of adjusted EPS growth.”  A year-over-year increase in EPS and continuation of a multi-year growth trend signals improving profitability, hence a positive outlook for the EPS target.  (The relevant information is contained directly in the quoted text; the broader transcript was not necessary for this determination.)",,,,,,
+6417f1e8200f37671847bcb24aebb990,"all in, we delivered organic growth company-wide of 30 basis points, along with adjusted earnings of $2.16 per share, solid margins of 21% and a double-digit increase in cash flow.",Q1,2020,MMM,Positive,"Stance: Positive
+
+Reason: The passage states that the company “delivered … adjusted earnings of $2.16 per share, solid margins of 21% and a double-digit increase in cash flow.”  Reporting strong EPS together with healthy margins and cash-flow growth signals better-than-expected profitability, implying a favorable outlook for EPS.  (This conclusion can be reached directly from the quoted text; the broader transcript merely confirms the figures.)",,,,,,
+6448d3e05624ec3862f954d141bb6193,"although second quarter earnings declined 15% to $0.90, the year-over-year pressure was generally confined to the temporary site closures in the ep segment and near-term pressure on our transportation films business.",Q2,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The sentence explicitly states that “second quarter earnings declined 15% to $0.90,” i.e., EPS fell year-over-year. Even though management notes the decline was “generally confined to…temporary site closures…,” the fact remains that EPS is down, which is negative from a profitability/EPS perspective. (This conclusion can be drawn directly from the quoted text; the broader context was not needed.)",,,,,,
+646e2e51e9df9e43388368da62117960,"but given the more recent revenue trajectory that we're seeing, we are slowing the pace of these investments and pushing some expenses that would have come in the next year or 2 off to a somewhat longer time line.",Q2,2022,META,Positive,"1. Chain-of-Thought Reasoning  
+   • EPS is ultimately net income ÷ shares; lowering near-term expenses lifts net income if revenue is unchanged.  
+   • The sentence says the company is “slowing the pace of these investments” and “pushing some expenses … off to a somewhat longer time line.”  
+   • Deferring costs means lower operating expense in the coming periods, which is favorable for near-term profitability and therefore for EPS.  
+   • Although the action is triggered by weaker revenue, the direct impact described is cost reduction, a positive driver for EPS.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The company plans to defer investments and shift expenses to later years, cutting near-term costs, which supports higher EPS. (Context not necessary)",Positive,"Slowing the pace of investments and deferring expenses suggests reduced costs in the near term, which is likely to support earnings and positively impact EPS.",Neutral,"It’s a mixed picture: revenue outlook looks weak (bad for EPS), but the company is cutting back spending and delaying costs. The negatives and positives balance out, so the overall view is neutral.",,
+67257c2d9392f1d685d055ac892896d1,"to put some of the supply chain and cost headwinds into perspective, we estimate that cost inflation on resins and pulp alone that we did not recoup through price increases had an impact of over $0.20 per share on eps in the quarter and the lost sales on transportation films alone was more than a $0.10 impact.",Q3,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: In the cited passage management explicitly states that unrecouped cost inflation in resins and pulp reduced earnings per share by more than $0.20, and lost sales in transportation films reduced it by a further $0.10. These combined effects clearly signal downward pressure on EPS, indicating a negative outlook for the metric. (Section referenced: “cost inflation on resins and pulp… had an impact of over $0.20 per share on EPS… lost sales… was more than a $0.10 impact.”)",Negative,Significant cost inflation and lost sales caused a material negative impact on EPS.,Negative,"The text highlights multiple headwinds, including cost inflation and lost sales, that negatively impacted EPS by over $0.20 and $0.10 respectively. Reporting specific reductions in per-share earnings indicates an unfavorable outcome for the EPS target.",,
+676474cbeca83d75cfa8ff703215dc93,we have excluded expenses associated with the tax assessments from our adjusted eps.,Q2,2019,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral  
+Reason: The sentence merely explains an accounting adjustment—tax-assessment expenses were omitted when calculating adjusted EPS. It does not indicate whether EPS will rise or fall going forward, so no positive or negative outlook can be inferred. (Drawn from the CFO section describing GAAP vs. adjusted EPS.)",,,,,,
+67e7d0ada2b97e8090c0e03899f207bf,"ep, i would say probably has a little bit more of a challenging comp particularly where we are year-to-date, but it's designed with probably with ams growth.",Q3,2020,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: In the Q&A section the speaker notes that the Engineered Papers (EP) segment “has a little bit more of a challenging comp,” while the AMS segment is expected to show growth. A tougher comparison in one segment offset by growth in another does not clearly point to a net increase or decrease in EPS; it simply highlights mixed dynamics. Since no definitive positive or negative impact on overall earnings per share is conveyed, the outlook for EPS is best classified as Neutral.",,,,,,
+6866a9ad77afd67edfadf43b8127e468,"and then just on ep, could you just talk maybe a little bit about the down quarter, the impact of spotswood?",Q1,2021,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: The sentence is simply an analyst asking management to comment on the Engineered Papers (EP) segment’s “down quarter” and the impact of the Spotswood facility closure. It does not itself provide any new information about earnings per share (EPS) improving or deteriorating; it is merely a request for clarification. Therefore, no clear positive or negative implication for EPS can be drawn from this text alone.
+
+(The broader transcript, which contains explanations and guidance, is not needed to interpret this single question.)",Negative,This is a question asking for discussion about the down quarter.,Negative,"The text refers to a ""down quarter"" and asks about the impact of a specific facility (Spotswood). A ""down quarter"" implies a decline in performance or earnings, which is a negative signal for EPS.",,
+69e6139015b1a18dfc2ecdf90461b6a0,"organic volume growth along with our ongoing cost management and productivity efforts were the biggest contributors to first quarter operating margins and earnings, adding 150 basis points to margins and $0.34 to earnings per share year on year.",Q1,2021,MMM,Positive,"Stance: Positive  
+
+Reason: In the CFO’s comments (slide 7), it is stated that organic volume growth and cost-management/productivity “added … $0.34 to earnings per share year on year.” An increase in EPS is favorable for profitability, hence the outlook for the “eps” target is Positive.",,,,,,
+6cf7b6d2745e777ad35782a9ba64199e,"regarding financial guidance, given the uncertainty around increasing covid cases, particularly in the u.s., we've elected to not reinstate 2020 adjusted eps guidance.",Q2,2020,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: In the cited sentence management simply states that, because of COVID-19 uncertainty, they are choosing not to provide (i.e., “not reinstate”) 2020 adjusted EPS guidance. They give no indication that EPS will improve or deteriorate—only that they cannot forecast it. Without a directional statement about EPS increasing or decreasing, the outlook for EPS cannot be determined, so it is classified as Neutral. (Helpful section: “regarding financial guidance… we’ve elected to not reinstate 2020 adjusted eps guidance.”)",,,,,,
+6f53f3871f46a1c680b6e7c1557f3e36,"normalizing for those and other items, adjusted eps was $0.82, down from last year?s $1.16 per share.",Q3,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The quoted sentence states that, after adjustments, EPS fell to $0.82 from $1.16 in the prior-year quarter. This year-over-year decline in earnings per share signals a deterioration in profitability, which is negative for the EPS outlook. (Section referenced: CFO comments—“adjusted eps was $0.82, down from last year’s $1.16 per share.”)",Negative,"Adjusted EPS declined year-over-year, indicating weaker per-share earnings performance.",Negative,The text explicitly reports that adjusted EPS declined from $1.16 to $0.82 compared to the previous year. A year-over-year decrease in earnings per share is a negative signal for the company's profitability.,,
+7019417dacc66f464f570e0802d64f69,net income was $9.2 billion or $3.22 per share.,Q3,2021,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence simply states a historical fact: “net income was $9.2 billion or $3.22 per share.”  
+   • There is no comparison to prior periods, analyst expectations, guidance, or any adjective indicating the result is good or bad.  
+   • According to Guideline 6, if EPS is mentioned without evaluative context, the stance is Neutral.  
+   • The broader transcript is not required to interpret this single declarative figure.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence merely reports the EPS figure ($3.22) without indicating improvement, deterioration, or outlook, so it conveys no positive or negative stance toward profitability.
+
+(Context was not necessary for this classification.)",Neutral,"The report provides raw earnings and per-share data, but without trend or comparison, there is no insight into whether EPS improved or declined.",Neutral,"The text explicitly reports a specific EPS figure ($3.22 per share). However, it provides no comparative data (such as year-over-year changes), does not mention expectations or guidance, and lacks qualitative descriptors (like ""strong"" or ""disappointing"")",,
+7153593ab08c455b308d89dd10d1254b,"excluding the impact of our non-gaap adjustments, our third quarter tax rate was 17.9%, bringing the year-to-date rate embedded in our adjusted eps to 20.2%, both down slightly from the prior year.",Q3,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The quoted passage notes that the company’s effective tax rate tied to adjusted EPS fell to 17.9% for Q3 and 20.2% year-to-date, “both down slightly from the prior year.” A lower tax rate reduces expense and directly boosts after-tax earnings per share, so this development is favorable for EPS. (This information comes directly from the finance section of the call; no additional context was required beyond that excerpt.)",,,,,,
+7171e8d0c3c9734aa65aeb5e1700854a,"second quarter adjusted earnings were $1.78 per share, down 16.4% year-over-year.",Q2,2020,MMM,Negative,"Stance: Negative  
+
+Reason: The cited passage states, “second quarter adjusted earnings were $1.78 per share, down 16.4% year-over-year.”  A double-digit YoY decline in EPS signals worsening profitability, which is negative for the company’s EPS outlook.  
+
+Helpful context section: Slide 10 discussion (“Let’s now turn to Slide 10 for a closer look at earnings per share… down 16.4% year-over-year”).",,,,,,
+7260b944b471b6067c9f7f9909835cff,"quarterly bottom line results were softer than last year, though many of the factors were expected.",Q2,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The cited sentence (“quarterly bottom line results were softer than last year…”) signals lower profitability versus the prior-year period. Because EPS tracks bottom-line performance, a “softer” bottom line directly implies pressure on EPS, i.e., a decline or weaker growth. Although management notes the factors were anticipated, the comparison to last year is still unfavorable, so the outlook for EPS is negative. This conclusion is drawn entirely from that specific line in the transcript; no additional context was necessary.",Negative,"Softer bottom-line results imply lower earnings, which negatively impacts EPS.",Negative,"The text describes the ""bottom line results"" as being ""softer than last year."" Characterizing earnings performance as ""softer"" indicates a decline or weakness in profitability, which is an unfavorable signal for EPS.",,
+73109cb9b32ca194dea70d9bd48f87ab,"overall, we delivered at our targeted earnings results and look forward to another strong year ahead with continued stability in ep and growth in ams.",Q4,2019,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: The speaker says they “delivered at our targeted earnings results and look forward to another strong year ahead,” citing “continued stability in EP and growth in AMS.”  This indicates management met EPS goals for the current year and is expecting further growth next year.  The broader context reinforces this with 2020 adjusted-EPS guidance of $3.50–$3.75, “implying growth of up to 6% compared to 2019.”  Both statements point to a favorable outlook for EPS.",,,,,,
+7610e0d79fa4b79bba28de108f03fd12,"our full year adjusted eps tax rate finished 2019 at 19.3%, up slightly from 18.1% in 2018 representing approximately a $0.05 impact to adjusted eps.",Q4,2019,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: In the cited sentence management states that the adjusted EPS tax rate rose from 18.1 % to 19.3 % year-over-year, which “represented approximately a $0.05 impact to adjusted EPS.”  A higher tax rate directly reduces after-tax earnings, lowering EPS; therefore the outlook for EPS, from a profitability standpoint, is negative.  (The information comes entirely from the quoted text; additional context from the transcript is not needed for this conclusion.)",,,,,,
+778231bccf1f4314f10acbd0e94004c9,this favorable ruling added $91 million to operating income or 1 percentage points to operating margins and $0.12 to earnings per share.,Q2,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The cited passage explains that a Brazilian Supreme Court ruling provided a one-time benefit of $91 million to operating income, lifting operating margin by 1 pp and adding $0.12 to earnings per share. Because it directly increases EPS, the implication for the company’s profitability is positive. This conclusion is drawn from the section in the context where the CFO details the effect of the ruling on Q2 results.",,,,,,
+77a89e2975d28ab1fb28f45ebd5f44ce,"shifting to consolidated earnings, full year gaap earnings per share was $2.76 versus $3.06 in 2018.",Q4,2019,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The text states that full-year GAAP earnings per share fell to $2.76 from $3.06 in 2018, indicating a year-over-year decline in EPS and therefore a negative outlook for this profitability metric. The specific sentence “full year GAAP earnings per share was $2.76 versus $3.06 in 2018” provides the basis for this assessment; no additional context is required.",,,,,,
+7abdef4bbcbfb341fe9cd46f8b102235,"our team executed well and posted record sales, robust cash flow, and expanded margins along with a double digit increase in earnings per share.",Q1,2021,MMM,Positive,"Stance: Positive  
+
+Reason: The quoted passage explicitly states that the company “posted … expanded margins along with a double-digit increase in earnings per share.”  A double-digit EPS increase combined with record sales and robust cash flow signals that profitability per share is moving higher.  This clearly indicates a favourable (positive) outlook for the EPS target. The statement itself, which is drawn from the CEO’s prepared remarks early in the call, provides all the information needed for the classification; no additional context was required.",,,,,,
+7b0841494c71fa09d2c1176f1f6a20ff,"although our first quarter results were strong and exceeded our internal expectations, we have limited visibility on the remainder of 2020 and have accordingly withdrawn our annual guidance.",Q1,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The cited passage states that, despite a strong first-quarter EPS performance, “we have limited visibility on the remainder of 2020 and have accordingly withdrawn our annual guidance.”  Withdrawing EPS guidance and highlighting limited visibility signal heightened uncertainty and potential downside risk to future EPS, which represents a negative outlook for profitability.
+
+(The conclusion is drawn directly from this portion of the context; no additional sections were needed.)",,,,,,
+7b83d4e7fbcef7656663a15824a28583,we now anticipate earnings of $9.70 to $10.10 per share against a prior range of $9.20 to $9.70.,Q2,2021,MMM,Positive,"Stance: Positive
+
+Reason: The company explicitly raised its full-year EPS guidance to $9.70-$10.10 from the prior $9.20-$9.70 range (“we now anticipate earnings of $9.70 to $10.10 per share against a prior range of $9.20 to $9.70”). An upward revision in earnings expectations signals management’s confidence in stronger profitability, hence a positive outlook for EPS.
+
+(The cited sentence from the transcript provides all the information needed; no other parts of the context were necessary for this assessment.)",,,,,,
+7c07e14ddf1f28db14432f17dc11b0ff,this is not an investment that is going to be profitable for us anytime in the near future.,Q3,2021,META,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence states explicitly that a particular investment “is not … going to be profitable … anytime in the near future.”  
+   • Lack of profitability from a sizable investment implies lower earnings (and therefore lower EPS) in the near term.  
+   • According to Guideline 4 (projections and forward guidance) and Guideline 1 (focus on EPS impact), forward-looking comments that signal reduced profits constitute a Negative stance.  
+   • No offsetting positive cues are present, so the dominant context is unfavorable for EPS.
+
+2. Stance: Negative
+
+3. Brief Justification: The speaker predicts the investment will not generate profits in the near term, signaling downward pressure on future EPS.
+
+Context Usefulness: Not necessary—the sentence alone clearly conveys the negative profitability outlook.",Negative,"The statement indicates that the investment will not generate near-term profits, implying a negative impact on earnings and, consequently, EPS.",Negative,"The author explicitly states that the project is not ""going to be profitable for us anytime in the near future.",,
+7c3f22b92d976b9d121be3f9e2b376b7,"the second though smaller piece was an increase in it spending of approximately $1 million or about $0.02 per share of eps, which we previously referenced in february and was factored into our guidance.",Q1,2019,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The cited sentence states that higher IT spending reduced earnings by “about $0.02 per share of EPS.”  An additional expense that lowers EPS represents an adverse impact on profitability.  Even though management had already included this in guidance, the direct effect on EPS is still negative.  (Information drawn directly from the quoted sentence; wider context was not needed.)",,,,,,
+7e073eae93efab43fcc4b52d8e7d653e,we also highlight that our year-to-date adjusted eps of $1.92 is up -- or 10% over last year.,Q2,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the transcript Andrew Wamser states, “we also highlight that our year-to-date adjusted EPS of $1.92 is up … 10% over last year.”  A 10 % year-over-year increase in adjusted earnings per share signals improving profitability, yielding a positive outlook for EPS. The cited sentence from the context directly supports this assessment, so the context was helpful.",Positive,"Year-to-date adjusted EPS increased 10% versus last year, signaling EPS growth.",Positive,"The text explicitly reports that the year-to-date adjusted EPS is ""up -- or 10% over last year."" Reporting double-digit growth in earnings per share is a clear indicator of improved profitability and a positive signal for the EPS target.",,
+7e083f48f6fd2b191e97267d326b8a04,third quarter adjusted earnings were $2.43 per share versus $2.58 per share last year.,Q3,2020,MMM,Negative,"Stance: Negative  
+
+Reason: The cited passage states that adjusted earnings per share fell to $2.43 from $2.58 in the prior-year quarter, indicating a year-over-year decline in EPS. A declining EPS signals weakening profitability, which is negative for the company’s earnings outlook. The information needed to reach this conclusion comes directly from the quoted sentence in the context; no additional context was necessary.",,,,,,
+819d0e7f49dbabc3f5380253b5e47e99,"thus, taking these items into account, along with it being early in the year, we think it prudent to maintain our full year guidance of 3% to 6% for organic growth, earnings per share of $9.20 to $9.70, and free cash flow conversion of 95% to 105%.",Q1,2021,MMM,Neutral,"Stance: Neutral
+
+Reason: In the cited passage management says they are “maintain[ing] our full-year guidance … earnings per share of $9.20 to $9.70.”  Because the company neither raised (positive) nor cut (negative) its EPS outlook, the statement signals no change in expected profitability, making the outlook neutral. The rest of the transcript is not necessary for this classification; the key information is the explicit decision to keep EPS guidance unchanged.",,,,,,
+81bdaee0ecb1e49056c73e700bd4e09e,"second quarter gaap and adjusted earnings per share were $2.59, up 44% compared to last year's adjusted results.",Q2,2021,MMM,Positive,"Stance: Positive
+
+Reason: The text explicitly states that “second quarter GAAP and adjusted earnings per share were $2.59, up 44% compared to last year's adjusted results.”  A 44 % year-over-year increase in EPS signals higher profitability and is clearly favorable for the company’s earnings outlook.  (No additional context was needed beyond this sentence to determine the positive outlook.)",,,,,,
+838900cab4e5520066d67d192be208ea,"2019 fourth quarter adjusted results excluded a net gain of $1.2 million or $0.05 per share, mostly related to a postretirement plan settlement.",Q4,2020,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The sentence merely explains that 2019 Q4 adjusted EPS figures excluded a one-time $0.05 per-share gain from a post-retirement plan settlement. It is a historical accounting clarification and does not signal any future increase or decrease in EPS; therefore it has no clear positive or negative implication for the company’s profitability outlook.",,,,,,
+850a8a8b6668f1af7991dc95f2c37097,we expect another strong quarter with sequential growth driven largely by accelerating demand in data center.,Q2,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence gives forward guidance (“we expect”) about the next quarter.  
+   • It explicitly forecasts “another strong quarter” and “sequential growth,” which signals higher revenue and profitability.  
+   • Accelerating demand in the data-center segment is cited as the driver, implying continued momentum.  
+   • Per Guideline 4 (projections and forward guidance) and Guideline 1 (focus on profitability/EPS cues), such language indicates an improved EPS outlook.  
+   • No conflicting cues are present, so the dominant stance is positive.  
+   • The broader transcript is not required to interpret this sentence.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence predicts “another strong quarter” with sequential growth, implying higher earnings and therefore a favorable EPS outlook. (Context not necessary)",Positive,"The text predicts a strong quarter and growth due to rising demand, suggesting the company’s profits are expected to improve.",Positive,"The expectation of ""another strong quarter"" driven by the data center segment (which typically carries high margins for companies like Nvidia) is a factor that positively contributes to EPS.",,
+8611df5697f94f34319959fefa52aec9,"you're guiding july essentially flat sequentially, despite what i'm guessing as a better mix with non-ops coming in and automotive guided down 40% sequentially, i guess the question is what are some of the offsets that are pulling down gross margin in the current quarter?",Q1,2021,NVDA,Negative,"1. Chain-of-Thought  
+   • The analyst notes that July gross-margin guidance is only “essentially flat” even though mix should improve and then points out that automotive revenue is guided “down 40% sequentially.”  
+   • He asks what “offsets… are pulling down gross margin,” implying there are negative factors weighing on profitability.  
+   • Lower gross margin and a 40 % drop in an operating segment are unfavorable for earnings per share.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+   The sentence highlights margin-pressure offsets and a 40 % sequential decline in the automotive segment, indicating factors that hurt profitability and thus EPS.  
+
+Context: Not necessary—the negative cues are contained within the sentence itself.",Negative,The text says that certain factors are reducing the gross margin. These factors are causing pressure that lowers profitability.,Negative,"The question explicitly asks about ""offsets that are pulling down gross margin."" margin compression (lower margins) is a factor that negatively impacts the bottom line.",,
+86be3ffc9bc7c3d3bd4ad176703071f0,"with respect to earnings, we anticipate a range of $9.70 to $9.90 per share as compared to our prior range of $9.70 to $10.10.",Q3,2021,MMM,Negative,"Stance: Negative
+
+Reason: Management lowered full-year EPS guidance, tightening the range to $9.70-$9.90 from the prior $9.70-$10.10. This reduction of the top end (and a lower midpoint) signals a weaker earnings outlook. The specific guidance cut in the quoted sentence is what drove the negative classification; no additional context was necessary.",,,,,,
+8dd1d660c9c2ccc13e7224ecbab48c55,"looking at our 2020 performance, we posted an organic sales decline of 2% and adjusted earnings of $8.74 per share.",Q4,2020,MMM,Neutral,"Stance: Neutral
+
+Reason: The sentence merely states the level of adjusted EPS ($8.74) for 2020 without indicating whether this figure is expected to rise or fall, nor does it compare the EPS with prior periods or provide any forward-looking commentary. Therefore, from a profitability (EPS) perspective, no clear positive or negative outlook can be inferred.",,,,,,
+8f1b91d37be85b24dc1c4e47a7e96c96,"we expect the acquisition to be immediately accretive to non-gaap gross margins, non-gaap earnings per share, and free cash flow.",Q1,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence gives explicit forward guidance on EPS, stating the acquisition will be “immediately accretive” to non-GAAP EPS.  
+   • “Accretive” means the deal is expected to raise or improve EPS, which directly signals a favourable impact on profitability.  
+   • Under Guideline 4 (projections and forward guidance) this is a clear positive cue.  
+   • No conflicting cues appear in the sentence, so the dominant stance is Positive.  
+   • The wider transcript is not required to interpret this statement.
+
+2. Stance: Positive
+
+3. Brief Justification: The company states the acquisition will be “immediately accretive” to non-GAAP earnings per share, indicating an expected increase in EPS and thus a positive outlook.  
+
+Context necessity: Not necessary; the single sentence contains all needed information.",Positive,The text says the acquisition is expected to immediately increase the company’s non-GAAP earnings per share (EPS).,Positive,"The author explicitly states that the acquisition will be ""immediately accretive"" to non-GAAP earnings per share. In financial terms, accretion means the deal will increase the company's earnings per share.",,
+8f77b15788df05e062e07e45dee06ba6,gaap earnings were $0.84 per share and also up from $0.75 a year ago.,Q3,2019,NEENAH,Positive,"Stance: Positive
+
+Reason: The sentence states that GAAP earnings per share rose to $0.84 from $0.75 a year ago, indicating year-over-year EPS growth and therefore a favorable outlook for profitability. This information comes directly from the opening remarks of the call; the broader context was not required to determine the positive direction of EPS.",,,,,,
+92094b5eaa09b9f8384c84cdb57bffdc,"looking at the components of our year-on-year earnings performance, solid productivity and benefits from q2 2019 restructuring actions increased first quarter per share earnings by $0.07.",Q1,2020,MMM,Positive,"Stance: Positive
+
+Reason: The cited passage (slide 11 discussion of EPS components) states that “solid productivity and benefits from Q2 2019 restructuring actions increased first-quarter per-share earnings by $0.07.”  An increase in EPS is a direct positive development for profitability, so the outlook for the target metric (EPS) is Positive.  (The context is helpful because it explicitly quantifies the EPS increase.)",,,,,,
+98afe727052e656929622cc745346b6c,"looking at our performance through nine months, we have executed well and delivered 11% organic growth, with all business groups about 10%, along with margins of 22% and earnings of $7.81 per share.",Q3,2021,MMM,Positive,"Stance: Positive
+
+Reason: The quoted passage highlights that, through nine months, 3M “delivered … margins of 22% and earnings of $7.81 per share.”  Management characterises this performance as having “executed well,” signalling strong profitability and solid EPS delivery year-to-date.  These affirmative comments on both the absolute EPS level and the quality of execution point to a favourable outlook for the EPS target.
+
+Helpful context: the specific lines “delivered 11% organic growth … margins of 22% and earnings of $7.81 per share” within the prepared remarks.",,,,,,
+9a6661821a170dd1462b371ba2ae46b1,"non-gaap eps was $3.66, up 103% from a year ago.",Q1,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references EPS, stating it is “up 103% from a year ago,” indicating a large year-over-year increase.  
+   • Per Guideline 4 (changes over time) and Guideline 1 (focus on EPS), a significant rise in EPS signals improved profitability, which is classified as Positive.  
+   • No conflicting or mitigating information is present.  
+   • The broader transcript context is not required; the sentence alone provides clear, sufficient evidence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence reports that non-GAAP EPS rose 103% year-over-year to $3.66, directly signaling a strong improvement in profitability.
+
+4. Context Necessity: Not necessary – the sentence itself contains all information needed for classification.",Positive,The text says the company’s adjusted earnings per share (non-GAAP EPS) grew a lot compared to last year—more than double (up 103%).,Positive,"The text reports that non-GAAP EPS was $3.66, which is a 103% increase compared to the prior year.",,
+9ba7abe8b6629447efea59cc1d1471a9,the one-time tax benefit resulted in eps being $0.31 higher.,Q3,2020,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly states that EPS was $0.31 higher.  
+   • Higher EPS directly improves per-share profitability, which is a favorable outcome.  
+   • Although the uplift is described as “one-time,” the immediate effect on reported EPS is still beneficial.  
+   • No conflicting cues are present, so the dominant signal is favorable toward EPS.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence says a one-time tax benefit boosted EPS by $0.31, indicating an increase in profitability. (Context not necessary)",Positive,"The statement explicitly reports a one-time tax benefit that increased EPS by $0.31, indicating a clear positive impact on EPS.",Positive,"The text reports a ""one-time tax benefit"" that resulted in EPS being $0.31 higher.",,
+9c597a0d6ade3d0a4d7b4b8860a8db4a,"as a result, first quarter net selling price and raw materials performance reduced both operating margins and earnings per share by 20 basis points and $0.01, respectively.",Q1,2021,MMM,Negative,"Stance: Negative
+
+Reason: The cited passage states that “first-quarter net selling price and raw materials performance reduced … earnings per share by … $0.01.”  A factor that lowers EPS signals a negative impact on profitability, so the outlook for the target metric (EPS) is negative.  (This conclusion is drawn directly from the CFO’s comments in the earnings-call context; no additional context was required.)",,,,,,
+9d85142655bf94d563b82e6392bc3922,"when considering our 2021 accretion estimate of $0.10 per share, we note that this represents nine months of ownership.",Q1,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: In the cited sentence the company states that the Scapa acquisition is expected to be accretive to 2021 results by about $0.10 per share (“our 2021 accretion estimate of $0.10 per share”). Any accretion adds to earnings-per-share, implying an improvement rather than a decline, and therefore signals a positive outlook for EPS. (This conclusion is drawn directly from the quoted portion of the context; no additional parts of the transcript were required.)",Positive,"The sentence mentions EPS accretion of $0.10 per share, indicating an increase in earnings per share, which is favorable for EPS.",Positive,"The text highlights an ""accretion estimate of $0.10 per share."" Accretion means an addition or increase in earnings per share, which is a direct indicator of improved profitability and a favorable outlook for EPS.",,
+9ec576b906d3297c8d362894e9b2d31f,"the increase was due to prior year adjusted eps, reflecting $0.24 per share of onetime noncash expenses associated with tax assessments in our brazilian operations.",Q2,2020,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral  
+
+Reason: The sentence explains that the year-over-year rise in EPS is largely the mathematical result of a one-time, non-cash tax charge taken in the prior year (“$0.24 per share of onetime noncash expenses associated with tax assessments in our Brazilian operations”). Because the improvement is driven by a non-recurring item rather than an ongoing change in operations, it does not signal a sustainably higher or lower future EPS, so the outlook for EPS is neutral.",,,,,,
+a102c9c6567a51c8731ec4c6bf6580c1,"but on an eps basis because of some of the below the line items, with pats and the jvs, there will be a little bit more of a headwind.",Q3,2019,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: In the quoted text management states, “on an EPS basis … there will be a little bit more of a headwind.”  A “headwind” implies pressure on, or reduction of, EPS, thus signaling a negative outlook for that metric.  
+(The sentence appears in the Q&A portion where the CFO explains that below-the-line items such as taxes and JV contributions will weigh on fourth-quarter EPS.)",,,,,,
+a22a1f7d1cefb0d2d22f94bf4fdf1d5f,an important point hopefully self-evident is that the improvement in the q3 operating margin does reflect the strong revenue growth in the quarter.,Q3,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • EPS is driven by profitability metrics such as revenue growth and operating margin (Guideline 4).  
+   • The sentence states there was “improvement in the Q3 operating margin” and ties this to “strong revenue growth.”  
+   • Higher operating margin and stronger revenues signal higher earnings potential, which supports a favorable stance toward EPS.  
+   • No conflicting cues are present, and the sentence explicitly indicates better profitability.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The sentence highlights an improvement in operating margin resulting from strong revenue growth, indicating better profitability and thus a positive outlook for EPS.  
+
+Context necessity: Not necessary (the sentence alone provides the needed information).",Positive,"The statement highlights that improvement in Q3 operating margin is driven by strong revenue growth, which is an earnings-positive factor contributing to higher EPS.",Positive,"The text highlights an ""improvement in the Q3 operating margin.",,
+a2af59d094d710a4a32151b653ab4f59,gaap eps in the quarter was negative $2.98.,Q2,2020,NEENAH,Negative,"Stance: Negative
+
+Reason: The text explicitly states that GAAP EPS for the quarter was –$2.98, meaning the company reported a loss per share. A negative EPS reflects deteriorated profitability and is unfavorable for the EPS metric. This specific line from the context (“GAAP EPS in the quarter was negative $2.98”) directly led to the negative classification; no additional context was needed.",,,,,,
+a2e511e3a97a162361a223ff261823b0,"in the third quarter, the net impact of selling prices and raw material cost reduced operating margin by over 300 basis points and eps by over $0.35 per share versus the prior year.",Q3,2021,NEENAH,Negative,"Stance: Negative
+
+Reason: The cited passage explicitly says that the combined effect of pricing and higher raw-material costs “reduced … EPS by over $0.35 per share versus the prior year.” A reduction in EPS signifies a deterioration in profitability, giving a clearly negative outlook for the EPS target. (This information is drawn directly from the management commentary in the context; no additional sections were needed.)",Negative,"EPS decreased year-on-year due to cost pressures, signaling deterioration in per-share earnings.",Negative,"The text explicitly reports that certain factors ""reduced... eps by over $0.35 per share"" compared to the prior year. A reported decline in earnings per share is an unfavorable signal for the EPS target.",,
+a4083b1b8916d51b0f36ae02d628b0c1,"and so to sundar’s opening comments and as we’ve been talking about, some of the margin upside last year was due to timing issues with a very strong growth of revenues and there was a lag in investments.",Q3,2022,GOOG,Negative,"1. Chain-of-Thought  
+   • EPS is closely tied to profit margins.  
+   • The sentence explains that last year’s “margin upside” (higher profitability) was caused by temporary “timing issues” – revenues surged while investment spending lagged.  
+   • By labeling the margin expansion as timing-related and not structural, the speaker implies that those higher margins (and any EPS boost they created) are not sustainable going forward.  
+   • A reversal or normalization of margins would weigh on future EPS; hence the sentence carries an unfavorable implication for EPS.
+
+2. Stance: Negative
+
+3. Justification  
+   The sentence says last year’s higher margins were merely a timing effect (“margin upside last year was due to timing issues”), suggesting that the prior EPS strength was temporary and likely to diminish.  
+
+Context use: The broader transcript is not necessary; the sentence itself contains the key information.",Positive,"Strong revenue-driven margin upside dominates, indicating a positive impact on EPS, despite the minor mention of investment timing.",Neutral,"The author notes a boost in margins, but explains it came from temporary timing and delayed investments — not real operational improvement. So the view is balanced: positive result, but with caution.",,
+a9660167d03bd3b2e5a4263b14647e61,"q1 gaap eps was $1.47, up 130% from a year earlier and non-gaap eps was $1.80, up 105% from a year ago.",Q1,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly reports EPS figures and states they are “up 130%” (GAAP) and “up 105%” (non-GAAP) year-over-year.  
+   • Rising EPS directly signals stronger profitability, which matches the guideline example for a Positive stance.  
+   • No conflicting cues are present; the message is unambiguously favorable.  
+   • The wider transcript is not needed to interpret this sentence.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   EPS increased 130% (GAAP) and 105% (non-GAAP) versus last year, indicating markedly improved profitability—clearly a positive signal. (Context not necessary)",Positive,"The text shows strong year-over-year EPS growth (GAAP up 130% and non-GAAP up 105%), which indicates a positive outlook.",Positive,The text reports substantial growth in both GAAP EPS (up 130%) and Non-GAAP EPS (up 105%) compared to the previous year.,,
+aa78f8f41cf9eb681d83e4659ef6b011,"in q3 2020, the adjusted earnings per share were $0.55 and excluded $0.09 of unusual costs.",Q3,2021,NEENAH,Neutral,"Stance: Neutral
+
+Reason: The sentence only states what adjusted EPS was in Q3 2020 ($0.55) and notes that it excluded certain costs. It does not indicate whether current or future EPS is expected to rise or fall, so no directional outlook can be inferred. The broader transcript context is not needed for this specific classification.",Neutral,The text only reports a factual earnings number for that quarter. It doesn't compare this number to anything else.,Neutral,"The text reports the adjusted earnings per share figure for the quarter as a factual result and mentions the exclusion of unusual costs. It does not provide information regarding growth, decline, or performance relative to expectations, offering no clear positive or negative signal.",,
+ab9a93ef6d23f9a6752777c150497721,this drove a 14% increase in adjusted earnings per share.,Q4,2021,MMM,Positive,"Stance: Positive
+
+Reason: The sentence explicitly states that the company achieved “a 14% increase in adjusted earnings per share,” indicating EPS is rising, which is favorable for profitability. This line comes from the CEO’s 2021 recap section of the transcript, directly signalling an improvement in the targeted metric.",,,,,,
+ad6e40676a5eba573d84acf049a855dd,"this result included a $0.06 earnings benefit from lower other expenses, that was offset by higher tax rate and diluted share count, which were each a headwind of $0.03 per share versus last year.",Q2,2021,MMM,Neutral,"Stance: Neutral
+
+Reason: The excerpt notes that EPS received a $0.06 lift from lower “other expenses,” but this was entirely offset by two separate headwinds—higher tax rate and a larger diluted share count—each reducing EPS by $0.03. Because the positive and negative impacts cancel out, the net effect on EPS is essentially zero, implying no clear positive or negative trend.",,,,,,
+ae5519acaea5015d26a0e026f705ca54,"non-gaap eps was $3.10, up 64% from a year ago.",Q4,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses EPS, stating it is $3.10 and “up 64% from a year ago.”  
+   • An increase in EPS indicates higher profitability and a stronger earnings position.  
+   • According to the labeling guidelines, statements describing rising EPS are Positive.  
+   • No conflicting cues are present, so the dominant (and sole) signal is favorable.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   EPS grew 64% year-over-year (“non-GAAP EPS was $3.10, up 64%”), clearly signaling improved profitability—hence Positive.  
+   Context necessity: Not necessary; the sentence alone provides sufficient evidence.",Positive,"The text says non-GAAP EPS rose 64% compared to last year, showing the company is making much more profit than before.",Positive,"The text explicitly reports that Non-GAAP EPS ($3.10) is ""up 64%"" from a year ago.",,
+ae98859173f9c760d197b17b9cfb77c1,"earnings per share is projected to be between $9.20 and $9.70, or up 5% to 11% on an adjusted basis.",Q4,2020,MMM,Positive,"Stance: Positive
+
+Reason: In the 2021 guidance (Slide 13) management states, “earnings per share is projected to be between $9.20 and $9.70, or up 5% to 11% on an adjusted basis.”  A forecasted 5-11 % increase in EPS signals an expected improvement in profitability, which is a positive outlook for the EPS target.",,,,,,
+b01baf778046815fb081fb70fdff4fb9,"our first half 2020 adjusted eps of $1.75 is essentially flat with last year, a positive outcome.",Q2,2020,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral  
+
+Reason: The cited sentence reports that adjusted EPS for the first half of 2020 is “essentially flat with last year.” Because the metric is neither up nor down in any meaningful way, it does not signal an improvement or deterioration in profitability. Therefore, from an EPS perspective, the outlook is neutral. (Helpful section: “our first half 2020 adjusted eps of $1.75 is essentially flat with last year…”)",,,,,,
+b0295444ab92068f0b5d50582c8b7c77,"with respect to organic sales, we delivered growth of 1% year-over-year with adjusted earnings of $2.43 per share.",Q3,2020,MMM,Positive,"Stance: Positive  
+
+Reason: The excerpt reports that the company “delivered growth of 1% year-over-year with adjusted earnings of $2.43 per share.”  A year-over-year increase in organic sales accompanied by the disclosure of a solid EPS figure signals an improvement (or at least stability) in profitability.  Because the statement highlights delivery of earnings rather than any deterioration, the short-term outlook for EPS is viewed positively.  (No additional parts of the wider transcript were needed to reach this conclusion.)",,,,,,
+b0c06b46db0be1dce93e027c0ba16158,you slightly raised full year at the midpoint.,Q1,2021,META,Negative,"1. Chain-of-Thought  
+   • The speaker is referring to management having “slightly raised full year at the midpoint.”  
+   • In the preceding dialogue the “full-year” figure that was just raised is total 2021 expense guidance (from $68-73 B to $70-73 B).  
+   • Higher projected expenses, with revenue guidance unchanged, normally depress operating profit and therefore EPS.  
+   • Hence the sentence signals a modestly adverse development for profitability/EPS.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence notes that the company increased its full-year expense midpoint, implying higher costs that weigh on EPS.  
+
+Context usefulness: Helpful – the earlier CFO remarks clarify that the raised midpoint pertains to expenses, enabling the negative interpretation.",Positive,"The statement indicates an upward revision at the midpoint for the full year, signaling an expected improvement in earnings and a positive impact on EPS.",Positive,"In a financial context, ""raising the full-year guidance at the midpoint"" indicates that management has increased their performance projections.",,
+b132be31c23b475088fda55f3fbb94ce,company-wide total sales increased to $8.9 billion with organic growth of 8% and earnings of $2.77 per share up 27% year on year on an adjusted basis.,Q1,2021,MMM,Positive,"Stance: Positive
+
+Reason: The text states that “earnings of $2.77 per share [were] up 27% year on year on an adjusted basis.” A 27 % increase in EPS clearly signals stronger profitability, so the outlook for the EPS target is positive. (This information appears in the slide-5 discussion early in the call; no other parts of the broader context were needed for this judgment.)",,,,,,
+b177858f6913594a89363059368f93a8,"lastly, we experienced unforeseen flood damage at our pennsylvania facility related to hurricane ida, impacting results by approximately $0.06 per share.",Q3,2021,NEENAH,Negative,"Stance: Negative  
+
+Reason: The sentence states that “unforeseen flood damage … impacted results by approximately $0.06 per share.”  A direct reduction of $0.06 to EPS represents a negative effect on the company’s profitability outlook for this metric. (This conclusion is drawn entirely from the quoted sentence; the broader context was not required for the determination.)",Negative,"Unexpected flood damage reduced results by $0.06 per share, signaling a negative effect on EPS.",Negative,"The text reports that flood damage ""impacted results by approximately $0.06 per share."" Since damage incurs costs and disrupts operations, this ""impact"" represents a reduction in earnings, which is a negative outcome for EPS.",,
+b1e2f06ada1d2ccef275f68e02d5ecf7,operating income was $1.6 billion with operating margins of 18.8% and earnings per share of $2.31.,Q4,2021,MMM,Neutral,"Stance: Neutral
+
+Reason: The sentence merely states the absolute EPS figure for the quarter (“earnings per share of $2.31”) without indicating whether this is up or down versus prior periods, guidance, or consensus. Because no directional change or comparison is provided, the impact on the EPS outlook can’t be inferred as positive or negative. (Other parts of the broader context—e.g., that EPS beat expectations—are not contained in the specific text we were asked to classify.)",,,,,,
+b2dfbde80335aa81a358371b57a73bba,"full year 2020 gaap eps, was $2.66 versus $2.76.",Q4,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: The cited section of the transcript states, “full year 2020 GAAP EPS was $2.66 versus $2.76.”  That represents a year-over-year decline in EPS, signaling reduced profitability per share.  Because EPS fell rather than rose, the outlook for the EPS metric is negative.  (No other parts of the context are required to reach this conclusion.)",,,,,,
+b3c59b322efb32128c0ffc7215dd381c,"first, as discussed on the prior slide, organic growth and ongoing cost management and productivity efforts delivered $0.43 per share to earnings growth.",Q4,2020,MMM,Positive,"Stance: Positive
+
+Reason: The sentence states that “organic growth and ongoing cost management and productivity efforts delivered $0.43 per share to earnings growth.”  An additional $0.43 to EPS represents a clear benefit to profitability, indicating that these actions boosted earnings.  Hence, from an EPS perspective, the outlook conveyed is positive.  (No other parts of the broader transcript are needed for this determination.)",,,,,,
+b41f1c53d87d55aeb9447c77f20cde86,"margins and earnings, however, increased significantly in the quarter.",Q4,2019,NEENAH,Positive,"Stance: Positive  
+
+Reason: The sentence states that “margins and earnings … increased significantly in the quarter.”  Higher earnings translate directly into higher earnings-per-share (EPS).  This positive movement is reinforced by the earlier context noting “Adjusted earnings per share of $0.87, grew 64% from $0.53 a year ago.”  Rising EPS signals improved profitability, therefore the outlook for the EPS target is positive.",,,,,,
+b464ce3a50db80bf2d5c35a3d90fade0,"normalizing for non-gaap adjustments, adjusted eps was $3.10 in 2021, down from $3.68.",Q4,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The sentence states that adjusted EPS fell to $3.10 in 2021 from $3.68 the prior year (“…adjusted eps was $3.10 in 2021, down from $3.68”). A decline in EPS signals reduced profitability, which is negative for the company’s earnings outlook. (The wider transcript is not needed to reach this conclusion; the quoted sentence alone indicates the downward move.)",Negative,"Adjusted EPS declined year-over-year, indicating weaker per-share earnings.",Negative,"The text explicitly reports that adjusted EPS was ""down from 3.68 to 3.10. A decrease in earnings per share is a clear indicator of declining profitability and a negative outcome for EPS.",,
+b6491d5970ea9dad3d52637bbf432850,"in terms of profitability, we have an effort underway to ensure we redeploy investments against our most compelling opportunities.",Q3,2022,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly addresses “profitability,” linking the action (redeploying investments) to improving financial performance.  
+   • Redeploying capital toward “most compelling opportunities” implies cost-efficiency and higher returns, which generally bolster earnings per share.  
+   • There is no conflicting cue; the statement conveys a proactive, favorable measure for future profits.  
+   • Guideline 4 (strategic actions affecting EPS) and Guideline 5 (dominant context) point to a Positive stance.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The company says it is redeploying investments toward higher-return opportunities, a strategy aimed at boosting profitability and thus supportive of EPS growth.
+
+Context: Not necessary for classification.",Neutral,"The statement discusses investment strategy and profitability in general terms but provides no information on earnings, margins, or EPS impact, so the stance on EPS cannot be determined.",Positive,"The author mentions ""profitability"" and describes a strategic effort to ""redeploy investments against our most compelling opportunities."" This indicates a favorable outlook and proactive management steps intended to improve the company's bottom-line performance, which directly relates to the future trajectory of EPS.",,
+b6dc2982d86bcc168496936ff5b5aec7,second quarter 2020 gaap eps increased to $0.68 from $0.66.,Q2,2020,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: In the CFO’s remarks he states, “second quarter 2020 GAAP EPS increased to $0.68 from $0.66.”  Since EPS—the profitability metric in question—rose versus the prior-year quarter, this signals an improvement in earnings and therefore a positive outlook for EPS. The rest of the context is not required to draw this conclusion.",,,,,,
+b6f9628c323e2170bf5743b836e742f5,"do you still believe that you’re in more catch-up mode, or should we expect a more stable rate of investment and greater profit improvement?",Q3,2022,GOOG,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence is an analyst question, not a management statement.  
+   • It merely asks whether future investment will level off and profits will improve; it does not assert that these things will (or will not) happen.  
+   • No actual data, guidance, or management commitment about EPS/profitability is provided.  
+   • Per Guideline 6, when EPS impact is unclear or absent, classify as Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence is only an inquiry about possible profit improvement and contains no factual or forward-looking assertion that would signal a positive or negative impact on EPS.
+
+Context usefulness: Not necessary—the neutrality can be determined from the sentence alone.",Neutral,"This is a forward-looking question about investment and profitability, not a statement of actual earnings or EPS performance; there is no information to determine EPS stance.",Neutral,"The text mentions ""profit improvement,"" which is a primary driver of EPS and a factor contributing to its outlook. However, the author is asking a question (""should we expect...?"") rather than making an assertion or reporting a specific trend.",,
+bc8e2a57fe73daff5825ae8c418355d7,"fourth quarter earnings were $2.38 per share, up 22% from last year on an adjusted basis.",Q4,2020,MMM,Positive,"Stance: Positive
+
+Reason: The cited passage states that “fourth quarter earnings were $2.38 per share, up 22% from last year on an adjusted basis.”  A 22 % year-over-year rise in EPS clearly signals stronger profitability, which is favorable for the company’s earnings‐per‐share outlook.  This information comes directly from the Slide 7 discussion in the transcript, so the context is helpful for the classification.",,,,,,
+bc9a06dbaed7aafacc1d5a3abc21075d,"in second quarter 2020, the adjusted loss per share of $0.08 excluded $2.90 of such costs.",Q2,2021,NEENAH,Negative,"Stance: Negative  
+
+Reason: The sentence states that the company recorded “an adjusted loss per share of $0.08” in Q2 2020. A loss per share means EPS was negative, signalling weak profitability. That directly points to a negative outlook for the EPS metric. (The remainder of the call transcript is not required to interpret this specific statement.)",Negative,"The sentence reports an adjusted loss per share, directly indicating negative EPS.",Negative,"The text reports an ""adjusted loss per share of $0.08."" Reporting a loss per share instead of positive earnings indicates a lack of profitability for the period, which is a negative signal for the EPS target.",,
+bdcc462e2d15647b7f6a822056b776f3,"in the fourth quarter, it may be a little bit slightly lower.",Q2,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason:  
+During the Q&A (Andrew Wamser’s response), management said, “I would expect the third quarter, the margin profile to be roughly comparable to what we just saw. In the fourth quarter, it may be a little bit slightly lower.”  Lower margins generally translate into lower earnings per share. Because the company is signalling that profitability (and therefore EPS) is likely to dip in Q4, the outlook for EPS in this passage is negative.",,,,,,
+bec1163b850c64b702ce6fb7ef7cfda8,"normalizing for those and other items, adjusted eps was $0.90, in line with last year's strong second quarter results.",Q2,2021,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: The cited sentence states that, after normalizing for special items, adjusted EPS was $0.90 “in line with last year’s strong second-quarter results.” Because EPS is essentially flat versus the prior year—neither rising (which would be positive) nor falling (which would be negative)—the outlook for EPS is best classified as Neutral. The relevant information is contained directly in the quoted text; no additional context is needed.",Neutral,"Adjusted EPS is unchanged versus last year, indicating stable but not improving per-share earnings.",Neutral,"The text reports that adjusted EPS was ""in line with"" the previous year's results. This indicates that the earnings performance was flat compared to the prior period, showing neither significant improvement nor deterioration.",,
+c06ff18fdd3fa03c292d9afd7179fe43,"we are working again to try and improve that for every quarter going forward, but that's how you should look at our earnings for q1 primarily from data center.",Q4,2022,NVDA,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence simply explains that Q1 earnings will be driven “primarily from data center” and that the team is “working again to try and improve that for every quarter going forward.”  
+   • It does not state whether EPS (profits per share) will rise or fall—only that data-center results will be the key contributor and that management aims to keep improving.  
+   • No clear positive (e.g., higher EPS) or negative (e.g., lower EPS) signal is provided, so under Guideline 6 (“If eps is absent or only tangentially referenced, choose Neutral”) the correct stance is Neutral.
+
+2. Stance: Neutral  
+
+3. Brief Justification  
+   The sentence merely notes that Q1 earnings will mainly come from the data-center segment and that management seeks continuous improvement, without indicating any specific upward or downward impact on EPS.
+
+Context necessity: Not necessary—the sentence alone lacks a directional EPS cue, so the Neutral label can be determined without broader context.",Positive,The author says they are trying again to improve earnings each quarter from now on.,Positive,"The author explicitly states they are ""working again to try and improve that for every quarter going forward.""",,
+c07a68cb075c3895dacb1376afc8280b,"excluding these adjusting items, eps was negative $0.08 and compared to $0.95 in 2019.",Q2,2020,NEENAH,Negative,"Stance: Negative  
+
+Reason: The cited sentence (Bill McCarthy’s summary near the start of the call) states that, after excluding adjusting items, EPS swung from +$0.95 in Q2-19 to –$0.08 in Q2-20. A move from a positive profit per share to a loss clearly signals a deterioration in profitability, giving a negative outlook for the EPS target.
+
+(The context was directly useful because it provided the specific year-over-year EPS comparison showing this decline.)",,,,,,
+c10f0fac06e05892894f1f46cc36bbdb,"as noted, we anticipate a year-on-year earnings headwind of $0.65 to $0.80 per share for the full year or $0.40 to $0.55 in the second half due to rising cost pressures.",Q2,2021,MMM,Negative,"Stance: Negative  
+
+Reason: In the guidance discussion (“…we anticipate a year-on-year earnings headwind of $0.65 to $0.80 per share for the full year… due to rising cost pressures”), management explicitly warns that EPS will be reduced by $0.65-$0.80. A projected headwind to earnings per share signals a deteriorating EPS outlook, hence a negative stance. (The cited sentence itself is sufficient; broader context was not needed to reach this conclusion.)",,,,,,
+c367d7fad0fb8b28b09ce8ad12c38dfd,"but yeah, given the expense growth that we outlined, which is implied in the 30 -- north of 30%, we don't expect revenue growth at that level, so we would expect 2022 margins to be lower than 2021.",Q3,2021,META,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence compares expense growth (north of 30%) with a slower revenue growth outlook.  
+   • Because expenses will rise much faster than revenue, management “would expect 2022 margins to be lower than 2021.”  
+   • Lower margins directly imply reduced profitability, which is detrimental to earnings per share.  
+   • No offsetting positive cues are present; the dominant signal is worsening profitability.  
+
+2. Stance: Negative  
+
+3. Brief Justification  
+   Lower margins in 2022 versus 2021, driven by expenses outpacing revenue, point to weaker profitability and thus a negative outlook for EPS. (Context not necessary.)",Negative,"The statement clearly indicates that higher expense growth relative to revenue will lead to lower margins in 2022 compared with 2021, signaling a negative impact on EPS.",Negative,"The author explicitly states that they ""expect 2022 margins to be lower than 2021"" because expense growth is outstripping revenue growth.",,
+c4c8d9a92d2900b81a0eafe76f5e17c3,net income was $4.4 billion or $1.64 per share.,Q3,2022,META,Neutral,"1. Chain-of-Thought Reasoning  
+   - The sentence reports an absolute EPS figure (“$1.64 per share”) without indicating any change, comparison, improvement, decline, or management commentary.  
+   - There is no language implying whether this level is good or bad relative to prior periods or expectations.  
+   - Per Guideline 6, if EPS is merely stated with no evaluative cue, the stance is Neutral.
+
+2. Stance: Neutral
+
+3. Brief Justification: The sentence only states the EPS value (“$1.64 per share”) without expressing it as higher, lower, or otherwise affecting profitability, so it conveys no positive or negative stance.
+
+Context usefulness: Not necessary—the sentence alone provides sufficient information for classification.",Neutral,"Only the absolute values of net income and EPS are reported, with no indication of increase or decrease, offering no basis for EPS stance.",Neutral,"The text provides a neutral summary of earnings, citing $1.64 per share and $4.4 billion in net income. In the absence of historical benchmarks or descriptive adjectives, the report offers no judgment on the company’s actual performance.",,
+c4d07c717315c3ef2d53abcaf9a8bba8,"second quarter net selling price and raw materials performance reduced both operating margins and earnings per share by 140 basis points and $0.17, respectively.",Q2,2021,MMM,Negative,"Stance: Negative  
+
+Reason: In the cited section the company states that “second quarter net selling price and raw materials performance reduced … earnings per share by … $0.17.”  A direct reduction in EPS clearly signals a negative impact on the financial target.  (This conclusion is drawn entirely from the quoted sentence; the broader transcript is not required for this classification.)",,,,,,
+c628c0d7306d07bbccb95fcea115de42,"non-gaap eps was $1.17, up 60% from a year ago, adjusting for our stock split.",Q3,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly discusses “non-GAAP EPS”.  
+   • It states EPS “was $1.17, up 60% from a year ago,” which signals a substantial year-over-year increase.  
+   • Rising EPS directly implies stronger profitability for shareholders.  
+   • No conflicting or mitigating information is present.  
+   • Therefore, the stance toward EPS is clearly favorable.  
+   • According to Guideline 4 (changes over time) and Guideline 2 (explicit financial indicator), this is a Positive signal.  
+   • The broader transcript is not required to interpret this single, self-contained fact.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence reports that non-GAAP EPS increased 60% year-over-year to $1.17, indicating improved profitability—hence a positive outlook for EPS.  
+
+Context necessity: Not necessary.",Positive,"The text says non-GAAP EPS rose 60% from last year, showing the author has a positive view of the company’s improving profitability per share.",Positive,"The text reports that non-GAAP EPS was $1.17, which is a 60% increase from a year ago.",,
+c6990b9dcd5cada6a39e60e333548680,"now at the same time, i am also focused on delivering better financial results than what we have reported recently and on meeting the expectation that i outlined last year of delivering compounding earnings growth even while investing aggressively in future technology.",Q4,2022,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The speaker says they are “focused on delivering better financial results than what we have reported recently.”  
+   • They explicitly reaffirm a goal of “delivering compounding earnings growth,” which directly implies a rising trend in earnings.  
+   • According to Guideline 4 (projections and forward guidance) and Guideline 1 (focus on EPS outlook), a commitment to higher earnings signals a favorable stance toward future EPS.  
+   • No conflicting cues are present; the dominant context is clearly upbeat about profitability.
+
+   Context use: The broader transcript is not required; the single sentence alone conveys the positive outlook. (Context not necessary)
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The sentence states management’s intent to “deliver better financial results” and achieve “compounding earnings growth,” indicating an expected improvement in EPS.",Positive,"The statement expresses a focus on delivering improved financial results and compounding earnings growth, which are earnings-positive factors implying a favorable impact on EPS.",Positive,"The author explicitly states a focus on ""delivering compounding earnings growth"" and ""delivering better financial results"" than in the recent past.",,
+c9fd0aca8102c3cce0abb7a1953630e5,"our very strong financial results in the first quarter reflect both lapping the impact of covid on our business beginning in march 2020, as well as the benefit of excellent underlying operating performance.",Q1,2021,GOOG,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence states “our very strong financial results in the first quarter,” explicitly signalling improved profitability.  
+   • “Very strong financial results” imply higher earnings, which normally translate into higher EPS.  
+   • The strength is attributed to both easier comps (“lapping the impact of covid”) and “excellent underlying operating performance,” reinforcing that the improvement is genuine, not temporary noise.  
+   • According to Guideline 4 (financial indicators or trends) and Guideline 1 (focus on EPS implications), this is a favorable signal for EPS.  
+   • No negative or neutral qualifiers are present, so the dominant context is clearly positive.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The sentence highlights “very strong financial results” driven by “excellent underlying operating performance,” indicating improved profitability and thus a positive outlook for EPS.  
+
+Context necessity: The immediate sentence alone conveys the positive EPS signal; full transcript context is not necessary for this classification.",Positive,"Strong financial results and excellent operating performance indicate improved earnings, which positively contribute to EPS even though EPS is not explicitly mentioned",Positive,"Very strong financial results"" and ""excellent underlying operating performance"" are direct signals of bottom-line growth.",,
+cb26744014071846decf1b74932d3899,"the tax rate embedded in the full year 2020 adjusted eps calculation was 21%, up from 19.3% in 2019 due to changes in geographic earnings mix and changes in certain tax laws.",Q4,2020,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative
+
+Reason: The cited sentence states that “the tax rate embedded in the full year 2020 adjusted EPS calculation was 21%, up from 19.3% in 2019….”  A higher effective tax rate directly reduces net income per share, putting downward pressure on EPS going forward.  This signals a negative outlook for the EPS metric.  
+
+Helpful section: “the tax rate embedded in the full year 2020 adjusted eps calculation was 21%, up from 19.3% in 2019…”  
+
+(The remainder of the broader transcript was not required for this specific assessment.)",,,,,,
+ce98652fbf006c3f9e401386cbd2d042,"at this time, we believe q2 results will be especially challenged, given the trends we have seen so far in april, with revenue and eps declines year-over-year.",Q1,2020,MMM,Negative,"Stance: Negative
+
+Reason: The company explicitly states, “we believe Q2 results will be especially challenged … with revenue and EPS declines year-over-year.” This indicates management is anticipating lower earnings per share, which is a negative outlook for the EPS target. (Context reference: Mike Roman’s remarks near the end of the transcript.)",,,,,,
+d1283ba7be1dbca1c1c51787104520b2,adjusted earnings were $0.38 per share excluding $0.19 of unusual costs.,Q3,2021,NEENAH,Negative,"Stance: Negative  
+
+Reason: The text reports Q3-21 adjusted EPS of $0.38.  In the same section of the call (context lines: “In Q3 2020, the adjusted earnings per share were $0.55…”), management shows that EPS has fallen from $0.55 a year earlier to $0.38.  The year-over-year decline signals deteriorating profitability, implying a negative outlook for EPS.",Neutral,The text states a specific earnings amount for the quarter but does not provide any comparison to previous results or future goals. ,Neutral,"The sentence only reports adjusted EPS without indicating growth, decline, or comparison to expectations.",,
+d15eccf61994ddfd963b2c64d21b4cf5,"and dave, if macro slows down more into perhaps next year and even beyond or your revenue growth flattens even for other reasons, are you prepared to [dial down] overall expense growth to a similar level to preserve margins and profitability?",Q2,2022,META,Neutral,"1. Chain-of-Thought Reasoning  
+   • The sentence is an analyst’s question, not management commentary.  
+   • It poses a hypothetical about whether the company would cut expenses if revenue slows, but it does not state that expenses will in fact be cut or that EPS will rise or fall.  
+   • There is no concrete information or guidance provided—only an inquiry—so there is no signal that profitability (and therefore EPS) will improve or worsen.  
+
+2. Stance: Neutral  
+
+3. Brief Justification: The sentence merely asks if the company would reduce expenses under certain conditions; it offers no actual outlook or commitment affecting EPS.  
+
+Context necessity: Not necessary—the neutrality is clear from the sentence alone.",Neutral,"This is a forward-looking question about managing expenses under potential macro or revenue changes; it does not provide actual earnings or EPS information, so the impact on EPS cannot be determined.",Neutral,"It asks whether margins and profits (and EPS) can be maintained despite slowing revenue, by reducing expense growth.",,
+d1e969a2d950ec1e2ad17c0ed841bd52,"adjusted earnings were $19.3 million compared to $500,000 in last year?s second quarter.",Q2,2021,NEENAH,Positive,"Stance: Positive
+
+Reason: In the cited section (“adjusted earnings were $19.3 million compared to $500,000 in last year’s second quarter”), adjusted earnings rose sharply year-over-year. A jump of this magnitude implies materially higher earnings per share (EPS), signalling improved profitability. Therefore, the outlook for EPS is positive.",Positive,"Adjusted earnings increased significantly compared to last year, signaling strong improvement in earnings and EPS.",Positive,"The text explicitly reports a significant year-over-year increase in adjusted earnings, which grew from $500,000 to $19.3 million. This substantial growth in earnings represents a clear improvement in profitability and a favorable signal for EPS.",,
+d2d23948a7131e3f27e4a68025d70908,"q2 gaap eps was $0.99, up 10% from a year earlier.",Q2,2021,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly references EPS (“Q2 GAAP EPS … up 10% from a year earlier”).  
+   • According to Guideline 4 (changes over time), an increase in EPS signals improved profitability.  
+   • No negative or offsetting information is presented, so the dominant cue is favorable.  
+   • Therefore, the stance toward EPS is Positive.  
+   • The broader transcript was not needed to interpret this straightforward statement.
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   EPS rose 10% year-over-year, directly indicating stronger earnings per share and hence a positive profitability outlook; the context was not necessary for this determination.",Positive,"The text says GAAP EPS rose 10% from last year, which clearly signals a positive trend.",Positive,"The text reports that GAAP EPS was $0.99, which is up 10% compared to the same period last year.",,
+d4cf45c9fc4e626d7cbf4d2395df60c6,it's a benefit of about $721 million in the quarter and the benefit from this change will be lower in the second half as you're looking ahead.,Q2,2021,GOOG,Negative,"1. Chain-of-Thought Reasoning  
+   • The sentence refers to a $721 million accounting benefit that lifted current-quarter profit.  
+   • It immediately notes that “the benefit from this change will be lower in the second half,” signaling that future quarters will receive a smaller boost.  
+   • A reduced benefit implies lower relative profitability and, therefore, pressure on future EPS compared with the current quarter.  
+   • Dominant cue is the forward-looking decrease in benefit, which is unfavorable for EPS.
+
+2. Stance: Negative
+
+3. Brief Justification  
+   The sentence warns that the $721 million profit lift will “be lower in the second half,” indicating a diminishing boost to earnings and thus a negative implication for future EPS.
+
+Context: Not necessary – the sentence alone contains the needed information.",Negative,"The statement indicates that the earnings benefit will decline in the second half, signaling a negative impact on EPS, while the current quarter figure is merely a flat factual amount.",Negative,The text mentions about forcast of a decline in benefits in the second half due to some changes.,,
+d81d17a1815a2dbbaeffd9fbbfb96861,"with respect to the fourth quarter, we expect adjusted eps to be down approximately 20% from $0.77 in the prior-year quarter, implying full year adjusted eps could finish about 10% below the low end of our original guided range.",Q3,2021,SCHWEITZER-MAUDUIT,Negative,"Stance: Negative  
+
+Reason: In the CFO’s outlook section he says, “we expect adjusted EPS to be down approximately 20% from $0.77 in the prior-year quarter, implying full-year adjusted EPS could finish about 10% below the low end of our original guided range.”  This explicit guidance for both Q4 and the full year points to a decline in earnings per share relative to last year and to management’s own prior expectations, signaling a negative outlook for EPS.  (Context: Andrew Wamser’s discussion of fourth-quarter and full-year EPS expectations).",Negative,"
+A significant decline in EPS versus last year and below guidance.",Negative,"The text explicitly expects EPS to be ""down approximately 20%"" and projects that full-year results could finish ""10% below the low end of our original guided range."" A forecast of significant decline and missing original guidance is a clearly negative outlook for EPS.",,
+d893a276718f69c345f828acee390099,we estimate at least $0.50 of adjusted eps accretion next year as the business returns toward pre-covid levels.,Q1,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive  
+
+Reason: The quoted sentence in the CFO’s remarks – “we estimate at least $0.50 of adjusted EPS accretion next year as the business returns toward pre-COVID levels” – explicitly states that management expects EPS to rise (accretion of at least $0.50). An increase in EPS represents an improving profitability outlook, hence a Positive stance. The information needed is contained directly in this line; the rest of the transcript is not required to determine the outlook.",Positive,"The sentence explicitly mentions EPS accretion of at least $0.50, indicating earnings improvement.",Positive,"The text highlights an estimate of ""at least $0.50 of adjusted eps accretion."" Accretion refers to an increase or gain in earnings per share, which indicates a favorable outlook for the company's future profitability.",,
+e0071814d49b0a179a1b2bbc2564e1a2,"one of the things that i see in the results and more importantly the guidance, you're now, colette, guiding over 67% gross margin potentially.",Q2,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence highlights management’s guidance for a gross margin above 67%.  
+   • Higher gross margins usually translate into stronger profitability and therefore higher earnings per share. (Guideline 4: financial indicators such as margin improvements signal EPS direction).  
+   • No negative or offsetting cues are present; the tone is clearly pointing to improved profitability.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The mention of “guiding over 67% gross margin” implies improved profitability, which supports a positive outlook for EPS.
+
+Context necessity: Not necessary – the sentence alone contains sufficient information to judge the stance.",Positive,"The text shows management expects a strong gross margin of over 67%, which is key for profitability.",Positive,The text highlights guidance for a gross margin over 67%.,,
+e1b2c7920a5ff18d090498880200249a,"i know you?re going to reserve your guidance for next month, but you did essentially get the price cost neutrality in the quarter, right, a little negative on margins, a little positive on eps.",Q4,2021,MMM,Positive,"Stance: Positive
+
+Reason:  In the passage the analyst confirms that price increases essentially offset cost inflation, resulting in “a little positive on EPS.”  This indicates the company was able to protect – and even slightly lift – earnings despite margin pressure, which is a constructive sign for EPS.  (See Q&A section where Jeff Sprague notes “…a little negative on margins, a little positive on EPS.”)",,,,,,
+e310182aa6278655936627a207267137,"q2 gaap eps was $0.94, up 276% from a year earlier.",Q2,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence explicitly mentions GAAP EPS, the target metric.  
+   • It reports EPS at $0.94 and states it is “up 276% from a year earlier,” an enormous year-over-year increase.  
+   • Per Guideline 4 (“changes over time—growth, decline”), a large increase in EPS directly signals improved profitability.  
+   • No conflicting cues are present, so the dominant context is clearly favorable.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   EPS rose 276% YoY to $0.94, indicating a sharp improvement in profitability—clearly a positive signal. (Context not necessary; the sentence alone provides all required information.)",Positive,"The text says that GAAP EPS has grown a lot compared to last year, increasing by 276%.",Positive,"The text reports that GAAP EPS was $0.94, which is a massive 276% increase from the previous year.",,
+e61e023406f6a67f2ad8dbaa481a0648,"we posted organic growth of 21% versus a 13% decline in last year's second quarter, along with earnings of $2.59 per share.",Q2,2021,MMM,Positive,"Stance: Positive
+
+Reason: The text highlights a sharp turnaround—organic growth of 21 % versus a 13 % decline a year ago—and reports earnings of $2.59 per share. This signals stronger profitability and an improving earnings trend, implying a favorable outlook for EPS. (The information needed is contained in the quoted sentence itself; the broader context was not necessary for this conclusion.)",,,,,,
+e6853e58c78a2b70db584f62fa2bc2ab,"q1 gaap eps was $3.03, up 106% from a year earlier.",Q1,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   - The sentence explicitly mentions EPS (“GAAP EPS”)—the target metric.  
+   - It reports a large year-over-year increase (“up 106% from a year earlier”), which is a clear indicator of improved profitability.  
+   - Per Guideline 4 (changes over time) and example cues (“rising EPS”), this is a positive signal.  
+   - No conflicting information is present, so the dominant context is favorable.  
+
+2. Stance: Positive  
+
+3. Brief Justification  
+   The sentence states that GAAP EPS rose 106% YoY to $3.03, directly signaling a strong profitability improvement.  
+
+Context necessity: Not necessary—the sentence alone provides enough information to determine the stance.",Positive,The report says GAAP EPS increased a lot compared to last year — it more than doubled (up 106%).,Positive,"The text reports that GAAP EPS was $3.03, representing a massive 106% increase from the previous year.",,
+e69befd2d436202ae932cd954a64fa67,we continued our portfolio shift towards growth markets with our largest acquisition to date and are more optimistic than ever about our prospects for sustainable long-term sales and earnings growth.,Q4,2021,SCHWEITZER-MAUDUIT,Positive,"Stance: Positive
+
+Reason: The sentence explicitly states that management is “more optimistic than ever about our prospects for sustainable long-term sales and earnings growth.” Since EPS (earnings per share) rises when earnings grow, this optimism implies an improving EPS outlook. The specific helpful section is the quoted line itself, which links the portfolio shift and recent acquisition to higher long-term earnings, signalling a positive view on future EPS.",Positive,"The sentence expresses optimism about long-term earnings growth, indicating a favorable outlook for EPS.",Positive,"The text highlights optimism for ""sustainable long-term... earnings growth."" An expectation of future earnings growth is a favorable outlook that directly supports a positive stance on EPS.",,
+e7c839ce88f5c0f1bcf8d7355222d1bc,adjusted earnings were $12.7 million compared to $15.9 million in last year's third quarter.,Q3,2021,NEENAH,Negative,"Stance: Negative
+
+Reason: The specific line, “adjusted earnings were $12.7 million compared to $15.9 million in last year's third quarter,” shows a year-over-year decline in adjusted earnings. Lower earnings almost certainly translate into lower earnings-per-share, signaling a negative outlook for EPS. (The broader transcript isn’t needed for this conclusion; the quoted sentence alone is sufficient.)",Negative,"Earnings declined year over year, indicating weaker profitability and negative EPS impact.",Negative,The text reports a decline in adjusted earnings to $12.7 million from $15.9 million in the previous year's third quarter. A year-over-year decrease in earnings indicates a negative trend in the company's profitability and EPS.,,
+e85e619a22833fd4785f861f00d00ba4,quarterly gaap earnings of $0.80 per share compared to a loss of $0.29 last year.,Q2,2019,NEENAH,Positive,"Stance: Positive  
+
+Reason: The context states, “Quarterly GAAP earnings of $0.80 per share compared to a loss of $0.29 last year.”  A swing from a negative EPS to a positive $0.80 represents a marked improvement in profitability, indicating a favorable outlook for EPS.",,,,,,
+ec287e5d254cbb2b045b98955110885a,"if you look into the foreseeable future or the several years future, advertising is such a high margin business that obviously it contributes much more to the bottom-line than any other fees we might charge.",Q2,2020,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence compares revenue sources and emphasizes that advertising is “such a high-margin business” and “contributes much more to the bottom-line.”  
+   • High margins and greater bottom-line contribution directly imply stronger profitability, which supports higher EPS.  
+   • No negative or offsetting information is presented; the tone is clearly favorable toward future earnings.  
+   • According to guideline 1 and 4 (profitability indicators and forward outlook), this signals a Positive stance for EPS.  
+   • The broader transcript is not required to interpret this specific sentence.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence highlights that advertising’s high margins will add “much more to the bottom-line,” indicating a beneficial impact on future EPS. (Context not necessary)",Positive,"The statement highlights that advertising, a high-margin business, contributes significantly to the bottom line, implying a positive effect on earnings and, by extension, EPS.",Positive,"The author describes advertising as a ""high margin business."" High margins are a direct driver of profitability and represent the efficiency with which a company converts revenue into earnings.",,
+eef1607f336454bdb3300ed9ecbd46e0,"we are i think still – we are focused on the goal that mark outlined, i think last quarter of delivering compounding earnings growth, while enabling aggressively in the future technology.",Q4,2022,META,Positive,"1. Chain-of-Thought Reasoning  
+   • The phrase “delivering compounding earnings growth” explicitly refers to growing earnings, which directly benefits EPS.  
+   • Management frames this as an ongoing core goal (“we are focused on the goal… of delivering”), indicating a favorable outlook for future profitability.  
+   • No qualifiers or caveats in the sentence undermine this goal; nothing negative is stated.  
+   • According to Guideline 4 (projections and forward guidance that support EPS), such statements signal a Positive stance.
+
+2. Stance: Positive
+
+3. Brief Justification: The sentence affirms management’s continued focus on “delivering compounding earnings growth,” implying an intention to improve EPS, hence a positive outlook. (Context not necessary)",Positive,"The statement reiterates a focus on delivering compounding earnings growth, even while investing in future technology, indicating an expected positive impact on EPS.",Positive,"The text explicitly mentions the goal of ""delivering compounding earnings growth."" The commitment to growth even while spending suggests a favorable outlook on the company’s underlying profitability.",,
+ef479080a88e2addc0f604e9fa274957,net income was $6.7 billion or $2.46 per share.,Q2,2022,META,Neutral,"1. Chain-of-Thought Reasoning  
+   - The sentence simply states the company’s net income and translates it into earnings per share (“$2.46 per share”).  
+   - There is no indication of change over time (increase or decrease vs. prior period), no comparison to guidance, no qualitative judgment, and no implication about future profitability.  
+   - According to Guideline 6, if EPS is merely reported without evaluative context, the stance is Neutral.  
+   - The broader transcript does not alter this interpretation; the sentence alone lacks any positive or negative signal.
+
+2. Stance: Neutral
+
+3. Brief Justification  
+   The sentence only reports that EPS was $2.46 with no indication whether this is better or worse than expectations or prior results, so it carries no clear positive or negative implication.
+
+Context usefulness: Not necessary (the sentence itself is sufficient for classification).",Neutral,"The statement provides net income and EPS figures without any context or trend, so it does not reveal whether EPS has improved or declined.",Neutral,"The text states the EPS was $2.46 per share, but gives no context—such as whether it increased or decreased, met expectations, or matched guidance.",,
+f1308e6f18ec4d4414fc841e7cebc271,adjusted earnings were $14 million compared to $21 million in last year's fourth quarter.,Q4,2021,NEENAH,Negative,"Stance: Negative
+
+Reason: The cited section states, “adjusted earnings were $14 million compared to $21 million in last year's fourth quarter.”  A year-over-year decline in adjusted earnings translates directly into a lower EPS (confirmed elsewhere in the transcript where adjusted EPS fell to $0.45 from $0.87). Falling earnings per share signal a worsening profitability outlook, so the stance on EPS is Negative. (No additional context beyond this passage was required to reach the conclusion.)",Negative,Lower adjusted earnings versus last year imply a decline in profitability and weaker EPS.,Negative,The text reports a decline in adjusted earnings to $14 million from $21 million in the same quarter of the previous year. A year-over-year decrease in earnings is a negative signal for the company's profitability and EPS.,,
+f1b5b2ce9d40087d4312e47b6f86632a,"but we would expect the traditional pattern that we have where the third quarter for ep would be relatively in line with what we just did in the second quarter, and then there's generally a drop-off in the fourth quarter, which is, if you kind of look historically, is the way we operate.",Q2,2020,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral  
+
+Reason: In the cited passage management says that Engineered Papers’ profit – and by extension consolidated EPS – should be “relatively in line” in Q3 with Q2 and then experience a “drop-off in the fourth quarter,” which they describe as the normal seasonal pattern. They are not guiding to a material improvement (Positive) or a materially worse-than-normal decline (Negative); they are simply reaffirming the usual seasonal trajectory. Hence the outlook for EPS is Neutral.
+
+(The rest of the transcript is not necessary for this specific classification; the quoted section alone provides the guidance.)",,,,,,
+f3271cf2f388ab73d92d7cec1bfaaf51,"adjusted earnings this year excluded unusual costs of $3.5 million or $0.15 per share, while there were no adjusting items last year.",Q1,2020,NEENAH,Negative,"Stance: Negative
+
+Reason: The text notes that this year’s EPS absorbs $3.5 million, or $0.15 per share, of unusual costs, whereas last year had no such charges. The presence of additional costs that lower GAAP earnings per share represents a headwind to profitability, giving a negative implication for EPS. (The information is contained directly in the quoted sentence; the broader transcript was not needed for this specific judgment.)",,,,,,
+f86af9962d73bc7f819cedfb3f8a683d,net income was $4.7 billion or $1.76 per share.,Q4,2022,META,Neutral,"1. Chain-of-Thought  
+   • The sentence simply states the absolute EPS figure (“$1.76 per share”) with no comparison to prior periods, no indication of growth or decline, and no evaluative language.  
+   • Guideline #6 says if EPS is mentioned but without clear positive/negative cues, choose Neutral.  
+   • Therefore, the information neither supports nor hurts profitability outlook; it is just factual.
+
+2. Stance: Neutral  
+
+3. Brief Justification: The sentence only reports the EPS value ($1.76) without describing any change or implication, so it offers no positive or negative signal about profitability.  
+
+Context necessity: Not necessary—the stance can be determined from the sentence alone.",Neutral,"Net income and EPS are stated flat, without reference to prior periods or expectations, so no conclusion about EPS movement can be drawn.",Neutral,"The text explicitly mentions the EPS ($1.76 per share), but it is a purely factual statement. It does not provide a comparison to previous years (YoY), does not mention if it beat or missed expectations, and does not use descriptive language to indicate growth or decline.",,
+fac9ce777f09a11ee425be72bbede293,"third quarter earnings per share were $2.45, which was similar to last year.",Q3,2021,MMM,Neutral,"Stance: Neutral
+
+Reason: The cited sentence states, “third-quarter earnings per share were $2.45, which was similar to last year.”  Because EPS showed little or no change versus the prior year, there is neither an improvement (positive) nor a decline (negative).  Therefore, from a profitability perspective the outlook conveyed is neutral.  (Source: CFO remarks, Slide 6 section in the transcript.)",,,,,,
+fae4c90eab8b6a98f51b0c7e1474ece6,acquisitions and divestitures reduced second quarter earnings by $0.07 per share versus last year primarily due to the acelity acquisition.,Q2,2020,MMM,Negative,"Stance: Negative
+
+Reason: The text states that “acquisitions and divestitures reduced second quarter earnings by $0.07 per share versus last year primarily due to the Acelity acquisition.”  A reduction in earnings per share is an unfavorable development for profitability, so the outlook for EPS is negative. (The broader transcript is not necessary for this conclusion; the cited sentence alone indicates the negative impact.)",,,,,,
+fb7606b913f7f5780fc2eae05c42d18c,"our incremental revenue, for example, what we're expecting next quarter will likely align to our current gross margin levels that we finished in terms of q3.",Q3,2022,NVDA,Positive,"1. Chain-of-Thought Reasoning  
+   • The sentence provides forward guidance: “what we’re expecting next quarter.”  
+   • It states there will be “incremental revenue,” i.e., higher sales versus Q3.  
+   • It also says that this added revenue will “align to our current gross-margin levels,” meaning margins will not deteriorate.  
+   • Higher revenue with stable margins implies higher gross profit, which is a direct driver of EPS growth (Guideline 4: projections / forward guidance on financial indicators).  
+   • No conflicting cues are present, so the dominant message is favorable for future profitability.
+
+2. Stance: Positive
+
+3. Brief Justification  
+   The company expects additional revenue next quarter while maintaining current gross margins, signaling higher profits and a supportive outlook for EPS.
+
+Context necessity: Not necessary – the single sentence alone contains the growth and margin information needed for classification.",Neutral,"The author means that additional revenue will have about the same profit margin as current sales, so margins are expected to stay steady.",Positive,"Even though “EPS” isn’t mentioned, the text explains what drives earnings. It expects revenue to grow while margins stay steady — a combination that usually increases net income and EPS.",,
+fde9be8010f92f60c428c275bafef667,so i don?t think you?re going to see a big bump but the third quarter and fourth quarter remain to be seen.,Q1,2020,SCHWEITZER-MAUDUIT,Neutral,"Stance: Neutral
+
+Reason: In the cited passage management says, “so I don’t think you’re going to see a big bump but the third quarter and fourth quarter remain to be seen.”  They simply indicate they do not expect a sizeable uptick in the coming quarters and express uncertainty about Q3–Q4.  They neither forecast a decline nor an improvement in earnings; therefore the commentary does not point clearly toward higher or lower EPS, making the outlook neutral.",,,,,,
