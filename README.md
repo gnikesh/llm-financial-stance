@@ -52,10 +52,11 @@ python src/1_zero-shot-experiment.py \
 If you use this repository, please cite:
 
 ```bibtex
-@article{gyawali2025evaluating,
-  title={Evaluating Large Language Models for Stance Detection on Financial Targets from SEC Filing Reports and Earnings Call Transcripts},
+@article{gyawali2026benchmarking,
+  title={Benchmarking large language models for target-specific financial stance detection in 10-K MD\&A sections and earnings call transcripts},
   author={Gyawali, Nikesh and Caragea, Doina and Vasenkov, Alex and Caragea, Cornelia},
-  journal={arXiv preprint arXiv:2510.23464},
-  year={2025}
+  journal={Scientific Reports},
+  year={2026},
+  publisher={Nature Publishing Group}
 }
 ```
