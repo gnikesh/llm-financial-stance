@@ -57,6 +57,7 @@ If you use this repository, please cite:
   author={Gyawali, Nikesh and Caragea, Doina and Vasenkov, Alex and Caragea, Cornelia},
   journal={Scientific Reports},
   year={2026},
+  doi={10.1038/s41598-026-67608-5},
   publisher={Nature Publishing Group}
 }
 ```
